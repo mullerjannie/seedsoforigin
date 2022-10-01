@@ -1096,3 +1096,1104 @@ Make sure 'GS_singlePlayer_C' has been compiled for  Get Seasonfromsequence
 [2022.10.01-19.22.32:540][332]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer180C01F24B978C0E1A4EF58BCBBADF42.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
 [2022.10.01-19.22.32:557][332]AssetCheck: New page: Asset Save: GS_singlePlayer
 [2022.10.01-19.22.32:557][332]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.01-19.52.01:952][  3]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.779 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.01-19.55.15:501][655]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-19.55.27:600][851]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-19.55.32:692][315]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-19.56.08:057][151]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-19.56.09:057][254]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.01-19.56.09:235][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.01-19.56.16:399][871]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-19.56.51:556][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.01-19.56.51:557][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.039
+[2022.10.01-19.56.51:558][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GS_singlePlayer] ([2] browsable assets)...
+[2022.10.01-19.56.51:558][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/GS_singlePlayer]
+[2022.10.01-19.56.51:748][929]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GS_singlePlayer_Auto1
+[2022.10.01-19.56.51:750][929]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer_Auto14F8EA667412C90581E7DA190EA673EEC.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GS_singlePlayer_Auto1.uasset'
+[2022.10.01-19.56.51:754][929]LogFileHelpers: Auto-saving content packages took 0.197
+[2022.10.01-19.57.14:618][500]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.01-19.57.14:788][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.01-19.57.23:179][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.01-19.57.23:196][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.01-19.57.23:196][456]BlueprintLog: Warning: Blueprint failed to compile:  GI_instance
+[2022.10.01-19.57.23:196][456]LogCustomDialog: Dialog displayed:
+[2022.10.01-19.57.25:103][456]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.10.01-19.57.35:025][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.01-19.57.35:061][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GS_singlePlayer" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset" SILENT=true
+[2022.10.01-19.57.35:250][615]LogSavePackage: Moving output files for package: /Game/GS_singlePlayer
+[2022.10.01-19.57.35:253][615]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayerCA7B4DC84C2EBE16CC7C56BB7E081611.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
+[2022.10.01-19.57.35:269][615]AssetCheck: New page: Asset Save: GS_singlePlayer
+[2022.10.01-19.57.35:269][615]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.01-19.57.36:693][777]BlueprintLog: New page: Compile GI_instance
+[2022.10.01-19.57.36:733][777]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Seasonfromsequence . Please refresh node or break links to remove pin.
+[2022.10.01-19.57.36:733][777]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] In use pin  Seasonname  no longer exists on node  Get Seasonfromsequence . Please refresh node or break links to remove pin.
+[2022.10.01-19.57.36:733][777]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] Could not find a function named "get_seasonfromsequence" in 'GS_singlePlayer_C'.
+Make sure 'GS_singlePlayer_C' has been compiled for  Get Seasonfromsequence
+[2022.10.01-19.57.36:807][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.01-19.58.59:218][403]BlueprintLog: New page: Compile GI_instance
+[2022.10.01-19.58.59:324][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.01-19.59.00:696][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.01-19.59.00:751][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.01-19.59.00:813][554]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.01-19.59.00:814][554]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instanceA88CC7E948BD30C6F162D8963E43623C.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.01-19.59.00:833][554]AssetCheck: New page: Asset Save: GI_instance
+[2022.10.01-19.59.00:833][554]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.10.01-19.59.02:388][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.01-19.59.02:401][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.01-19.59.02:401][738]PIE: New page: PIE session: LV_islandMap (2/10/2022, 9:59:02 pm)
+[2022.10.01-19.59.02:411][738]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.01-19.59.02:411][738]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.01-19.59.02:413][738]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.02:418][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005921s)
+[2022.10.01-19.59.02:418][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006001s)
+[2022.10.01-19.59.02:418][738]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.59.02:419][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.59.02:419][738]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-19.59.02:419][738]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2022.10.01-19.59.02:452][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.01-19.59.02:455][738]LogBlueprintUserMessages: [GI_instance_C_0] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.01-19.59.02:455][738]LogBlueprintUserMessages: [GI_instance_C_0] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.01-19.59.02:455][738]LogBlueprintUserMessages: [GI_instance_C_0] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.01-19.59.02:455][738]LogBlueprintUserMessages: [GI_instance_C_0] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.01-19.59.02:457][738]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.01-19.59.02:457][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.01-19.59.02:457][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.01-19.59.02:457][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.01-19.59.02:457][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.01-19.59.02:457][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.01-19.59.02:457][738]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.01-19.59.02:457][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.01-19.59.02:457][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.01-19.59.02:458][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.01-19.59.02:458][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.01-19.59.02:458][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.01-19.59.02:459][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.01-19.59.02:477][738]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.01-19.59.02:477][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.01-19.59.02:477][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.01-19.59.02:477][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.01-19.59.02:478][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.01-19.59.02:478][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.01-19.59.02:479][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.01-19.59.02:479][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.01-19.59.02:479][738]LogInit: FAudioDevice initialized.
+[2022.10.01-19.59.02:479][738]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_islandMap'.
+[2022.10.01-19.59.02:538][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.01-19.59.02:539][738]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-19.59.02:540][738]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-08.59.02
+[2022.10.01-19.59.02:541][738]LogWorld: Bringing up level for play took: 0.001755
+[2022.10.01-19.59.02:543][738]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.10.01-19.59.02:546][738]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-19.59.02:559][738]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-19.59.02:579][738]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.02:579][738]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.02:579][738]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.02:614][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:614][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:615][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:615][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:615][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:615][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:616][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:616][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:616][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:617][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:617][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:617][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:618][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:618][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:618][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:619][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:619][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:619][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:621][738]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=25005.341 Y=42670.980 Z=-13300.730] for [BP_Island_C]
+[2022.10.01-19.59.02:621][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:621][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:621][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:622][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:622][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:622][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:622][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:623][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:623][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:623][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:624][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:624][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:624][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:625][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:625][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:625][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:625][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:626][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:626][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:626][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:626][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:627][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:627][738]LogBlueprintUserMessages: [GS_singlePlayer_C_0] first run set GI
+[2022.10.01-19.59.02:627][738]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-19.59.02:627][738]LogBlueprintUserMessages: [GI_instance_C_0] get day for sequence1legnth of day structure array7
+[2022.10.01-19.59.02:628][738]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter2dayspermonth3.0returnfalse
+[2022.10.01-19.59.02:628][738]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-19.59.02:628][738]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-19.59.02:631][738]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.02:632][738]PIE: Server logged in
+[2022.10.01-19.59.02:633][738]PIE: Play in editor total start time 0.232 seconds.
+[2022.10.01-19.59.02:636][738]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.02:636][738]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.02:636][738]LogNet: Browse: /Game/Levels/LV_islandMap
+[2022.10.01-19.59.02:637][738]LogLoad: LoadMap: /Game/Levels/LV_islandMap
+[2022.10.01-19.59.02:637][738]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.02:640][738]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-19.59.02:640][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.59.02:674][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-19.59.02:679][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.01-19.59.02:682][738]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.02:686][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004343s)
+[2022.10.01-19.59.02:686][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004414s)
+[2022.10.01-19.59.02:686][738]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_islandMap'.
+[2022.10.01-19.59.02:686][738]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.59.02:686][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.59.02:686][738]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-19.59.02:687][738]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2022.10.01-19.59.02:687][738]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-19.59.02:687][738]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-08.59.02
+[2022.10.01-19.59.02:688][738]LogWorld: Bringing up level for play took: 0.000709
+[2022.10.01-19.59.02:688][738]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-19.59.02:688][738]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-19.59.02:688][738]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.02:688][738]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.02:688][738]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.02:689][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:690][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:690][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:690][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:690][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:690][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:692][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:692][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:692][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:692][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:693][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:693][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:693][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:693][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:694][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:694][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:694][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:694][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:695][738]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=25005.341 Y=42670.980 Z=-13300.730] for [BP_Island_C]
+[2022.10.01-19.59.02:695][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:695][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:695][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:696][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:696][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:696][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:697][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:697][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:697][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:698][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:698][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:698][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:698][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:699][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:699][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:699][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:699][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:700][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:700][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:700][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:700][738]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.02:700][738]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.02:700][738]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-19.59.02:700][738]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-19.59.02:702][738]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.02:702][738]LogLoad: Took 0.065038 seconds to LoadMap(/Game/Levels/UEDPIE_0_LV_islandMap)
+[2022.10.01-19.59.02:729][738]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.01-19.59.04:375][847]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.06:478][ 71]LogBlueprintUserMessages: [PC_default_C_0] LV_islandMap
+[2022.10.01-19.59.06:487][ 72]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.06:487][ 72]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.06:487][ 72]LogNet: Browse: /Game/Levels/LV_houseMap
+[2022.10.01-19.59.06:487][ 72]LogLoad: LoadMap: /Game/Levels/LV_houseMap
+[2022.10.01-19.59.06:487][ 72]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.06:495][ 72]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-19.59.06:495][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.59.06:571][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-19.59.06:594][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.01-19.59.06:610][ 72]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_houseMap'.
+[2022.10.01-19.59.06:610][ 72]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.59.06:610][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.59.06:610][ 72]LogAIModule: Creating AISystem for world LV_houseMap
+[2022.10.01-19.59.06:610][ 72]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2022.10.01-19.59.06:610][ 72]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-19.59.06:614][ 72]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_houseMap.LV_houseMap up for play (max tick rate 0) at 2022.10.02-08.59.06
+[2022.10.01-19.59.06:615][ 72]LogWorld: Bringing up level for play took: 0.003021
+[2022.10.01-19.59.06:616][ 72]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-19.59.06:616][ 72]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.06:616][ 72]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.06:616][ 72]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.06:618][ 72]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-19.59.06:618][ 72]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-19.59.06:618][ 72]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.06:618][ 72]LogLoad: Took 0.131536 seconds to LoadMap(/Game/Levels/LV_houseMap)
+[2022.10.01-19.59.07:624][173]LogBlueprintUserMessages: [PC_default_C_0] LV_houseMap
+[2022.10.01-19.59.07:633][174]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.07:633][174]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.07:634][174]LogNet: Browse: /Game/Levels/LV_islandMap
+[2022.10.01-19.59.07:634][174]LogLoad: LoadMap: /Game/Levels/LV_islandMap
+[2022.10.01-19.59.07:634][174]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_houseMap
+[2022.10.01-19.59.07:634][174]LogWorld: UWorld::CleanupWorld for LV_houseMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-19.59.07:634][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.59.07:697][174]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-19.59.07:706][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.01-19.59.07:710][174]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.07:714][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004579s)
+[2022.10.01-19.59.07:714][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004653s)
+[2022.10.01-19.59.07:714][174]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_islandMap'.
+[2022.10.01-19.59.07:714][174]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.59.07:714][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.59.07:715][174]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-19.59.07:715][174]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2022.10.01-19.59.07:715][174]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-19.59.07:715][174]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-08.59.07
+[2022.10.01-19.59.07:715][174]LogWorld: Bringing up level for play took: 0.000325
+[2022.10.01-19.59.07:716][174]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-19.59.07:716][174]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-19.59.07:716][174]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.07:716][174]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.07:716][174]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.07:717][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:718][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:718][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:718][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:718][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:719][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:719][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:719][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:719][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:720][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:720][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:720][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:720][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:721][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:721][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:721][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:722][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:722][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:722][174]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=25005.341 Y=42670.980 Z=-13300.730] for [BP_Island_C]
+[2022.10.01-19.59.07:723][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:723][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:723][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:723][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:724][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:724][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:724][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:724][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:724][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:725][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:725][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:725][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:726][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:726][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:726][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:726][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:727][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:727][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:727][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:728][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:728][174]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.07:728][174]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.07:728][174]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-19.59.07:728][174]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-19.59.07:729][174]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.07:729][174]LogLoad: Took 0.095431 seconds to LoadMap(/Game/Levels/UEDPIE_0_LV_islandMap)
+[2022.10.01-19.59.08:963][301]LogBlueprintUserMessages: [PC_default_C_0] LV_islandMap
+[2022.10.01-19.59.08:973][302]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.08:973][302]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.08:973][302]LogNet: Browse: /Game/Levels/LV_houseMap
+[2022.10.01-19.59.08:973][302]LogLoad: LoadMap: /Game/Levels/LV_houseMap
+[2022.10.01-19.59.08:973][302]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.08:974][302]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-19.59.08:974][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.59.09:037][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-19.59.09:040][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.01-19.59.09:045][302]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_houseMap'.
+[2022.10.01-19.59.09:045][302]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.59.09:045][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.59.09:045][302]LogAIModule: Creating AISystem for world LV_houseMap
+[2022.10.01-19.59.09:045][302]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2022.10.01-19.59.09:045][302]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-19.59.09:048][302]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_houseMap.LV_houseMap up for play (max tick rate 0) at 2022.10.02-08.59.09
+[2022.10.01-19.59.09:048][302]LogWorld: Bringing up level for play took: 0.002626
+[2022.10.01-19.59.09:049][302]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-19.59.09:049][302]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.09:049][302]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.09:049][302]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.09:050][302]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-19.59.09:050][302]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-19.59.09:051][302]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.09:051][302]LogLoad: Took 0.077881 seconds to LoadMap(/Game/Levels/LV_houseMap)
+[2022.10.01-19.59.09:992][401]LogBlueprintUserMessages: [PC_default_C_0] LV_houseMap
+[2022.10.01-19.59.10:002][402]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.10:002][402]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.10:002][402]LogNet: Browse: /Game/Levels/LV_islandMap
+[2022.10.01-19.59.10:002][402]LogLoad: LoadMap: /Game/Levels/LV_islandMap
+[2022.10.01-19.59.10:002][402]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_houseMap
+[2022.10.01-19.59.10:004][402]LogWorld: UWorld::CleanupWorld for LV_houseMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-19.59.10:004][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.59.10:067][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-19.59.10:069][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.01-19.59.10:070][402]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.10:075][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004215s)
+[2022.10.01-19.59.10:075][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004275s)
+[2022.10.01-19.59.10:075][402]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_islandMap'.
+[2022.10.01-19.59.10:075][402]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.59.10:075][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.59.10:075][402]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-19.59.10:076][402]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2022.10.01-19.59.10:076][402]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-19.59.10:076][402]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-08.59.10
+[2022.10.01-19.59.10:076][402]LogWorld: Bringing up level for play took: 0.000325
+[2022.10.01-19.59.10:076][402]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-19.59.10:077][402]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-19.59.10:077][402]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.10:077][402]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.10:077][402]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.10:078][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:078][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:078][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:079][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:079][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:079][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:080][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:080][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:080][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:081][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:081][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:081][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:082][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:082][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:082][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:082][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:083][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:083][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:083][402]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=25005.341 Y=42670.980 Z=-13300.730] for [BP_Island_C]
+[2022.10.01-19.59.10:083][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:083][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:084][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:084][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:084][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:085][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:085][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:085][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:085][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:086][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:086][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:086][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:086][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:087][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:087][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:087][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:087][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:088][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:088][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:088][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:089][402]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.10:089][402]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.10:089][402]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-19.59.10:089][402]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-19.59.10:090][402]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.10:090][402]LogLoad: Took 0.087507 seconds to LoadMap(/Game/Levels/UEDPIE_0_LV_islandMap)
+[2022.10.01-19.59.10:642][458]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.01-19.59.11:947][600]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.13:732][797]LogBlueprintUserMessages: [PC_default_C_0] Pause
+[2022.10.01-19.59.14:290][856]LogBlueprintUserMessages: [PC_default_C_0] Run
+[2022.10.01-19.59.14:290][856]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-19.59.14:290][856]LogBlueprintUserMessages: [GI_instance_C_0] get day for sequence1legnth of day structure array7
+[2022.10.01-19.59.14:290][856]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter2dayspermonth3.0returnfalse
+[2022.10.01-19.59.14:290][856]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-19.59.16:906][136]LogBlueprintUserMessages: [BP_MenuAtLocation_C_5] PC_default_C_0
+[2022.10.01-19.59.17:138][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'plantcataloguev2' of length 0 in '/Game/GS_singlePlayer.GS_singlePlayer_C'!
+[2022.10.01-19.59.17:372][185]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.01-19.59.18:676][328]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Plant: First growth event
+[2022.10.01-19.59.18:676][328]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence1processplantgrowPhaseEventCounter1processplantgrowGrowthEventCounter1Shrubs
+[2022.10.01-19.59.18:676][328]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-6.0preferred-17.0min-4.0max-9.0
+[2022.10.01-19.59.18:676][328]LogBlueprintUserMessages: [GS_singlePlayer_C_0] sow bonus
+[2022.10.01-19.59.19:180][383]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlantLifeCycles' of length 0 in '/Game/GS_singlePlayer.GS_singlePlayer_C'!
+[2022.10.01-19.59.19:180][383]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence1processplantgrowPhaseEventCounter1processplantgrowGrowthEventCounter1Shrubs
+[2022.10.01-19.59.19:180][383]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-6.0preferred-17.0min-4.0max-9.0
+[2022.10.01-19.59.19:180][383]LogBlueprintUserMessages: [GS_singlePlayer_C_0] sow bonus
+[2022.10.01-19.59.22:753][778]LogBlueprintUserMessages: [PC_default_C_0] LV_islandMap
+[2022.10.01-19.59.22:760][779]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.22:760][779]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.22:760][779]LogNet: Browse: /Game/Levels/LV_houseMap
+[2022.10.01-19.59.22:760][779]LogLoad: LoadMap: /Game/Levels/LV_houseMap
+[2022.10.01-19.59.22:760][779]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.22:762][779]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-19.59.22:762][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.59.22:819][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-19.59.22:823][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.01-19.59.22:827][779]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_houseMap'.
+[2022.10.01-19.59.22:827][779]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.59.22:827][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.59.22:828][779]LogAIModule: Creating AISystem for world LV_houseMap
+[2022.10.01-19.59.22:828][779]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2022.10.01-19.59.22:828][779]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-19.59.22:830][779]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_houseMap.LV_houseMap up for play (max tick rate 0) at 2022.10.02-08.59.22
+[2022.10.01-19.59.22:831][779]LogWorld: Bringing up level for play took: 0.002573
+[2022.10.01-19.59.22:831][779]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-19.59.22:831][779]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.22:831][779]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.22:831][779]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.22:833][779]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-19.59.22:833][779]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-19.59.22:834][779]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.22:834][779]LogLoad: Took 0.072878 seconds to LoadMap(/Game/Levels/LV_houseMap)
+[2022.10.01-19.59.23:285][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-19.59.23:285][828]LogBlueprintUserMessages: [GI_instance_C_0] get day for sequence1legnth of day structure array7
+[2022.10.01-19.59.23:285][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter2dayspermonth3.0returnfalse
+[2022.10.01-19.59.23:286][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-19.59.23:774][882]LogBlueprintUserMessages: [PC_default_C_0] LV_houseMap
+[2022.10.01-19.59.23:783][883]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.23:783][883]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-19.59.23:783][883]LogNet: Browse: /Game/Levels/LV_islandMap
+[2022.10.01-19.59.23:783][883]LogLoad: LoadMap: /Game/Levels/LV_islandMap
+[2022.10.01-19.59.23:783][883]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_houseMap
+[2022.10.01-19.59.23:783][883]LogWorld: UWorld::CleanupWorld for LV_houseMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-19.59.23:784][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-19.59.23:859][883]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-19.59.23:861][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.01-19.59.23:863][883]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-19.59.23:867][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004254s)
+[2022.10.01-19.59.23:867][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004313s)
+[2022.10.01-19.59.23:867][883]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_islandMap'.
+[2022.10.01-19.59.23:868][883]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-19.59.23:868][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-19.59.23:868][883]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-19.59.23:868][883]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2022.10.01-19.59.23:868][883]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-19.59.23:868][883]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-08.59.23
+[2022.10.01-19.59.23:869][883]LogWorld: Bringing up level for play took: 0.000324
+[2022.10.01-19.59.23:869][883]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-19.59.23:869][883]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-19.59.23:869][883]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.23:869][883]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-19.59.23:869][883]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.23:870][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:871][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:871][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:871][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:872][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:872][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:873][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:873][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:873][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:873][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:873][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:874][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:874][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:874][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:874][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:875][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:875][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:875][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:875][883]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=25005.341 Y=42670.980 Z=-13300.730] for [BP_Island_C]
+[2022.10.01-19.59.23:876][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:876][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:876][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:877][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:877][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:877][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:877][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:878][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:878][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:878][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:878][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:879][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:879][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:879][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:880][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:880][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:880][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:880][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:881][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:881][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:881][883]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-19.59.23:881][883]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-19.59.23:882][883]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-19.59.23:882][883]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-19.59.23:883][883]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-19.59.23:883][883]LogLoad: Took 0.099865 seconds to LoadMap(/Game/Levels/UEDPIE_0_LV_islandMap)
+[2022.10.01-19.59.24:397][937]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.01-19.59.25:077][ 11]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.27:040][226]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.28:391][372]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.01-19.59.29:138][453]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.32:599][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-19.59.32:599][828]LogBlueprintUserMessages: [GI_instance_C_0] get day for sequence1legnth of day structure array7
+[2022.10.01-19.59.32:599][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter2dayspermonth3.0returnfalse
+[2022.10.01-19.59.32:599][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-19.59.32:984][870]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.35:215][112]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.37:902][405]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.40:536][693]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.41:780][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-19.59.41:780][828]LogBlueprintUserMessages: [GI_instance_C_0] get day for sequence2legnth of day structure array7
+[2022.10.01-19.59.41:780][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Month: Fetch new month for current index
+[2022.10.01-19.59.41:780][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-19.59.43:105][972]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.44:458][119]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.45:547][236]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.47:518][448]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.50:593][783]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.51:011][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-19.59.51:011][828]LogBlueprintUserMessages: [GI_instance_C_0] get day for sequence3legnth of day structure array7
+[2022.10.01-19.59.51:011][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter4dayspermonth3.0returnfalse
+[2022.10.01-19.59.51:011][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-19.59.53:645][113]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.55:972][365]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.57:709][551]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-19.59.59:227][714]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-20.00.00:230][821]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.01-20.00.00:292][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.00.00:292][828]LogBlueprintUserMessages: [GI_instance_C_0] get day for sequence4legnth of day structure array7
+[2022.10.01-20.00.00:292][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter5dayspermonth3.0returnfalse
+[2022.10.01-20.00.00:292][828]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-20.00.01:849][997]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-20.00.02:723][ 92]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-20.00.06:456][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.01-20.00.06:456][493]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.00.06:457][493]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.01-20.00.06:462][493]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-20.00.06:463][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-20.00.06:474][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.01-20.00.06:480][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-20.00.06:520][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-20.00.06:523][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.01-20.00.06:525][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.01-20.00.06:532][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.01-20.00.06:556][494]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.10.01-20.00.43:442][543]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-20.01.03:877][919]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.01-20.01.04:061][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.01-20.01.55:525][960]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.01-20.01.55:714][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.01-20.01.57:645][178]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.01-20.01.57:655][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.01-20.01.57:655][178]PIE: New page: PIE session: LV_islandMap (2/10/2022, 10:01:57 pm)
+[2022.10.01-20.01.57:655][178]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.01.57:659][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004208s)
+[2022.10.01-20.01.57:659][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004258s)
+[2022.10.01-20.01.57:659][178]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-20.01.57:659][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-20.01.57:660][178]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-20.01.57:660][178]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2022.10.01-20.01.57:701][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.01-20.01.57:703][178]LogBlueprintUserMessages: [GI_instance_C_1] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.01-20.01.57:703][178]LogBlueprintUserMessages: [GI_instance_C_1] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.01-20.01.57:703][178]LogBlueprintUserMessages: [GI_instance_C_1] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.01-20.01.57:703][178]LogBlueprintUserMessages: [GI_instance_C_1] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.01-20.01.57:703][178]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.01-20.01.57:703][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.01-20.01.57:703][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.01-20.01.57:703][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.01-20.01.57:703][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.01-20.01.57:703][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.01-20.01.57:703][178]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.01-20.01.57:703][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.01-20.01.57:703][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.01-20.01.57:704][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.01-20.01.57:704][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.01-20.01.57:704][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.01-20.01.57:705][178]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.01-20.01.57:721][178]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.01-20.01.57:721][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.01-20.01.57:721][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.01-20.01.57:721][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.01-20.01.57:723][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.01-20.01.57:723][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.01-20.01.57:723][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.01-20.01.57:723][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.01-20.01.57:723][178]LogInit: FAudioDevice initialized.
+[2022.10.01-20.01.57:723][178]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV_islandMap'.
+[2022.10.01-20.01.57:771][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.01-20.01.57:772][178]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-20.01.57:773][178]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-09.01.57
+[2022.10.01-20.01.57:773][178]LogWorld: Bringing up level for play took: 0.000807
+[2022.10.01-20.01.57:775][178]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.10.01-20.01.57:775][178]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-20.01.57:775][178]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-20.01.57:775][178]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-20.01.57:775][178]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-20.01.57:775][178]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-20.01.57:778][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:778][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:779][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:779][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:779][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:780][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:780][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:781][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:781][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:782][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:783][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:783][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:783][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:784][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:784][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:785][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:785][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:786][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:786][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:787][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:787][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:787][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:788][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:788][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:789][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:789][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:789][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:790][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:790][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:791][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:791][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:792][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:792][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:793][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:793][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:793][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:794][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:794][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:795][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:795][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:796][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:796][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GI_instance_C_1] Main: Loading Plant Food Profile Data Table
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GI_instance_C_1] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GI_instance_C_1] Main: Loading Plant Growth preference from Data Table
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GI_instance_C_1] Main: Loading Plant Catalogue from Data Table
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GI_instance_C_1] Main: Load Plant Quality Reference Data Table
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GI_instance_C_1] Main: Load Quantity Reference Data Table
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GS_singlePlayer_C_0] first run set GI
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GI_instance_C_1] get day for sequence1legnth of day structure array7
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter2dayspermonth3.0returnfalse
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-20.01.57:797][178]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-20.01.57:798][178]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-20.01.57:800][178]PIE: Server logged in
+[2022.10.01-20.01.57:802][178]PIE: Play in editor total start time 0.147 seconds.
+[2022.10.01-20.01.57:803][178]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-20.01.57:803][178]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-20.01.57:803][178]LogNet: Browse: /Game/Levels/LV_islandMap
+[2022.10.01-20.01.57:803][178]LogLoad: LoadMap: /Game/Levels/LV_islandMap
+[2022.10.01-20.01.57:803][178]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.01.57:803][178]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-20.01.57:804][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-20.01.57:845][178]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-20.01.57:848][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.01-20.01.57:850][178]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.01.57:854][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004389s)
+[2022.10.01-20.01.57:854][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004461s)
+[2022.10.01-20.01.57:854][178]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV_islandMap'.
+[2022.10.01-20.01.57:854][178]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-20.01.57:854][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-20.01.57:854][178]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-20.01.57:854][178]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2022.10.01-20.01.57:854][178]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-20.01.57:854][178]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-09.01.57
+[2022.10.01-20.01.57:854][178]LogWorld: Bringing up level for play took: 0.000320
+[2022.10.01-20.01.57:856][178]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-20.01.57:856][178]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-20.01.57:856][178]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-20.01.57:856][178]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-20.01.57:856][178]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-20.01.57:857][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:857][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:858][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:858][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:858][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:858][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:859][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:859][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:859][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:860][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:860][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:860][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:860][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:861][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:861][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:861][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:861][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:861][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:862][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:862][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:862][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:863][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:863][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:864][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:864][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:864][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:864][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:865][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:865][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:866][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:866][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:866][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:867][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:867][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:867][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:868][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:868][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:868][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:869][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:869][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:869][178]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.01.57:869][178]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.01.57:869][178]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-20.01.57:869][178]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-20.01.57:870][178]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-20.01.57:870][178]LogLoad: Took 0.066837 seconds to LoadMap(/Game/Levels/UEDPIE_0_LV_islandMap)
+[2022.10.01-20.01.57:877][178]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.01-20.02.00:537][428]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-20.02.03:253][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.01-20.02.03:253][706]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.02.03:253][706]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.01-20.02.03:258][706]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-20.02.03:259][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-20.02.03:269][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.01-20.02.03:274][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-20.02.03:320][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-20.02.03:320][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.01-20.02.03:321][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.01-20.02.03:327][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.01-20.02.03:351][707]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.01-20.03.55:600][736]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.01-20.03.55:790][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.01-20.05.50:519][765]LogSlate: Window 'Delete Function' being destroyed
+[2022.10.01-20.08.20:652][776]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-20.08.27:625][433]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-20.08.29:722][538]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-20.08.31:914][653]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-20.08.36:022][791]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-20.08.45:076][710]LogSlate: Window 'Delete Variable' being destroyed
+[2022.10.01-20.08.58:150][238]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.01-20.08.58:338][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.01-20.09.04:723][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.01-20.09.04:786][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GS_singlePlayer" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset" SILENT=true
+[2022.10.01-20.09.04:943][974]LogSavePackage: Moving output files for package: /Game/GS_singlePlayer
+[2022.10.01-20.09.04:947][974]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer82ECFF164E822500B25863B6B6E17DAF.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
+[2022.10.01-20.09.04:963][974]AssetCheck: New page: Asset Save: GS_singlePlayer
+[2022.10.01-20.09.04:963][974]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.01-20.09.07:830][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.01-20.09.07:841][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.01-20.09.07:841][312]PIE: New page: PIE session: LV_islandMap (2/10/2022, 10:09:07 pm)
+[2022.10.01-20.09.07:841][312]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.09.07:846][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004800s)
+[2022.10.01-20.09.07:846][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004857s)
+[2022.10.01-20.09.07:846][312]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-20.09.07:846][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-20.09.07:846][312]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-20.09.07:846][312]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2022.10.01-20.09.07:885][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.01-20.09.07:887][312]LogBlueprintUserMessages: [GI_instance_C_2] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.01-20.09.07:887][312]LogBlueprintUserMessages: [GI_instance_C_2] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.01-20.09.07:887][312]LogBlueprintUserMessages: [GI_instance_C_2] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.01-20.09.07:887][312]LogBlueprintUserMessages: [GI_instance_C_2] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.01-20.09.07:887][312]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.01-20.09.07:887][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.01-20.09.07:887][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.01-20.09.07:887][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.01-20.09.07:887][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.01-20.09.07:887][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.01-20.09.07:887][312]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.01-20.09.07:887][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.01-20.09.07:887][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.01-20.09.07:887][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.01-20.09.07:887][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.01-20.09.07:887][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.01-20.09.07:889][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.01-20.09.07:907][312]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.01-20.09.07:907][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.01-20.09.07:907][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.01-20.09.07:907][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.01-20.09.07:908][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.10.01-20.09.07:908][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.10.01-20.09.07:909][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.10.01-20.09.07:909][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.10.01-20.09.07:909][312]LogInit: FAudioDevice initialized.
+[2022.10.01-20.09.07:909][312]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_islandMap'.
+[2022.10.01-20.09.07:954][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.01-20.09.07:954][312]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-20.09.07:955][312]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-09.09.07
+[2022.10.01-20.09.07:955][312]LogWorld: Bringing up level for play took: 0.000577
+[2022.10.01-20.09.07:957][312]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.10.01-20.09.07:957][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-20.09.07:958][312]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-20.09.07:958][312]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-20.09.07:958][312]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-20.09.07:958][312]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-20.09.07:960][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:960][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:960][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:961][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:961][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:961][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:962][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:962][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:962][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:963][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:963][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:963][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:963][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:964][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:964][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:965][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:965][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:965][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:966][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:966][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:966][312]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10446.486 Y=8969.390 Z=-4213.843] for [BP_Island_C]
+[2022.10.01-20.09.07:966][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:967][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:967][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:967][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:968][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:968][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:968][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:969][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:969][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:969][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:969][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:970][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:970][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:970][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:971][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:971][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:971][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:972][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:972][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.07:972][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GI_instance_C_2] Main: Loading Plant Food Profile Data Table
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GI_instance_C_2] Main: Loading Plant Growth preference from Data Table
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GI_instance_C_2] Main: Loading Plant Catalogue from Data Table
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant Quality Reference Data Table
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Quantity Reference Data Table
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] first run set GI
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GI_instance_C_2] get day for sequence1legnth of day structure array7
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter2dayspermonth3.0returnfalse
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-20.09.07:973][312]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-20.09.07:974][312]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-20.09.07:975][312]PIE: Server logged in
+[2022.10.01-20.09.07:977][312]PIE: Play in editor total start time 0.136 seconds.
+[2022.10.01-20.09.07:977][312]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.01-20.09.07:977][312]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.01-20.09.07:977][312]LogNet: Browse: /Game/Levels/LV_islandMap
+[2022.10.01-20.09.07:977][312]LogLoad: LoadMap: /Game/Levels/LV_islandMap
+[2022.10.01-20.09.07:977][312]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.09.07:978][312]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-20.09.07:978][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-20.09.08:017][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.01-20.09.08:020][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.01-20.09.08:022][312]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.09.08:026][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004491s)
+[2022.10.01-20.09.08:026][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004558s)
+[2022.10.01-20.09.08:026][312]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_islandMap'.
+[2022.10.01-20.09.08:026][312]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.01-20.09.08:026][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.01-20.09.08:027][312]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.01-20.09.08:027][312]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2022.10.01-20.09.08:027][312]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.01-20.09.08:027][312]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.02-09.09.08
+[2022.10.01-20.09.08:028][312]LogWorld: Bringing up level for play took: 0.000520
+[2022.10.01-20.09.08:028][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.01-20.09.08:028][312]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.01-20.09.08:028][312]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-20.09.08:028][312]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.01-20.09.08:028][312]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-20.09.08:030][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:030][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:031][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:031][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:031][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:031][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:032][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:033][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:033][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:033][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:033][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:034][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:034][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:034][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:035][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:035][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:035][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:035][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:036][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:036][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:036][312]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10446.486 Y=8969.390 Z=-4213.843] for [BP_Island_C]
+[2022.10.01-20.09.08:036][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:037][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:037][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:037][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:038][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:038][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:038][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:038][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:039][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:039][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:039][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:040][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:040][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:040][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:040][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:041][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:041][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:041][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:041][312]LogBlueprintUserMessages: [LV_islandMap_C_3] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.01-20.09.08:041][312]LogBlueprintUserMessages: [LV_islandMap_C_3] door valid
+[2022.10.01-20.09.08:041][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Not the first run don't delete anything
+[2022.10.01-20.09.08:041][312]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.01-20.09.08:043][312]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.01-20.09.08:043][312]LogLoad: Took 0.065235 seconds to LoadMap(/Game/Levels/UEDPIE_0_LV_islandMap)
+[2022.10.01-20.09.08:051][312]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.01-20.09.09:578][454]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.11:522][663]LogBlueprintUserMessages: [PC_default_C_0] Pause
+[2022.10.01-20.09.12:826][800]LogBlueprintUserMessages: [PC_default_C_0] Run
+[2022.10.01-20.09.12:826][800]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.09.12:826][800]LogBlueprintUserMessages: [GI_instance_C_2] get day for sequence1legnth of day structure array7
+[2022.10.01-20.09.12:826][800]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Month: Fetch new month for current index
+[2022.10.01-20.09.12:826][800]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Fetch new season for current index
+[2022.10.01-20.09.14:134][936]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.14:579][982]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.14:854][ 10]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.15:112][ 37]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.15:322][ 60]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.15:559][ 86]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.15:814][114]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.16:109][146]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.16:604][201]LogBlueprintUserMessages: [PC_default_C_0] random spawn not coded yet
+[2022.10.01-20.09.17:404][288]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.17:885][341]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.18:296][386]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.18:595][419]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.18:872][450]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.19:133][479]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.19:428][512]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.19:735][546]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.19:996][575]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.20:290][608]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.20:568][639]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.20:828][668]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.21:114][700]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.21:366][728]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.21:645][759]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.21:765][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.09.21:765][772]LogBlueprintUserMessages: [GI_instance_C_2] get day for sequence2legnth of day structure array7
+[2022.10.01-20.09.21:765][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter2dayspermonth3.0returnfalse
+[2022.10.01-20.09.21:765][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-20.09.21:928][790]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.22:202][820]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.22:501][853]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.22:773][883]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.23:034][912]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.23:270][938]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.23:505][964]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.23:758][992]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.24:029][ 22]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.24:309][ 53]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.24:543][ 79]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.24:793][107]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.25:045][135]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.25:298][163]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.25:533][189]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.25:785][217]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.26:027][244]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.26:275][271]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.26:516][298]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.26:741][323]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.27:030][355]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.27:411][397]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.27:724][432]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.27:997][462]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.28:312][497]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.28:600][529]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.28:879][560]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.29:143][589]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.29:462][623]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.29:723][652]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.30:091][693]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.30:801][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.09.30:801][772]LogBlueprintUserMessages: [GI_instance_C_2] get day for sequence3legnth of day structure array7
+[2022.10.01-20.09.30:801][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Month: Fetch new month for current index
+[2022.10.01-20.09.30:801][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-20.09.30:953][789]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.31:303][828]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.32:551][967]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.33:602][ 84]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.37:929][569]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.38:305][611]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.39:770][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.09.39:770][772]LogBlueprintUserMessages: [GI_instance_C_2] get day for sequence4legnth of day structure array7
+[2022.10.01-20.09.39:770][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter4dayspermonth3.0returnfalse
+[2022.10.01-20.09.39:770][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-20.09.40:068][805]LogBlueprintUserMessages: [BP_MenuAtLocation_C_1] PC_default_C_0
+[2022.10.01-20.09.40:268][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'plantcataloguev2' of length 0 in '/Game/GS_singlePlayer.GS_singlePlayer_C'!
+[2022.10.01-20.09.40:619][864]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.01-20.09.41:818][994]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Plant: First growth event
+[2022.10.01-20.09.41:818][994]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence1processplantgrowPhaseEventCounter1processplantgrowGrowthEventCounter1Herbs
+[2022.10.01-20.09.41:818][994]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-8.0preferred-174.0min-5.333333max-12.0
+[2022.10.01-20.09.41:818][994]LogBlueprintUserMessages: [GS_singlePlayer_C_0] insow phase but not bonus
+[2022.10.01-20.09.42:834][105]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence2processplantgrowPhaseEventCounter1processplantgrowGrowthEventCounter2Herbs
+[2022.10.01-20.09.42:834][105]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-8.0preferred-174.0min-5.333333max-12.0
+[2022.10.01-20.09.42:834][105]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.44:361][272]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence2processplantgrowPhaseEventCounter2processplantgrowGrowthEventCounter3Herbs
+[2022.10.01-20.09.44:361][272]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-8.0preferred-174.0min-5.333333max-12.0
+[2022.10.01-20.09.44:361][272]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.44:863][327]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence2processplantgrowPhaseEventCounter3processplantgrowGrowthEventCounter4Herbs
+[2022.10.01-20.09.44:863][327]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-8.0preferred-174.0min-5.333333max-12.0
+[2022.10.01-20.09.44:863][327]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.46:650][522]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence3processplantgrowPhaseEventCounter1processplantgrowGrowthEventCounter5Herbs
+[2022.10.01-20.09.46:650][522]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-8.0preferred-174.0min-5.333333max-12.0
+[2022.10.01-20.09.46:650][522]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.47:151][577]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence3processplantgrowPhaseEventCounter2processplantgrowGrowthEventCounter6Herbs
+[2022.10.01-20.09.47:151][577]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-8.0preferred-174.0min-5.333333max-12.0
+[2022.10.01-20.09.47:151][577]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.48:924][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence3processplantgrowPhaseEventCounter3processplantgrowGrowthEventCounter7Herbs
+[2022.10.01-20.09.48:924][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-8.0preferred-174.0min-5.333333max-12.0
+[2022.10.01-20.09.48:924][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.48:924][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.09.48:924][772]LogBlueprintUserMessages: [GI_instance_C_2] get day for sequence5legnth of day structure array7
+[2022.10.01-20.09.48:924][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] world day counter5dayspermonth3.0returnfalse
+[2022.10.01-20.09.48:924][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Season Cycle Tick..
+[2022.10.01-20.09.49:432][827]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence4processplantgrowPhaseEventCounter1processplantgrowGrowthEventCounter8Herbs
+[2022.10.01-20.09.49:433][827]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-4.0preferred-174.0min-2.666667max-6.0
+[2022.10.01-20.09.49:433][827]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.51:040][994]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence4processplantgrowPhaseEventCounter2processplantgrowGrowthEventCounter9Herbs
+[2022.10.01-20.09.51:040][994]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-4.0preferred-174.0min-2.666667max-6.0
+[2022.10.01-20.09.51:040][994]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.52:073][105]LogBlueprintUserMessages: [GS_singlePlayer_C_0] processplantPhaseSequence4processplantgrowPhaseEventCounter2processplantgrowGrowthEventCounter9Herbs
+[2022.10.01-20.09.52:073][105]LogBlueprintUserMessages: [GS_singlePlayer_C_0] island-4.0preferred-174.0min-2.666667max-6.0
+[2022.10.01-20.09.52:073][105]LogBlueprintUserMessages: [GS_singlePlayer_C_0] plant: not in first (sow) phase
+[2022.10.01-20.09.57:346][685]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.57:990][755]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.09.58:146][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.01-20.09.58:146][772]LogBlueprintUserMessages: [GI_instance_C_2] get day for sequence6legnth of day structure array7
+[2022.10.01-20.09.58:146][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Month: Fetch new month for current index
+[2022.10.01-20.09.58:146][772]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Fetch new season for current index
+[2022.10.01-20.09.58:275][786]LogBlueprintUserMessages: [PC_default_C_0] Refresh Calendar HUD
+[2022.10.01-20.10.05:954][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.01-20.10.05:954][614]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.01-20.10.05:954][614]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.01-20.10.05:960][614]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-20.10.05:960][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-20.10.05:970][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.01-20.10.05:978][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-20.10.06:036][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.01-20.10.06:038][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.01-20.10.06:044][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.01-20.10.06:068][615]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.10.01-20.10.07:759][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
