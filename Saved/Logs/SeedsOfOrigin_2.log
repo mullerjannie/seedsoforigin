@@ -1117,3 +1117,1375 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.05-03.53.18:973][ 65]LogViewport: Scene viewport resized to 2742x815, mode Windowed.
 [2022.10.05-03.53.24:941][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
 [2022.10.05-03.53.25:962][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.05-04.38.10:044][812]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.550 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.05-05.38.10:271][560]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.661 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.05-06.38.10:177][308]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.783 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.05-07.00.38:206][153]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.05-07.00.38:213][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-07.00.38:213][153]PIE: New page: PIE session: LV_islandMap (6/10/2022, 9:00:38 am)
+[2022.10.05-07.00.38:213][153]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-07.00.38:218][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004974s)
+[2022.10.05-07.00.38:218][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.005044s)
+[2022.10.05-07.00.38:218][153]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.05-07.00.38:218][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.05-07.00.38:219][153]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.05-07.00.38:219][153]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2022.10.05-07.00.38:226][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.05-07.00.38:227][153]LogBlueprintUserMessages: [GI_instance_C_2] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.05-07.00.38:227][153]LogBlueprintUserMessages: [GI_instance_C_2] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.05-07.00.38:227][153]LogBlueprintUserMessages: [GI_instance_C_2] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.05-07.00.38:227][153]LogBlueprintUserMessages: [GI_instance_C_2] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.05-07.00.38:234][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (02F56BBB43FBE1B330D53C9E3D9B729A) collides with (FF57AB6D40794D2755E1ECA69FCA768B)
+[2022.10.05-07.00.38:237][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (FF57AB6D40794D2755E1ECA69FCA768B) collides with (02F56BBB43FBE1B330D53C9E3D9B729A)
+[2022.10.05-07.00.38:238][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (39F56792433F0EA26B947FA76559741D) collides with (08CC2AB2487608792CC9F89543181CFE)
+[2022.10.05-07.00.38:239][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (08CC2AB2487608792CC9F89543181CFE) collides with (39F56792433F0EA26B947FA76559741D)
+[2022.10.05-07.00.38:240][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (08CC2AB2487608792CC9F89543181CFE) collides with (E812C9814A96C7382CC3A380FCE4A0B3)
+[2022.10.05-07.00.38:241][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (96F4D25E42A7FB1B7678EDAF2A6EE15F) collides with (3C73103F481D8619914225A2AE05EF43)
+[2022.10.05-07.00.38:243][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (3C73103F481D8619914225A2AE05EF43) collides with (96F4D25E42A7FB1B7678EDAF2A6EE15F)
+[2022.10.05-07.00.38:244][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (2631B838476E064195E9F9BC916C245B) collides with (6A0DFEEB41E98997E6FDF8BD559B8ED7)
+[2022.10.05-07.00.38:245][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (6A0DFEEB41E98997E6FDF8BD559B8ED7) collides with (2631B838476E064195E9F9BC916C245B)
+[2022.10.05-07.00.38:250][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (0D8C2014447623E8E44228A7D715A926) collides with (C2274C284F3615012B8D12A00E6D2967)
+[2022.10.05-07.00.38:250][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (C2274C284F3615012B8D12A00E6D2967) collides with (0D8C2014447623E8E44228A7D715A926)
+[2022.10.05-07.00.38:250][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (C2274C284F3615012B8D12A00E6D2967) collides with (BD84A8C445AD794345EE23A40995A0AF)
+[2022.10.05-07.00.38:251][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (BD84A8C445AD794345EE23A40995A0AF) collides with (C2274C284F3615012B8D12A00E6D2967)
+[2022.10.05-07.00.38:258][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (4DAE192747BAF69CE502A9B9860B576B) collides with (675E962C4E4FAE892152CBA613EAC448)
+[2022.10.05-07.00.38:259][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (675E962C4E4FAE892152CBA613EAC448) collides with (4DAE192747BAF69CE502A9B9860B576B)
+[2022.10.05-07.00.38:261][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (6985BBDA43AF60F3F6F785986FDACE34) collides with (9D55B9C94696163C02ACCA9E853F4BA3)
+[2022.10.05-07.00.38:263][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (9D55B9C94696163C02ACCA9E853F4BA3) collides with (6985BBDA43AF60F3F6F785986FDACE34)
+[2022.10.05-07.00.38:266][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (C98E8805405408C1FC1CB4B2531A40DB) collides with (EC11729F4FD24740E86D54A60ABD3789)
+[2022.10.05-07.00.38:268][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (EC11729F4FD24740E86D54A60ABD3789) collides with (C98E8805405408C1FC1CB4B2531A40DB)
+[2022.10.05-07.00.38:270][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (7658189F4356224BBFD59EA16B7FD475) collides with (EDF846C04D768A931A7EBA8D8F5CADFD)
+[2022.10.05-07.00.38:271][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (0A902DCB47E12C6D23F999936137249E) collides with (EB53A3BC49A48C1483BD34896D7072ED)
+[2022.10.05-07.00.38:272][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (EDF846C04D768A931A7EBA8D8F5CADFD) collides with (7658189F4356224BBFD59EA16B7FD475)
+[2022.10.05-07.00.38:274][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (EB53A3BC49A48C1483BD34896D7072ED) collides with (0A902DCB47E12C6D23F999936137249E)
+[2022.10.05-07.00.38:275][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (52C17C694A3E00F0F9AD8D9AD56183C9) collides with (355E86354F9302E67E0E549C223C17B2)
+[2022.10.05-07.00.38:275][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (142FF8A0427BA570BCBF07ADC621AF53) collides with (0B38A1244B694CCEFC30DFBB20FB8451)
+[2022.10.05-07.00.38:275][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (142FF8A0427BA570BCBF07ADC621AF53) collides with (0DEF84C54978A79E2F4279903DD4BCF3)
+[2022.10.05-07.00.38:276][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (0B38A1244B694CCEFC30DFBB20FB8451) collides with (142FF8A0427BA570BCBF07ADC621AF53)
+[2022.10.05-07.00.38:277][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (355E86354F9302E67E0E549C223C17B2) collides with (52C17C694A3E00F0F9AD8D9AD56183C9)
+[2022.10.05-07.00.38:278][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (0DEF84C54978A79E2F4279903DD4BCF3) collides with (142FF8A0427BA570BCBF07ADC621AF53)
+[2022.10.05-07.00.38:280][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (FA0147014BCEB32CEF2FABAD5A1CEBE1) collides with (7C1F13B8483834672B2FDAA3C684BE9D)
+[2022.10.05-07.00.38:281][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (19784FC44C29583D8BB483B283010D01) collides with (352295CA4B334BA8EDEF8B95DA2C72BD)
+[2022.10.05-07.00.38:283][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (352295CA4B334BA8EDEF8B95DA2C72BD) collides with (19784FC44C29583D8BB483B283010D01)
+[2022.10.05-07.00.38:285][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (7C1F13B8483834672B2FDAA3C684BE9D) collides with (FA0147014BCEB32CEF2FABAD5A1CEBE1)
+[2022.10.05-07.00.38:286][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (B5CB3BC24DEF19788B39EDA86A71068A) collides with (CEAB4F49439E3B43DE249C99D61A1089)
+[2022.10.05-07.00.38:287][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (CEAB4F49439E3B43DE249C99D61A1089) collides with (B5CB3BC24DEF19788B39EDA86A71068A)
+[2022.10.05-07.00.38:288][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (A448260E43896A21418BF9BDA75D62DF) collides with (56C8BC7E4B752C3E5C7F098057DF101F)
+[2022.10.05-07.00.38:289][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (56C8BC7E4B752C3E5C7F098057DF101F) collides with (A448260E43896A21418BF9BDA75D62DF)
+[2022.10.05-07.00.38:293][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (E3AD577545B7AD8C0238618E967ADEF3) collides with (38133CE449D55B2FCC471C922E4F37DD)
+[2022.10.05-07.00.38:293][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (38133CE449D55B2FCC471C922E4F37DD) collides with (E3AD577545B7AD8C0238618E967ADEF3)
+[2022.10.05-07.00.38:295][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (5708FD6D4404F7374C3CBA852133BFED) collides with (D314149B4AD2E16F22CBB5B418C33B84)
+[2022.10.05-07.00.38:296][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (D314149B4AD2E16F22CBB5B418C33B84) collides with (5708FD6D4404F7374C3CBA852133BFED)
+[2022.10.05-07.00.38:300][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (4A6881074DA8FEF97EDB369354CD16F8) collides with (53252091429422ED2047D08E966FA671)
+[2022.10.05-07.00.38:303][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (53252091429422ED2047D08E966FA671) collides with (4A6881074DA8FEF97EDB369354CD16F8)
+[2022.10.05-07.00.38:303][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (D9056F0E4622C58494E006B6ADAEFE50) collides with (C2E58140487CDF0FD79966B7730BD6AD)
+[2022.10.05-07.00.38:304][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (CF89F5144A1A011DC65ACE8743138B03) collides with (E812C9814A96C7382CC3A380FCE4A0B3)
+[2022.10.05-07.00.38:304][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (E812C9814A96C7382CC3A380FCE4A0B3) collides with (08CC2AB2487608792CC9F89543181CFE)
+[2022.10.05-07.00.38:305][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (E812C9814A96C7382CC3A380FCE4A0B3) collides with (CF89F5144A1A011DC65ACE8743138B03)
+[2022.10.05-07.00.38:306][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (C2E58140487CDF0FD79966B7730BD6AD) collides with (D9056F0E4622C58494E006B6ADAEFE50)
+[2022.10.05-07.00.38:308][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (B7C24C6D45590C4DEE493488C36440D1) collides with (99353C13443421FC75130F8A07B791D5)
+[2022.10.05-07.00.38:311][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (99353C13443421FC75130F8A07B791D5) collides with (B7C24C6D45590C4DEE493488C36440D1)
+[2022.10.05-07.00.38:313][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (FA71B18B4E7E8571DDCD63B0A39C596C) collides with (870AA1684DD5EE0BC6E3D28434DA98B6)
+[2022.10.05-07.00.38:313][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (FA71B18B4E7E8571DDCD63B0A39C596C) collides with (47659DD84D33AFDA8AB9F087A4C018E3)
+[2022.10.05-07.00.38:313][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (870AA1684DD5EE0BC6E3D28434DA98B6) collides with (FA71B18B4E7E8571DDCD63B0A39C596C)
+[2022.10.05-07.00.38:313][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (870AA1684DD5EE0BC6E3D28434DA98B6) collides with (47659DD84D33AFDA8AB9F087A4C018E3)
+[2022.10.05-07.00.38:314][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (221697AD4A3D95DC40790CA26801AA7E) collides with (944371E042A86C9341BA03937F80ADCA)
+[2022.10.05-07.00.38:314][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (221697AD4A3D95DC40790CA26801AA7E) collides with (09DDF4C3414E2916FFF110AD7B82B39D)
+[2022.10.05-07.00.38:315][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (47659DD84D33AFDA8AB9F087A4C018E3) collides with (FA71B18B4E7E8571DDCD63B0A39C596C)
+[2022.10.05-07.00.38:315][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (47659DD84D33AFDA8AB9F087A4C018E3) collides with (870AA1684DD5EE0BC6E3D28434DA98B6)
+[2022.10.05-07.00.38:316][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (944371E042A86C9341BA03937F80ADCA) collides with (221697AD4A3D95DC40790CA26801AA7E)
+[2022.10.05-07.00.38:316][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (944371E042A86C9341BA03937F80ADCA) collides with (09DDF4C3414E2916FFF110AD7B82B39D)
+[2022.10.05-07.00.38:316][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (09DDF4C3414E2916FFF110AD7B82B39D) collides with (221697AD4A3D95DC40790CA26801AA7E)
+[2022.10.05-07.00.38:316][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (09DDF4C3414E2916FFF110AD7B82B39D) collides with (944371E042A86C9341BA03937F80ADCA)
+[2022.10.05-07.00.38:319][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (E86A15814EAB943116DEE8B3C6B90FF7) collides with (AD99DD634A3C3DF03B36E7A34A70D06A)
+[2022.10.05-07.00.38:319][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (AD99DD634A3C3DF03B36E7A34A70D06A) collides with (E86A15814EAB943116DEE8B3C6B90FF7)
+[2022.10.05-07.00.38:323][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (89D1E26545013FE44616A7BF3BC46531) collides with (C2B46D7B4870EBEF455966A118C0EB98)
+[2022.10.05-07.00.38:323][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (B3D317884C152D02BCDB1283EFE538A2) collides with (C2B46D7B4870EBEF455966A118C0EB98)
+[2022.10.05-07.00.38:325][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (C2B46D7B4870EBEF455966A118C0EB98) collides with (89D1E26545013FE44616A7BF3BC46531)
+[2022.10.05-07.00.38:325][153]LogBlueprintUserMessages: [GI_instance_C_2] plant (C2B46D7B4870EBEF455966A118C0EB98) collides with (B3D317884C152D02BCDB1283EFE538A2)
+[2022.10.05-07.00.38:325][153]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.05-07.00.38:325][153]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.05-07.00.38:326][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-07.00.38:326][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-07.00.38:326][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-07.00.38:326][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-07.00.38:326][153]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-07.00.38:326][153]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.05-07.00.38:326][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-07.00.38:326][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-07.00.38:326][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-07.00.38:326][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-07.00.38:326][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-07.00.38:328][153]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.05-07.00.38:344][153]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.05-07.00.38:344][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-07.00.38:345][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-07.00.38:345][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-07.00.38:346][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.10.05-07.00.38:346][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.10.05-07.00.38:347][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.10.05-07.00.38:347][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.10.05-07.00.38:347][153]LogInit: FAudioDevice initialized.
+[2022.10.05-07.00.38:347][153]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_islandMap'.
+[2022.10.05-07.00.38:360][153]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.05-07.00.38:361][153]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.05-20.00.38
+[2022.10.05-07.00.38:362][153]LogWorld: Bringing up level for play took: 0.001089
+[2022.10.05-07.00.38:363][153]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.10.05-07.00.38:363][153]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.05-07.00.38:363][153]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-07.00.38:363][153]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-07.00.38:363][153]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-07.00.38:364][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:365][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:366][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:366][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:367][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:368][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:368][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:369][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:370][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:370][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:371][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:371][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:372][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:373][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:373][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:374][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:374][153]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=25572.985 Y=35879.084 Z=-9498.124] for [BP_Island_C]
+[2022.10.05-07.00.38:375][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:375][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:376][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:377][153]LogBlueprintUserMessages: [LV_islandMap_C_8] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-07.00.38:412][153]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.05-07.00.38:413][153]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-07.00.38:413][153]PIE: Server logged in
+[2022.10.05-07.00.38:413][153]PIE: Play in editor total start time 0.2 seconds.
+[2022.10.05-07.00.39:068][219]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.05-07.00.50:981][641]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.05-07.01.00:903][831]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.05-07.01.05:184][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-07.01.05:184][336]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-07.01.05:185][336]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-07.01.05:185][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-07.01.05:196][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-07.01.05:198][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-07.01.05:206][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-07.01.05:206][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.05-07.01.05:208][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.05-07.01.05:214][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.05-07.01.05:259][340]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.10.05-07.04.48:723][211]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.10.05-07.04.48:728][211]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.10.05-07.04.48:735][212]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2022.10.05-07.05.00:982][670]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> PlantCompanions
+[2022.10.05-07.05.00:996][670]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.10.05-07.05.03:029][913]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Structures/PlantCompanions.PlantCompanions
+[2022.10.05-07.05.55:824][107]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.10.05-07.05.55:829][107]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.10.05-07.05.55:835][108]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2022.10.05-07.06.12:561][ 19]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> companioneffects
+[2022.10.05-07.06.12:563][ 19]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.10.05-07.06.21:611][ 91]LogSlate: Took 0.007131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.05-07.07.51:761][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.05-07.07.51:762][824]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.032
+[2022.10.05-07.07.51:763][824]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Structures/PlantCompanions] ([1] browsable assets)...
+[2022.10.05-07.07.51:763][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structures/PlantCompanions]
+[2022.10.05-07.07.51:768][824]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004127 seconds
+[2022.10.05-07.07.51:769][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Structures/PlantCompanions_Auto1
+[2022.10.05-07.07.51:769][824]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PlantCompanions_Auto1081740A1479F9AEB53FFACB2AD5BE720.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Structures/PlantCompanions_Auto1.uasset'
+[2022.10.05-07.07.51:769][824]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.10.05-07.10.11:776][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/PlantCompanions" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/PlantCompanions.uasset" SILENT=true
+[2022.10.05-07.10.11:777][530]LogSavePackage: Moving output files for package: /Game/Structures/PlantCompanions
+[2022.10.05-07.10.11:777][530]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PlantCompanions58BC9B0A4AC2A23A3F2DB8ACE0A4181D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/PlantCompanions.uasset'
+[2022.10.05-07.10.11:787][530]AssetCheck: New page: Asset Save: PlantCompanions
+[2022.10.05-07.10.11:787][530]LogContentValidation: Display: Validating UserDefinedStruct /Game/Structures/PlantCompanions.PlantCompanions
+[2022.10.05-07.11.15:037][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/PlantCompanions" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/PlantCompanions.uasset" SILENT=true
+[2022.10.05-07.11.15:038][ 68]LogSavePackage: Moving output files for package: /Game/Structures/PlantCompanions
+[2022.10.05-07.11.15:039][ 68]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PlantCompanions60B94D274F3D2ABA2CBA18BF383B5D32.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/PlantCompanions.uasset'
+[2022.10.05-07.11.15:047][ 68]AssetCheck: New page: Asset Save: PlantCompanions
+[2022.10.05-07.11.15:047][ 68]LogContentValidation: Display: Validating UserDefinedStruct /Game/Structures/PlantCompanions.PlantCompanions
+[2022.10.05-07.12.05:744][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/PlantCompanions" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/PlantCompanions.uasset" SILENT=true
+[2022.10.05-07.12.05:746][126]LogSavePackage: Moving output files for package: /Game/Structures/PlantCompanions
+[2022.10.05-07.12.05:746][126]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PlantCompanions4949F3CE44E4ECA4CC8CAAA6887C2740.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/PlantCompanions.uasset'
+[2022.10.05-07.12.05:755][126]AssetCheck: New page: Asset Save: PlantCompanions
+[2022.10.05-07.12.05:755][126]LogContentValidation: Display: Validating UserDefinedStruct /Game/Structures/PlantCompanions.PlantCompanions
+[2022.10.05-07.12.17:889][568]LogSlate: Window 'PlantCompanions' being destroyed
+[2022.10.05-07.12.17:894][568]LogSlate: Window 'PlantCompanions' being destroyed
+[2022.10.05-07.13.31:552][792]LogSlate: Window 'Pick Row Structure' being destroyed
+[2022.10.05-07.13.31:559][792]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2022.10.05-07.13.31:563][792]LogContentBrowser: Creating deferred item: NewDataTable
+[2022.10.05-07.13.31:568][793]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2022.10.05-07.13.41:388][939]LogContentBrowser: Attempting asset rename: NewDataTable -> CompanionPlantingDataTable
+[2022.10.05-07.13.41:388][939]LogContentBrowser: End creating deferred item NewDataTable
+[2022.10.05-07.13.44:185][270]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/CompanionPlantingDataTable.CompanionPlantingDataTable
+[2022.10.05-07.14.10:642][371]LogSlate: Window 'CompanionPlantingDataTable' being destroyed
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 8 Problems
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: 0:Cannot find Property for column 'Roots' in struct 'PlantCompanions'.
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: 1:Cannot find Property for column 'Roots' in struct 'PlantCompanions'.
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: 2:Cannot find Property for column '10' in struct 'PlantCompanions'.
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: 3:Cannot find Property for column '10' in struct 'PlantCompanions'.
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: 4:Expected column 'planttypeA' not found in input.
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: 5:Expected column 'planttypeB' not found in input.
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: 6:Expected column 'planteffectA' not found in input.
+[2022.10.05-07.19.10:077][857]LogCSVImportFactory: 7:Expected column 'planteffectB' not found in input.
+[2022.10.05-07.19.17:172][857]LogSlate: Window 'Message' being destroyed
+[2022.10.05-07.19.17:178][857]Message dialog closed, result: Ok, title: Message, text: Cannot find Property for column 'Roots' in struct 'PlantCompanions'.
+Cannot find Property for column 'Roots' in struct 'PlantCompanions'.
+Cannot find Property for column '10' in struct 'PlantCompanions'.
+Cannot find Property for column '10' in struct 'PlantCompanions'.
+Expected column 'planttypeA' not found in input.
+Expected column 'planttypeB' not found in input.
+Expected column 'planteffectA' not found in input.
+Expected column 'planteffectB' not found in input.
+
+[2022.10.05-07.19.55:318][651]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 2 Problems
+[2022.10.05-07.19.55:318][651]LogCSVImportFactory: 0:Cannot find Property for column 'okanteffectB' in struct 'PlantCompanions'.
+[2022.10.05-07.19.55:318][651]LogCSVImportFactory: 1:Expected column 'planteffectB' not found in input.
+[2022.10.05-07.19.58:668][651]LogSlate: Window 'Message' being destroyed
+[2022.10.05-07.19.58:673][651]Message dialog closed, result: Ok, title: Message, text: Cannot find Property for column 'okanteffectB' in struct 'PlantCompanions'.
+Expected column 'planteffectB' not found in input.
+
+[2022.10.05-07.20.11:529][765]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 0 Problems
+[2022.10.05-07.38.10:245][645]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.531 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.05-07.57.24:113][212]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 1 Problems
+[2022.10.05-07.57.24:113][212]LogCSVImportFactory: 0:Missing name for column 5.
+[2022.10.05-07.57.26:289][212]LogSlate: Window 'Message' being destroyed
+[2022.10.05-07.57.26:295][212]Message dialog closed, result: Ok, title: Message, text: Missing name for column 5.
+
+[2022.10.05-07.57.34:913][159]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Structures/PlantCompanions.PlantCompanions
+[2022.10.05-07.57.48:651][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/PlantCompanions" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/PlantCompanions.uasset" SILENT=true
+[2022.10.05-07.57.48:652][769]LogSavePackage: Moving output files for package: /Game/Structures/PlantCompanions
+[2022.10.05-07.57.48:653][769]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PlantCompanions993AA81F4E6D0720CCF746BDDEB121DC.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/PlantCompanions.uasset'
+[2022.10.05-07.57.48:662][769]AssetCheck: New page: Asset Save: PlantCompanions
+[2022.10.05-07.57.48:662][769]LogContentValidation: Display: Validating UserDefinedStruct /Game/Structures/PlantCompanions.PlantCompanions
+[2022.10.05-07.58.37:675][603]LogSavePackage: Moving output files for package: /Game/DataTables/CompanionPlantingDataTable
+[2022.10.05-07.58.37:675][603]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/CompanionPlantingDataTable998F0AFE482B3C76ABCF7A88C78A8857.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/DataTables/CompanionPlantingDataTable.uasset'
+[2022.10.05-07.58.37:687][603]AssetCheck: New page: Asset Save: CompanionPlantingDataTable
+[2022.10.05-07.58.37:687][603]LogContentValidation: Display: Validating DataTable /Game/DataTables/CompanionPlantingDataTable.CompanionPlantingDataTable
+[2022.10.05-07.58.39:786][849]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 2 Problems
+[2022.10.05-07.58.39:786][849]LogCSVImportFactory: 0:Missing name for column 5.
+[2022.10.05-07.58.39:786][849]LogCSVImportFactory: 1:Expected column 'notes' not found in input.
+[2022.10.05-07.58.41:293][849]LogSlate: Window 'Message' being destroyed
+[2022.10.05-07.58.41:298][849]Message dialog closed, result: Ok, title: Message, text: Missing name for column 5.
+Expected column 'notes' not found in input.
+
+[2022.10.05-07.58.51:543][161]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 0 Problems
+[2022.10.05-07.59.35:438][850]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 0 Problems
+[2022.10.05-08.00.14:837][462]LogSavePackage: Moving output files for package: /Game/DataTables/CompanionPlantingDataTable
+[2022.10.05-08.00.14:838][462]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/CompanionPlantingDataTable87CBA5224CF542EEE5BB62BF391752A0.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/DataTables/CompanionPlantingDataTable.uasset'
+[2022.10.05-08.00.14:847][462]AssetCheck: New page: Asset Save: CompanionPlantingDataTable
+[2022.10.05-08.00.14:847][462]LogContentValidation: Display: Validating DataTable /Game/DataTables/CompanionPlantingDataTable.CompanionPlantingDataTable
+[2022.10.05-08.00.45:961][182]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/CompanionPlantingDataTable.CompanionPlantingDataTable
+[2022.10.05-08.00.48:195][444]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 0 Problems
+[2022.10.05-08.01.10:332][127]LogSavePackage: Moving output files for package: /Game/DataTables/CompanionPlantingDataTable
+[2022.10.05-08.01.10:332][127]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/CompanionPlantingDataTable23E640514D73B5BA2DA0BE9B0C4FF443.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/DataTables/CompanionPlantingDataTable.uasset'
+[2022.10.05-08.01.10:344][127]AssetCheck: New page: Asset Save: CompanionPlantingDataTable
+[2022.10.05-08.01.10:344][127]LogContentValidation: Display: Validating DataTable /Game/DataTables/CompanionPlantingDataTable.CompanionPlantingDataTable
+[2022.10.05-08.01.10:944][194]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 0 Problems
+[2022.10.05-08.01.12:108][275]LogCSVImportFactory: Imported DataTable 'CompanionPlantingDataTable' - 0 Problems
+[2022.10.05-08.01.22:924][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.05-08.01.22:986][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/companioneffects" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/companioneffects.uasset" SILENT=true
+[2022.10.05-08.01.22:986][502]LogSavePackage: Moving output files for package: /Game/Structures/companioneffects
+[2022.10.05-08.01.22:986][502]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/companioneffectsF5925FD244222A60C08B588B61FC7DF2.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/companioneffects.uasset'
+[2022.10.05-08.01.22:988][502]LogSavePackage: Moving output files for package: /Game/DataTables/CompanionPlantingDataTable
+[2022.10.05-08.01.22:989][502]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/CompanionPlantingDataTable9E0E45C34899F2EBC21548B4D9A36E94.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/DataTables/CompanionPlantingDataTable.uasset'
+[2022.10.05-08.01.22:996][502]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-08.01.22:996][502]LogContentValidation: Display: Validating DataTable /Game/DataTables/CompanionPlantingDataTable.CompanionPlantingDataTable
+[2022.10.05-08.01.22:997][502]LogContentValidation: Display: Validating UserDefinedEnum /Game/Structures/companioneffects.companioneffects
+[2022.10.05-08.01.35:168][932]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GI_instance.GI_instance
+[2022.10.05-08.01.35:168][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.05-08.01.35:688][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator8' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator9' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator7' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator10' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator11' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::EnumSeason_MAX' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator8' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator9' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator7' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator10' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:689][932]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator11' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator0' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator1' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator2' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator3' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator4' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator5' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator6' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator7' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator8' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator9' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator10' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator11' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::EnumZodiac_MAX' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator0' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator1' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator2' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator3' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator4' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator5' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator6' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator7' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator8' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:692][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator9' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:693][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator10' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:693][932]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator11' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator0' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator1' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator2' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator3' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator4' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator5' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator6' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator7' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator8' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator9' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator10' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator11' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::EnumMonth_MAX' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator0' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator1' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator2' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator3' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator4' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator5' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator6' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator7' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator8' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator9' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator10' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.35:695][932]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator11' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.10.05-08.01.36:598][932]LogSlate: Took 0.003815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.05-08.02.17:061][384]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Structures/catalogue_plants.catalogue_plants
+[2022.10.05-08.02.55:926][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.05-08.02.55:954][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LV_islandMap_Auto2
+[2022.10.05-08.02.55:955][946]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/LV_islandMap_Auto251A9D29646931B87339B54BB67B12946.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Levels/LV_islandMap_Auto2.umap'
+[2022.10.05-08.02.55:960][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.066
+[2022.10.05-08.02.55:960][946]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2022.10.05-08.02.55:961][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GI_instance] ([2] browsable assets)...
+[2022.10.05-08.02.55:961][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/GI_instance]
+[2022.10.05-08.02.55:961][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.10.05-08.02.56:055][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GI_instance_Auto2
+[2022.10.05-08.02.56:055][946]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance_Auto2ACD057F044DDFE2B4077F39251319E63.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto2.uasset'
+[2022.10.05-08.02.56:057][946]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Plants/Plant] ([2] browsable assets)...
+[2022.10.05-08.02.56:099][946]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Plants/Plant.Plant]
+[2022.10.05-08.02.56:099][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Plants/Plant]
+[2022.10.05-08.02.56:143][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Plants/Plant_Auto2
+[2022.10.05-08.02.56:143][946]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Plant_Auto2E54F5B7D41714EF20A2D99A5C6181698.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Plants/Plant_Auto2.uasset'
+[2022.10.05-08.02.56:145][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GS_singlePlayer] ([2] browsable assets)...
+[2022.10.05-08.02.56:145][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/GS_singlePlayer]
+[2022.10.05-08.02.56:265][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GS_singlePlayer_Auto2
+[2022.10.05-08.02.56:266][946]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer_Auto29A18DA524BBB3B437FCCAA8A26AC606C.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GS_singlePlayer_Auto2.uasset'
+[2022.10.05-08.02.56:267][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Structures/catalogue_plants] ([1] browsable assets)...
+[2022.10.05-08.02.56:267][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structures/catalogue_plants]
+[2022.10.05-08.02.56:270][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Structures/catalogue_plants_Auto2
+[2022.10.05-08.02.56:270][946]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/catalogue_plants_Auto2B6A98F884CACBED6A5C0F5B16C143DB2.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Structures/catalogue_plants_Auto2.uasset'
+[2022.10.05-08.02.56:271][946]LogFileHelpers: Auto-saving content packages took 0.310
+[2022.10.05-08.04.41:727][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/catalogue_plants" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/catalogue_plants.uasset" SILENT=true
+[2022.10.05-08.04.41:730][548]LogSavePackage: Moving output files for package: /Game/Structures/catalogue_plants
+[2022.10.05-08.04.41:731][548]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/catalogue_plants0DD826D340D0CEDAFDFDA4B379152FDC.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Structures/catalogue_plants.uasset'
+[2022.10.05-08.04.41:744][548]AssetCheck: New page: Asset Save: catalogue_plants
+[2022.10.05-08.04.41:744][548]LogContentValidation: Display: Validating UserDefinedStruct /Game/Structures/catalogue_plants.catalogue_plants
+[2022.10.05-08.05.19:804][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.05-08.05.19:873][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.05-08.05.19:899][419]LogSavePackage: Moving output files for package: /Game/Levels/LV_islandMap
+[2022.10.05-08.05.19:900][419]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/LV_islandMap239E1EB84CE7252D9A6B8F84E7A328B0.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Levels/LV_islandMap.umap'
+[2022.10.05-08.05.19:912][419]LogFileHelpers: No new changes to save!
+[2022.10.05-08.05.19:912][419]LogFileHelpers: Saving map 'LV_islandMap' took 0.066
+[2022.10.05-08.05.19:912][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.05-08.05.20:003][419]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.05-08.05.20:003][419]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance238D4F3E484448ED280EA2B6835683A9.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.05-08.05.20:031][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Plants/Plant" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Plants/Plant.uasset" SILENT=true
+[2022.10.05-08.05.20:075][419]LogSavePackage: Moving output files for package: /Game/Blueprints/Plants/Plant
+[2022.10.05-08.05.20:075][419]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PlantB9DA6BB441047E11C790AE826865590A.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Plants/Plant.uasset'
+[2022.10.05-08.05.20:077][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GS_singlePlayer" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset" SILENT=true
+[2022.10.05-08.05.20:200][419]LogSavePackage: Moving output files for package: /Game/GS_singlePlayer
+[2022.10.05-08.05.20:201][419]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer344F564343545640C9FDB08D9C1ABA77.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
+[2022.10.05-08.05.20:217][419]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-08.05.20:217][419]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.10.05-08.05.20:217][419]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.05-08.05.20:217][419]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Plants/Plant.Plant
+[2022.10.05-08.05.20:217][419]LogContentValidation: Display: Validating World /Game/Levels/LV_islandMap.LV_islandMap
+[2022.10.05-08.05.23:337][757]BlueprintLog: New page: Compile GI_instance
+[2022.10.05-08.05.23:473][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.05-08.05.24:410][848]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.05-08.05.24:418][848]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.05-08.05.24:426][848]LogPlayLevel: [PlayLevel] Compiling GS_singlePlayer before play...
+[2022.10.05-08.05.24:473][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] Output pin type 'Float (double-precision)' is not compatible with input type of 'Float (double-precision)' on ' float * float '
+[2022.10.05-08.05.24:474][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] Output pin type 'Float (double-precision)' is not compatible with input type of 'Float (double-precision)' on ' float * float '
+[2022.10.05-08.05.24:474][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] Output pin type 'Float (double-precision)' is not compatible with input type of 'Float (double-precision)' on ' float * float '
+[2022.10.05-08.05.24:474][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] In use pin  Transform 58 E20FF9EE4EA9FE62D9B939A04FF40F17 Scale Z  no longer exists on node  Set members in catalogue_plants . Please refresh node or break links to remove pin.
+[2022.10.05-08.05.24:474][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] In use pin  Transform 58 E20FF9EE4EA9FE62D9B939A04FF40F17 Scale Y  no longer exists on node  Set members in catalogue_plants . Please refresh node or break links to remove pin.
+[2022.10.05-08.05.24:474][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] In use pin  Transform 58 E20FF9EE4EA9FE62D9B939A04FF40F17 Scale X  no longer exists on node  Set members in catalogue_plants . Please refresh node or break links to remove pin.
+[2022.10.05-08.05.24:475][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] In use pin  Transform 58 E20FF9EE4EA9FE62D9B939A04FF40F17 Scale Z  no longer exists on node  Break catalogue_plants . Please refresh node or break links to remove pin.
+[2022.10.05-08.05.24:475][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] In use pin  Transform 58 E20FF9EE4EA9FE62D9B939A04FF40F17 Scale Y  no longer exists on node  Break catalogue_plants . Please refresh node or break links to remove pin.
+[2022.10.05-08.05.24:475][848]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GS_singlePlayer.uasset: [Compiler] In use pin  Transform 58 E20FF9EE4EA9FE62D9B939A04FF40F17 Scale X  no longer exists on node  Break catalogue_plants . Please refresh node or break links to remove pin.
+[2022.10.05-08.05.24:523][848]LogPlayLevel: [PlayLevel] Compiling Plant before play...
+[2022.10.05-08.05.24:586][848]LogPlayLevel: [PlayLevel] Compiling LV_islandMap before play...
+[2022.10.05-08.05.24:668][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.05-08.05.24:668][848]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (3 blueprints)
+[2022.10.05-08.05.24:668][848]BlueprintLog: Warning: Blueprint failed to compile:  GS_singlePlayer
+[2022.10.05-08.05.24:669][848]LogCustomDialog: Dialog displayed:
+[2022.10.05-08.05.26:026][848]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.05-08.05.26:028][848]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.05-08.05.26:449][848]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.10.05-08.06.02:295][875]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.05-08.06.02:433][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.05-08.06.04:761][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.05-08.06.04:848][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.10.05-08.06.04:876][143]LogSavePackage: Moving output files for package: /Game/Levels/LV_islandMap
+[2022.10.05-08.06.04:877][143]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/LV_islandMap809931764C09BC588CE6DC9E394E256C.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Levels/LV_islandMap.umap'
+[2022.10.05-08.06.04:888][143]LogFileHelpers: No new changes to save!
+[2022.10.05-08.06.04:888][143]LogFileHelpers: Saving map 'LV_islandMap' took 0.072
+[2022.10.05-08.06.04:889][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GS_singlePlayer" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset" SILENT=true
+[2022.10.05-08.06.05:011][143]LogSavePackage: Moving output files for package: /Game/GS_singlePlayer
+[2022.10.05-08.06.05:012][143]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer6419C4E746F224BB2488CBAF4842F310.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
+[2022.10.05-08.06.05:030][143]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-08.06.05:030][143]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.05-08.06.05:030][143]LogContentValidation: Display: Validating World /Game/Levels/LV_islandMap.LV_islandMap
+[2022.10.05-08.06.41:735][297]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.05-08.06.41:879][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.05-08.07.40:715][143]BlueprintLog: New page: Compile GI_instance
+[2022.10.05-08.07.40:869][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.05-08.08.26:528][534]BlueprintLog: New page: Compile GI_instance
+[2022.10.05-08.08.26:673][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.05-08.08.28:223][696]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.05-08.08.28:231][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-08.08.28:231][696]PIE: New page: PIE session: LV_islandMap (6/10/2022, 10:08:28 am)
+[2022.10.05-08.08.28:231][696]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-08.08.28:236][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005439s)
+[2022.10.05-08.08.28:236][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.005541s)
+[2022.10.05-08.08.28:236][696]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.05-08.08.28:236][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.05-08.08.28:237][696]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.05-08.08.28:237][696]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2022.10.05-08.08.28:271][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.05-08.08.28:273][696]LogBlueprintUserMessages: [GI_instance_C_3] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.05-08.08.28:273][696]LogBlueprintUserMessages: [GI_instance_C_3] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.05-08.08.28:273][696]LogBlueprintUserMessages: [GI_instance_C_3] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.05-08.08.28:273][696]LogBlueprintUserMessages: [GI_instance_C_3] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.05-08.08.28:278][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (AFF7FAB2414DCB428AAD38A46D43F195) collides with (478FC3DA406A693252C72280E60E57A8)
+[2022.10.05-08.08.28:279][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (478FC3DA406A693252C72280E60E57A8) collides with (AFF7FAB2414DCB428AAD38A46D43F195)
+[2022.10.05-08.08.28:280][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (9AADA88C4D54758388F84BAE87DF7CF1) collides with (E75757AB40B6463FF4BC3E91E6D540AB)
+[2022.10.05-08.08.28:281][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (5B62F5194813028C3F186D8A6FEED0B6) collides with (1C95FC314803F641CEBC0EA500AB3D06)
+[2022.10.05-08.08.28:281][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (1C95FC314803F641CEBC0EA500AB3D06) collides with (5B62F5194813028C3F186D8A6FEED0B6)
+[2022.10.05-08.08.28:283][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (E75757AB40B6463FF4BC3E91E6D540AB) collides with (9AADA88C4D54758388F84BAE87DF7CF1)
+[2022.10.05-08.08.28:283][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (3EC6CFD441FCED46BF6EAC8D4E1DA6DD) collides with (CCEF77AD4BFB7AD74B2FB0B96B6D58EF)
+[2022.10.05-08.08.28:284][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CCEF77AD4BFB7AD74B2FB0B96B6D58EF) collides with (3EC6CFD441FCED46BF6EAC8D4E1DA6DD)
+[2022.10.05-08.08.28:285][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (1AD78A1542F122EC7B98F6B5898AAFE2) collides with (49862D054DEBF3AB21DA7DB169913FD5)
+[2022.10.05-08.08.28:285][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (1AD78A1542F122EC7B98F6B5898AAFE2) collides with (5574209948EFD976688C898916CA59EA)
+[2022.10.05-08.08.28:286][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (928788654952DD81F0FB24869B9567B3) collides with (49862D054DEBF3AB21DA7DB169913FD5)
+[2022.10.05-08.08.28:286][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (49862D054DEBF3AB21DA7DB169913FD5) collides with (1AD78A1542F122EC7B98F6B5898AAFE2)
+[2022.10.05-08.08.28:286][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (49862D054DEBF3AB21DA7DB169913FD5) collides with (928788654952DD81F0FB24869B9567B3)
+[2022.10.05-08.08.28:287][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (5574209948EFD976688C898916CA59EA) collides with (1AD78A1542F122EC7B98F6B5898AAFE2)
+[2022.10.05-08.08.28:288][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (3D8B47004CB690C0369559AEE41FE4CC) collides with (B249B7D44B513C77CFD07DB400AAAD1C)
+[2022.10.05-08.08.28:289][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (B249B7D44B513C77CFD07DB400AAAD1C) collides with (3D8B47004CB690C0369559AEE41FE4CC)
+[2022.10.05-08.08.28:290][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (2AB657F542277A02A5B0D287286FC989) collides with (ED6DDC5B47C6C61180BA9C99F65DCBBD)
+[2022.10.05-08.08.28:290][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (2AB657F542277A02A5B0D287286FC989) collides with (338E1BF743B05DF9E5D708B4A67A4B02)
+[2022.10.05-08.08.28:290][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (382282744B19923BD1433187887066EF) collides with (338E1BF743B05DF9E5D708B4A67A4B02)
+[2022.10.05-08.08.28:291][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (ED6DDC5B47C6C61180BA9C99F65DCBBD) collides with (2AB657F542277A02A5B0D287286FC989)
+[2022.10.05-08.08.28:291][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (ED6DDC5B47C6C61180BA9C99F65DCBBD) collides with (52B3E97D47BD2146B868ECB1D56B33CD)
+[2022.10.05-08.08.28:292][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (52B3E97D47BD2146B868ECB1D56B33CD) collides with (ED6DDC5B47C6C61180BA9C99F65DCBBD)
+[2022.10.05-08.08.28:292][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (52B3E97D47BD2146B868ECB1D56B33CD) collides with (F010C2EC48804C9231D29ABE20A28D56)
+[2022.10.05-08.08.28:292][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (52B3E97D47BD2146B868ECB1D56B33CD) collides with (338E1BF743B05DF9E5D708B4A67A4B02)
+[2022.10.05-08.08.28:293][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (F010C2EC48804C9231D29ABE20A28D56) collides with (52B3E97D47BD2146B868ECB1D56B33CD)
+[2022.10.05-08.08.28:294][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (338E1BF743B05DF9E5D708B4A67A4B02) collides with (2AB657F542277A02A5B0D287286FC989)
+[2022.10.05-08.08.28:295][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (338E1BF743B05DF9E5D708B4A67A4B02) collides with (382282744B19923BD1433187887066EF)
+[2022.10.05-08.08.28:295][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (338E1BF743B05DF9E5D708B4A67A4B02) collides with (52B3E97D47BD2146B868ECB1D56B33CD)
+[2022.10.05-08.08.28:295][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (55F62B604125073A0C88EAAD6470626F) collides with (C23AA2C74B47548CBDBDD0BB4AEED361)
+[2022.10.05-08.08.28:295][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (55F62B604125073A0C88EAAD6470626F) collides with (8C2B986A4765122978B556A332C4DF78)
+[2022.10.05-08.08.28:297][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (C23AA2C74B47548CBDBDD0BB4AEED361) collides with (55F62B604125073A0C88EAAD6470626F)
+[2022.10.05-08.08.28:297][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (C23AA2C74B47548CBDBDD0BB4AEED361) collides with (8C2B986A4765122978B556A332C4DF78)
+[2022.10.05-08.08.28:298][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (8C2B986A4765122978B556A332C4DF78) collides with (55F62B604125073A0C88EAAD6470626F)
+[2022.10.05-08.08.28:298][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (8C2B986A4765122978B556A332C4DF78) collides with (C23AA2C74B47548CBDBDD0BB4AEED361)
+[2022.10.05-08.08.28:300][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (F547086D48D95A601C82AD9D780472EF) collides with (AF25D5784A421E02B28C8ABCBCB01741)
+[2022.10.05-08.08.28:302][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (AF25D5784A421E02B28C8ABCBCB01741) collides with (F547086D48D95A601C82AD9D780472EF)
+[2022.10.05-08.08.28:304][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (96395FFB4A374419C5EE1F97FBC3A5B7) collides with (CCCDB0664A8648FB0A413392A71602B9)
+[2022.10.05-08.08.28:305][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (0A487D674ABB806CC9D951B14C78E2DC) collides with (92A78F8D450EEDA24F4D37879C7F9659)
+[2022.10.05-08.08.28:306][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (92A78F8D450EEDA24F4D37879C7F9659) collides with (0A487D674ABB806CC9D951B14C78E2DC)
+[2022.10.05-08.08.28:306][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CCCDB0664A8648FB0A413392A71602B9) collides with (96395FFB4A374419C5EE1F97FBC3A5B7)
+[2022.10.05-08.08.28:306][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CCCDB0664A8648FB0A413392A71602B9) collides with (3E6B0AA741D4E35F1DCD6996562C54E6)
+[2022.10.05-08.08.28:307][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (3E6B0AA741D4E35F1DCD6996562C54E6) collides with (CCCDB0664A8648FB0A413392A71602B9)
+[2022.10.05-08.08.28:309][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (FA6EBB7743B7E64F0082289CD981AED6) collides with (5A33F304449B04D25AE9B1B1CD646540)
+[2022.10.05-08.08.28:309][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (FA6EBB7743B7E64F0082289CD981AED6) collides with (66AAC58444FD4865C098ED8133819522)
+[2022.10.05-08.08.28:313][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (5A33F304449B04D25AE9B1B1CD646540) collides with (FA6EBB7743B7E64F0082289CD981AED6)
+[2022.10.05-08.08.28:313][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (66AAC58444FD4865C098ED8133819522) collides with (FA6EBB7743B7E64F0082289CD981AED6)
+[2022.10.05-08.08.28:319][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (A6E413CB43AEBEB071077CAF1E7BF415) collides with (3B1BED2A490FC00B8F9AD28C2BD63DFD)
+[2022.10.05-08.08.28:322][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (3B1BED2A490FC00B8F9AD28C2BD63DFD) collides with (A6E413CB43AEBEB071077CAF1E7BF415)
+[2022.10.05-08.08.28:323][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (EC9023CA4974B30308F9C6ABF81B80BB) collides with (99EAAD774F12611D36689FBF216ED5FA)
+[2022.10.05-08.08.28:325][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (99EAAD774F12611D36689FBF216ED5FA) collides with (EC9023CA4974B30308F9C6ABF81B80BB)
+[2022.10.05-08.08.28:328][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (50CCAF274B46BC783A73B494372F4104) collides with (F53095E64D71D2FD45B0EFB9E7150FA6)
+[2022.10.05-08.08.28:330][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (F53095E64D71D2FD45B0EFB9E7150FA6) collides with (50CCAF274B46BC783A73B494372F4104)
+[2022.10.05-08.08.28:330][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (F53095E64D71D2FD45B0EFB9E7150FA6) collides with (AAC4097A460337375B8D1FB51F9A42D6)
+[2022.10.05-08.08.28:332][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (AAC4097A460337375B8D1FB51F9A42D6) collides with (F53095E64D71D2FD45B0EFB9E7150FA6)
+[2022.10.05-08.08.28:333][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (AA0AFDE94952590A5E0B5FBE505932F0) collides with (4E62ADCE4AAB639672BE82B1D40988F4)
+[2022.10.05-08.08.28:334][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (8ABF33664EF08FC43AB4ACB8C7C58388) collides with (390AE9A54D17607E9298299DCEDADA7C)
+[2022.10.05-08.08.28:335][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (4E62ADCE4AAB639672BE82B1D40988F4) collides with (AA0AFDE94952590A5E0B5FBE505932F0)
+[2022.10.05-08.08.28:335][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (4E62ADCE4AAB639672BE82B1D40988F4) collides with (262EC9584BD3728C9A8F67BB1B6864E5)
+[2022.10.05-08.08.28:336][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (262EC9584BD3728C9A8F67BB1B6864E5) collides with (4E62ADCE4AAB639672BE82B1D40988F4)
+[2022.10.05-08.08.28:337][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (390AE9A54D17607E9298299DCEDADA7C) collides with (8ABF33664EF08FC43AB4ACB8C7C58388)
+[2022.10.05-08.08.28:344][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (B1A11CC64346B84EA46CB5915A6797E4) collides with (ACE55C9141749882EBE518991D18BE20)
+[2022.10.05-08.08.28:345][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (ACE55C9141749882EBE518991D18BE20) collides with (B1A11CC64346B84EA46CB5915A6797E4)
+[2022.10.05-08.08.28:347][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (AE4D26874F92791F9250C493B3D40487) collides with (CCB6434F4C62DA209146C49452F83AB7)
+[2022.10.05-08.08.28:347][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (AE4D26874F92791F9250C493B3D40487) collides with (B9A67BF34FEF7379DBA20E9E80E613DE)
+[2022.10.05-08.08.28:347][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (15BB475147B783817B99B1B8600C0339) collides with (CCB6434F4C62DA209146C49452F83AB7)
+[2022.10.05-08.08.28:347][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (15BB475147B783817B99B1B8600C0339) collides with (B9A67BF34FEF7379DBA20E9E80E613DE)
+[2022.10.05-08.08.28:348][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CCB6434F4C62DA209146C49452F83AB7) collides with (AE4D26874F92791F9250C493B3D40487)
+[2022.10.05-08.08.28:348][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CCB6434F4C62DA209146C49452F83AB7) collides with (15BB475147B783817B99B1B8600C0339)
+[2022.10.05-08.08.28:348][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CCB6434F4C62DA209146C49452F83AB7) collides with (B9A67BF34FEF7379DBA20E9E80E613DE)
+[2022.10.05-08.08.28:349][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (B9A67BF34FEF7379DBA20E9E80E613DE) collides with (AE4D26874F92791F9250C493B3D40487)
+[2022.10.05-08.08.28:349][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (B9A67BF34FEF7379DBA20E9E80E613DE) collides with (15BB475147B783817B99B1B8600C0339)
+[2022.10.05-08.08.28:349][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (B9A67BF34FEF7379DBA20E9E80E613DE) collides with (CCB6434F4C62DA209146C49452F83AB7)
+[2022.10.05-08.08.28:350][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (F105827D4E9D0447FDCAC68C686E6547) collides with (C6357AAC45414EC794D721ABF5E3BCE0)
+[2022.10.05-08.08.28:351][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (C6357AAC45414EC794D721ABF5E3BCE0) collides with (F105827D4E9D0447FDCAC68C686E6547)
+[2022.10.05-08.08.28:357][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (9AAFEB4E4BB043A41BE07086897A14EF) collides with (C424454947C43993BE45E189CF16E4FC)
+[2022.10.05-08.08.28:360][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (C424454947C43993BE45E189CF16E4FC) collides with (9AAFEB4E4BB043A41BE07086897A14EF)
+[2022.10.05-08.08.28:360][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (1475532A427E4B73F1DC25BB3E44E067) collides with (017DE40041C1E664EF07E39FA76A5132)
+[2022.10.05-08.08.28:361][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CF358F324FCACD6E007515B2BBB8BB43) collides with (1E44BD354C6AF04E18A6AAAC4676BB5C)
+[2022.10.05-08.08.28:361][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CF358F324FCACD6E007515B2BBB8BB43) collides with (5E43AB12418DDF7E304C1197DE458DAA)
+[2022.10.05-08.08.28:361][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (017DE40041C1E664EF07E39FA76A5132) collides with (1475532A427E4B73F1DC25BB3E44E067)
+[2022.10.05-08.08.28:362][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (1E44BD354C6AF04E18A6AAAC4676BB5C) collides with (CF358F324FCACD6E007515B2BBB8BB43)
+[2022.10.05-08.08.28:364][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (5E43AB12418DDF7E304C1197DE458DAA) collides with (CF358F324FCACD6E007515B2BBB8BB43)
+[2022.10.05-08.08.28:365][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (CBAD5BB5438DD048C17653A8ED729EFB) collides with (7765345F4F6BF10D93C3D59CF05B8388)
+[2022.10.05-08.08.28:366][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (95F2C17E4513B35710177082F34E202E) collides with (777ABABE45FACA361C728EA495E92774)
+[2022.10.05-08.08.28:368][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (777ABABE45FACA361C728EA495E92774) collides with (95F2C17E4513B35710177082F34E202E)
+[2022.10.05-08.08.28:369][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (7765345F4F6BF10D93C3D59CF05B8388) collides with (CBAD5BB5438DD048C17653A8ED729EFB)
+[2022.10.05-08.08.28:371][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (E991D4FF48CB88F3345137BA14B46E72) collides with (B6FF03F5413FCD9361549AB3C4B511EF)
+[2022.10.05-08.08.28:373][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (B6FF03F5413FCD9361549AB3C4B511EF) collides with (E991D4FF48CB88F3345137BA14B46E72)
+[2022.10.05-08.08.28:373][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (ADB767D74C85C5644D93ACA8256B8030) collides with (7B80A38740825C8E19EE7A83082FA687)
+[2022.10.05-08.08.28:373][696]LogBlueprintUserMessages: [GI_instance_C_3] plant (7B80A38740825C8E19EE7A83082FA687) collides with (ADB767D74C85C5644D93ACA8256B8030)
+[2022.10.05-08.08.28:374][696]LogBlueprintUserMessages: [GI_instance_C_3] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.05-08.08.28:374][696]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.05-08.08.28:374][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-08.08.28:374][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-08.08.28:374][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-08.08.28:374][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-08.08.28:374][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-08.08.28:374][696]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.05-08.08.28:374][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-08.08.28:374][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-08.08.28:374][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-08.08.28:374][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-08.08.28:374][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-08.08.28:376][696]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.05-08.08.28:392][696]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.05-08.08.28:392][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-08.08.28:392][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-08.08.28:392][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-08.08.28:393][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.10.05-08.08.28:393][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.10.05-08.08.28:394][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.10.05-08.08.28:394][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.10.05-08.08.28:394][696]LogInit: FAudioDevice initialized.
+[2022.10.05-08.08.28:394][696]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV_islandMap'.
+[2022.10.05-08.08.28:438][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-08.08.28:438][696]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.05-08.08.28:439][696]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.05-21.08.28
+[2022.10.05-08.08.28:439][696]LogWorld: Bringing up level for play took: 0.000461
+[2022.10.05-08.08.28:441][696]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.10.05-08.08.28:441][696]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.05-08.08.28:441][696]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.05-08.08.28:441][696]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-08.08.28:441][696]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-08.08.28:441][696]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-08.08.28:442][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:443][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:444][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:445][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:445][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:446][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:447][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:447][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:448][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:449][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:449][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:450][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:451][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:451][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:452][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:453][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:453][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:454][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:454][696]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=45376.447 Y=34173.101 Z=-4331.340] for [BP_Island_C]
+[2022.10.05-08.08.28:455][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:455][696]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.08.28:493][696]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.05-08.08.28:494][696]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-08.08.28:496][696]PIE: Server logged in
+[2022.10.05-08.08.28:498][696]PIE: Play in editor total start time 0.269 seconds.
+[2022.10.05-08.08.28:516][696]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.05-08.09.20:403][639]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant
+[2022.10.05-08.09.21:396][737]LogBlueprintUserMessages: [Plant_C_26] actor(Plant_C_24) end overlapping with(Plant_C_26)
+[2022.10.05-08.09.21:397][737]LogBlueprintUserMessages: [Plant_C_24] actor(Plant_C_26) end overlapping with(Plant_C_24)
+[2022.10.05-08.09.21:398][737]LogBlueprintUserMessages: [Plant_C_26] actor(Plant_C_28) end overlapping with(Plant_C_26)
+[2022.10.05-08.09.21:398][737]LogBlueprintUserMessages: [Plant_C_28] actor(Plant_C_26) end overlapping with(Plant_C_28)
+[2022.10.05-08.09.45:394][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-08.09.45:394][141]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-08.09.45:395][141]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.05-08.09.45:399][141]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-08.09.45:401][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-08.09.45:411][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-08.09.45:416][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-08.09.45:448][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-08.09.45:449][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.05-08.09.45:451][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.05-08.09.45:459][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.05-08.09.45:473][142]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.10.05-08.09.53:269][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.05-08.09.53:326][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.05-08.09.53:424][912]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.05-08.09.53:424][912]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance09A02BFA4A2B18DBD760208ECEB2DC56.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.05-08.09.53:426][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GS_singlePlayer" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset" SILENT=true
+[2022.10.05-08.09.53:555][912]LogSavePackage: Moving output files for package: /Game/GS_singlePlayer
+[2022.10.05-08.09.53:556][912]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayerF39BF07A447A19F01EAFFC9A14AEE456.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
+[2022.10.05-08.09.53:581][912]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-08.09.53:581][912]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.10.05-08.09.53:581][912]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.05-08.12.10:056][800]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.05-08.13.11:032][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.05-08.13.11:086][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.05-08.13.11:183][922]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.05-08.13.11:183][922]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance12C4A4874A586D2DF0A10FB017DF8343.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.05-08.13.11:198][922]AssetCheck: New page: Asset Save: GI_instance
+[2022.10.05-08.13.11:198][922]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.10.05-08.13.14:089][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.05-08.13.14:096][258]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.05-08.13.14:107][258]LogPlayLevel: [PlayLevel] Compiling GI_instance before play...
+[2022.10.05-08.13.14:271][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.05-08.13.14:274][258]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (1 blueprints)
+[2022.10.05-08.13.14:274][258]PIE: New page: PIE session: LV_islandMap (6/10/2022, 10:13:14 am)
+[2022.10.05-08.13.14:274][258]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-08.13.14:279][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004738s)
+[2022.10.05-08.13.14:279][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004795s)
+[2022.10.05-08.13.14:279][258]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.05-08.13.14:279][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.05-08.13.14:280][258]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.05-08.13.14:280][258]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2022.10.05-08.13.14:312][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.05-08.13.14:313][258]LogBlueprintUserMessages: [GI_instance_C_4] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.05-08.13.14:313][258]LogBlueprintUserMessages: [GI_instance_C_4] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.05-08.13.14:313][258]LogBlueprintUserMessages: [GI_instance_C_4] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.05-08.13.14:313][258]LogBlueprintUserMessages: [GI_instance_C_4] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.05-08.13.14:317][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (B36785BD4BC1D917CA72AEB3825B22E6) collides with (36BE0ADE4A0B9FF851C36D9F719BAF1B)
+[2022.10.05-08.13.14:319][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (36BE0ADE4A0B9FF851C36D9F719BAF1B) collides with (B36785BD4BC1D917CA72AEB3825B22E6)
+[2022.10.05-08.13.14:326][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (C633A35C49EBFADACD939DBE0C8150D7) collides with (2A2D3D584EDE90BF3F347E9A81D3006E)
+[2022.10.05-08.13.14:327][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (2A2D3D584EDE90BF3F347E9A81D3006E) collides with (C633A35C49EBFADACD939DBE0C8150D7)
+[2022.10.05-08.13.14:327][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (2A2D3D584EDE90BF3F347E9A81D3006E) collides with (5E4D44754CEE8F96C5E83DB26BFBFE57)
+[2022.10.05-08.13.14:328][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (5E4D44754CEE8F96C5E83DB26BFBFE57) collides with (2A2D3D584EDE90BF3F347E9A81D3006E)
+[2022.10.05-08.13.14:328][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (59583DA1455A9FE5B28489A79F6C6B18) collides with (FFED315B49AF1C0DF30AB99844178B8E)
+[2022.10.05-08.13.14:329][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (59583DA1455A9FE5B28489A79F6C6B18) collides with (5671C82541E9C948258E24BE038323D7)
+[2022.10.05-08.13.14:329][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (FFED315B49AF1C0DF30AB99844178B8E) collides with (59583DA1455A9FE5B28489A79F6C6B18)
+[2022.10.05-08.13.14:329][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (FFED315B49AF1C0DF30AB99844178B8E) collides with (5671C82541E9C948258E24BE038323D7)
+[2022.10.05-08.13.14:329][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (FFED315B49AF1C0DF30AB99844178B8E) collides with (98D5EDC94FA97706D5ACA798EB57F391)
+[2022.10.05-08.13.14:330][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (DCE4528D464B3A775F871DB9471FEACF) collides with (98D5EDC94FA97706D5ACA798EB57F391)
+[2022.10.05-08.13.14:331][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (5671C82541E9C948258E24BE038323D7) collides with (59583DA1455A9FE5B28489A79F6C6B18)
+[2022.10.05-08.13.14:331][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (5671C82541E9C948258E24BE038323D7) collides with (FFED315B49AF1C0DF30AB99844178B8E)
+[2022.10.05-08.13.14:333][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (98D5EDC94FA97706D5ACA798EB57F391) collides with (FFED315B49AF1C0DF30AB99844178B8E)
+[2022.10.05-08.13.14:333][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (98D5EDC94FA97706D5ACA798EB57F391) collides with (DCE4528D464B3A775F871DB9471FEACF)
+[2022.10.05-08.13.14:333][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (1E3F57C9490B61CAFFCDF180DC129431) collides with (E4F56C5C4B0B03CE7A7907AFB1604687)
+[2022.10.05-08.13.14:334][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (E4F56C5C4B0B03CE7A7907AFB1604687) collides with (1E3F57C9490B61CAFFCDF180DC129431)
+[2022.10.05-08.13.14:337][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (A8F0FDC942F0BC7CA03A7AB5F8E8F1CE) collides with (E23C1BFC4E4554468D17F08173115536)
+[2022.10.05-08.13.14:337][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (E23C1BFC4E4554468D17F08173115536) collides with (A8F0FDC942F0BC7CA03A7AB5F8E8F1CE)
+[2022.10.05-08.13.14:338][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (7BC14525490F3199CC0CA9B624109A2D) collides with (03EF5D50418844BE6238F385B5943527)
+[2022.10.05-08.13.14:340][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (03EF5D50418844BE6238F385B5943527) collides with (7BC14525490F3199CC0CA9B624109A2D)
+[2022.10.05-08.13.14:341][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (77B993EA4E5537F7E4CB108CDBAF54F1) collides with (0AF7CE3C4FB62A78046F96B3212F6615)
+[2022.10.05-08.13.14:343][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (0AF7CE3C4FB62A78046F96B3212F6615) collides with (77B993EA4E5537F7E4CB108CDBAF54F1)
+[2022.10.05-08.13.14:346][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (45E01551421EBD8B86B9379C0F9E0D47) collides with (1C58BD1049E65FD7925D2FB0FA0B2D1C)
+[2022.10.05-08.13.14:347][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (1C58BD1049E65FD7925D2FB0FA0B2D1C) collides with (45E01551421EBD8B86B9379C0F9E0D47)
+[2022.10.05-08.13.14:349][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (7A51A77F426EF4CAF01B31A207DF3589) collides with (8E291D674B5B2C1D782AC281957C996F)
+[2022.10.05-08.13.14:350][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (8E291D674B5B2C1D782AC281957C996F) collides with (7A51A77F426EF4CAF01B31A207DF3589)
+[2022.10.05-08.13.14:354][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (879BF2D84D404CFB5FDBFAA312A24C34) collides with (EF80324144DEE05494098990B5730A6C)
+[2022.10.05-08.13.14:356][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (EF80324144DEE05494098990B5730A6C) collides with (879BF2D84D404CFB5FDBFAA312A24C34)
+[2022.10.05-08.13.14:358][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (FDFC20B7497B722385A9AC98C6FF3055) collides with (B67E696343E020C67D9C42BB24219150)
+[2022.10.05-08.13.14:359][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (036AE4874E1F11C702B9368FC6072487) collides with (FA9629084D12EF2953BF23877B901E97)
+[2022.10.05-08.13.14:360][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (B67E696343E020C67D9C42BB24219150) collides with (FDFC20B7497B722385A9AC98C6FF3055)
+[2022.10.05-08.13.14:361][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (FA9629084D12EF2953BF23877B901E97) collides with (036AE4874E1F11C702B9368FC6072487)
+[2022.10.05-08.13.14:362][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (A05381C8495870EC0BE437AB1F9A6B9F) collides with (F1B74AE64F22D72C76B7D6B5B7140091)
+[2022.10.05-08.13.14:364][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (F1B74AE64F22D72C76B7D6B5B7140091) collides with (A05381C8495870EC0BE437AB1F9A6B9F)
+[2022.10.05-08.13.14:364][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (F1B74AE64F22D72C76B7D6B5B7140091) collides with (B1ED489E48CB7F98B0986D91E92417E3)
+[2022.10.05-08.13.14:365][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (B1ED489E48CB7F98B0986D91E92417E3) collides with (F1B74AE64F22D72C76B7D6B5B7140091)
+[2022.10.05-08.13.14:366][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (390C2ECF443FDA1B7BAE84805B6B0315) collides with (1DBD28BE47B8ED1794665FB47BF61B62)
+[2022.10.05-08.13.14:367][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (EA8243824E8954F07386B092E95D367C) collides with (F1CF6CC64753A529629BAAAF2A5B400F)
+[2022.10.05-08.13.14:367][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (EA8243824E8954F07386B092E95D367C) collides with (24F4EF8E4C6943C83458D9A6F81C8421)
+[2022.10.05-08.13.14:368][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (F1CF6CC64753A529629BAAAF2A5B400F) collides with (EA8243824E8954F07386B092E95D367C)
+[2022.10.05-08.13.14:370][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (24F4EF8E4C6943C83458D9A6F81C8421) collides with (EA8243824E8954F07386B092E95D367C)
+[2022.10.05-08.13.14:371][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (1DBD28BE47B8ED1794665FB47BF61B62) collides with (390C2ECF443FDA1B7BAE84805B6B0315)
+[2022.10.05-08.13.14:371][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (017FC0F84DC7A539A49413BC5FAFFDDC) collides with (CE7659324833F1CF4D28E78AE0995602)
+[2022.10.05-08.13.14:373][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (5286A5F44F9B3D9FBB4AB9865CACB6D5) collides with (22F4E5E84C2A7A150F28F6A60556D113)
+[2022.10.05-08.13.14:373][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (22F4E5E84C2A7A150F28F6A60556D113) collides with (5286A5F44F9B3D9FBB4AB9865CACB6D5)
+[2022.10.05-08.13.14:374][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (CE7659324833F1CF4D28E78AE0995602) collides with (017FC0F84DC7A539A49413BC5FAFFDDC)
+[2022.10.05-08.13.14:377][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (4CB6B9E34033A9FBD4374BAD570161BF) collides with (83D50AF640F998F600A1C7AFA2419022)
+[2022.10.05-08.13.14:378][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (83D50AF640F998F600A1C7AFA2419022) collides with (4CB6B9E34033A9FBD4374BAD570161BF)
+[2022.10.05-08.13.14:381][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (9BCBBD3B45CDC9B8ED65BF9EA76645F7) collides with (020C08DE4399FF924626E69EBB6B3575)
+[2022.10.05-08.13.14:385][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (020C08DE4399FF924626E69EBB6B3575) collides with (9BCBBD3B45CDC9B8ED65BF9EA76645F7)
+[2022.10.05-08.13.14:386][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (1FE01B5C4204136D6EFA149B54468205) collides with (F03852F14359F03B8BF30D962E713B68)
+[2022.10.05-08.13.14:387][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (6F64AC204DFE1F1EB57C4D85605D4F91) collides with (F03852F14359F03B8BF30D962E713B68)
+[2022.10.05-08.13.14:390][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (F03852F14359F03B8BF30D962E713B68) collides with (1FE01B5C4204136D6EFA149B54468205)
+[2022.10.05-08.13.14:390][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (F03852F14359F03B8BF30D962E713B68) collides with (6F64AC204DFE1F1EB57C4D85605D4F91)
+[2022.10.05-08.13.14:392][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (0375383F4F4E3D8193811E8C1AFE8553) collides with (F410BBD34BCF410F3A66809CE0F55622)
+[2022.10.05-08.13.14:392][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (11947A30453DFBC1F847A1BBC4BBA757) collides with (EA1059C8457826062C8631872B4803B0)
+[2022.10.05-08.13.14:393][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (F410BBD34BCF410F3A66809CE0F55622) collides with (0375383F4F4E3D8193811E8C1AFE8553)
+[2022.10.05-08.13.14:394][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (EA1059C8457826062C8631872B4803B0) collides with (11947A30453DFBC1F847A1BBC4BBA757)
+[2022.10.05-08.13.14:395][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (9E241AA74D93BACC08CA70A7495BBF9F) collides with (038E152042A0212F6004EEB8C6B64029)
+[2022.10.05-08.13.14:399][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (038E152042A0212F6004EEB8C6B64029) collides with (9E241AA74D93BACC08CA70A7495BBF9F)
+[2022.10.05-08.13.14:406][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (E30BB7F64BD47E7C87AAEA9B02A614FB) collides with (FA3F1E9649CEFA9A5BFD43AA27D25A4B)
+[2022.10.05-08.13.14:407][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (FA3F1E9649CEFA9A5BFD43AA27D25A4B) collides with (E30BB7F64BD47E7C87AAEA9B02A614FB)
+[2022.10.05-08.13.14:410][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (20BC36584F9509C5BAF37E8506AD7341) collides with (6FED7E5541F3225F5E66D4A5629B9240)
+[2022.10.05-08.13.14:413][258]LogBlueprintUserMessages: [GI_instance_C_4] plant (6FED7E5541F3225F5E66D4A5629B9240) collides with (20BC36584F9509C5BAF37E8506AD7341)
+[2022.10.05-08.13.14:413][258]LogBlueprintUserMessages: [GI_instance_C_4] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.05-08.13.14:413][258]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.05-08.13.14:413][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-08.13.14:413][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-08.13.14:413][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-08.13.14:413][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-08.13.14:413][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-08.13.14:413][258]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.05-08.13.14:413][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-08.13.14:413][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-08.13.14:413][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-08.13.14:413][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-08.13.14:413][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-08.13.14:416][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.05-08.13.14:433][258]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.05-08.13.14:433][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-08.13.14:433][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-08.13.14:433][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-08.13.14:433][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.10.05-08.13.14:433][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.10.05-08.13.14:435][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.10.05-08.13.14:435][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.10.05-08.13.14:435][258]LogInit: FAudioDevice initialized.
+[2022.10.05-08.13.14:435][258]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_islandMap'.
+[2022.10.05-08.13.14:489][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-08.13.14:489][258]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.05-08.13.14:490][258]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.05-21.13.14
+[2022.10.05-08.13.14:490][258]LogWorld: Bringing up level for play took: 0.000546
+[2022.10.05-08.13.14:493][258]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.10.05-08.13.14:493][258]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.05-08.13.14:493][258]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.05-08.13.14:493][258]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-08.13.14:493][258]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-08.13.14:493][258]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-08.13.14:494][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:495][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:496][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:496][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:497][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:498][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:498][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:499][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:500][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:500][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:501][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:502][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:502][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:503][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:504][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:505][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:506][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:506][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:507][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:508][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:508][258]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.13.14:547][258]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.05-08.13.14:548][258]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-08.13.14:549][258]PIE: Server logged in
+[2022.10.05-08.13.14:550][258]PIE: Play in editor total start time 0.454 seconds.
+[2022.10.05-08.13.14:593][258]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.05-08.13.17:301][456]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.05-08.13.20:114][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-08.13.20:114][734]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-08.13.20:114][734]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.05-08.13.20:120][734]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-08.13.20:121][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-08.13.20:132][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-08.13.20:137][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-08.13.20:171][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.05-08.13.20:173][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.05-08.13.20:182][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.05-08.13.20:200][735]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.10.05-08.19.49:332][367]Cmd: TRANSACTION UNDO
+[2022.10.05-08.19.49:336][367]LogEditorTransaction: Undo Add New Function
+[2022.10.05-08.25.21:355][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.05-08.25.21:356][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.055
+[2022.10.05-08.25.21:356][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GI_instance] ([2] browsable assets)...
+[2022.10.05-08.25.21:356][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/GI_instance]
+[2022.10.05-08.25.21:356][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.10.05-08.25.21:489][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GI_instance_Auto3
+[2022.10.05-08.25.21:490][645]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance_Auto385C376BE46F19D970E7195B0F12B85EC.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto3.uasset'
+[2022.10.05-08.25.21:491][645]LogFileHelpers: Auto-saving content packages took 0.135
+[2022.10.05-08.30.01:193][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.05-08.30.01:300][978]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.05-08.30.01:300][978]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instanceD845C4014AB9C252D9C782B0A4E623FD.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.05-08.30.01:320][978]AssetCheck: New page: Asset Save: GI_instance
+[2022.10.05-08.30.01:320][978]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.10.05-08.30.15:200][254]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.05-08.30.19:252][690]BlueprintLog: New page: Compile GI_instance
+[2022.10.05-08.30.19:412][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.05-08.36.02:440][817]BlueprintLog: New page: Compile GI_instance
+[2022.10.05-08.36.02:603][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.05-08.36.06:109][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.05-08.36.06:165][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.05-08.36.06:273][196]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.05-08.36.06:273][196]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance430627CE4163EE3E15E78B8320D2686C.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.05-08.36.06:290][196]AssetCheck: New page: Asset Save: GI_instance
+[2022.10.05-08.36.06:290][196]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.10.05-08.36.07:275][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.05-08.36.07:282][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-08.36.07:282][300]PIE: New page: PIE session: LV_islandMap (6/10/2022, 10:36:07 am)
+[2022.10.05-08.36.07:283][300]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-08.36.07:287][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004865s)
+[2022.10.05-08.36.07:287][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004966s)
+[2022.10.05-08.36.07:287][300]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.05-08.36.07:288][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.05-08.36.07:288][300]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.05-08.36.07:288][300]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2022.10.05-08.36.07:321][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.05-08.36.07:322][300]LogBlueprintUserMessages: [GI_instance_C_5] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.05-08.36.07:322][300]LogBlueprintUserMessages: [GI_instance_C_5] Main: Load Plant companion bonusses
+[2022.10.05-08.36.07:322][300]LogBlueprintUserMessages: [GI_instance_C_5] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.05-08.36.07:322][300]LogBlueprintUserMessages: [GI_instance_C_5] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.05-08.36.07:322][300]LogBlueprintUserMessages: [GI_instance_C_5] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.05-08.36.07:322][300]LogBlueprintUserMessages: [GI_instance_C_5] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.05-08.36.07:325][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C900E2A446F4FCB704FBC4BFE7650885) collides with (348A24564982ED800A57E499CD31F3E4)
+[2022.10.05-08.36.07:325][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:325][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:325][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C900E2A446F4FCB704FBC4BFE7650885) collides with (5946E058458B2F3692141BA19B34D6E1)
+[2022.10.05-08.36.07:325][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:325][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:326][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (348A24564982ED800A57E499CD31F3E4) collides with (C900E2A446F4FCB704FBC4BFE7650885)
+[2022.10.05-08.36.07:326][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:326][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:326][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (348A24564982ED800A57E499CD31F3E4) collides with (5946E058458B2F3692141BA19B34D6E1)
+[2022.10.05-08.36.07:326][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:327][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:327][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (348A24564982ED800A57E499CD31F3E4) collides with (3EA85F6F4DDF9D96C2248795028DC18C)
+[2022.10.05-08.36.07:327][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:327][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:328][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (5946E058458B2F3692141BA19B34D6E1) collides with (C900E2A446F4FCB704FBC4BFE7650885)
+[2022.10.05-08.36.07:328][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:329][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:329][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (5946E058458B2F3692141BA19B34D6E1) collides with (348A24564982ED800A57E499CD31F3E4)
+[2022.10.05-08.36.07:329][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:329][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:329][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (5946E058458B2F3692141BA19B34D6E1) collides with (3EA85F6F4DDF9D96C2248795028DC18C)
+[2022.10.05-08.36.07:329][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:329][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:330][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (3EA85F6F4DDF9D96C2248795028DC18C) collides with (348A24564982ED800A57E499CD31F3E4)
+[2022.10.05-08.36.07:330][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:330][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:330][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (3EA85F6F4DDF9D96C2248795028DC18C) collides with (5946E058458B2F3692141BA19B34D6E1)
+[2022.10.05-08.36.07:330][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:330][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:336][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (906D066F4C2DD1E07E43388057E37B6F) collides with (77F3C51C4130EC80067F86AF7E5E93F9)
+[2022.10.05-08.36.07:336][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:336][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:338][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (77F3C51C4130EC80067F86AF7E5E93F9) collides with (906D066F4C2DD1E07E43388057E37B6F)
+[2022.10.05-08.36.07:338][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:338][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:341][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (2C0B2D904E35671B160618A1F9A51BC1) collides with (AD8B05F647F06371243E8A805CE6A65C)
+[2022.10.05-08.36.07:342][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:342][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:343][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (065EB371465C420E152054926444F8CF) collides with (E0A5F59546C6FFE807BF48A62A022DDB)
+[2022.10.05-08.36.07:343][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:343][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:344][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (E0A5F59546C6FFE807BF48A62A022DDB) collides with (065EB371465C420E152054926444F8CF)
+[2022.10.05-08.36.07:344][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:344][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:344][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (AD8B05F647F06371243E8A805CE6A65C) collides with (2C0B2D904E35671B160618A1F9A51BC1)
+[2022.10.05-08.36.07:345][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:345][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:346][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (BDB229CD4ABB04254E1195B62EFEE0B0) collides with (596D894E473695D099B390A49FFF8813)
+[2022.10.05-08.36.07:346][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:346][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:347][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (4FDEC7684492C55F1F8485BED9845CB8) collides with (DD0B6D2A4D93108BDFC735AFBFE10B26)
+[2022.10.05-08.36.07:347][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:347][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:348][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (DD0B6D2A4D93108BDFC735AFBFE10B26) collides with (4FDEC7684492C55F1F8485BED9845CB8)
+[2022.10.05-08.36.07:348][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:348][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:349][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (596D894E473695D099B390A49FFF8813) collides with (BDB229CD4ABB04254E1195B62EFEE0B0)
+[2022.10.05-08.36.07:349][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:349][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:351][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (55A42E4E43DDA5B09C7498AD9AC62686) collides with (8A25D7C841A69B51D9DF148DAB02ACD0)
+[2022.10.05-08.36.07:351][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:351][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:355][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (624448AF45DD182B9879CABF5CB86CDB) collides with (8A25D7C841A69B51D9DF148DAB02ACD0)
+[2022.10.05-08.36.07:355][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:355][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:356][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (8A25D7C841A69B51D9DF148DAB02ACD0) collides with (55A42E4E43DDA5B09C7498AD9AC62686)
+[2022.10.05-08.36.07:356][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:356][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:356][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (8A25D7C841A69B51D9DF148DAB02ACD0) collides with (624448AF45DD182B9879CABF5CB86CDB)
+[2022.10.05-08.36.07:356][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:356][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:359][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (E0F295604B65DF500C2C719D2C2E14D1) collides with (2325FEC648EBC0A5A89C6B91A06A887A)
+[2022.10.05-08.36.07:359][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:359][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (27D2B8474853FAA93A9A0A8E93CA9CE6) collides with (2325FEC648EBC0A5A89C6B91A06A887A)
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (2325FEC648EBC0A5A89C6B91A06A887A) collides with (E0F295604B65DF500C2C719D2C2E14D1)
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (2325FEC648EBC0A5A89C6B91A06A887A) collides with (27D2B8474853FAA93A9A0A8E93CA9CE6)
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:361][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:362][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (513D60E94808392CDEB2E192BAE3483E) collides with (0D47359043D7DA49AB18D48D6D371495)
+[2022.10.05-08.36.07:362][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:362][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:364][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (0D47359043D7DA49AB18D48D6D371495) collides with (513D60E94808392CDEB2E192BAE3483E)
+[2022.10.05-08.36.07:364][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:364][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:365][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (105CD2C341B14ADB324997919B173830) collides with (C4778F3D4626396791425C8695AA1973)
+[2022.10.05-08.36.07:365][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:365][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:367][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C4778F3D4626396791425C8695AA1973) collides with (105CD2C341B14ADB324997919B173830)
+[2022.10.05-08.36.07:367][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:367][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:369][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (B5B565314808DC72ADB151B0C166DEF3) collides with (03BC043F41FAB19940D5DC9B28C77947)
+[2022.10.05-08.36.07:369][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:369][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:370][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (8FE9911840B94B2823A0D69AA65EB29F) collides with (80CBC8BB42C7BB291E96008168F9F7AB)
+[2022.10.05-08.36.07:370][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:370][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:371][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (80CBC8BB42C7BB291E96008168F9F7AB) collides with (8FE9911840B94B2823A0D69AA65EB29F)
+[2022.10.05-08.36.07:371][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:371][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:371][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (03BC043F41FAB19940D5DC9B28C77947) collides with (B5B565314808DC72ADB151B0C166DEF3)
+[2022.10.05-08.36.07:371][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:371][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:376][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (A0E38B9C418424B3F6E87BB334F0631A) collides with (5C026370453518109F6483B5A5241BE7)
+[2022.10.05-08.36.07:376][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:376][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:377][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (5C026370453518109F6483B5A5241BE7) collides with (A0E38B9C418424B3F6E87BB334F0631A)
+[2022.10.05-08.36.07:377][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:377][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:378][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (2C38A3B7405F13A7684CC1BE422E14D7) collides with (C3F216C7481FA812056879A424E93261)
+[2022.10.05-08.36.07:378][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:378][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:379][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (7E6F17E645DCCF5FA6AECD85282943CE) collides with (3B0CE224495FB5BBD49634BB5E6635CB)
+[2022.10.05-08.36.07:379][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:379][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:379][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (7E6F17E645DCCF5FA6AECD85282943CE) collides with (8A672FE84C500E94A619099D37FCD6B2)
+[2022.10.05-08.36.07:379][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:379][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:380][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (3B0CE224495FB5BBD49634BB5E6635CB) collides with (7E6F17E645DCCF5FA6AECD85282943CE)
+[2022.10.05-08.36.07:380][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:380][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:382][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C3F216C7481FA812056879A424E93261) collides with (2C38A3B7405F13A7684CC1BE422E14D7)
+[2022.10.05-08.36.07:383][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:383][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:383][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (8A672FE84C500E94A619099D37FCD6B2) collides with (7E6F17E645DCCF5FA6AECD85282943CE)
+[2022.10.05-08.36.07:383][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:383][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:385][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (144F367944195B8763F6B9B1EEB16F56) collides with (DABF58D645C7B0CE632090B5D04273A9)
+[2022.10.05-08.36.07:385][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:385][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:388][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (DABF58D645C7B0CE632090B5D04273A9) collides with (144F367944195B8763F6B9B1EEB16F56)
+[2022.10.05-08.36.07:388][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:388][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:390][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (9D7C4EE74AAB739B3C20C48401A4AA22) collides with (A75B74344A3506989D4F1F93E8B4F9DC)
+[2022.10.05-08.36.07:390][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.36.07:390][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.36.07:393][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (A75B74344A3506989D4F1F93E8B4F9DC) collides with (9D7C4EE74AAB739B3C20C48401A4AA22)
+[2022.10.05-08.36.07:393][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:393][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:396][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (A4B36E4B4BF2675034201C9FEF61A2CA) collides with (C0FC05F849EAB84A143EAEB0E2CDCECF)
+[2022.10.05-08.36.07:396][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:396][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:397][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (AE39AFBC42E80BFCAC9B0E834B4C9ADF) collides with (AEBF81AD4C18EBCC55255B84B1D629AE)
+[2022.10.05-08.36.07:397][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:397][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:398][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C0FC05F849EAB84A143EAEB0E2CDCECF) collides with (A4B36E4B4BF2675034201C9FEF61A2CA)
+[2022.10.05-08.36.07:398][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:398][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:399][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (AEBF81AD4C18EBCC55255B84B1D629AE) collides with (AE39AFBC42E80BFCAC9B0E834B4C9ADF)
+[2022.10.05-08.36.07:399][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:399][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:408][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (AF77E5244C2EB1BD06D4039D31CB8A85) collides with (0AEC2B7447F13506B213028675631B92)
+[2022.10.05-08.36.07:408][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:408][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:408][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (AF77E5244C2EB1BD06D4039D31CB8A85) collides with (9D96F028405267C1B61000B4E2E68812)
+[2022.10.05-08.36.07:408][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:408][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:409][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (0AEC2B7447F13506B213028675631B92) collides with (AF77E5244C2EB1BD06D4039D31CB8A85)
+[2022.10.05-08.36.07:409][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:409][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:409][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (0AEC2B7447F13506B213028675631B92) collides with (9D96F028405267C1B61000B4E2E68812)
+[2022.10.05-08.36.07:409][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:409][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:410][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (9D96F028405267C1B61000B4E2E68812) collides with (AF77E5244C2EB1BD06D4039D31CB8A85)
+[2022.10.05-08.36.07:410][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:410][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:410][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (9D96F028405267C1B61000B4E2E68812) collides with (0AEC2B7447F13506B213028675631B92)
+[2022.10.05-08.36.07:410][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:411][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:411][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (F7081713483EC7451851BF8ADB417104) collides with (C55D21D14E9710ADDF8388B881E69C31)
+[2022.10.05-08.36.07:411][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:411][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:411][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (F7081713483EC7451851BF8ADB417104) collides with (F7B234E8424D8C9D1DA46F9FEA1E0EBB)
+[2022.10.05-08.36.07:411][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:411][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:414][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C55D21D14E9710ADDF8388B881E69C31) collides with (F7081713483EC7451851BF8ADB417104)
+[2022.10.05-08.36.07:414][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:414][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:414][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C55D21D14E9710ADDF8388B881E69C31) collides with (F7B234E8424D8C9D1DA46F9FEA1E0EBB)
+[2022.10.05-08.36.07:414][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:414][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:416][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (F7B234E8424D8C9D1DA46F9FEA1E0EBB) collides with (F7081713483EC7451851BF8ADB417104)
+[2022.10.05-08.36.07:416][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:416][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:416][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (F7B234E8424D8C9D1DA46F9FEA1E0EBB) collides with (C55D21D14E9710ADDF8388B881E69C31)
+[2022.10.05-08.36.07:416][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:416][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:417][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (21DF7108405F33434FEC7B8197B34849) collides with (2E0DE84442BA20BDDFC4CB984A4A208A)
+[2022.10.05-08.36.07:417][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:417][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:418][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (2E0DE84442BA20BDDFC4CB984A4A208A) collides with (21DF7108405F33434FEC7B8197B34849)
+[2022.10.05-08.36.07:418][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:418][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:427][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (EE6061D540DA09E3C3A18393E7B2D5D9) collides with (7829E62D402F9F76493D349A837C4502)
+[2022.10.05-08.36.07:427][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:427][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:427][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (EE6061D540DA09E3C3A18393E7B2D5D9) collides with (4CB7AD0549DD72E9A1F385ACBF304F7C)
+[2022.10.05-08.36.07:427][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:427][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (7829E62D402F9F76493D349A837C4502) collides with (EE6061D540DA09E3C3A18393E7B2D5D9)
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (7829E62D402F9F76493D349A837C4502) collides with (4CB7AD0549DD72E9A1F385ACBF304F7C)
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (7829E62D402F9F76493D349A837C4502) collides with (C27926124E4FD73D950BAD8151D94862)
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:428][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:429][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (4CB7AD0549DD72E9A1F385ACBF304F7C) collides with (EE6061D540DA09E3C3A18393E7B2D5D9)
+[2022.10.05-08.36.07:429][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:429][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:429][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (4CB7AD0549DD72E9A1F385ACBF304F7C) collides with (7829E62D402F9F76493D349A837C4502)
+[2022.10.05-08.36.07:430][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:430][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.36.07:430][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (F91B08B04150C9B66C877ABA0240DADE) collides with (C27926124E4FD73D950BAD8151D94862)
+[2022.10.05-08.36.07:431][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:431][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:431][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C27926124E4FD73D950BAD8151D94862) collides with (7829E62D402F9F76493D349A837C4502)
+[2022.10.05-08.36.07:431][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:431][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:431][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (C27926124E4FD73D950BAD8151D94862) collides with (F91B08B04150C9B66C877ABA0240DADE)
+[2022.10.05-08.36.07:431][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:431][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:434][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (787E50DE4F0CF584555E02A9E28C2EA1) collides with (CE2A6F4C47E4F0AD5B34328AD03BA141)
+[2022.10.05-08.36.07:434][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:434][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:435][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (3FFF18F94C771DE077A415B3B8CFDCEA) collides with (5053B4FD47B5033EA5211AB8346C1200)
+[2022.10.05-08.36.07:435][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:435][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.36.07:436][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (5053B4FD47B5033EA5211AB8346C1200) collides with (3FFF18F94C771DE077A415B3B8CFDCEA)
+[2022.10.05-08.36.07:437][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.36.07:437][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.36.07:437][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (5053B4FD47B5033EA5211AB8346C1200) collides with (650D60A94C7FC1C7428C52B7F023C5BD)
+[2022.10.05-08.36.07:437][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:437][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:438][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (650D60A94C7FC1C7428C52B7F023C5BD) collides with (5053B4FD47B5033EA5211AB8346C1200)
+[2022.10.05-08.36.07:438][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:438][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.36.07:439][300]LogBlueprintUserMessages: [GI_instance_C_5] plant (CE2A6F4C47E4F0AD5B34328AD03BA141) collides with (787E50DE4F0CF584555E02A9E28C2EA1)
+[2022.10.05-08.36.07:439][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:439][300]LogBlueprintUserMessages: [GI_instance_C_5] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.36.07:439][300]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.05-08.36.07:439][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-08.36.07:439][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-08.36.07:439][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-08.36.07:439][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-08.36.07:439][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-08.36.07:439][300]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.05-08.36.07:439][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-08.36.07:439][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-08.36.07:440][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-08.36.07:440][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-08.36.07:440][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-08.36.07:469][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.05-08.36.07:487][300]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.05-08.36.07:488][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-08.36.07:488][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-08.36.07:488][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-08.36.07:488][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.10.05-08.36.07:488][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.10.05-08.36.07:489][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.10.05-08.36.07:489][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.10.05-08.36.07:489][300]LogInit: FAudioDevice initialized.
+[2022.10.05-08.36.07:489][300]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV_islandMap'.
+[2022.10.05-08.36.07:551][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-08.36.07:551][300]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.05-08.36.07:552][300]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.05-21.36.07
+[2022.10.05-08.36.07:553][300]LogWorld: Bringing up level for play took: 0.000784
+[2022.10.05-08.36.07:555][300]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.10.05-08.36.07:555][300]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.05-08.36.07:556][300]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.05-08.36.07:556][300]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-08.36.07:556][300]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-08.36.07:556][300]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-08.36.07:557][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:558][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:558][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:559][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:560][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:561][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:561][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:562][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:563][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:563][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:564][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:565][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:566][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:566][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:567][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:568][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:568][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:569][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:569][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:570][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:571][300]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.36.07:608][300]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.05-08.36.07:609][300]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-08.36.07:613][300]PIE: Server logged in
+[2022.10.05-08.36.07:615][300]PIE: Play in editor total start time 0.333 seconds.
+[2022.10.05-08.36.07:635][300]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.05-08.36.41:949][156]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.05-08.36.41:949][156]LogEditorClassViewer: Warning: Class /Game/Blueprints/BPSkysphere.BPSkysphere_C has parent /Game/Levels/BP_skysphere.BP_skysphere_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.05-08.38.10:003][220]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.607 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.05-08.43.19:313][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-08.43.19:313][838]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-08.43.19:316][838]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.05-08.43.19:319][838]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-08.43.19:321][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-08.43.19:331][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-08.43.19:335][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-08.43.19:370][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.05-08.43.19:371][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.05-08.43.19:379][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.05-08.43.19:393][839]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.10.05-08.43.40:916][315]BlueprintLog: New page: Compile GI_instance
+[2022.10.05-08.43.41:072][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.05-08.43.42:875][510]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.05-08.43.42:881][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-08.43.42:882][510]PIE: New page: PIE session: LV_islandMap (6/10/2022, 10:43:42 am)
+[2022.10.05-08.43.42:882][510]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-08.43.42:887][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004710s)
+[2022.10.05-08.43.42:887][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.004787s)
+[2022.10.05-08.43.42:887][510]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.05-08.43.42:887][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.05-08.43.42:887][510]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.05-08.43.42:887][510]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2022.10.05-08.43.42:923][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.05-08.43.42:924][510]LogBlueprintUserMessages: [GI_instance_C_6] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.05-08.43.42:925][510]LogBlueprintUserMessages: [GI_instance_C_6] Main: Load Plant companion bonusses
+[2022.10.05-08.43.42:925][510]LogBlueprintUserMessages: [GI_instance_C_6] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.05-08.43.42:925][510]LogBlueprintUserMessages: [GI_instance_C_6] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.05-08.43.42:925][510]LogBlueprintUserMessages: [GI_instance_C_6] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.05-08.43.42:925][510]LogBlueprintUserMessages: [GI_instance_C_6] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.05-08.43.42:929][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (268CB3CD483084986608CBB53B52166B) collides with (1E89EDCA48FE724783D19D923C579412)
+[2022.10.05-08.43.42:929][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:931][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (1E89EDCA48FE724783D19D923C579412) collides with (268CB3CD483084986608CBB53B52166B)
+[2022.10.05-08.43.42:931][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:933][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (37B6F58240E497AFE13512A36884F126) collides with (BAD099854D5AB96AAB0A18A9E5A018A0)
+[2022.10.05-08.43.42:933][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:936][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (BAD099854D5AB96AAB0A18A9E5A018A0) collides with (37B6F58240E497AFE13512A36884F126)
+[2022.10.05-08.43.42:936][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:940][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (1991A5E3449092BF9B652AAAE2719C6D) collides with (DC407C284ABDE8B585DBF0BD1CC85599)
+[2022.10.05-08.43.42:941][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:941][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (DC407C284ABDE8B585DBF0BD1CC85599) collides with (1991A5E3449092BF9B652AAAE2719C6D)
+[2022.10.05-08.43.42:941][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:942][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (111C0AC54E7A3F90D1F8689C37640147) collides with (85AB1E824C260B180FF2D1B56CDC28FD)
+[2022.10.05-08.43.42:943][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.43.42:946][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (85AB1E824C260B180FF2D1B56CDC28FD) collides with (111C0AC54E7A3F90D1F8689C37640147)
+[2022.10.05-08.43.42:946][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.43.42:948][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (511A9ECC4C27208FE34559BFEB788957) collides with (EDCDA58842B2EB5C2094BFA2773D0708)
+[2022.10.05-08.43.42:948][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:949][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (EDCDA58842B2EB5C2094BFA2773D0708) collides with (511A9ECC4C27208FE34559BFEB788957)
+[2022.10.05-08.43.42:949][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:958][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (922A8C8E48FB505B5F80EDB4EF4EA9C5) collides with (CFE78B90432CD3B86A262FAF73072E45)
+[2022.10.05-08.43.42:958][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.43.42:958][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (922A8C8E48FB505B5F80EDB4EF4EA9C5) collides with (6FE9729C42B1CC5FB0C18EA6D9B036E5)
+[2022.10.05-08.43.42:958][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.43.42:959][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (CFE78B90432CD3B86A262FAF73072E45) collides with (922A8C8E48FB505B5F80EDB4EF4EA9C5)
+[2022.10.05-08.43.42:959][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.43.42:959][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (CFE78B90432CD3B86A262FAF73072E45) collides with (6FE9729C42B1CC5FB0C18EA6D9B036E5)
+[2022.10.05-08.43.42:959][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:960][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (6FE9729C42B1CC5FB0C18EA6D9B036E5) collides with (922A8C8E48FB505B5F80EDB4EF4EA9C5)
+[2022.10.05-08.43.42:961][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.43.42:961][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (6FE9729C42B1CC5FB0C18EA6D9B036E5) collides with (CFE78B90432CD3B86A262FAF73072E45)
+[2022.10.05-08.43.42:961][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:961][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (05769B0E416376959835108A54408E77) collides with (265BE8564F51F56CCB6997B8EE2B5C58)
+[2022.10.05-08.43.42:961][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:963][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (265BE8564F51F56CCB6997B8EE2B5C58) collides with (05769B0E416376959835108A54408E77)
+[2022.10.05-08.43.42:963][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:964][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (69EAC0BC4D1C378D1CE8E4817DCED34D) collides with (61EFFD7748422D20EC3387A85F3C4F73)
+[2022.10.05-08.43.42:964][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:965][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (61EFFD7748422D20EC3387A85F3C4F73) collides with (69EAC0BC4D1C378D1CE8E4817DCED34D)
+[2022.10.05-08.43.42:965][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:965][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (61EFFD7748422D20EC3387A85F3C4F73) collides with (6C5DBBC140023D1DDE8E9BA44A4B33B6)
+[2022.10.05-08.43.42:965][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:966][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (6C5DBBC140023D1DDE8E9BA44A4B33B6) collides with (61EFFD7748422D20EC3387A85F3C4F73)
+[2022.10.05-08.43.42:966][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:967][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (494DDD904205FF36F3F728B2D7F9E253) collides with (3D398B7F4544346DCCB31DA049FA32D9)
+[2022.10.05-08.43.42:968][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:968][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (494DDD904205FF36F3F728B2D7F9E253) collides with (95DAD80B4520177B148776AA4A0B88C6)
+[2022.10.05-08.43.42:968][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.43.42:968][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (3D398B7F4544346DCCB31DA049FA32D9) collides with (494DDD904205FF36F3F728B2D7F9E253)
+[2022.10.05-08.43.42:969][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:969][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (3D398B7F4544346DCCB31DA049FA32D9) collides with (95DAD80B4520177B148776AA4A0B88C6)
+[2022.10.05-08.43.42:969][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.43.42:969][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (95DAD80B4520177B148776AA4A0B88C6) collides with (494DDD904205FF36F3F728B2D7F9E253)
+[2022.10.05-08.43.42:970][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.43.42:970][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (95DAD80B4520177B148776AA4A0B88C6) collides with (3D398B7F4544346DCCB31DA049FA32D9)
+[2022.10.05-08.43.42:970][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.43.42:977][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (1ABFD62E44454723C98C729EC9C1D24A) collides with (02A037174C2DF849C3B91AB78B060AA1)
+[2022.10.05-08.43.42:977][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:977][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (1ABFD62E44454723C98C729EC9C1D24A) collides with (5C5B23C2492C2E446AB322B4D8579E43)
+[2022.10.05-08.43.42:977][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:977][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (1ABFD62E44454723C98C729EC9C1D24A) collides with (522F01044DAA1D0C99B7A9A455ED1134)
+[2022.10.05-08.43.42:977][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:979][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (02A037174C2DF849C3B91AB78B060AA1) collides with (1ABFD62E44454723C98C729EC9C1D24A)
+[2022.10.05-08.43.42:979][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:979][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (02A037174C2DF849C3B91AB78B060AA1) collides with (5C5B23C2492C2E446AB322B4D8579E43)
+[2022.10.05-08.43.42:979][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:979][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (02A037174C2DF849C3B91AB78B060AA1) collides with (522F01044DAA1D0C99B7A9A455ED1134)
+[2022.10.05-08.43.42:979][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:980][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (5C5B23C2492C2E446AB322B4D8579E43) collides with (1ABFD62E44454723C98C729EC9C1D24A)
+[2022.10.05-08.43.42:980][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:980][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (5C5B23C2492C2E446AB322B4D8579E43) collides with (02A037174C2DF849C3B91AB78B060AA1)
+[2022.10.05-08.43.42:980][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:981][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (522F01044DAA1D0C99B7A9A455ED1134) collides with (1ABFD62E44454723C98C729EC9C1D24A)
+[2022.10.05-08.43.42:981][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:981][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (522F01044DAA1D0C99B7A9A455ED1134) collides with (02A037174C2DF849C3B91AB78B060AA1)
+[2022.10.05-08.43.42:982][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:984][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (F792D86B4FE5D5ACB5621F98D6730833) collides with (7C0C741C462D9366F162D59E3744AFC6)
+[2022.10.05-08.43.42:984][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:987][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (7C0C741C462D9366F162D59E3744AFC6) collides with (F792D86B4FE5D5ACB5621F98D6730833)
+[2022.10.05-08.43.42:987][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.42:989][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (E0B9607B4C8D87B153CFE0909782177B) collides with (42D0D83F4D4980DF79AB3491DE0DEFD7)
+[2022.10.05-08.43.42:989][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:990][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (C992864A4B79A6035CF2158758DF3E91) collides with (3ED1CF0C4FE56FE5B6F8F9BD998F7FA9)
+[2022.10.05-08.43.42:990][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:990][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (42D0D83F4D4980DF79AB3491DE0DEFD7) collides with (E0B9607B4C8D87B153CFE0909782177B)
+[2022.10.05-08.43.42:990][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:992][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (3ED1CF0C4FE56FE5B6F8F9BD998F7FA9) collides with (C992864A4B79A6035CF2158758DF3E91)
+[2022.10.05-08.43.42:992][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.42:994][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (62EBCF9346BC4C06CE7934B4010F86B3) collides with (3C8571204D22E9D2F9615FAB94B4188F)
+[2022.10.05-08.43.42:994][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.43.42:997][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (3C8571204D22E9D2F9615FAB94B4188F) collides with (62EBCF9346BC4C06CE7934B4010F86B3)
+[2022.10.05-08.43.42:997][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.43.42:998][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (24ED8FBD492A71514B92BE83E168942C) collides with (2283BC0646A210B640A1EFBF902D3186)
+[2022.10.05-08.43.42:998][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.43:001][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (2283BC0646A210B640A1EFBF902D3186) collides with (24ED8FBD492A71514B92BE83E168942C)
+[2022.10.05-08.43.43:001][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.43:005][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (733C5E0644038D9D814B919A69D8B45C) collides with (EB5BEC8A47C844935118F692032771E4)
+[2022.10.05-08.43.43:005][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:10.0
+[2022.10.05-08.43.43:006][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (EB5BEC8A47C844935118F692032771E4) collides with (733C5E0644038D9D814B919A69D8B45C)
+[2022.10.05-08.43.43:006][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:-10.0
+[2022.10.05-08.43.43:008][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (A545C5F14AAE002694AC6FB68E0FCE9F) collides with (3F9855A54CA4488F9F4C0B94E621D56A)
+[2022.10.05-08.43.43:008][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.43:010][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (3F9855A54CA4488F9F4C0B94E621D56A) collides with (A545C5F14AAE002694AC6FB68E0FCE9F)
+[2022.10.05-08.43.43:010][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.43:011][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (5B7EA60D4EF080C1698AABBD104BFB3F) collides with (5D94BC88423172745F00FB998A3004D2)
+[2022.10.05-08.43.43:011][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.43:012][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (5D94BC88423172745F00FB998A3004D2) collides with (5B7EA60D4EF080C1698AABBD104BFB3F)
+[2022.10.05-08.43.43:012][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)-10.0:-10.0
+[2022.10.05-08.43.43:013][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (9D29C9344BF64F7C9A46459A668474DD) collides with (CD928D974355A3A5C07250AD487660A3)
+[2022.10.05-08.43.43:013][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.43:015][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (CD928D974355A3A5C07250AD487660A3) collides with (9D29C9344BF64F7C9A46459A668474DD)
+[2022.10.05-08.43.43:015][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.43:017][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (5D176273429CA7B639D007B655E31F88) collides with (190A696D45785FF527454FA593DE0FB7)
+[2022.10.05-08.43.43:017][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.43.43:019][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (190A696D45785FF527454FA593DE0FB7) collides with (5D176273429CA7B639D007B655E31F88)
+[2022.10.05-08.43.43:019][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)10.0:10.0
+[2022.10.05-08.43.43:024][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (84823C5E4226E379F5344C88E5A10926) collides with (8A4CA6AD4AD01C14489E138515E577D3)
+[2022.10.05-08.43.43:024][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.43:026][510]LogBlueprintUserMessages: [GI_instance_C_6] plant (8A4CA6AD4AD01C14489E138515E577D3) collides with (84823C5E4226E379F5344C88E5A10926)
+[2022.10.05-08.43.43:026][510]LogBlueprintUserMessages: [GI_instance_C_6] type AAquatic) Type B (Aquatic)0.0:0.0
+[2022.10.05-08.43.43:031][510]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.10.05-08.43.43:031][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-08.43.43:031][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-08.43.43:031][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-08.43.43:031][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-08.43.43:031][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-08.43.43:031][510]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.05-08.43.43:031][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-08.43.43:031][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-08.43.43:032][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-08.43.43:032][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-08.43.43:032][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-08.43.43:034][510]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.05-08.43.43:051][510]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.05-08.43.43:051][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-08.43.43:051][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-08.43.43:051][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-08.43.43:051][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.10.05-08.43.43:051][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.10.05-08.43.43:052][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.10.05-08.43.43:052][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.10.05-08.43.43:052][510]LogInit: FAudioDevice initialized.
+[2022.10.05-08.43.43:052][510]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_islandMap'.
+[2022.10.05-08.43.43:103][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-08.43.43:103][510]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.05-08.43.43:103][510]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.05-21.43.43
+[2022.10.05-08.43.43:104][510]LogWorld: Bringing up level for play took: 0.000757
+[2022.10.05-08.43.43:106][510]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.10.05-08.43.43:107][510]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.05-08.43.43:107][510]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.05-08.43.43:107][510]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-08.43.43:107][510]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.05-08.43.43:107][510]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-08.43.43:108][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:109][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:110][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:110][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:111][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:112][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:114][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:114][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:115][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:116][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:116][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:117][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:118][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementFirewintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:118][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:119][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementEarthwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:120][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:120][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:121][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWaterwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:121][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:122][510]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4438.917 Y=7573.168 Z=19795.069] for [BP_Island_C]
+[2022.10.05-08.43.43:123][510]LogBlueprintUserMessages: [LV_islandMap_C_0] spawned new island with elementWindwintermodifiersummer modifierspring modifierautummodifier
+[2022.10.05-08.43.43:162][510]LogBlueprintUserMessages: [PC_default_C_0] Main: Configure HUD
+[2022.10.05-08.43.43:163][510]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.05-08.43.43:165][510]PIE: Server logged in
+[2022.10.05-08.43.43:167][510]PIE: Play in editor total start time 0.286 seconds.
+[2022.10.05-08.43.43:183][510]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.05-08.43.51:179][ 91]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.10.05-08.43.53:131][262]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.05-08.44.15:201][200]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.05-08.44.22:614][835]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Flying
+[2022.10.05-08.44.24:006][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Walking
+[2022.10.05-08.45.06:353][121]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Flying
+[2022.10.05-08.45.10:772][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Walking
+[2022.10.05-08.49.40:723][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-08.49.40:723][431]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.05-08.49.40:725][431]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.05-08.49.40:728][431]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-08.49.40:730][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-08.49.40:742][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-08.49.40:746][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-08.49.40:784][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-08.49.40:785][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.10.05-08.49.40:787][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.10.05-08.49.40:796][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.05-08.49.40:809][432]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.10.05-08.49.45:773][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.05-08.49.45:837][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.05-08.49.45:947][706]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.05-08.49.45:948][706]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance35F4FA184698EB66E2B80C93B9019916.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.05-08.49.45:963][706]AssetCheck: New page: Asset Save: GI_instance
+[2022.10.05-08.49.45:963][706]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
