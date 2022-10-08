@@ -1,12 +1,12 @@
 ﻿Row Name,planttypeA,planttypeB,planteffectA,planteffectB,notes
 Row1,Roots,Roots,-10,-10,heavy mineral use
-Row2,Roots,Herbs,10,10,mineral mining
+Row2,Roots,Herbs,0,10,mineral mining
 Row3,Roots,Vines,10,10,mineral mining
-Row4,Roots,Shrubs,10,10,mineral mining
+Row4,Roots,Shrubs,5,5,mineral mining
 Row5,Roots,Trees,10,10,mineral mining
 Row6,Roots,Fungus,0,0,none
 Row7,Roots,Aquatic,-10,0,too wet
-Row8,Herbs,Roots,10,10,mineral mining
+Row8,Herbs,Roots,10,0,mineral mining
 Row9,Herbs,Herbs,-10,-10,heavy mineral use
 Row10,Herbs,Vines,-10,-10,smother
 Row11,Herbs,Shrubs,-10,-10,heavy mineral use
@@ -20,7 +20,7 @@ Row18,Vines,Shrubs,-10,-10,smother
 Row19,Vines,Trees,10,-10,benefit vine
 Row20,Vines,Fungus,0,0,none
 Row21,Vines,Aquatic,0,0,none
-Row22,Shrubs,Roots,10,-10,mineral mining
+Row22,Shrubs,Roots,5,5,mineral mining
 Row23,Shrubs,Herbs,-10,-10,heavy mineral use
 Row24,Shrubs,Vines,-10,-10,smother
 Row25,Shrubs,Shrubs,-10,-10,heavy mineral use
