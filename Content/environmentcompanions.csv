@@ -1,0 +1,8 @@
+﻿Row Name,planttype,environmenttype,planteffectA,notes
+Row1,Roots,solid,10,
+Row2,Herbs,solid,7,
+Row3,Vines,liquid,10,
+Row4,Shrubs,liquid,5,
+Row5,Trees,solid,10,
+Row6,Fungus,solid,0,
+Row7,Aquatic,solid,0,
