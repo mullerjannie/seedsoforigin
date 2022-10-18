@@ -1440,3 +1440,1108 @@ Script Stack (0 frames):
 [2022.10.18-02.07.12:557][262]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer4487F496448CEDDF42B9F5800F2EC7C7.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
 [2022.10.18-02.07.12:572][262]AssetCheck: New page: Asset Save: GS_singlePlayer
 [2022.10.18-02.07.12:573][262]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.18-02.14.20:178][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.18-02.14.20:185][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-02.14.20:185][183]PIE: New page: PIE session: LV_islandMap (19/10/2022, 4:14:20 am)
+[2022.10.18-02.14.20:186][183]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.18-02.14.20:192][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007182s)
+[2022.10.18-02.14.20:192][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.007246s)
+[2022.10.18-02.14.20:192][183]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.18-02.14.20:193][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-02.14.20:193][183]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.18-02.14.20:193][183]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2022.10.18-02.14.20:234][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.18-02.14.20:235][183]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.18-02.14.20:235][183]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant companion bonusses
+[2022.10.18-02.14.20:235][183]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant environment companion bonusses
+[2022.10.18-02.14.20:235][183]LogBlueprintUserMessages: [GI_instance_C_2] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.18-02.14.20:235][183]LogBlueprintUserMessages: [GI_instance_C_2] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.18-02.14.20:235][183]LogBlueprintUserMessages: [GI_instance_C_2] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.18-02.14.20:235][183]LogBlueprintUserMessages: [GI_instance_C_2] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.18-02.14.20:236][183]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.18-02.14.20:236][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-02.14.20:236][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-02.14.20:236][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-02.14.20:236][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-02.14.20:236][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-02.14.20:236][183]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.18-02.14.20:236][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-02.14.20:236][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-02.14.20:236][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-02.14.20:236][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-02.14.20:236][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-02.14.20:238][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.18-02.14.20:254][183]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.18-02.14.20:254][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-02.14.20:254][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-02.14.20:254][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-02.14.20:255][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.10.18-02.14.20:255][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.10.18-02.14.20:256][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.10.18-02.14.20:256][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.10.18-02.14.20:256][183]LogInit: FAudioDevice initialized.
+[2022.10.18-02.14.20:256][183]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_islandMap'.
+[2022.10.18-02.14.20:290][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-02.14.20:290][183]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.18-02.14.20:290][183]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.18-15.14.20
+[2022.10.18-02.14.20:292][183]LogWorld: Bringing up level for play took: 0.000730
+[2022.10.18-02.14.20:294][183]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.10.18-02.14.20:294][183]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.18-02.14.20:295][183]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.18-02.14.20:295][183]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.18-02.14.20:295][183]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.18-02.14.20:295][183]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.18-02.14.20:350][183]LogBlueprintUserMessages: [PC_default_C_0] BP_Island_C_13
+[2022.10.18-02.14.20:350][183]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.18-02.14.20:352][183]PIE: Server logged in
+[2022.10.18-02.14.20:353][183]PIE: Play in editor total start time 0.167 seconds.
+[2022.10.18-02.14.20:368][183]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.18-02.14.22:174][332]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.18-02.14.23:982][515]LogBlueprintUserMessages: [PC_default_C_0] Run
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GI_instance_C_2] get day for sequence1legnth of day structure array7
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Month: Fetch new month for current index
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Fetch new season for current index
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp0newtemp-32
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp1newtemp4
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp3newtemp9
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp4newtemp7
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp6newtemp4
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp7newtemp9
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp8newtemp7
+[2022.10.18-02.14.23:983][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp9newtemp-35
+[2022.10.18-02.14.23:984][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp10newtemp11
+[2022.10.18-02.14.23:984][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp12newtemp9
+[2022.10.18-02.14.23:984][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp13newtemp3
+[2022.10.18-02.14.23:984][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp14newtemp-37
+[2022.10.18-02.14.23:984][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp16newtemp-30
+[2022.10.18-02.14.23:984][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp17newtemp5
+[2022.10.18-02.14.23:984][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp18newtemp13
+[2022.10.18-02.14.23:984][515]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp20newtemp-36
+[2022.10.18-02.14.24:183][536]LogBlueprintUserMessages: [PC_default_C_0] Pause
+[2022.10.18-02.14.24:561][574]LogBlueprintUserMessages: [PC_default_C_0] Run
+[2022.10.18-02.14.25:114][631]LogBlueprintUserMessages: [PC_default_C_0] Pause
+[2022.10.18-02.14.26:335][757]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.14.27:032][825]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.14.27:032][825]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.14.28:977][ 24]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.14.29:158][ 42]LogBlueprintUserMessages: [BP_Plant_C_1] Start Overlap: Primary Actor[BP_Plant_C_1],Other Actor[BP_Plant_C_0]
+[2022.10.18-02.14.29:158][ 42]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.29:544][ 81]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.14.29:544][ 81]LogBlueprintUserMessages: [BP_Plant_C_1] Primary actor:BP_Plant_C_1Overlapping with actor:BP_Plant_C_0
+[2022.10.18-02.14.29:544][ 81]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.29:544][ 81]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.29:544][ 81]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.14.30:460][175]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.14.30:576][186]LogBlueprintUserMessages: [BP_Plant_C_2] Start Overlap: Primary Actor[BP_Plant_C_2],Other Actor[BP_Plant_C_1]
+[2022.10.18-02.14.30:576][186]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.30:674][195]LogBlueprintUserMessages: [BP_Plant_C_2] Stop Overlap: Primary Actor[BP_Plant_C_2],Other Actor[BP_Plant_C_1]
+[2022.10.18-02.14.30:945][221]LogBlueprintUserMessages: [BP_Plant_C_2] Start Overlap: Primary Actor[BP_Plant_C_2],Other Actor[BP_Plant_C_0]
+[2022.10.18-02.14.30:945][221]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.30:987][225]LogBlueprintUserMessages: [BP_Plant_C_2] Start Overlap: Primary Actor[BP_Plant_C_2],Other Actor[BP_Plant_C_1]
+[2022.10.18-02.14.30:987][225]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.31:639][289]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.14.31:639][289]LogBlueprintUserMessages: [BP_Plant_C_2] Primary actor:BP_Plant_C_2Overlapping with actor:BP_Plant_C_0
+[2022.10.18-02.14.31:640][289]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.31:640][289]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.31:640][289]LogBlueprintUserMessages: [BP_Plant_C_2] Primary actor:BP_Plant_C_2Overlapping with actor:BP_Plant_C_1
+[2022.10.18-02.14.31:640][289]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.31:640][289]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.31:640][289]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.14.48:327][689]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant mode
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [BP_Plant_C_1] Primary actor:BP_Plant_C_1Overlapping with actor:BP_Plant_C_0
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [BP_Plant_C_1] Primary actor:BP_Plant_C_1Overlapping with actor:BP_Plant_C_2
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[0]
+[2022.10.18-02.14.51:996][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.14.51:997][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[2]
+[2022.10.18-02.14.51:997][ 49]LogBlueprintUserMessages: [GI_instance_C_2] Index After[1]
+[2022.10.18-02.14.59:693][812]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.14.59:693][812]LogBlueprintUserMessages: [BP_Plant_C_0] Primary actor:BP_Plant_C_0Overlapping with actor:BP_Plant_C_2
+[2022.10.18-02.14.59:693][812]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.59:693][812]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.14.59:693][812]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.14.59:693][812]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.14.59:693][812]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.15.05:150][345]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.15.05:441][373]LogBlueprintUserMessages: [BP_Plant_C_3] Start Overlap: Primary Actor[BP_Plant_C_3],Other Actor[BP_Plant_C_2]
+[2022.10.18-02.15.05:441][373]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.06:021][427]LogBlueprintUserMessages: [BP_Plant_C_3] Stop Overlap: Primary Actor[BP_Plant_C_3],Other Actor[BP_Plant_C_2]
+[2022.10.18-02.15.06:350][458]LogBlueprintUserMessages: [BP_Plant_C_3] Start Overlap: Primary Actor[BP_Plant_C_3],Other Actor[BP_Plant_C_2]
+[2022.10.18-02.15.06:350][458]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.06:661][487]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.15.06:661][487]LogBlueprintUserMessages: [BP_Plant_C_3] Primary actor:BP_Plant_C_3Overlapping with actor:BP_Plant_C_2
+[2022.10.18-02.15.06:661][487]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.06:662][487]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.06:662][487]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.15.08:014][617]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.15.08:396][652]LogBlueprintUserMessages: [BP_Plant_C_4] Start Overlap: Primary Actor[BP_Plant_C_4],Other Actor[BP_Plant_C_3]
+[2022.10.18-02.15.08:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.08:981][708]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.15.08:981][708]LogBlueprintUserMessages: [BP_Plant_C_4] Primary actor:BP_Plant_C_4Overlapping with actor:BP_Plant_C_3
+[2022.10.18-02.15.08:981][708]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.08:981][708]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.08:981][708]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.15.09:859][793]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.15.10:088][815]LogBlueprintUserMessages: [BP_Plant_C_5] Start Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_4]
+[2022.10.18-02.15.10:089][815]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:254][830]LogBlueprintUserMessages: [BP_Plant_C_5] Start Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_3]
+[2022.10.18-02.15.10:254][830]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:460][849]LogBlueprintUserMessages: [BP_Plant_C_5] Start Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_2]
+[2022.10.18-02.15.10:460][849]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_4
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_3
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_2
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.10:909][890]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.15.11:876][981]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.15.12:110][  3]LogBlueprintUserMessages: [BP_Plant_C_6] Start Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_3]
+[2022.10.18-02.15.12:110][  3]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.12:111][  3]LogBlueprintUserMessages: [BP_Plant_C_6] Start Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_4]
+[2022.10.18-02.15.12:111][  3]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.12:201][ 11]LogBlueprintUserMessages: [BP_Plant_C_6] Stop Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_4]
+[2022.10.18-02.15.12:478][ 35]LogBlueprintUserMessages: [BP_Plant_C_6] Start Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_2]
+[2022.10.18-02.15.12:478][ 35]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.13:007][ 81]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.15.13:007][ 81]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_3
+[2022.10.18-02.15.13:007][ 81]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.13:007][ 81]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.13:007][ 81]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_2
+[2022.10.18-02.15.13:007][ 81]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.13:007][ 81]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.13:007][ 81]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.15.14:308][204]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.15.14:480][220]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_4]
+[2022.10.18-02.15.14:480][220]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.14:491][221]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_5]
+[2022.10.18-02.15.14:491][221]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.14:514][223]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_3]
+[2022.10.18-02.15.14:514][223]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.14:526][224]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_2]
+[2022.10.18-02.15.14:526][224]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.14:582][229]LogBlueprintUserMessages: [BP_Plant_C_7] Stop Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_3]
+[2022.10.18-02.15.14:582][229]LogBlueprintUserMessages: [BP_Plant_C_7] Stop Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_4]
+[2022.10.18-02.15.15:225][287]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.15.15:225][287]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_2
+[2022.10.18-02.15.15:226][287]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.15:226][287]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.15:226][287]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_5
+[2022.10.18-02.15.15:226][287]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.15:226][287]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.15:226][287]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.15.16:251][380]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.15.16:444][396]LogBlueprintUserMessages: [BP_Plant_C_8] Start Overlap: Primary Actor[BP_Plant_C_8],Other Actor[BP_Plant_C_4]
+[2022.10.18-02.15.16:445][396]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.16:598][409]LogBlueprintUserMessages: [BP_Plant_C_8] Start Overlap: Primary Actor[BP_Plant_C_8],Other Actor[BP_Plant_C_5]
+[2022.10.18-02.15.16:598][409]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.16:916][437]LogBlueprintUserMessages: [BP_Plant_C_8] Start Overlap: Primary Actor[BP_Plant_C_8],Other Actor[BP_Plant_C_7]
+[2022.10.18-02.15.16:916][437]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [BP_Plant_C_8] Primary actor:BP_Plant_C_8Overlapping with actor:BP_Plant_C_4
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [BP_Plant_C_8] Primary actor:BP_Plant_C_8Overlapping with actor:BP_Plant_C_5
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [BP_Plant_C_8] Primary actor:BP_Plant_C_8Overlapping with actor:BP_Plant_C_7
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.17:582][497]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.15.19:806][695]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] delete cancelled
+[2022.10.18-02.15.20:411][751]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant mode
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_4
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_3
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_2
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_7
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_8
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.28:468][525]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[0]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index After[1]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[2]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index After[2]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[4]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index After[3]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[5]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index After[4]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[6]
+[2022.10.18-02.15.28:469][525]LogBlueprintUserMessages: [GI_instance_C_2] Index After[5]
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [BP_Plant_C_2] Primary actor:BP_Plant_C_2Overlapping with actor:BP_Plant_C_3
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [BP_Plant_C_2] Primary actor:BP_Plant_C_2Overlapping with actor:BP_Plant_C_7
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [BP_Plant_C_2] Primary actor:BP_Plant_C_2Overlapping with actor:BP_Plant_C_6
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.55:537][181]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[2]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index After[1]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[3]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index After[2]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[4]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index After[3]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[5]
+[2022.10.18-02.15.55:538][181]LogBlueprintUserMessages: [GI_instance_C_2] Index After[4]
+[2022.10.18-02.16.00:395][652]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.16.00:395][652]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_8
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[0]
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index After[1]
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[2]
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index After[2]
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[4]
+[2022.10.18-02.16.00:396][652]LogBlueprintUserMessages: [GI_instance_C_2] Index After[3]
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_3
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[0]
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Index After[1]
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[3]
+[2022.10.18-02.16.06:354][228]LogBlueprintUserMessages: [GI_instance_C_2] Index After[2]
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [BP_Plant_C_3] Primary actor:BP_Plant_C_3Overlapping with actor:BP_Plant_C_4
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[2]
+[2022.10.18-02.16.08:832][470]LogBlueprintUserMessages: [GI_instance_C_2] Index After[1]
+[2022.10.18-02.16.09:871][571]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.16.09:871][571]LogBlueprintUserMessages: [BP_Plant_C_4] Primary actor:BP_Plant_C_4Overlapping with actor:BP_Plant_C_8
+[2022.10.18-02.16.09:871][571]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.16.09:871][571]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.16.09:871][571]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.16.09:871][571]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.16.09:871][571]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.16.22:673][834]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.16.22:673][834]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.16.22:673][834]LogScript: Warning: Attempted to access index 0 from array catalogue_plants of length 0!
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_8
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.16.22:674][834]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array catalogue_plants of length 0!". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.16.22:674][834]LogScript: Warning: Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_8
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.16.22:674][834]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.16.22:674][834]LogScript: Warning: Attempted to access index 0 from array catalogue_plants of length 0!
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_8
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.16.22:674][834]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array catalogue_plants of length 0!". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.16.22:674][834]LogScript: Warning: Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_8
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.16.22:674][834]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.16.47:216][281]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.16.47:928][348]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.16.47:929][348]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.16.51:825][739]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.16.51:825][739]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.16.51:826][739]LogScript: Warning: Attempted to access index 0 from array catalogue_plants of length 0!
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_9
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.16.51:826][739]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array catalogue_plants of length 0!". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.16.51:826][739]LogScript: Warning: Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_9
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.16.51:826][739]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.17.13:287][891]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'catalogue_seeds' of length 0 in '/Game/GI_instance.GI_instance_C'!
+[2022.10.18-02.17.13:287][891]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Planting: Seed to plant (00000000000000000000000000000000),seed Index(0),inherited quality(0.0),currentquality(0.0)
+[2022.10.18-02.17.13:287][891]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'catalogue_seeds' of length 0 in '/Game/GI_instance.GI_instance_C'!
+[2022.10.18-02.17.13:836][944]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.17.13:836][944]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.17.15:045][ 64]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.17.15:559][113]LogBlueprintUserMessages: [BP_Plant_C_11] Start Overlap: Primary Actor[BP_Plant_C_11],Other Actor[BP_Plant_C_10]
+[2022.10.18-02.17.15:560][113]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.15:810][136]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.17.15:810][136]LogBlueprintUserMessages: [BP_Plant_C_11] Primary actor:BP_Plant_C_11Overlapping with actor:BP_Plant_C_10
+[2022.10.18-02.17.15:810][136]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.15:810][136]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.15:810][136]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.17.16:527][207]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.17.16:736][227]LogBlueprintUserMessages: [BP_Plant_C_12] Start Overlap: Primary Actor[BP_Plant_C_12],Other Actor[BP_Plant_C_11]
+[2022.10.18-02.17.16:736][227]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.17:048][256]LogBlueprintUserMessages: [BP_Plant_C_12] Start Overlap: Primary Actor[BP_Plant_C_12],Other Actor[BP_Plant_C_10]
+[2022.10.18-02.17.17:048][256]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.17:349][284]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.17.17:349][284]LogBlueprintUserMessages: [BP_Plant_C_12] Primary actor:BP_Plant_C_12Overlapping with actor:BP_Plant_C_11
+[2022.10.18-02.17.17:349][284]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.17:349][284]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.17:350][284]LogBlueprintUserMessages: [BP_Plant_C_12] Primary actor:BP_Plant_C_12Overlapping with actor:BP_Plant_C_10
+[2022.10.18-02.17.17:350][284]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.17:350][284]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.17:350][284]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.17.18:075][350]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.17.18:318][373]LogBlueprintUserMessages: [BP_Plant_C_13] Start Overlap: Primary Actor[BP_Plant_C_13],Other Actor[BP_Plant_C_12]
+[2022.10.18-02.17.18:318][373]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.18:534][391]LogBlueprintUserMessages: [BP_Plant_C_13] Start Overlap: Primary Actor[BP_Plant_C_13],Other Actor[BP_Plant_C_10]
+[2022.10.18-02.17.18:534][391]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.18:719][401]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.17.18:719][401]LogBlueprintUserMessages: [BP_Plant_C_13] Primary actor:BP_Plant_C_13Overlapping with actor:BP_Plant_C_12
+[2022.10.18-02.17.18:719][401]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.18:719][401]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.18:719][401]LogBlueprintUserMessages: [BP_Plant_C_13] Primary actor:BP_Plant_C_13Overlapping with actor:BP_Plant_C_10
+[2022.10.18-02.17.18:719][401]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.18:719][401]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.18:719][401]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.17.19:704][484]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.17.19:915][500]LogBlueprintUserMessages: [BP_Plant_C_14] Start Overlap: Primary Actor[BP_Plant_C_14],Other Actor[BP_Plant_C_13]
+[2022.10.18-02.17.19:915][500]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.19:940][502]LogBlueprintUserMessages: [BP_Plant_C_14] Start Overlap: Primary Actor[BP_Plant_C_14],Other Actor[BP_Plant_C_12]
+[2022.10.18-02.17.19:940][502]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.19:984][505]LogBlueprintUserMessages: [BP_Plant_C_14] Start Overlap: Primary Actor[BP_Plant_C_14],Other Actor[BP_Plant_C_10]
+[2022.10.18-02.17.19:984][505]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.20:131][516]LogBlueprintUserMessages: [BP_Plant_C_14] Stop Overlap: Primary Actor[BP_Plant_C_14],Other Actor[BP_Plant_C_12]
+[2022.10.18-02.17.20:706][558]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.17.20:706][558]LogBlueprintUserMessages: [BP_Plant_C_14] Primary actor:BP_Plant_C_14Overlapping with actor:BP_Plant_C_13
+[2022.10.18-02.17.20:706][558]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.20:706][558]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.20:706][558]LogBlueprintUserMessages: [BP_Plant_C_14] Primary actor:BP_Plant_C_14Overlapping with actor:BP_Plant_C_10
+[2022.10.18-02.17.20:706][558]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.20:706][558]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.20:706][558]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.17.22:007][680]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.17.22:117][690]LogBlueprintUserMessages: [BP_Plant_C_15] Start Overlap: Primary Actor[BP_Plant_C_15],Other Actor[BP_Plant_C_12]
+[2022.10.18-02.17.22:117][690]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.22:138][692]LogBlueprintUserMessages: [BP_Plant_C_15] Start Overlap: Primary Actor[BP_Plant_C_15],Other Actor[BP_Plant_C_11]
+[2022.10.18-02.17.22:138][692]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.22:201][698]LogBlueprintUserMessages: [BP_Plant_C_15] Start Overlap: Primary Actor[BP_Plant_C_15],Other Actor[BP_Plant_C_10]
+[2022.10.18-02.17.22:201][698]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.22:431][718]LogBlueprintUserMessages: [BP_Plant_C_15] Stop Overlap: Primary Actor[BP_Plant_C_15],Other Actor[BP_Plant_C_12]
+[2022.10.18-02.17.22:839][754]LogBlueprintUserMessages: [BP_Plant_C_15] Start Overlap: Primary Actor[BP_Plant_C_15],Other Actor[BP_Plant_C_14]
+[2022.10.18-02.17.22:839][754]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.22:886][758]LogBlueprintUserMessages: [BP_Plant_C_15] Stop Overlap: Primary Actor[BP_Plant_C_15],Other Actor[BP_Plant_C_11]
+[2022.10.18-02.17.23:538][816]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.17.23:538][816]LogBlueprintUserMessages: [BP_Plant_C_15] Primary actor:BP_Plant_C_15Overlapping with actor:BP_Plant_C_10
+[2022.10.18-02.17.23:538][816]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.23:538][816]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.23:538][816]LogBlueprintUserMessages: [BP_Plant_C_15] Primary actor:BP_Plant_C_15Overlapping with actor:BP_Plant_C_14
+[2022.10.18-02.17.23:538][816]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.23:538][816]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.23:538][816]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.17.27:756][212]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] delete cancelled
+[2022.10.18-02.17.28:595][293]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant mode
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [BP_Plant_C_10] Primary actor:BP_Plant_C_10Overlapping with actor:BP_Plant_C_11
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [BP_Plant_C_10] Primary actor:BP_Plant_C_10Overlapping with actor:BP_Plant_C_12
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [BP_Plant_C_10] Primary actor:BP_Plant_C_10Overlapping with actor:BP_Plant_C_13
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [BP_Plant_C_10] Primary actor:BP_Plant_C_10Overlapping with actor:BP_Plant_C_14
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [BP_Plant_C_10] Primary actor:BP_Plant_C_10Overlapping with actor:BP_Plant_C_15
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[2]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index After[1]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[3]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index After[2]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[4]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index After[3]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[5]
+[2022.10.18-02.17.30:844][504]LogBlueprintUserMessages: [GI_instance_C_2] Index After[4]
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [BP_Plant_C_15] Primary actor:BP_Plant_C_15Overlapping with actor:BP_Plant_C_14
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index Maintenance: Plant Catalogue
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[0]
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index After[0]
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[1]
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index After[1]
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[2]
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index After[2]
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index Before[3]
+[2022.10.18-02.17.33:009][712]LogBlueprintUserMessages: [GI_instance_C_2] Index After[3]
+[2022.10.18-02.17.33:009][712]LogScript: Warning: Attempted to access index 4 from array catalogue_plants of length 4!
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_15
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.17.33:009][712]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array catalogue_plants of length 4!". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.17.33:009][712]LogScript: Warning: Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_15
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.17.33:009][712]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.17.33:009][712]LogScript: Warning: Attempted to access index 4 from array catalogue_plants of length 4!
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_15
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.17.33:009][712]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array catalogue_plants of length 4!". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.17.33:009][712]LogScript: Warning: Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_15
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.17.33:011][712]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.17.33:011][712]LogScript: Warning: Attempted to access index 4 from array catalogue_plants of length 4!
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_15
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.17.33:011][712]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array catalogue_plants of length 4!". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.17.33:011][712]LogScript: Warning: Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_15
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.17.33:011][712]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.17.33:011][712]LogBlueprintUserMessages: [BP_Plant_C_15] Stop Overlap: Primary Actor[BP_Plant_C_15],Other Actor[BP_Plant_C_14]
+[2022.10.18-02.18.01:801][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-02.18.01:801][533]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.18-02.18.01:804][533]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.18-02.18.01:806][533]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-02.18.01:808][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-02.18.01:817][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-02.18.01:821][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-02.18.01:859][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.18-02.18.01:861][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.18-02.18.01:870][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.18-02.18.01:981][534]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.10.18-02.18.08:987][210]LogSlate: Window 'Message Log' being destroyed
+[2022.10.18-02.25.24:475][425]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.18-02.25.24:489][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-02.25.24:489][425]PIE: New page: PIE session: LV_islandMap (19/10/2022, 4:25:24 am)
+[2022.10.18-02.25.24:489][425]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.18-02.25.24:497][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007155s)
+[2022.10.18-02.25.24:497][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.007220s)
+[2022.10.18-02.25.24:497][425]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.18-02.25.24:497][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-02.25.24:497][425]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.18-02.25.24:498][425]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2022.10.18-02.25.24:538][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.18-02.25.24:539][425]LogBlueprintUserMessages: [GI_instance_C_3] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.18-02.25.24:539][425]LogBlueprintUserMessages: [GI_instance_C_3] Main: Load Plant companion bonusses
+[2022.10.18-02.25.24:540][425]LogBlueprintUserMessages: [GI_instance_C_3] Main: Load Plant environment companion bonusses
+[2022.10.18-02.25.24:540][425]LogBlueprintUserMessages: [GI_instance_C_3] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.18-02.25.24:540][425]LogBlueprintUserMessages: [GI_instance_C_3] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.18-02.25.24:540][425]LogBlueprintUserMessages: [GI_instance_C_3] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.18-02.25.24:540][425]LogBlueprintUserMessages: [GI_instance_C_3] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.18-02.25.24:540][425]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.18-02.25.24:540][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-02.25.24:540][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-02.25.24:540][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-02.25.24:540][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-02.25.24:540][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-02.25.24:540][425]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.18-02.25.24:540][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-02.25.24:540][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-02.25.24:541][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-02.25.24:541][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-02.25.24:541][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-02.25.24:542][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.18-02.25.24:559][425]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.18-02.25.24:559][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-02.25.24:559][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-02.25.24:559][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-02.25.24:559][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.10.18-02.25.24:559][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.10.18-02.25.24:561][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.10.18-02.25.24:561][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.10.18-02.25.24:561][425]LogInit: FAudioDevice initialized.
+[2022.10.18-02.25.24:561][425]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV_islandMap'.
+[2022.10.18-02.25.24:727][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-02.25.24:728][425]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.18-02.25.24:728][425]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.18-15.25.24
+[2022.10.18-02.25.24:729][425]LogWorld: Bringing up level for play took: 0.000822
+[2022.10.18-02.25.24:731][425]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.10.18-02.25.24:731][425]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.18-02.25.24:733][425]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.18-02.25.24:733][425]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.18-02.25.24:733][425]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.18-02.25.24:733][425]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.18-02.25.24:775][425]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10606.708 Y=24983.978 Z=-16219.825] for [BP_Island_C]
+[2022.10.18-02.25.24:785][425]LogBlueprintUserMessages: [PC_default_C_0] BP_Island_C_1
+[2022.10.18-02.25.24:785][425]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.18-02.25.24:786][425]PIE: Server logged in
+[2022.10.18-02.25.24:787][425]PIE: Play in editor total start time 0.304 seconds.
+[2022.10.18-02.25.24:799][425]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.18-02.25.26:018][524]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.10.18-02.25.27:306][651]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.10.18-02.25.29:144][836]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.25.29:726][892]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.25.29:726][892]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.25.31:067][ 26]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant mode
+[2022.10.18-02.25.31:813][100]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.25.31:813][100]LogBlueprintUserMessages: [GI_instance_C_3] Index Maintenance: Plant Catalogue
+[2022.10.18-02.25.31:813][100]LogScript: Warning: Attempted to access index 0 from array catalogue_plants of length 0!
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_0
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.25.31:813][100]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array catalogue_plants of length 0!". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.25.31:813][100]LogScript: Warning: Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_0
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.25.31:813][100]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.26.30:031][ 67]LogSlate: Window 'Message Log' being destroyed
+[2022.10.18-02.26.30:037][ 67]LogSlate: Window 'Message Log' being destroyed
+[2022.10.18-02.26.31:172][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-02.26.31:172][182]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.18-02.26.31:172][182]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.18-02.26.31:175][182]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-02.26.31:176][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-02.26.31:187][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-02.26.31:192][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-02.26.31:230][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.18-02.26.31:233][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.18-02.26.31:241][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.18-02.26.31:344][183]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.10.18-02.27.04:357][  0]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.18-02.27.04:364][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-02.27.04:364][  0]PIE: New page: PIE session: LV_islandMap (19/10/2022, 4:27:04 am)
+[2022.10.18-02.27.04:365][  0]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.18-02.27.04:371][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006845s)
+[2022.10.18-02.27.04:371][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006913s)
+[2022.10.18-02.27.04:371][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.18-02.27.04:371][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-02.27.04:372][  0]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.18-02.27.04:372][  0]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2022.10.18-02.27.04:409][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.18-02.27.04:411][  0]LogBlueprintUserMessages: [GI_instance_C_4] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.18-02.27.04:411][  0]LogBlueprintUserMessages: [GI_instance_C_4] Main: Load Plant companion bonusses
+[2022.10.18-02.27.04:411][  0]LogBlueprintUserMessages: [GI_instance_C_4] Main: Load Plant environment companion bonusses
+[2022.10.18-02.27.04:411][  0]LogBlueprintUserMessages: [GI_instance_C_4] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.18-02.27.04:411][  0]LogBlueprintUserMessages: [GI_instance_C_4] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.18-02.27.04:411][  0]LogBlueprintUserMessages: [GI_instance_C_4] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.18-02.27.04:411][  0]LogBlueprintUserMessages: [GI_instance_C_4] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.18-02.27.04:412][  0]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.18-02.27.04:412][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-02.27.04:412][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-02.27.04:412][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-02.27.04:412][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-02.27.04:412][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-02.27.04:412][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.18-02.27.04:412][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-02.27.04:412][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-02.27.04:412][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-02.27.04:412][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-02.27.04:412][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-02.27.04:414][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.18-02.27.04:430][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.18-02.27.04:431][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-02.27.04:431][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-02.27.04:431][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-02.27.04:431][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.10.18-02.27.04:431][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.10.18-02.27.04:433][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.10.18-02.27.04:433][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.10.18-02.27.04:433][  0]LogInit: FAudioDevice initialized.
+[2022.10.18-02.27.04:433][  0]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_islandMap'.
+[2022.10.18-02.27.04:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-02.27.04:466][  0]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.18-02.27.04:466][  0]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.18-15.27.04
+[2022.10.18-02.27.04:466][  0]LogWorld: Bringing up level for play took: 0.000508
+[2022.10.18-02.27.04:468][  0]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.10.18-02.27.04:469][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.18-02.27.04:469][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.18-02.27.04:469][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.18-02.27.04:469][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.18-02.27.04:469][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.18-02.27.04:502][  0]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=23177.283 Y=11493.271 Z=5715.355] for [BP_Island_C]
+[2022.10.18-02.27.04:523][  0]LogBlueprintUserMessages: [PC_default_C_0] BP_Island_C_19
+[2022.10.18-02.27.04:523][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.18-02.27.04:527][  0]PIE: Server logged in
+[2022.10.18-02.27.04:529][  0]PIE: Play in editor total start time 0.166 seconds.
+[2022.10.18-02.27.04:544][  0]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.18-02.27.20:301][451]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.10.18-02.27.22:133][630]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.10.18-02.27.23:439][757]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [PC_default_C_0] Run
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GI_instance_C_4] get day for sequence1legnth of day structure array7
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Month: Fetch new month for current index
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Fetch new season for current index
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp2newtemp4
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp3newtemp4
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp4newtemp6
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp5newtemp13
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp6newtemp8
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp7newtemp-33
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp8newtemp-32
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp9newtemp4
+[2022.10.18-02.27.28:519][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp10newtemp12
+[2022.10.18-02.27.28:520][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp11newtemp8
+[2022.10.18-02.27.28:520][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp12newtemp-37
+[2022.10.18-02.27.28:520][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp13newtemp0
+[2022.10.18-02.27.28:520][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp14newtemp0
+[2022.10.18-02.27.28:520][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp16newtemp12
+[2022.10.18-02.27.28:520][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp17newtemp9
+[2022.10.18-02.27.28:520][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp19newtemp7
+[2022.10.18-02.27.28:520][252]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp20newtemp6
+[2022.10.18-02.27.28:911][290]LogBlueprintUserMessages: [PC_default_C_0] Pause
+[2022.10.18-02.27.32:246][618]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-02.27.33:962][783]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.27.33:962][783]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-02.27.35:919][975]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant mode
+[2022.10.18-02.27.37:818][164]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-02.27.37:818][164]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_destroy_plant', from offset 4820
+[2022.10.18-02.27.37:818][164]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PC_default.PC_default_C:InpActEvt_LeftMouseButton_K2Node_InputKeyEvent_4
+	Function /Game/PC_default.PC_default_C:ExecuteUbergraph_PC_default
+
+[2022.10.18-02.27.47:328][164]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Plants/BP_Plant.BP_Plant
+[2022.10.18-02.27.47:329][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-02.27.49:071][164]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2022.10.18-02.27.49:071][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-02.27.52:969][164]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DataWorldCycles.DataWorldCycles
+[2022.10.18-02.27.52:969][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-02.28.15:703][164]LogBlueprintUserMessages: [GI_instance_C_4] Index Maintenance: Plant Catalogue
+[2022.10.18-02.28.37:279][164]LogScript: Warning: Attempted to access index 0 from array catalogue_plants of length 0!
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_0
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.28.37:280][164]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array catalogue_plants of length 0!". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.28.37:280][164]LogScript: Warning: Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937
+	BP_Plant_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Plant_C_0
+	Function /Game/Blueprints/Plants/BP_Plant.BP_Plant_C:ExecuteUbergraph_BP_Plant:02F7
+[2022.10.18-02.28.37:281][164]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure state_101_6AD084514CF2DEFB6D41D0887D756937". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Plant Blueprint:  BP_Plant
+[2022.10.18-02.50.18:421][164]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.857 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.18-03.44.25:692][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-03.44.25:692][164]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.18-03.44.25:694][164]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.18-03.44.25:707][164]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-03.44.25:709][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-03.44.25:718][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-03.44.25:735][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-03.44.25:826][164]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.18-03.44.25:826][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.18-03.44.25:829][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.18-03.44.25:841][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.10.18-03.44.25:944][165]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.10.18-03.44.29:034][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.18-03.44.29:035][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.057
+[2022.10.18-03.44.29:036][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GS_singlePlayer] ([2] browsable assets)...
+[2022.10.18-03.44.29:036][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/GS_singlePlayer]
+[2022.10.18-03.44.29:189][489]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GS_singlePlayer_Auto1
+[2022.10.18-03.44.29:191][489]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer_Auto13944704C4518634DE5337391812C4D53.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GS_singlePlayer_Auto1.uasset'
+[2022.10.18-03.44.29:192][489]LogFileHelpers: Auto-saving content packages took 0.156
+[2022.10.18-03.44.32:475][875]LogSlate: Window 'Message Log' being destroyed
+[2022.10.18-03.44.32:483][875]LogSlate: Window 'Message Log' being destroyed
+[2022.10.18-03.48.34:607][371]BlueprintLog: New page: Compile GS_singlePlayer
+[2022.10.18-03.48.34:829][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.18-03.48.37:378][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.18-03.48.37:385][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-03.48.37:385][658]PIE: New page: PIE session: LV_islandMap (19/10/2022, 5:48:37 am)
+[2022.10.18-03.48.37:385][658]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.18-03.48.37:392][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006727s)
+[2022.10.18-03.48.37:392][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006788s)
+[2022.10.18-03.48.37:392][658]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.18-03.48.37:392][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-03.48.37:393][658]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.18-03.48.37:393][658]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2022.10.18-03.48.37:447][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.18-03.48.37:449][658]LogBlueprintUserMessages: [GI_instance_C_5] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.18-03.48.37:449][658]LogBlueprintUserMessages: [GI_instance_C_5] Main: Load Plant companion bonusses
+[2022.10.18-03.48.37:449][658]LogBlueprintUserMessages: [GI_instance_C_5] Main: Load Plant environment companion bonusses
+[2022.10.18-03.48.37:449][658]LogBlueprintUserMessages: [GI_instance_C_5] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.18-03.48.37:449][658]LogBlueprintUserMessages: [GI_instance_C_5] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.18-03.48.37:449][658]LogBlueprintUserMessages: [GI_instance_C_5] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.18-03.48.37:449][658]LogBlueprintUserMessages: [GI_instance_C_5] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.18-03.48.37:449][658]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.18-03.48.37:449][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-03.48.37:449][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-03.48.37:449][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-03.48.37:449][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-03.48.37:449][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-03.48.37:450][658]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.18-03.48.37:450][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-03.48.37:450][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-03.48.37:450][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-03.48.37:451][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-03.48.37:451][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-03.48.37:453][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.18-03.48.37:470][658]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Bose-TV)
+[2022.10.18-03.48.37:470][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-03.48.37:470][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-03.48.37:470][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-03.48.37:470][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.10.18-03.48.37:470][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.10.18-03.48.37:471][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.10.18-03.48.37:471][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.10.18-03.48.37:471][658]LogInit: FAudioDevice initialized.
+[2022.10.18-03.48.37:471][658]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV_islandMap'.
+[2022.10.18-03.48.37:504][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-03.48.37:504][658]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.18-03.48.37:505][658]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.18-16.48.37
+[2022.10.18-03.48.37:505][658]LogWorld: Bringing up level for play took: 0.000654
+[2022.10.18-03.48.37:508][658]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.10.18-03.48.37:508][658]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.18-03.48.37:508][658]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.18-03.48.37:509][658]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.18-03.48.37:509][658]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.18-03.48.37:509][658]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.18-03.48.37:547][658]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=34444.717 Y=31292.152 Z=22996.458] for [BP_Island_C]
+[2022.10.18-03.48.37:551][658]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=34398.937 Y=27681.813 Z=-9807.886] for [BP_Island_C]
+[2022.10.18-03.48.37:559][658]LogBlueprintUserMessages: [PC_default_C_0] BP_Island_C_1
+[2022.10.18-03.48.37:559][658]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.18-03.48.37:560][658]PIE: Server logged in
+[2022.10.18-03.48.37:561][658]PIE: Play in editor total start time 0.177 seconds.
+[2022.10.18-03.48.37:574][658]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.18-03.48.54:808][212]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.18-03.48.57:307][456]LogBlueprintUserMessages: [PC_default_C_0] Run
+[2022.10.18-03.48.57:307][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.10.18-03.48.57:307][456]LogBlueprintUserMessages: [GI_instance_C_5] get day for sequence1legnth of day structure array7
+[2022.10.18-03.48.57:307][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Month: Fetch new month for current index
+[2022.10.18-03.48.57:307][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Fetch new season for current index
+[2022.10.18-03.48.57:307][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp1newtemp3
+[2022.10.18-03.48.57:307][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp2newtemp12
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp4newtemp5
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp5newtemp6
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp6newtemp-32
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp7newtemp-32
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp8newtemp10
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp9newtemp5
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp10newtemp0
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp11newtemp-35
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp12newtemp6
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp13newtemp-32
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp14newtemp6
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp15newtemp7
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp16newtemp3
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp17newtemp-39
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp18newtemp1
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp19newtemp1
+[2022.10.18-03.48.57:308][456]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp20newtemp8
+[2022.10.18-03.48.57:627][487]LogBlueprintUserMessages: [PC_default_C_0] Pause
+[2022.10.18-03.48.58:086][531]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-03.48.58:565][575]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-03.48.58:565][575]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-03.48.59:639][679]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default_C_0
+[2022.10.18-03.49.00:108][721]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-03.49.01:126][819]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant mode
+[2022.10.18-03.49.02:241][926]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-03.49.02:241][926]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_destroy_plant', from offset 4820
+[2022.10.18-03.49.02:241][926]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PC_default.PC_default_C:InpActEvt_LeftMouseButton_K2Node_InputKeyEvent_4
+	Function /Game/PC_default.PC_default_C:ExecuteUbergraph_PC_default
+
+[2022.10.18-03.49.04:623][926]LogBlueprintUserMessages: [GI_instance_C_5] Index Maintenance: Plant Catalogue
+[2022.10.18-03.49.04:624][926]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[1]
+[2022.10.18-03.49.04:624][926]LogBlueprintUserMessages: [GI_instance_C_5] Index After[0]
+[2022.10.18-03.50.18:689][150]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.128 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.18-04.50.18:608][451]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.039 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.18-04.51.13:575][801]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default
+[2022.10.18-04.51.13:671][810]LogBlueprintUserMessages: [BP_Plant_C_2] Start Overlap: Primary Actor[BP_Plant_C_2],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.51.13:671][810]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.14:458][881]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.51.14:458][881]LogBlueprintUserMessages: [BP_Plant_C_2] Primary actor:BP_Plant_C_2Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.51.14:458][881]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.14:458][881]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.14:458][881]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-04.51.15:292][961]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default
+[2022.10.18-04.51.15:357][967]LogBlueprintUserMessages: [BP_Plant_C_3] Start Overlap: Primary Actor[BP_Plant_C_3],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.51.15:357][967]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.15:421][973]LogBlueprintUserMessages: [BP_Plant_C_3] Start Overlap: Primary Actor[BP_Plant_C_3],Other Actor[BP_Plant_C_2]
+[2022.10.18-04.51.15:421][973]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.15:954][ 22]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.51.15:954][ 22]LogBlueprintUserMessages: [BP_Plant_C_3] Primary actor:BP_Plant_C_3Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.51.15:954][ 22]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.15:954][ 22]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.15:954][ 22]LogBlueprintUserMessages: [BP_Plant_C_3] Primary actor:BP_Plant_C_3Overlapping with actor:BP_Plant_C_2
+[2022.10.18-04.51.15:954][ 22]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.15:954][ 22]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.15:954][ 22]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-04.51.16:769][ 96]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default
+[2022.10.18-04.51.16:891][107]LogBlueprintUserMessages: [BP_Plant_C_4] Start Overlap: Primary Actor[BP_Plant_C_4],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.51.16:891][107]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.16:976][114]LogBlueprintUserMessages: [BP_Plant_C_4] Start Overlap: Primary Actor[BP_Plant_C_4],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.51.16:976][114]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.17:343][146]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.51.17:343][146]LogBlueprintUserMessages: [BP_Plant_C_4] Primary actor:BP_Plant_C_4Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.51.17:343][146]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.17:343][146]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.17:343][146]LogBlueprintUserMessages: [BP_Plant_C_4] Primary actor:BP_Plant_C_4Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.51.17:343][146]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.17:343][146]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.17:343][146]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-04.51.18:116][214]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] PC_default
+[2022.10.18-04.51.18:256][226]LogBlueprintUserMessages: [BP_Plant_C_5] Start Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.51.18:256][226]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.18:293][229]LogBlueprintUserMessages: [BP_Plant_C_5] Start Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_4]
+[2022.10.18-04.51.18:293][229]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.18:306][230]LogBlueprintUserMessages: [BP_Plant_C_5] Start Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_2]
+[2022.10.18-04.51.18:306][230]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.18:330][232]LogBlueprintUserMessages: [BP_Plant_C_5] Start Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.51.18:330][232]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_4
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_2
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.21:396][501]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-04.51.32:259][331]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] delete cancelled
+[2022.10.18-04.51.33:535][424]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant mode
+[2022.10.18-04.51.35:442][559]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.51.35:443][559]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_destroy_plant', from offset 4820
+[2022.10.18-04.51.35:443][559]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PC_default.PC_default_C:InpActEvt_LeftMouseButton_K2Node_InputKeyEvent_4
+	Function /Game/PC_default.PC_default_C:ExecuteUbergraph_PC_default
+
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_4
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_2
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [BP_Plant_C_5] Primary actor:BP_Plant_C_5Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [BP_Plant_C_5] Stop Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [BP_Plant_C_5] Stop Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_4]
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [BP_Plant_C_5] Stop Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_2]
+[2022.10.18-04.51.38:567][559]LogBlueprintUserMessages: [BP_Plant_C_5] Stop Overlap: Primary Actor[BP_Plant_C_5],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index Maintenance: Plant Catalogue
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[0]
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index After[0]
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[1]
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index After[1]
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[2]
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index After[2]
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[3]
+[2022.10.18-04.51.38:568][559]LogBlueprintUserMessages: [GI_instance_C_5] Index After[3]
+[2022.10.18-04.51.45:420][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'catalogue_seeds' of length 0 in '/Game/GI_instance.GI_instance_C'!
+[2022.10.18-04.51.45:420][202]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Planting: Seed to plant (00000000000000000000000000000000),seed Index(0),inherited quality(0.0),currentquality(0.0)
+[2022.10.18-04.51.45:420][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'catalogue_seeds' of length 0 in '/Game/GI_instance.GI_instance_C'!
+[2022.10.18-04.51.45:564][215]LogBlueprintUserMessages: [BP_Plant_C_6] Start Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.51.45:564][215]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.45:565][215]LogBlueprintUserMessages: [BP_Plant_C_6] Start Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_4]
+[2022.10.18-04.51.45:565][215]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.45:675][225]LogBlueprintUserMessages: [BP_Plant_C_6] Start Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.51.45:675][225]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.45:721][229]LogBlueprintUserMessages: [BP_Plant_C_6] Start Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_2]
+[2022.10.18-04.51.45:721][229]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_4
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_2
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.51.46:259][277]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-04.52.24:149][879]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.18-04.52.24:149][879]LogEditorClassViewer: Warning: Class /Game/Blueprints/BPSkysphere.BPSkysphere_C has parent /Game/Levels/BP_skysphere.BP_skysphere_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.18-04.53.41:530][ 29]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'catalogue_seeds' of length 0 in '/Game/GI_instance.GI_instance_C'!
+[2022.10.18-04.53.41:530][ 29]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Planting: Seed to plant (00000000000000000000000000000000),seed Index(0),inherited quality(0.0),currentquality(0.0)
+[2022.10.18-04.53.41:530][ 29]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'catalogue_seeds' of length 0 in '/Game/GI_instance.GI_instance_C'!
+[2022.10.18-04.53.41:532][ 29]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.53.41:532][ 29]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.41:533][ 29]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_4]
+[2022.10.18-04.53.41:533][ 29]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.41:653][ 37]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_6]
+[2022.10.18-04.53.41:653][ 37]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.41:703][ 42]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.53.41:703][ 42]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.41:724][ 44]LogBlueprintUserMessages: [BP_Plant_C_7] Start Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_2]
+[2022.10.18-04.53.41:724][ 44]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_4
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_6
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:397][198]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_2
+[2022.10.18-04.53.43:398][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:398][198]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.53.43:398][198]LogBlueprintUserMessages: [PC_default_C_0] planted plant!
+[2022.10.18-04.54.36:770][952]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] delete cancelled
+[2022.10.18-04.54.37:457][ 12]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Delete plant mode
+[2022.10.18-04.54.38:938][148]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.54.38:938][148]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_destroy_plant', from offset 4820
+[2022.10.18-04.54.38:938][148]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PC_default.PC_default_C:InpActEvt_LeftMouseButton_K2Node_InputKeyEvent_4
+	Function /Game/PC_default.PC_default_C:ExecuteUbergraph_PC_default
+
+[2022.10.18-04.54.40:773][148]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.54.40:773][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:773][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_4
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_2
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Primary actor:BP_Plant_C_6Overlapping with actor:BP_Plant_C_7
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Stop Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Stop Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_4]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Stop Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Stop Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_2]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [BP_Plant_C_6] Stop Overlap: Primary Actor[BP_Plant_C_6],Other Actor[BP_Plant_C_7]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Index Maintenance: Plant Catalogue
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[0]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Index After[0]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[1]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Index After[1]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[2]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Index After[2]
+[2022.10.18-04.54.40:774][148]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[3]
+[2022.10.18-04.54.40:775][148]LogBlueprintUserMessages: [GI_instance_C_5] Index After[3]
+[2022.10.18-04.54.40:775][148]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[5]
+[2022.10.18-04.54.40:775][148]LogBlueprintUserMessages: [GI_instance_C_5] Index After[4]
+[2022.10.18-04.54.48:255][845]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.54.48:256][845]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_destroy_plant', from offset 4820
+[2022.10.18-04.54.48:256][845]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PC_default.PC_default_C:InpActEvt_LeftMouseButton_K2Node_InputKeyEvent_4
+	Function /Game/PC_default.PC_default_C:ExecuteUbergraph_PC_default
+
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_4
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_2
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [BP_Plant_C_7] Primary actor:BP_Plant_C_7Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [BP_Plant_C_7] Stop Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [BP_Plant_C_7] Stop Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_4]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [BP_Plant_C_7] Stop Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_2]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [BP_Plant_C_7] Stop Overlap: Primary Actor[BP_Plant_C_7],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index Maintenance: Plant Catalogue
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[0]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index After[0]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[1]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index After[1]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[2]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index After[2]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[3]
+[2022.10.18-04.54.50:045][845]LogBlueprintUserMessages: [GI_instance_C_5] Index After[3]
+[2022.10.18-04.54.54:065][214]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.54.54:065][214]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_destroy_plant', from offset 4820
+[2022.10.18-04.54.54:065][214]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PC_default.PC_default_C:InpActEvt_LeftMouseButton_K2Node_InputKeyEvent_4
+	Function /Game/PC_default.PC_default_C:ExecuteUbergraph_PC_default
+
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [BP_Plant_C_4] Primary actor:BP_Plant_C_4Overlapping with actor:BP_Plant_C_1
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [BP_Plant_C_4] Primary actor:BP_Plant_C_4Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [BP_Plant_C_4] Stop Overlap: Primary Actor[BP_Plant_C_4],Other Actor[BP_Plant_C_1]
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [BP_Plant_C_4] Stop Overlap: Primary Actor[BP_Plant_C_4],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Index Maintenance: Plant Catalogue
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[0]
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Index After[0]
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[1]
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Index After[1]
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[2]
+[2022.10.18-04.54.55:657][214]LogBlueprintUserMessages: [GI_instance_C_5] Index After[2]
+[2022.10.18-04.55.02:965][900]LogBlueprintUserMessages: [PC_default_C_0] Hello
+[2022.10.18-04.55.02:965][900]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_destroy_plant', from offset 4820
+[2022.10.18-04.55.02:965][900]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/PC_default.PC_default_C:InpActEvt_LeftMouseButton_K2Node_InputKeyEvent_4
+	Function /Game/PC_default.PC_default_C:ExecuteUbergraph_PC_default
+
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [BP_Plant_C_1] Primary actor:BP_Plant_C_1Overlapping with actor:BP_Plant_C_2
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [BP_Plant_C_1] Primary actor:BP_Plant_C_1Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [BP_Plant_C_1] Stop Overlap: Primary Actor[BP_Plant_C_1],Other Actor[BP_Plant_C_2]
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [BP_Plant_C_1] Stop Overlap: Primary Actor[BP_Plant_C_1],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Index Maintenance: Plant Catalogue
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[1]
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Index After[0]
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[2]
+[2022.10.18-04.55.04:834][900]LogBlueprintUserMessages: [GI_instance_C_5] Index After[1]
+[2022.10.18-04.55.07:077][105]LogBlueprintUserMessages: [BP_MenuAtLocation_C_0] Harvest Enabled
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [PC_default_C_0] Harvest plant
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [GI_instance_C_5] Plant not dormant,canont harvest
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [BP_Plant_C_2] Primary actor:BP_Plant_C_2Overlapping with actor:BP_Plant_C_3
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [GI_instance_C_5] Companion Bonus Section TypeA(Roots), Type B (Roots),BonusA(-10.0),BonusB(-10.0)
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [BP_Plant_C_2] Stop Overlap: Primary Actor[BP_Plant_C_2],Other Actor[BP_Plant_C_3]
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [GI_instance_C_5] Index Maintenance: Plant Catalogue
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [GI_instance_C_5] Index Before[1]
+[2022.10.18-04.55.08:813][271]LogBlueprintUserMessages: [GI_instance_C_5] Index After[0]
+[2022.10.18-04.55.15:792][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-04.55.15:792][934]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.18-04.55.15:793][934]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.18-04.55.15:800][934]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-04.55.15:801][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-04.55.15:810][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-04.55.15:817][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-04.55.15:874][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.18-04.55.15:875][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.18-04.55.15:877][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.18-04.55.15:888][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.18-04.55.15:908][935]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.18-04.55.26:104][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.18-04.55.26:158][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GS_singlePlayer" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset" SILENT=true
+[2022.10.18-04.55.26:309][928]LogSavePackage: Moving output files for package: /Game/GS_singlePlayer
+[2022.10.18-04.55.26:310][928]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer1192674D4CFD35EC57C3D8BE6D0E639F.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
+[2022.10.18-04.55.26:325][928]AssetCheck: New page: Asset Save: GS_singlePlayer
+[2022.10.18-04.55.26:326][928]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
