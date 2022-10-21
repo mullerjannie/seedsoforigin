@@ -3839,3 +3839,441 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.20-21.12.02:276][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2022.10.20-21.12.02:304][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
 [2022.10.20-21.12.02:335][548]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.10.20-21.12.28:115][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.10.20-21.12.28:118][798]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.075
+[2022.10.20-21.12.28:119][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GS_singlePlayer] ([2] browsable assets)...
+[2022.10.20-21.12.28:119][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/GS_singlePlayer]
+[2022.10.20-21.12.28:289][798]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GS_singlePlayer_Auto5
+[2022.10.20-21.12.28:289][798]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer_Auto5A2F196DB4706E410C29ED8B6EF7A8049.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GS_singlePlayer_Auto5.uasset'
+[2022.10.20-21.12.28:290][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.10.20-21.12.28:291][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.10.20-21.12.28:291][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.10.20-21.12.28:321][798]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto5
+[2022.10.20-21.12.28:322][798]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto58A1D8A2B4A1CEB49978763B330827847.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto5.uasset'
+[2022.10.20-21.12.28:322][798]LogFileHelpers: Auto-saving content packages took 0.204
+[2022.10.20-21.42.42:463][454]LogViewport: Scene viewport resized to 1361x811, mode Windowed.
+[2022.10.20-21.42.44:885][713]LogViewport: Scene viewport resized to 2742x815, mode Windowed.
+[2022.10.20-21.53.57:575][895]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.790 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.20-22.02.29:484][233]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2022.10.20-22.02.29:491][233]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2022.10.20-22.02.29:504][234]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2022.10.20-22.02.30:794][373]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> NewFunctionLibrary
+[2022.10.20-22.02.30:807][373]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2022.10.20-22.02.44:318][961]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> ARC_Inventory
+[2022.10.20-22.02.44:505][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ARC_Inventory" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/ARC_Inventory.uasset" SILENT=true
+[2022.10.20-22.02.44:506][961]LogSavePackage: Moving output files for package: /Game/Blueprints/ARC_Inventory
+[2022.10.20-22.02.44:506][961]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/ARC_Inventory043C36234970A6781ED00CA2A4693AEA.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/ARC_Inventory.uasset'
+[2022.10.20-22.02.44:620][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.10.20-22.02.44:675][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.20-22.02.44:726][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.20-22.02.44:736][961]AssetCheck: New page: Asset Save: ARC_Inventory
+[2022.10.20-22.02.44:736][961]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ARC_Inventory.ARC_Inventory
+[2022.10.20-22.02.45:281][ 25]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ARC_Inventory.ARC_Inventory
+[2022.10.20-22.02.45:282][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-22.03.35:839][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.10.20-22.03.35:842][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.057
+[2022.10.20-22.03.35:843][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GS_singlePlayer] ([2] browsable assets)...
+[2022.10.20-22.03.35:843][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/GS_singlePlayer]
+[2022.10.20-22.03.36:013][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GS_singlePlayer_Auto6
+[2022.10.20-22.03.36:013][189]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer_Auto6E7FD527E48E00D766A9746A5AD4B421F.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GS_singlePlayer_Auto6.uasset'
+[2022.10.20-22.03.36:015][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.10.20-22.03.36:015][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.10.20-22.03.36:015][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.10.20-22.03.36:047][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto6
+[2022.10.20-22.03.36:048][189]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto6E16C57504698848F3D1ECA9EBE4394D4.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto6.uasset'
+[2022.10.20-22.03.36:049][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ARC_Inventory] ([2] browsable assets)...
+[2022.10.20-22.03.36:049][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ARC_Inventory]
+[2022.10.20-22.03.36:050][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/ARC_Inventory_Auto6
+[2022.10.20-22.03.36:050][189]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/ARC_Inventory_Auto634B200EC417B274833031C89DAAE5249.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/ARC_Inventory_Auto6.uasset'
+[2022.10.20-22.03.36:051][189]LogFileHelpers: Auto-saving content packages took 0.209
+[2022.10.20-22.05.24:342][ 17]LogSlate: Window 'ARC_Inventory' being destroyed
+[2022.10.20-22.05.24:355][ 17]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-22.05.24:355][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-22.05.26:180][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.20-22.05.28:135][212]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.20-22.05.28:326][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.10.20-22.05.28:378][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.20-22.05.28:429][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.20-22.15.33:664][606]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.20-22.15.33:673][606]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.20-22.15.33:681][606]LogPlayLevel: [PlayLevel] Compiling GS_singlePlayer before play...
+[2022.10.20-22.15.33:902][606]LogPlayLevel: [PlayLevel] Compiling PC_default before play...
+[2022.10.20-22.15.34:069][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.20-22.15.34:072][606]LogPlayLevel: PlayLevel: Blueprint regeneration took 399 ms (2 blueprints)
+[2022.10.20-22.15.34:073][606]PIE: New page: PIE session: LV_islandMap (22/10/2022, 12:15:34 am)
+[2022.10.20-22.15.34:073][606]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.20-22.15.34:079][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006950s)
+[2022.10.20-22.15.34:079][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.007056s)
+[2022.10.20-22.15.34:079][606]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.20-22.15.34:079][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-22.15.34:080][606]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.20-22.15.34:080][606]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2022.10.20-22.15.34:130][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.10.20-22.15.34:132][606]LogBlueprintUserMessages: [GI_instance_C_9] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.20-22.15.34:132][606]LogBlueprintUserMessages: [GI_instance_C_9] Main: Load Plant companion bonusses
+[2022.10.20-22.15.34:132][606]LogBlueprintUserMessages: [GI_instance_C_9] Main: Load Plant environment companion bonusses
+[2022.10.20-22.15.34:132][606]LogBlueprintUserMessages: [GI_instance_C_9] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.20-22.15.34:132][606]LogBlueprintUserMessages: [GI_instance_C_9] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.20-22.15.34:132][606]LogBlueprintUserMessages: [GI_instance_C_9] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.20-22.15.34:132][606]LogBlueprintUserMessages: [GI_instance_C_9] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.20-22.15.34:133][606]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.10.20-22.15.34:133][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-22.15.34:133][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-22.15.34:133][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-22.15.34:133][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-22.15.34:133][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-22.15.34:133][606]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.20-22.15.34:133][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-22.15.34:133][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-22.15.34:134][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-22.15.34:134][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-22.15.34:134][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-22.15.34:137][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.20-22.15.34:167][606]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.20-22.15.34:167][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-22.15.34:167][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-22.15.34:167][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-22.15.34:168][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.10.20-22.15.34:168][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.10.20-22.15.34:169][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.10.20-22.15.34:169][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.10.20-22.15.34:169][606]LogInit: FAudioDevice initialized.
+[2022.10.20-22.15.34:169][606]LogAudio: Display: Audio Device (ID: 11) registered with world 'LV_islandMap'.
+[2022.10.20-22.15.34:183][606]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.20-22.15.34:184][606]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.21-11.15.34
+[2022.10.20-22.15.34:184][606]LogWorld: Bringing up level for play took: 0.000445
+[2022.10.20-22.15.34:185][606]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.10.20-22.15.34:186][606]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.20-22.15.34:186][606]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.20-22.15.34:186][606]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.20-22.15.34:186][606]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.20-22.15.34:241][606]LogBlueprintUserMessages: [LV_islandMap_C_7] BP_Island_C_13
+[2022.10.20-22.15.34:241][606]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.20-22.15.34:241][606]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.20-22.15.34:241][606]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.20-22.15.34:241][606]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.20-22.15.34:241][606]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.20-22.15.34:241][606]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.20-22.15.34:241][606]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.20-22.15.34:243][606]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.20-22.15.34:243][606]PIE: Server logged in
+[2022.10.20-22.15.34:243][606]PIE: Play in editor total start time 0.571 seconds.
+[2022.10.20-22.15.52:489][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 0
+[2022.10.20-22.15.52:489][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 1
+[2022.10.20-22.15.52:489][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 2
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 3
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 4
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 5
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 6
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 7
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 8
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 9
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 10
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 11
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 12
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 13
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 14
+[2022.10.20-22.15.52:490][778]LogBlueprintUserMessages: [BP_Inventory_C_0] 15
+[2022.10.20-22.15.52:490][778]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.20-22.15.52:490][778]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.20-22.15.57:259][344]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2022.10.20-22.16.08:877][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-22.16.08:877][728]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.20-22.16.08:877][728]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-22.16.08:879][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-22.16.08:889][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-22.16.08:896][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-22.16.08:944][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-22.16.08:944][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.20-22.16.08:946][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.20-22.16.08:979][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.20-22.16.09:010][729]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.10.20-22.17.39:013][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.20-22.17.39:015][280]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.053
+[2022.10.20-22.17.39:016][280]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.10.20-22.17.39:016][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.10.20-22.17.39:016][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.10.20-22.17.39:047][280]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto7
+[2022.10.20-22.17.39:047][280]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto7B73BC06E47F50DE526FE08BD52D3B535.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto7.uasset'
+[2022.10.20-22.17.39:048][280]LogFileHelpers: Auto-saving content packages took 0.032
+[2022.10.20-22.18.52:337][546]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2022.10.20-22.18.52:342][546]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2022.10.20-22.18.52:351][547]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2022.10.20-22.19.01:274][602]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> InventoryManager
+[2022.10.20-22.19.01:279][602]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2022.10.20-22.19.02:279][722]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/InventoryManager.InventoryManager
+[2022.10.20-22.19.02:280][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-22.21.00:203][590]BlueprintLog: New page: Compile InventoryManager
+[2022.10.20-22.21.00:260][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.20-22.21.05:142][ 56]LogSlate: Window 'InventoryManager' being destroyed
+[2022.10.20-22.21.08:913][389]LogSlate: Window 'InventoryManager' being destroyed
+[2022.10.20-22.21.38:876][760]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.20-22.21.38:876][760]LogEditorClassViewer: Warning: Class /Game/Blueprints/BPSkysphere.BPSkysphere_C has parent /Game/Levels/BP_skysphere.BP_skysphere_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.20-22.21.41:825][760]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.20-22.21.41:834][760]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.20-22.21.41:839][760]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.20-22.21.41:849][761]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.20-22.21.51:419][871]LogContentBrowser: Attempting asset rename: NewBlueprint -> CMP_container
+[2022.10.20-22.21.51:424][871]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.20-22.21.52:051][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CMP_container.CMP_container
+[2022.10.20-22.21.52:051][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-22.25.27:528][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Inventory/inventorycomponent.inventorycomponent
+[2022.10.20-22.25.27:528][315]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-22.25.57:701][656]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Container/BP_Container.BP_Container
+[2022.10.20-22.25.57:701][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-22.26.10:667][ 67]BlueprintLog: New page: Compile BP_Container
+[2022.10.20-22.26.10:766][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.10.20-22.26.19:499][102]BlueprintLog: New page: Compile BP_Container
+[2022.10.20-22.26.19:590][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.20-22.27.26:999][580]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.20-22.27.27:671][642]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.LV_islandMap
+[2022.10.20-22.27.27:671][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-22.28.25:055][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.20-22.28.25:058][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.074
+[2022.10.20-22.28.25:058][330]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Container/BP_Container] ([2] browsable assets)...
+[2022.10.20-22.28.25:086][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Container/BP_Container.BP_Container]
+[2022.10.20-22.28.25:086][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Container/BP_Container]
+[2022.10.20-22.28.25:089][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Container/BP_Container_Auto8
+[2022.10.20-22.28.25:089][330]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_Container_Auto8E8B8353B4A8ACFBE6D7709A6ACC8BDEE.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Container/BP_Container_Auto8.uasset'
+[2022.10.20-22.28.25:090][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.10.20-22.28.25:090][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.10.20-22.28.25:090][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.10.20-22.28.25:121][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto8
+[2022.10.20-22.28.25:122][330]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto8C58B4D564D91908FF1A30CAD74801BB0.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto8.uasset'
+[2022.10.20-22.28.25:123][330]LogFileHelpers: Auto-saving content packages took 0.065
+[2022.10.20-22.29.25:383][493]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-22.29.25:383][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-22.29.31:615][233]LogBlueprint: Warning: [AssetLog] /Game/CMP_container.CMP_container (no disk path found): [Compiler] Variable id is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2022.10.20-22.29.33:366][431]BlueprintLog: New page: Compile CMP_container
+[2022.10.20-22.29.33:463][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.10.20-22.30.37:083][899]BlueprintLog: New page: Compile BP_Container
+[2022.10.20-22.30.37:179][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.20-22.30.52:870][707]BlueprintLog: New page: Compile BP_Container
+[2022.10.20-22.30.52:956][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.20-22.31.05:890][208]BlueprintLog: New page: Compile LV_islandMap
+[2022.10.20-22.31.06:024][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.20-22.39.42:475][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.10.20-22.39.42:523][623]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LV_islandMap_Auto9
+[2022.10.20-22.39.42:523][623]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/LV_islandMap_Auto9868ABF0F43F80020F3A297AA82E62FCD.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Levels/LV_islandMap_Auto9.umap'
+[2022.10.20-22.39.42:531][623]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.124
+[2022.10.20-22.39.42:531][623]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.124
+[2022.10.20-22.53.57:860][207]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.219 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.20-23.53.57:450][ 67]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.815 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-00.53.57:813][616]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.853 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-01.25.03:458][509]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.21-01.25.16:252][  0]BlueprintLog: New page: Compile PC_default
+[2022.10.21-01.25.16:408][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.10.21-01.25.17:208][ 75]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.21-01.25.17:216][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.21-01.25.17:217][ 75]PIE: New page: PIE session: LV_islandMap (22/10/2022, 3:25:17 am)
+[2022.10.21-01.25.17:217][ 75]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.21-01.25.17:223][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006512s)
+[2022.10.21-01.25.17:223][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006585s)
+[2022.10.21-01.25.17:223][ 75]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.21-01.25.17:223][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.21-01.25.17:224][ 75]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.21-01.25.17:224][ 75]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2022.10.21-01.25.17:289][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.10.21-01.25.17:294][ 75]LogBlueprintUserMessages: [GI_instance_C_10] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.21-01.25.17:294][ 75]LogBlueprintUserMessages: [GI_instance_C_10] Main: Load Plant companion bonusses
+[2022.10.21-01.25.17:294][ 75]LogBlueprintUserMessages: [GI_instance_C_10] Main: Load Plant environment companion bonusses
+[2022.10.21-01.25.17:295][ 75]LogBlueprintUserMessages: [GI_instance_C_10] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.21-01.25.17:295][ 75]LogBlueprintUserMessages: [GI_instance_C_10] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.21-01.25.17:295][ 75]LogBlueprintUserMessages: [GI_instance_C_10] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.21-01.25.17:295][ 75]LogBlueprintUserMessages: [GI_instance_C_10] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.21-01.25.17:295][ 75]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.10.21-01.25.17:295][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.21-01.25.17:295][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.21-01.25.17:295][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.21-01.25.17:295][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.21-01.25.17:295][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.21-01.25.17:295][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.21-01.25.17:295][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.21-01.25.17:295][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.21-01.25.17:296][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.21-01.25.17:296][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.21-01.25.17:296][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.21-01.25.17:298][ 75]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.21-01.25.17:328][ 75]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.21-01.25.17:328][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.21-01.25.17:328][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.21-01.25.17:328][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.21-01.25.17:329][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.10.21-01.25.17:329][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.10.21-01.25.17:330][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.10.21-01.25.17:330][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.10.21-01.25.17:330][ 75]LogInit: FAudioDevice initialized.
+[2022.10.21-01.25.17:330][ 75]LogAudio: Display: Audio Device (ID: 12) registered with world 'LV_islandMap'.
+[2022.10.21-01.25.17:392][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.21-01.25.17:392][ 75]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.21-01.25.17:393][ 75]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.21-14.25.17
+[2022.10.21-01.25.17:393][ 75]LogWorld: Bringing up level for play took: 0.000633
+[2022.10.21-01.25.17:395][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.10.21-01.25.17:396][ 75]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.21-01.25.17:396][ 75]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.21-01.25.17:396][ 75]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.21-01.25.17:396][ 75]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.21-01.25.17:396][ 75]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.21-01.25.17:448][ 75]LogBlueprintUserMessages: [LV_islandMap_C_0] BP_Island_C_13
+[2022.10.21-01.25.17:448][ 75]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.21-01.25.17:448][ 75]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.21-01.25.17:448][ 75]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.21-01.25.17:448][ 75]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.21-01.25.17:448][ 75]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.21-01.25.17:448][ 75]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.21-01.25.17:448][ 75]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.21-01.25.17:449][ 75]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.21-01.25.17:449][ 75]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.21-01.25.17:452][ 75]PIE: Server logged in
+[2022.10.21-01.25.17:455][ 75]PIE: Play in editor total start time 0.24 seconds.
+[2022.10.21-01.25.17:472][ 75]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.21-01.25.19:171][216]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.21-01.25.21:709][473]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.21-01.25.21:709][473]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.21-01.25.21:710][473]LogNet: Browse: /Game/Levels/LV_houseMap
+[2022.10.21-01.25.21:710][473]LogLoad: LoadMap: /Game/Levels/LV_houseMap
+[2022.10.21-01.25.21:710][473]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.21-01.25.21:710][473]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.10.21-01.25.21:711][473]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.21-01.25.21:712][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-01.25.21:803][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.21-01.25.21:811][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.21-01.25.21:838][473]LogAudio: Display: Audio Device (ID: 12) registered with world 'LV_houseMap'.
+[2022.10.21-01.25.21:838][473]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.21-01.25.21:838][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.21-01.25.21:838][473]LogAIModule: Creating AISystem for world LV_houseMap
+[2022.10.21-01.25.21:838][473]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2022.10.21-01.25.21:838][473]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.21-01.25.21:842][473]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_houseMap.LV_houseMap up for play (max tick rate 0) at 2022.10.21-14.25.21
+[2022.10.21-01.25.21:843][473]LogWorld: Bringing up level for play took: 0.003608
+[2022.10.21-01.25.21:843][473]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.21-01.25.21:843][473]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.21-01.25.21:843][473]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.21-01.25.21:843][473]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.21-01.25.21:845][473]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.21-01.25.21:845][473]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.21-01.25.21:845][473]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.21-01.25.21:845][473]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.21-01.25.21:845][473]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.21-01.25.21:845][473]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.21-01.25.21:845][473]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.21-01.25.21:846][473]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.21-01.25.21:846][473]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.21-01.25.21:846][473]LogLoad: Took 0.136163 seconds to LoadMap(/Game/Levels/LV_houseMap)
+[2022.10.21-01.25.22:909][580]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.10.21-01.25.23:829][675]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.10.21-01.25.25:974][898]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.21-01.25.25:974][898]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.21-01.25.25:974][898]LogNet: Browse: /Game/Levels/LV_islandMap
+[2022.10.21-01.25.25:974][898]LogLoad: LoadMap: /Game/Levels/LV_islandMap
+[2022.10.21-01.25.25:974][898]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_houseMap
+[2022.10.21-01.25.25:975][898]LogWorld: UWorld::CleanupWorld for LV_houseMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.21-01.25.25:975][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-01.25.26:072][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.21-01.25.26:075][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.21-01.25.26:079][898]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.21-01.25.26:086][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006720s)
+[2022.10.21-01.25.26:086][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006800s)
+[2022.10.21-01.25.26:086][898]LogAudio: Display: Audio Device (ID: 12) registered with world 'LV_islandMap'.
+[2022.10.21-01.25.26:086][898]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.21-01.25.26:086][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.21-01.25.26:086][898]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.21-01.25.26:086][898]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2022.10.21-01.25.26:086][898]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.21-01.25.26:087][898]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.21-14.25.26
+[2022.10.21-01.25.26:087][898]LogWorld: Bringing up level for play took: 0.000331
+[2022.10.21-01.25.26:087][898]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.21-01.25.26:087][898]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.21-01.25.26:087][898]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.21-01.25.26:087][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.21-01.25.26:088][898]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.21-01.25.26:138][898]LogBlueprintUserMessages: [LV_islandMap_C_0] BP_Island_C_13
+[2022.10.21-01.25.26:138][898]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.21-01.25.26:138][898]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.21-01.25.26:138][898]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.21-01.25.26:138][898]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.21-01.25.26:138][898]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.21-01.25.26:138][898]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.21-01.25.26:138][898]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.21-01.25.26:139][898]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.21-01.25.26:139][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.21-01.25.26:139][898]LogLoad: Took 0.164992 seconds to LoadMap(/Game/Levels/UEDPIE_0_LV_islandMap)
+[2022.10.21-01.25.53:289][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.21-01.25.53:289][598]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.21-01.25.53:289][598]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.21-01.25.53:291][598]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.21-01.25.53:293][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-01.25.53:302][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.21-01.25.53:308][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-01.25.53:372][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.21-01.25.53:372][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.10.21-01.25.53:374][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.10.21-01.25.53:405][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.21-01.25.53:435][599]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.10.21-01.26.18:825][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.21-01.26.18:876][804]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LV_islandMap_Auto0
+[2022.10.21-01.26.18:876][804]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/LV_islandMap_Auto014EE3D7743886ED5473EA48DBD9BBDEB.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Levels/LV_islandMap_Auto0.umap'
+[2022.10.21-01.26.18:883][804]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.131
+[2022.10.21-01.26.18:883][804]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2022.10.21-01.26.18:884][804]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GS_singlePlayer] ([2] browsable assets)...
+[2022.10.21-01.26.18:884][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/GS_singlePlayer]
+[2022.10.21-01.26.19:047][804]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GS_singlePlayer_Auto0
+[2022.10.21-01.26.19:047][804]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayer_Auto0A0CF1F7C4B0015B0643989BC5BE046C0.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GS_singlePlayer_Auto0.uasset'
+[2022.10.21-01.26.19:049][804]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.10.21-01.26.19:049][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.10.21-01.26.19:049][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2022.10.21-01.26.19:079][804]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto0
+[2022.10.21-01.26.19:079][804]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto0FDC8335D47DC0BA140D170A71EB2776E.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto0.uasset'
+[2022.10.21-01.26.19:081][804]LogFileHelpers: Auto-saving content packages took 0.198
+[2022.10.21-01.36.19:377][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.21-01.36.19:381][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.080
+[2022.10.21-01.36.19:382][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.10.21-01.36.19:382][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.10.21-01.36.19:382][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.10.21-01.36.19:414][884]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto1
+[2022.10.21-01.36.19:414][884]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto13D9A89D44934CD5F81141BA859E42479.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto1.uasset'
+[2022.10.21-01.36.19:415][884]LogFileHelpers: Auto-saving content packages took 0.034
+[2022.10.21-01.53.57:929][ 45]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.057 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-02.53.57:630][781]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.815 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-03.53.57:678][511]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.940 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-04.53.58:065][245]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.083 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-05.53.58:097][972]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.252 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-06.53.58:008][700]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-07.53.57:625][426]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.730 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-08.53.57:789][155]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.008 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-09.53.57:695][884]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.816 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-10.53.57:831][613]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.980 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-11.53.57:505][338]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.840 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-12.53.58:185][ 68]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.340 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-13.53.57:838][794]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.867 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-14.53.57:702][524]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.827 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-15.53.57:651][253]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.851 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-16.53.57:849][985]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.164 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-17.53.57:977][716]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.013 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.21-18.01.12:939][172]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2022.10.21-18.01.13:077][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.21-18.01.13:144][172]LogSavePackage: Moving output files for package: /Game/Levels/LV_islandMap
+[2022.10.21-18.01.13:144][172]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/LV_islandMap1316EB98484007EA1E1EC68C9FDE036D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Levels/LV_islandMap.umap'
+[2022.10.21-18.01.13:173][172]LogFileHelpers: No new changes to save!
+[2022.10.21-18.01.13:173][172]LogFileHelpers: Saving map 'LV_islandMap' took 0.166
+[2022.10.21-18.01.13:240][172]LogSavePackage: Moving output files for package: /Game/Blueprints/Container/BP_Container
+[2022.10.21-18.01.13:242][172]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_Container3B0CDB8E4EB2B6463FE5FF9274DF964E.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Container/BP_Container.uasset'
+[2022.10.21-18.01.13:244][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GS_singlePlayer" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset" SILENT=true
+[2022.10.21-18.01.13:432][172]LogSavePackage: Moving output files for package: /Game/GS_singlePlayer
+[2022.10.21-18.01.13:432][172]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GS_singlePlayerEDBFA20E445E5F5CECF316B9E144B9AA.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GS_singlePlayer.uasset'
+[2022.10.21-18.01.13:433][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset" SILENT=true
+[2022.10.21-18.01.13:469][172]LogSavePackage: Moving output files for package: /Game/PC_default
+[2022.10.21-18.01.13:470][172]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default706D92A6402B518F972FB8AF09A8A82D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset'
+[2022.10.21-18.01.13:471][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryManager" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/InventoryManager.uasset" SILENT=true
+[2022.10.21-18.01.13:473][172]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryManager
+[2022.10.21-18.01.13:473][172]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/InventoryManager7AC7E99B4027C97115EA438B9F431C58.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/InventoryManager.uasset'
+[2022.10.21-18.01.13:474][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CMP_container" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/CMP_container.uasset" SILENT=true
+[2022.10.21-18.01.13:476][172]LogSavePackage: Moving output files for package: /Game/CMP_container
+[2022.10.21-18.01.13:477][172]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/CMP_container2B22708A46830E79D267398CCF769E4D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/CMP_container.uasset'
+[2022.10.21-18.01.13:492][172]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.21-18.01.13:492][172]LogContentValidation: Display: Validating Blueprint /Game/GS_singlePlayer.GS_singlePlayer
+[2022.10.21-18.01.13:492][172]LogContentValidation: Display: Validating Blueprint /Game/PC_default.PC_default
+[2022.10.21-18.01.13:492][172]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Container/BP_Container.BP_Container
+[2022.10.21-18.01.13:492][172]LogContentValidation: Display: Validating World /Game/Levels/LV_islandMap.LV_islandMap
+[2022.10.21-18.01.13:492][172]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/InventoryManager.InventoryManager
+[2022.10.21-18.01.13:492][172]LogContentValidation: Display: Validating Blueprint /Game/CMP_container.CMP_container
