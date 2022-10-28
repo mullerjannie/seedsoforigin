@@ -11230,3 +11230,926 @@ Script call stack:
 [2022.10.28-06.12.16:701][202]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cell53BF5A3E45B6BC79F4076EA6EF16CBE9.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/container_cell.uasset'
 [2022.10.28-06.12.16:721][202]AssetCheck: New page: Asset Save: container_cell
 [2022.10.28-06.12.16:721][202]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cell.container_cell
+[2022.10.28-06.54.24:130][874]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.161 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.28-07.54.23:799][611]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.804 and deleted 1 file(s) with total size 0 MiB.
+[2022.10.28-08.01.11:286][770]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation
+[2022.10.28-08.01.11:286][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.01.11:291][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.01.11:658][770]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-08.01.11:658][770]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-08.01.22:570][979]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-08.01.22:570][979]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.28-08.02.38:190][668]BlueprintLog: New page: Compile GI_instance
+[2022.10.28-08.02.38:542][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.10.28-08.06.51:538][778]BlueprintLog: New page: Compile BP_MenuAtLocation
+[2022.10.28-08.06.51:722][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.10.28-08.07.08:871][756]BlueprintLog: New page: Compile BP_MenuAtLocation
+[2022.10.28-08.07.09:019][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.10.28-08.07.10:027][841]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.07.10:038][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.07.10:039][841]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:07:10 am)
+[2022.10.28-08.07.10:039][841]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.07.10:046][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006672s)
+[2022.10.28-08.07.10:046][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006736s)
+[2022.10.28-08.07.10:046][841]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.07.10:046][841]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.07.10:046][841]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.07.10:046][841]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2022.10.28-08.07.10:131][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.28-08.07.10:136][841]LogBlueprintUserMessages: [GI_instance_C_88] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.07.10:136][841]LogBlueprintUserMessages: [GI_instance_C_88] Main: Load Plant companion bonusses
+[2022.10.28-08.07.10:136][841]LogBlueprintUserMessages: [GI_instance_C_88] Main: Load Plant environment companion bonusses
+[2022.10.28-08.07.10:137][841]LogBlueprintUserMessages: [GI_instance_C_88] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.07.10:137][841]LogBlueprintUserMessages: [GI_instance_C_88] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.07.10:137][841]LogBlueprintUserMessages: [GI_instance_C_88] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.07.10:137][841]LogBlueprintUserMessages: [GI_instance_C_88] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.07.10:137][841]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2022.10.28-08.07.10:137][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.07.10:137][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.07.10:137][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.07.10:137][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.07.10:137][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.07.10:137][841]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.07.10:137][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.07.10:137][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.07.10:138][841]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.07.10:138][841]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.07.10:138][841]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.07.10:140][841]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.07.10:171][841]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.07.10:171][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.07.10:171][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.07.10:171][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.07.10:172][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2022.10.28-08.07.10:172][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2022.10.28-08.07.10:173][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2022.10.28-08.07.10:173][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2022.10.28-08.07.10:173][841]LogInit: FAudioDevice initialized.
+[2022.10.28-08.07.10:173][841]LogAudio: Display: Audio Device (ID: 90) registered with world 'LV_islandMap'.
+[2022.10.28-08.07.10:233][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.07.10:233][841]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.07.10:234][841]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.07.10
+[2022.10.28-08.07.10:234][841]LogWorld: Bringing up level for play took: 0.000776
+[2022.10.28-08.07.10:236][841]LogOnline: OSS: Created online subsystem instance for: :Context_148
+[2022.10.28-08.07.10:237][841]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.07.10:237][841]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.07.10:237][841]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.07.10:237][841]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.07.10:237][841]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.07.10:339][841]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_15
+[2022.10.28-08.07.10:339][841]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.07.10:339][841]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.07.10:339][841]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.07.10:339][841]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.07.10:339][841]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.07.10:339][841]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.07.10:339][841]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.07.10:342][841]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.07.10:342][841]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.07.10:344][841]PIE: Server logged in
+[2022.10.28-08.07.10:347][841]PIE: Play in editor total start time 0.309 seconds.
+[2022.10.28-08.07.10:371][841]LogViewport: Scene viewport resized to 3434x1352, mode Windowed.
+[2022.10.28-08.07.11:354][896]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.28-08.07.24:908][  2]LogBlueprintUserMessages: [BP_item_C_170] pickup potions
+[2022.10.28-08.07.24:908][  2]LogBlueprintUserMessages: [GI_instance_C_88] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.07.32:473][610]LogBlueprintUserMessages: [BP_item_C_167] pickup potions
+[2022.10.28-08.07.32:473][610]LogBlueprintUserMessages: [GI_instance_C_88] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.28-08.07.34:238][753]LogBlueprintUserMessages: [BP_item_C_168] pickup potions
+[2022.10.28-08.07.34:238][753]LogBlueprintUserMessages: [GI_instance_C_88] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.28-08.07.34:958][810]LogBlueprintUserMessages: [BP_item_C_166] pickup potions
+[2022.10.28-08.07.34:958][810]LogBlueprintUserMessages: [GI_instance_C_88] empty slot  smallslot found at slotid 3 in container hands
+[2022.10.28-08.07.35:878][883]LogBlueprintUserMessages: [BP_item_C_175] pickup potions
+[2022.10.28-08.07.35:879][883]LogBlueprintUserMessages: [GI_instance_C_88] empty slot  smallslot found at slotid 4 in container hands
+[2022.10.28-08.07.50:987][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.07.50:988][131]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.07.50:989][131]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.07.50:993][131]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.07.50:996][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.07.51:010][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.07.51:023][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.07.51:121][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-08.07.51:122][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2022.10.28-08.07.51:124][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2022.10.28-08.07.51:166][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.10.28-08.07.51:199][132]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2022.10.28-08.08.00:298][185]BlueprintLog: New page: Compile BP_MenuAtLocation
+[2022.10.28-08.08.00:452][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.28-08.08.01:522][275]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.08.01:532][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.08.01:532][275]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:08:01 am)
+[2022.10.28-08.08.01:533][275]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.08.01:539][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006819s)
+[2022.10.28-08.08.01:539][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006884s)
+[2022.10.28-08.08.01:539][275]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.08.01:539][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.08.01:540][275]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.08.01:540][275]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2022.10.28-08.08.01:625][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.10.28-08.08.01:629][275]LogBlueprintUserMessages: [GI_instance_C_89] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.08.01:629][275]LogBlueprintUserMessages: [GI_instance_C_89] Main: Load Plant companion bonusses
+[2022.10.28-08.08.01:629][275]LogBlueprintUserMessages: [GI_instance_C_89] Main: Load Plant environment companion bonusses
+[2022.10.28-08.08.01:629][275]LogBlueprintUserMessages: [GI_instance_C_89] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.08.01:629][275]LogBlueprintUserMessages: [GI_instance_C_89] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.08.01:629][275]LogBlueprintUserMessages: [GI_instance_C_89] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.08.01:629][275]LogBlueprintUserMessages: [GI_instance_C_89] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.08.01:630][275]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2022.10.28-08.08.01:630][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.08.01:630][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.08.01:630][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.08.01:630][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.08.01:630][275]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.08.01:630][275]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.08.01:630][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.08.01:630][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.08.01:630][275]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.08.01:630][275]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.08.01:630][275]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.08.01:633][275]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.08.01:660][275]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.08.01:660][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.08.01:660][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.08.01:660][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.08.01:660][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2022.10.28-08.08.01:660][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2022.10.28-08.08.01:662][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2022.10.28-08.08.01:662][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2022.10.28-08.08.01:662][275]LogInit: FAudioDevice initialized.
+[2022.10.28-08.08.01:662][275]LogAudio: Display: Audio Device (ID: 91) registered with world 'LV_islandMap'.
+[2022.10.28-08.08.01:702][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.08.01:703][275]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.08.01:703][275]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.08.01
+[2022.10.28-08.08.01:704][275]LogWorld: Bringing up level for play took: 0.000795
+[2022.10.28-08.08.01:706][275]LogOnline: OSS: Created online subsystem instance for: :Context_149
+[2022.10.28-08.08.01:706][275]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.08.01:707][275]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.08.01:707][275]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.08.01:707][275]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.08.01:707][275]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.08.01:770][275]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=976.592 Y=33817.559 Z=16689.810] for [BP_Island_C]
+[2022.10.28-08.08.01:771][275]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8343.761 Y=38422.802 Z=10453.352] for [BP_Island_C]
+[2022.10.28-08.08.01:804][275]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_15
+[2022.10.28-08.08.01:804][275]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.08.01:804][275]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.08.01:804][275]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.08.01:804][275]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.08.01:804][275]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.08.01:804][275]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.08.01:804][275]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.08.01:808][275]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.08.01:808][275]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.08.01:811][275]PIE: Server logged in
+[2022.10.28-08.08.01:813][275]PIE: Play in editor total start time 0.281 seconds.
+[2022.10.28-08.08.01:834][275]LogViewport: Scene viewport resized to 3434x1352, mode Windowed.
+[2022.10.28-08.08.04:946][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.08.04:947][503]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.08.04:948][503]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.08.04:954][503]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.08.04:957][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.08.04:970][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.08.04:980][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.08.05:073][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-08.08.05:074][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2022.10.28-08.08.05:076][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2022.10.28-08.08.05:098][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.28-08.08.05:123][504]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2022.10.28-08.08.06:479][661]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.08.06:489][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.08.06:489][661]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:08:06 am)
+[2022.10.28-08.08.06:490][661]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.08.06:497][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006903s)
+[2022.10.28-08.08.06:497][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006995s)
+[2022.10.28-08.08.06:497][661]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.08.06:497][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.08.06:497][661]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.08.06:498][661]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2022.10.28-08.08.06:581][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.28-08.08.06:585][661]LogBlueprintUserMessages: [GI_instance_C_90] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.08.06:585][661]LogBlueprintUserMessages: [GI_instance_C_90] Main: Load Plant companion bonusses
+[2022.10.28-08.08.06:586][661]LogBlueprintUserMessages: [GI_instance_C_90] Main: Load Plant environment companion bonusses
+[2022.10.28-08.08.06:586][661]LogBlueprintUserMessages: [GI_instance_C_90] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.08.06:586][661]LogBlueprintUserMessages: [GI_instance_C_90] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.08.06:586][661]LogBlueprintUserMessages: [GI_instance_C_90] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.08.06:586][661]LogBlueprintUserMessages: [GI_instance_C_90] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.08.06:586][661]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2022.10.28-08.08.06:586][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.08.06:586][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.08.06:586][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.08.06:586][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.08.06:586][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.08.06:586][661]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.08.06:586][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.08.06:586][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.08.06:587][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.08.06:587][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.08.06:587][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.08.06:588][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.08.06:637][661]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.08.06:638][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.08.06:638][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.08.06:638][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.08.06:639][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2022.10.28-08.08.06:639][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2022.10.28-08.08.06:641][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2022.10.28-08.08.06:641][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2022.10.28-08.08.06:641][661]LogInit: FAudioDevice initialized.
+[2022.10.28-08.08.06:641][661]LogAudio: Display: Audio Device (ID: 92) registered with world 'LV_islandMap'.
+[2022.10.28-08.08.06:729][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.08.06:730][661]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.08.06:731][661]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.08.06
+[2022.10.28-08.08.06:732][661]LogWorld: Bringing up level for play took: 0.001433
+[2022.10.28-08.08.06:736][661]LogOnline: OSS: Created online subsystem instance for: :Context_150
+[2022.10.28-08.08.06:738][661]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.08.06:738][661]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.08.06:739][661]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.08.06:739][661]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.08.06:739][661]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.08.06:796][661]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=21860.409 Y=17755.669 Z=-3333.384] for [BP_Island_C]
+[2022.10.28-08.08.06:846][661]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13438.825 Y=2829.066 Z=-7508.317] for [BP_Island_C]
+[2022.10.28-08.08.06:861][661]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_11
+[2022.10.28-08.08.06:861][661]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.08.06:861][661]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.08.06:861][661]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.08.06:861][661]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.08.06:861][661]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.08.06:861][661]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.08.06:861][661]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.08.06:864][661]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.08.06:864][661]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.08.06:867][661]PIE: Server logged in
+[2022.10.28-08.08.06:869][661]PIE: Play in editor total start time 0.38 seconds.
+[2022.10.28-08.08.06:890][661]LogViewport: Scene viewport resized to 3434x1352, mode Windowed.
+[2022.10.28-08.08.07:688][708]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.28-08.08.16:575][416]LogBlueprintUserMessages: [BP_item_C_117] pickup potions
+[2022.10.28-08.08.16:575][416]LogBlueprintUserMessages: [GI_instance_C_90] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.08.20:711][750]LogBlueprintUserMessages: [BP_item_C_115] pickup potions
+[2022.10.28-08.08.20:711][750]LogBlueprintUserMessages: [GI_instance_C_90] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.28-08.08.22:171][864]LogBlueprintUserMessages: [BP_item_C_119] pickup potions
+[2022.10.28-08.08.22:171][864]LogBlueprintUserMessages: [GI_instance_C_90] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.28-08.08.22:427][884]LogBlueprintUserMessages: [BP_item_C_120] pickup potions
+[2022.10.28-08.08.22:427][884]LogBlueprintUserMessages: [GI_instance_C_90] empty slot  smallslot found at slotid 3 in container hands
+[2022.10.28-08.08.25:074][ 91]LogBlueprintUserMessages: [BP_item_C_118] pickup potions
+[2022.10.28-08.08.25:074][ 91]LogBlueprintUserMessages: [GI_instance_C_90] empty slot  smallslot found at slotid 4 in container hands
+[2022.10.28-08.08.33:320][686]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.28-08.08.43:111][544]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_get_charactercontainer', from offset 3130
+[2022.10.28-08.08.43:111][544]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:BndEvt__BP_MenuAtLocation_overlap_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:ExecuteUbergraph_BP_MenuAtLocation
+
+[2022.10.28-08.08.48:277][544]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2022.10.28-08.08.48:277][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.09.13:342][544]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DataWorldCycles.DataWorldCycles
+[2022.10.28-08.09.13:342][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.11.18:947][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.11.18:948][544]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.11.18:950][544]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.11.18:977][544]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.11.18:980][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.11.18:991][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.11.19:002][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.11.19:112][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2022.10.28-08.11.19:114][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2022.10.28-08.11.19:144][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.10.28-08.11.19:173][545]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2022.10.28-08.11.29:683][792]BlueprintLog: New page: Compile GI_instance
+[2022.10.28-08.11.30:043][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.28-08.11.30:708][838]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.11.30:718][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.11.30:719][838]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:11:30 am)
+[2022.10.28-08.11.30:719][838]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.11.30:726][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006967s)
+[2022.10.28-08.11.30:726][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.007031s)
+[2022.10.28-08.11.30:726][838]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.11.30:726][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.11.30:726][838]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.11.30:726][838]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2022.10.28-08.11.30:828][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.10.28-08.11.30:832][838]LogBlueprintUserMessages: [GI_instance_C_91] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.11.30:832][838]LogBlueprintUserMessages: [GI_instance_C_91] Main: Load Plant companion bonusses
+[2022.10.28-08.11.30:832][838]LogBlueprintUserMessages: [GI_instance_C_91] Main: Load Plant environment companion bonusses
+[2022.10.28-08.11.30:832][838]LogBlueprintUserMessages: [GI_instance_C_91] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.11.30:832][838]LogBlueprintUserMessages: [GI_instance_C_91] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.11.30:832][838]LogBlueprintUserMessages: [GI_instance_C_91] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.11.30:832][838]LogBlueprintUserMessages: [GI_instance_C_91] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.11.30:833][838]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2022.10.28-08.11.30:833][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.11.30:833][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.11.30:833][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.11.30:833][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.11.30:833][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.11.30:833][838]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.11.30:833][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.11.30:833][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.11.30:833][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.11.30:833][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.11.30:833][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.11.30:835][838]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.11.30:864][838]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.11.30:864][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.11.30:864][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.11.30:864][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.11.30:864][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2022.10.28-08.11.30:864][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2022.10.28-08.11.30:866][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2022.10.28-08.11.30:866][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2022.10.28-08.11.30:866][838]LogInit: FAudioDevice initialized.
+[2022.10.28-08.11.30:866][838]LogAudio: Display: Audio Device (ID: 93) registered with world 'LV_islandMap'.
+[2022.10.28-08.11.30:899][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.11.30:899][838]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.11.30:899][838]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.11.30
+[2022.10.28-08.11.30:900][838]LogWorld: Bringing up level for play took: 0.000693
+[2022.10.28-08.11.30:902][838]LogOnline: OSS: Created online subsystem instance for: :Context_153
+[2022.10.28-08.11.30:903][838]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.11.30:903][838]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.11.30:903][838]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.11.30:903][838]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.11.30:903][838]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.11.31:029][838]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_1
+[2022.10.28-08.11.31:029][838]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.11.31:029][838]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.11.31:029][838]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.11.31:029][838]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.11.31:029][838]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.11.31:029][838]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.11.31:029][838]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.11.31:032][838]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.11.31:032][838]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.11.31:034][838]PIE: Server logged in
+[2022.10.28-08.11.31:034][838]PIE: Play in editor total start time 0.317 seconds.
+[2022.10.28-08.11.31:054][838]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.28-08.11.33:041][  5]LogBlueprintUserMessages: [BP_item_C_15] pickup potions
+[2022.10.28-08.11.33:041][  5]LogBlueprintUserMessages: [GI_instance_C_91] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.11.37:036][371]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_get_charactercontainer', from offset 3130
+[2022.10.28-08.11.37:036][371]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:BndEvt__BP_MenuAtLocation_overlap_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:ExecuteUbergraph_BP_MenuAtLocation
+
+[2022.10.28-08.11.42:558][651]LogBlueprintUserMessages: [BP_item_C_13] pickup potions
+[2022.10.28-08.11.42:558][651]LogBlueprintUserMessages: [GI_instance_C_91] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.28-08.11.43:832][761]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_get_charactercontainer', from offset 3130
+[2022.10.28-08.11.43:832][761]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:BndEvt__BP_MenuAtLocation_overlap_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:ExecuteUbergraph_BP_MenuAtLocation
+
+[2022.10.28-08.13.57:786][370]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.28-08.13.57:786][370]LogEditorClassViewer: Warning: Class /Game/Blueprints/BPSkysphere.BPSkysphere_C has parent /Game/Levels/BP_skysphere.BP_skysphere_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.28-08.14.38:257][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.14.38:257][292]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.14.38:260][292]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.14.38:264][292]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.14.38:267][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.14.38:276][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.14.38:286][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.14.38:392][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-08.14.38:396][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2022.10.28-08.14.38:398][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2022.10.28-08.14.38:433][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.28-08.14.38:457][293]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2022.10.28-08.14.48:356][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.10.28-08.14.48:359][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.098
+[2022.10.28-08.14.48:360][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GI_instance] ([2] browsable assets)...
+[2022.10.28-08.14.48:360][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/GI_instance]
+[2022.10.28-08.14.48:360][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.10.28-08.14.48:607][427]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GI_instance_Auto8
+[2022.10.28-08.14.48:607][427]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance_Auto8ABED5E36431ED5C1B4D4DAA2CCCA6B77.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto8.uasset'
+[2022.10.28-08.14.48:609][427]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Interface/BP_MenuAtLocation] ([2] browsable assets)...
+[2022.10.28-08.14.48:612][427]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation]
+[2022.10.28-08.14.48:612][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interface/BP_MenuAtLocation]
+[2022.10.28-08.14.48:634][427]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Interface/BP_MenuAtLocation_Auto8
+[2022.10.28-08.14.48:636][427]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_MenuAtLocation_Auto80E7194224301E11017C079B8B3A4FFE7.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Interface/BP_MenuAtLocation_Auto8.uasset'
+[2022.10.28-08.14.48:637][427]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/BP_item] ([2] browsable assets)...
+[2022.10.28-08.14.48:685][427]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Inventoryv2/BP_item.BP_item]
+[2022.10.28-08.14.48:685][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/BP_item]
+[2022.10.28-08.14.48:695][427]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/BP_item_Auto8
+[2022.10.28-08.14.48:695][427]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_item_Auto898C452364E9A3B1F4F3EB79F5B0B1C4D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/BP_item_Auto8.uasset'
+[2022.10.28-08.14.48:696][427]LogFileHelpers: Auto-saving content packages took 0.336
+[2022.10.28-08.14.50:714][666]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.14.50:714][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.14.52:225][833]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.14.52:225][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.15.58:764][673]BlueprintLog: New page: Compile GI_instance
+[2022.10.28-08.15.59:124][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.28-08.16.00:585][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.16.00:594][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.16.00:594][810]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:16:00 am)
+[2022.10.28-08.16.00:596][810]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.16.00:602][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006956s)
+[2022.10.28-08.16.00:602][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.007023s)
+[2022.10.28-08.16.00:602][810]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.16.00:602][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.16.00:603][810]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.16.00:603][810]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2022.10.28-08.16.00:694][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.28-08.16.00:701][810]LogBlueprintUserMessages: [GI_instance_C_92] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.16.00:701][810]LogBlueprintUserMessages: [GI_instance_C_92] Main: Load Plant companion bonusses
+[2022.10.28-08.16.00:701][810]LogBlueprintUserMessages: [GI_instance_C_92] Main: Load Plant environment companion bonusses
+[2022.10.28-08.16.00:702][810]LogBlueprintUserMessages: [GI_instance_C_92] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.16.00:702][810]LogBlueprintUserMessages: [GI_instance_C_92] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.16.00:702][810]LogBlueprintUserMessages: [GI_instance_C_92] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.16.00:702][810]LogBlueprintUserMessages: [GI_instance_C_92] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.16.00:702][810]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2022.10.28-08.16.00:702][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.16.00:702][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.16.00:702][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.16.00:702][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.16.00:702][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.16.00:702][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.16.00:702][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.16.00:702][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.16.00:703][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.16.00:703][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.16.00:703][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.16.00:704][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.16.00:733][810]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.16.00:734][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.16.00:734][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.16.00:734][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.16.00:734][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2022.10.28-08.16.00:734][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2022.10.28-08.16.00:735][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2022.10.28-08.16.00:735][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2022.10.28-08.16.00:735][810]LogInit: FAudioDevice initialized.
+[2022.10.28-08.16.00:735][810]LogAudio: Display: Audio Device (ID: 94) registered with world 'LV_islandMap'.
+[2022.10.28-08.16.00:796][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.16.00:796][810]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.16.00:797][810]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.16.00
+[2022.10.28-08.16.00:797][810]LogWorld: Bringing up level for play took: 0.000596
+[2022.10.28-08.16.00:799][810]LogOnline: OSS: Created online subsystem instance for: :Context_154
+[2022.10.28-08.16.00:800][810]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.16.00:800][810]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.16.00:800][810]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.16.00:800][810]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.16.00:800][810]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.16.00:902][810]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_5
+[2022.10.28-08.16.00:902][810]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.16.00:902][810]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.16.00:902][810]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.16.00:902][810]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.16.00:902][810]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.16.00:902][810]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.16.00:902][810]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.16.00:905][810]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.16.00:905][810]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.16.00:906][810]PIE: Server logged in
+[2022.10.28-08.16.00:907][810]PIE: Play in editor total start time 0.312 seconds.
+[2022.10.28-08.16.00:929][810]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.28-08.16.02:717][943]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_get_charactercontainer', from offset 3130
+[2022.10.28-08.16.02:717][943]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:BndEvt__BP_MenuAtLocation_overlap_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:ExecuteUbergraph_BP_MenuAtLocation
+
+[2022.10.28-08.16.08:566][ 75]LogBlueprintUserMessages: [BP_item_C_59] pickup potions
+[2022.10.28-08.16.08:566][ 75]LogBlueprintUserMessages: [GI_instance_C_92] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.16.59:277][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.16.59:277][575]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.16.59:278][575]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.16.59:282][575]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.16.59:285][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.16.59:297][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.16.59:305][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.16.59:414][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-08.16.59:417][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2022.10.28-08.16.59:419][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2022.10.28-08.16.59:440][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.10.28-08.16.59:474][576]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2022.10.28-08.18.43:216][387]BlueprintLog: New page: Compile GI_instance
+[2022.10.28-08.18.43:548][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.10.28-08.18.44:207][426]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.18.44:217][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.18.44:217][426]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:18:44 am)
+[2022.10.28-08.18.44:218][426]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.18.44:224][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006637s)
+[2022.10.28-08.18.44:224][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006701s)
+[2022.10.28-08.18.44:224][426]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.18.44:224][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.18.44:224][426]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.18.44:224][426]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2022.10.28-08.18.44:318][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.10.28-08.18.44:324][426]LogBlueprintUserMessages: [GI_instance_C_93] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.18.44:324][426]LogBlueprintUserMessages: [GI_instance_C_93] Main: Load Plant companion bonusses
+[2022.10.28-08.18.44:324][426]LogBlueprintUserMessages: [GI_instance_C_93] Main: Load Plant environment companion bonusses
+[2022.10.28-08.18.44:324][426]LogBlueprintUserMessages: [GI_instance_C_93] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.18.44:324][426]LogBlueprintUserMessages: [GI_instance_C_93] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.18.44:324][426]LogBlueprintUserMessages: [GI_instance_C_93] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.18.44:324][426]LogBlueprintUserMessages: [GI_instance_C_93] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.18.44:326][426]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2022.10.28-08.18.44:326][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.18.44:326][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.18.44:326][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.18.44:326][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.18.44:326][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.18.44:326][426]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.18.44:326][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.18.44:326][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.18.44:326][426]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.18.44:326][426]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.18.44:326][426]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.18.44:328][426]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.18.44:362][426]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.18.44:362][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.18.44:362][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.18.44:362][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.18.44:363][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2022.10.28-08.18.44:363][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2022.10.28-08.18.44:364][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2022.10.28-08.18.44:364][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2022.10.28-08.18.44:364][426]LogInit: FAudioDevice initialized.
+[2022.10.28-08.18.44:364][426]LogAudio: Display: Audio Device (ID: 95) registered with world 'LV_islandMap'.
+[2022.10.28-08.18.44:421][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.18.44:421][426]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.18.44:421][426]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.18.44
+[2022.10.28-08.18.44:422][426]LogWorld: Bringing up level for play took: 0.000677
+[2022.10.28-08.18.44:424][426]LogOnline: OSS: Created online subsystem instance for: :Context_155
+[2022.10.28-08.18.44:424][426]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.18.44:424][426]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.18.44:425][426]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.18.44:425][426]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.18.44:425][426]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.18.44:504][426]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11632.130 Y=38219.854 Z=-7865.383] for [BP_Island_C]
+[2022.10.28-08.18.44:510][426]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=29699.087 Y=32071.900 Z=4309.976] for [BP_Island_C]
+[2022.10.28-08.18.44:521][426]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_3
+[2022.10.28-08.18.44:521][426]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.18.44:521][426]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.18.44:521][426]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.18.44:521][426]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.18.44:521][426]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.18.44:521][426]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.18.44:521][426]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.18.44:524][426]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.18.44:524][426]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.18.44:526][426]PIE: Server logged in
+[2022.10.28-08.18.44:528][426]PIE: Play in editor total start time 0.31 seconds.
+[2022.10.28-08.18.44:549][426]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.28-08.18.46:932][594]LogBlueprintUserMessages: [BP_item_C_35] pickup potions
+[2022.10.28-08.18.46:932][594]LogBlueprintUserMessages: [GI_instance_C_93] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.18.48:471][719]LogBlueprintUserMessages: [GI_instance_C_93] Found Item 35 to remove at slot 0 in container 
+[2022.10.28-08.18.48:471][719]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/GI_instance.GI_instance without an associated node. The blueprint breakpoint has been removed
+[2022.10.28-08.18.48:471][719]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/GI_instance.GI_instance without an associated node. The blueprint breakpoint has been removed
+[2022.10.28-08.18.48:477][719]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_PrintString', from offset 603
+[2022.10.28-08.18.48:477][719]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:BndEvt__BP_MenuAtLocation_overlap_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:ExecuteUbergraph_BP_MenuAtLocation
+	Function /Game/GI_instance.GI_instance_C:removeitem_charactercontainer
+
+[2022.10.28-08.19.59:625][719]LogBlueprintUserMessages: [GI_instance_C_93] Hello
+[2022.10.28-08.19.59:667][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.19.59:667][719]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.19.59:667][719]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.19.59:670][719]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.19.59:673][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.19.59:682][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.19.59:693][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.19.59:784][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-08.19.59:789][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2022.10.28-08.19.59:791][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2022.10.28-08.19.59:818][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.10.28-08.19.59:849][720]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2022.10.28-08.21.59:381][305]BlueprintLog: New page: Compile GI_instance
+[2022.10.28-08.21.59:681][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.28-08.22.00:438][356]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.22.00:451][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.22.00:451][356]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:22:00 am)
+[2022.10.28-08.22.00:451][356]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.22.00:459][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006913s)
+[2022.10.28-08.22.00:459][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006979s)
+[2022.10.28-08.22.00:459][356]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.22.00:459][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.22.00:459][356]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.22.00:460][356]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2022.10.28-08.22.00:550][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.10.28-08.22.00:556][356]LogBlueprintUserMessages: [GI_instance_C_94] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.22.00:556][356]LogBlueprintUserMessages: [GI_instance_C_94] Main: Load Plant companion bonusses
+[2022.10.28-08.22.00:556][356]LogBlueprintUserMessages: [GI_instance_C_94] Main: Load Plant environment companion bonusses
+[2022.10.28-08.22.00:556][356]LogBlueprintUserMessages: [GI_instance_C_94] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.22.00:556][356]LogBlueprintUserMessages: [GI_instance_C_94] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.22.00:556][356]LogBlueprintUserMessages: [GI_instance_C_94] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.22.00:556][356]LogBlueprintUserMessages: [GI_instance_C_94] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.22.00:557][356]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2022.10.28-08.22.00:557][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.22.00:557][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.22.00:557][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.22.00:557][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.22.00:557][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.22.00:557][356]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.22.00:557][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.22.00:557][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.22.00:557][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.22.00:557][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.22.00:557][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.22.00:559][356]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.22.00:587][356]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.22.00:588][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.22.00:588][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.22.00:588][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.22.00:588][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2022.10.28-08.22.00:588][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2022.10.28-08.22.00:589][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2022.10.28-08.22.00:589][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2022.10.28-08.22.00:590][356]LogInit: FAudioDevice initialized.
+[2022.10.28-08.22.00:590][356]LogAudio: Display: Audio Device (ID: 96) registered with world 'LV_islandMap'.
+[2022.10.28-08.22.00:667][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.22.00:668][356]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.22.00:669][356]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.22.00
+[2022.10.28-08.22.00:670][356]LogWorld: Bringing up level for play took: 0.001509
+[2022.10.28-08.22.00:676][356]LogOnline: OSS: Created online subsystem instance for: :Context_156
+[2022.10.28-08.22.00:677][356]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.22.00:677][356]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.22.00:677][356]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.22.00:677][356]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.22.00:677][356]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.22.00:811][356]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_7
+[2022.10.28-08.22.00:811][356]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.22.00:811][356]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.22.00:811][356]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.22.00:811][356]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.22.00:811][356]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.22.00:811][356]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.22.00:811][356]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.22.00:814][356]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.22.00:814][356]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.22.00:816][356]PIE: Server logged in
+[2022.10.28-08.22.00:817][356]PIE: Play in editor total start time 0.369 seconds.
+[2022.10.28-08.22.00:840][356]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.28-08.22.05:859][748]LogBlueprintUserMessages: [BP_item_C_83] pickup potions
+[2022.10.28-08.22.05:859][748]LogBlueprintUserMessages: [GI_instance_C_94] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.22.06:866][829]LogBlueprintUserMessages: [GI_instance_C_94] Found Item 83 to remove at slot 0 in container 
+[2022.10.28-08.22.06:866][829]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_PrintString', from offset 774
+[2022.10.28-08.22.06:866][829]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:BndEvt__BP_MenuAtLocation_overlap_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:ExecuteUbergraph_BP_MenuAtLocation
+	Function /Game/GI_instance.GI_instance_C:removeitem_charactercontainer
+
+[2022.10.28-08.22.24:034][829]LogBlueprintUserMessages: [GI_instance_C_94] Hello
+[2022.10.28-08.22.24:077][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.22.24:077][829]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.22.24:077][829]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.22.24:081][829]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.22.24:084][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.22.24:092][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.22.24:101][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.22.24:190][829]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-08.22.24:193][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2022.10.28-08.22.24:196][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2022.10.28-08.22.24:239][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.28-08.22.24:261][830]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2022.10.28-08.22.29:450][438]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.22.29:460][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.22.29:460][438]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:22:29 am)
+[2022.10.28-08.22.29:460][438]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.22.29:468][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007187s)
+[2022.10.28-08.22.29:468][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.007257s)
+[2022.10.28-08.22.29:468][438]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.22.29:468][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.22.29:468][438]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.22.29:468][438]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2022.10.28-08.22.29:552][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.28-08.22.29:558][438]LogBlueprintUserMessages: [GI_instance_C_95] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.22.29:558][438]LogBlueprintUserMessages: [GI_instance_C_95] Main: Load Plant companion bonusses
+[2022.10.28-08.22.29:558][438]LogBlueprintUserMessages: [GI_instance_C_95] Main: Load Plant environment companion bonusses
+[2022.10.28-08.22.29:558][438]LogBlueprintUserMessages: [GI_instance_C_95] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.22.29:558][438]LogBlueprintUserMessages: [GI_instance_C_95] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.22.29:558][438]LogBlueprintUserMessages: [GI_instance_C_95] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.22.29:558][438]LogBlueprintUserMessages: [GI_instance_C_95] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.22.29:559][438]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2022.10.28-08.22.29:559][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.22.29:559][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.22.29:559][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.22.29:559][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.22.29:559][438]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.22.29:559][438]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.22.29:559][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.22.29:559][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.22.29:559][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.22.29:559][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.22.29:559][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.22.29:561][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.22.29:590][438]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.22.29:590][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.22.29:590][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.22.29:590][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.22.29:590][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=97
+[2022.10.28-08.22.29:590][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=97
+[2022.10.28-08.22.29:592][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=97
+[2022.10.28-08.22.29:592][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=97
+[2022.10.28-08.22.29:592][438]LogInit: FAudioDevice initialized.
+[2022.10.28-08.22.29:592][438]LogAudio: Display: Audio Device (ID: 97) registered with world 'LV_islandMap'.
+[2022.10.28-08.22.29:644][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.22.29:644][438]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.22.29:644][438]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.22.29
+[2022.10.28-08.22.29:646][438]LogWorld: Bringing up level for play took: 0.000820
+[2022.10.28-08.22.29:648][438]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2022.10.28-08.22.29:649][438]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.22.29:649][438]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.22.29:649][438]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.22.29:649][438]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.22.29:649][438]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.22.29:693][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19118.321 Y=9352.397 Z=-8431.502] for [BP_Island_C]
+[2022.10.28-08.22.29:746][438]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_0
+[2022.10.28-08.22.29:746][438]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.22.29:746][438]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.22.29:746][438]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.22.29:746][438]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.22.29:746][438]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.22.29:746][438]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.22.29:746][438]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.22.29:749][438]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.22.29:749][438]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.22.29:751][438]PIE: Server logged in
+[2022.10.28-08.22.29:752][438]PIE: Play in editor total start time 0.292 seconds.
+[2022.10.28-08.22.29:771][438]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.28-08.22.35:368][919]LogBlueprintUserMessages: [BP_item_C_10] pickup potions
+[2022.10.28-08.22.35:368][919]LogBlueprintUserMessages: [GI_instance_C_95] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.22.36:845][ 59]LogBlueprintUserMessages: [GI_instance_C_95] Found Item 10 to remove at slot 0 in container 
+[2022.10.28-08.22.36:845][ 59]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_PrintString', from offset 774
+[2022.10.28-08.22.36:845][ 59]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:BndEvt__BP_MenuAtLocation_overlap_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature
+	Function /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation_C:ExecuteUbergraph_BP_MenuAtLocation
+	Function /Game/GI_instance.GI_instance_C:removeitem_charactercontainer
+
+[2022.10.28-08.22.39:501][ 59]LogBlueprintUserMessages: [GI_instance_C_95] Hello
+[2022.10.28-08.22.43:440][430]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/GI_instance.GI_instance without an associated node. The blueprint breakpoint has been removed
+[2022.10.28-08.22.43:440][430]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/GI_instance.GI_instance without an associated node. The blueprint breakpoint has been removed
+[2022.10.28-08.22.45:007][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.22.45:007][556]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.22.45:008][556]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.22.45:012][556]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.22.45:015][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.22.45:025][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.22.45:034][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.22.45:124][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2022.10.28-08.22.45:125][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2022.10.28-08.22.45:148][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.10.28-08.22.45:177][557]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2022.10.28-08.22.47:103][777]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-08.22.47:112][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-08.22.47:112][777]PIE: New page: PIE session: LV_islandMap (29/10/2022, 10:22:47 am)
+[2022.10.28-08.22.47:113][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.22.47:119][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006877s)
+[2022.10.28-08.22.47:119][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006942s)
+[2022.10.28-08.22.47:119][777]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-08.22.47:119][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-08.22.47:119][777]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.28-08.22.47:120][777]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2022.10.28-08.22.47:203][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.28-08.22.47:206][777]LogBlueprintUserMessages: [GI_instance_C_96] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.28-08.22.47:206][777]LogBlueprintUserMessages: [GI_instance_C_96] Main: Load Plant companion bonusses
+[2022.10.28-08.22.47:206][777]LogBlueprintUserMessages: [GI_instance_C_96] Main: Load Plant environment companion bonusses
+[2022.10.28-08.22.47:206][777]LogBlueprintUserMessages: [GI_instance_C_96] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.28-08.22.47:206][777]LogBlueprintUserMessages: [GI_instance_C_96] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.28-08.22.47:206][777]LogBlueprintUserMessages: [GI_instance_C_96] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.28-08.22.47:206][777]LogBlueprintUserMessages: [GI_instance_C_96] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.28-08.22.47:207][777]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2022.10.28-08.22.47:207][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-08.22.47:207][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-08.22.47:207][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-08.22.47:207][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-08.22.47:207][777]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-08.22.47:207][777]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-08.22.47:207][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-08.22.47:207][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-08.22.47:207][777]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-08.22.47:207][777]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-08.22.47:207][777]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-08.22.47:210][777]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-08.22.47:237][777]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.28-08.22.47:237][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-08.22.47:237][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-08.22.47:237][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-08.22.47:238][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=98
+[2022.10.28-08.22.47:238][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=98
+[2022.10.28-08.22.47:239][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=98
+[2022.10.28-08.22.47:239][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=98
+[2022.10.28-08.22.47:239][777]LogInit: FAudioDevice initialized.
+[2022.10.28-08.22.47:239][777]LogAudio: Display: Audio Device (ID: 98) registered with world 'LV_islandMap'.
+[2022.10.28-08.22.47:301][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.22.47:301][777]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.28-08.22.47:301][777]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.28-21.22.47
+[2022.10.28-08.22.47:302][777]LogWorld: Bringing up level for play took: 0.000498
+[2022.10.28-08.22.47:304][777]LogOnline: OSS: Created online subsystem instance for: :Context_158
+[2022.10.28-08.22.47:304][777]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.28-08.22.47:304][777]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.28-08.22.47:304][777]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.22.47:304][777]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.28-08.22.47:304][777]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.22.47:400][777]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10280.160 Y=34789.574 Z=22477.645] for [BP_Island_C]
+[2022.10.28-08.22.47:406][777]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_17
+[2022.10.28-08.22.47:406][777]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.28-08.22.47:406][777]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.28-08.22.47:406][777]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.28-08.22.47:406][777]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.28-08.22.47:406][777]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.28-08.22.47:406][777]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.28-08.22.47:406][777]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.28-08.22.47:409][777]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.28-08.22.47:409][777]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.28-08.22.47:411][777]PIE: Server logged in
+[2022.10.28-08.22.47:413][777]PIE: Play in editor total start time 0.301 seconds.
+[2022.10.28-08.22.47:433][777]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.10.28-08.22.48:239][829]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.28-08.22.50:736][ 41]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.28-08.22.52:579][198]LogBlueprintUserMessages: [BP_item_C_193] pickup potions
+[2022.10.28-08.22.52:579][198]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.22.53:194][249]LogBlueprintUserMessages: [BP_item_C_192] pickup potions
+[2022.10.28-08.22.53:194][249]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.28-08.22.53:734][293]LogBlueprintUserMessages: [BP_item_C_191] pickup potions
+[2022.10.28-08.22.53:734][293]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.28-08.22.54:607][365]LogBlueprintUserMessages: [BP_item_C_195] pickup potions
+[2022.10.28-08.22.54:608][365]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 3 in container hands
+[2022.10.28-08.22.54:903][389]LogBlueprintUserMessages: [BP_item_C_194] pickup potions
+[2022.10.28-08.22.54:903][389]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 4 in container hands
+[2022.10.28-08.22.56:757][545]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 193 to remove at slot 0 in container 
+[2022.10.28-08.22.56:757][545]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.22.57:177][581]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 192 to remove at slot 1 in container 
+[2022.10.28-08.22.57:177][581]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.22.58:117][662]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 191 to remove at slot 2 in container 
+[2022.10.28-08.22.58:117][662]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.22.58:969][736]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 195 to remove at slot 3 in container 
+[2022.10.28-08.22.58:969][736]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.22.59:719][801]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 194 to remove at slot 4 in container 
+[2022.10.28-08.22.59:719][801]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.23.02:822][ 63]LogBlueprintUserMessages: [BP_item_C_187] pickup potions
+[2022.10.28-08.23.02:823][ 63]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.23.05:084][253]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 187 to remove at slot 0 in container 
+[2022.10.28-08.23.05:084][253]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.23.06:804][398]LogBlueprintUserMessages: [BP_item_C_197] pickup potions
+[2022.10.28-08.23.06:804][398]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.23.08:697][556]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 197 to remove at slot 0 in container 
+[2022.10.28-08.23.08:697][556]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.23.17:234][274]LogBlueprintUserMessages: [BP_item_C_188] pickup potions
+[2022.10.28-08.23.17:234][274]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.23.19:603][471]LogBlueprintUserMessages: [BP_item_C_196] pickup potions
+[2022.10.28-08.23.19:603][471]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.28-08.23.23:021][754]LogBlueprintUserMessages: [BP_item_C_156] pickup potions
+[2022.10.28-08.23.23:021][754]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.28-08.23.23:401][786]LogBlueprintUserMessages: [BP_item_C_163] pickup potions
+[2022.10.28-08.23.23:401][786]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 3 in container hands
+[2022.10.28-08.23.23:852][824]LogBlueprintUserMessages: [BP_item_C_161] pickup potions
+[2022.10.28-08.23.23:852][824]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 4 in container hands
+[2022.10.28-08.23.25:669][974]LogBlueprintUserMessages: [BP_item_C_158] pickup potions
+[2022.10.28-08.23.25:669][974]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 5 in container hands
+[2022.10.28-08.23.26:966][ 84]LogBlueprintUserMessages: [BP_item_C_157] pickup potions
+[2022.10.28-08.23.26:966][ 84]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 6 in container hands
+[2022.10.28-08.23.27:397][120]LogBlueprintUserMessages: [BP_item_C_155] pickup potions
+[2022.10.28-08.23.27:397][120]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 7 in container hands
+[2022.10.28-08.23.28:003][171]LogBlueprintUserMessages: [BP_item_C_154] pickup potions
+[2022.10.28-08.23.28:003][171]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 8 in container hands
+[2022.10.28-08.23.29:055][260]LogBlueprintUserMessages: [BP_item_C_164] pickup potions
+[2022.10.28-08.23.29:055][260]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 9 in container hands
+[2022.10.28-08.23.29:586][305]LogBlueprintUserMessages: [BP_item_C_162] pickup potions
+[2022.10.28-08.23.29:586][305]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 10 in container hands
+[2022.10.28-08.23.30:211][357]LogBlueprintUserMessages: [BP_item_C_160] pickup potions
+[2022.10.28-08.23.30:211][357]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 11 in container hands
+[2022.10.28-08.23.31:199][440]LogBlueprintUserMessages: [BP_item_C_159] pickup potions
+[2022.10.28-08.23.31:199][440]LogBlueprintUserMessages: [GI_instance_C_96] No slot found canont, pickup item
+[2022.10.28-08.23.31:986][507]LogBlueprintUserMessages: [BP_item_C_159] pickup potions
+[2022.10.28-08.23.31:986][507]LogBlueprintUserMessages: [GI_instance_C_96] No slot found canont, pickup item
+[2022.10.28-08.23.32:176][523]LogBlueprintUserMessages: [BP_item_C_159] pickup potions
+[2022.10.28-08.23.32:176][523]LogBlueprintUserMessages: [GI_instance_C_96] No slot found canont, pickup item
+[2022.10.28-08.23.32:571][557]LogBlueprintUserMessages: [BP_item_C_159] pickup potions
+[2022.10.28-08.23.32:571][557]LogBlueprintUserMessages: [GI_instance_C_96] No slot found canont, pickup item
+[2022.10.28-08.23.32:763][573]LogBlueprintUserMessages: [BP_item_C_159] pickup potions
+[2022.10.28-08.23.32:763][573]LogBlueprintUserMessages: [GI_instance_C_96] No slot found canont, pickup item
+[2022.10.28-08.23.34:512][719]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 188 to remove at slot 0 in container 
+[2022.10.28-08.23.34:513][719]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.23.36:322][873]LogBlueprintUserMessages: [BP_item_C_159] pickup potions
+[2022.10.28-08.23.36:323][873]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.23.38:137][ 27]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.10.28-08.23.39:293][116]LogBlueprintUserMessages: [BP_item_C_189] pickup potions
+[2022.10.28-08.23.39:293][116]LogBlueprintUserMessages: [GI_instance_C_96] No slot found canont, pickup item
+[2022.10.28-08.23.40:499][218]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 159 to remove at slot 0 in container 
+[2022.10.28-08.23.40:499][218]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.23.40:667][232]LogBlueprintUserMessages: [GI_instance_C_96] Found Item 196 to remove at slot 1 in container 
+[2022.10.28-08.23.40:667][232]LogBlueprintUserMessages: [GI_instance_C_96] Hello
+[2022.10.28-08.23.41:797][327]LogBlueprintUserMessages: [BP_item_C_189] pickup potions
+[2022.10.28-08.23.41:797][327]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.28-08.23.42:452][381]LogBlueprintUserMessages: [BP_item_C_190] pickup potions
+[2022.10.28-08.23.42:452][381]LogBlueprintUserMessages: [GI_instance_C_96] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.28-08.23.46:867][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-08.23.46:867][746]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.28-08.23.46:868][746]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-08.23.46:872][746]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-08.23.46:875][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.23.46:882][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-08.23.46:891][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-08.23.46:980][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2022.10.28-08.23.46:981][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2022.10.28-08.23.47:014][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.10.28-08.23.47:040][747]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2022.10.28-08.23.48:843][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.28-08.23.48:913][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.28-08.23.49:160][948]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.28-08.23.49:161][948]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instanceC88FA2BD4C57B0058A087C9113643798.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.28-08.23.49:188][948]LogSavePackage: Moving output files for package: /Game/Blueprints/Interface/BP_MenuAtLocation
+[2022.10.28-08.23.49:189][948]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_MenuAtLocation20E2330A4C75DF3501622CA6803D7E24.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Interface/BP_MenuAtLocation.uasset'
+[2022.10.28-08.23.49:236][948]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/BP_item
+[2022.10.28-08.23.49:236][948]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_itemDB24A4F648524C6FF219B3B9CEF92555.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/BP_item.uasset'
+[2022.10.28-08.23.49:291][948]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.28-08.23.49:291][948]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.10.28-08.23.49:291][948]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation
+[2022.10.28-08.23.49:294][948]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventoryv2/BP_item.BP_item
