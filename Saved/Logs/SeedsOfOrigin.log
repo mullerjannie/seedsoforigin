@@ -7237,3 +7237,436 @@ Script call stack:
 [2022.10.31-08.11.32:298][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
 [2022.10.31-08.11.32:320][352]LogPlayLevel: Display: Destroying online subsystem :Context_61
 [2022.10.31-08.11.34:216][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.31-08.12.40:731][616]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.12.40:731][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.12.40:745][616]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.12.40:745][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.12.51:887][922]BlueprintLog: New page: Compile containerfunctions
+[2022.10.31-08.12.52:006][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.31-08.13.14:815][614]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.13.14:815][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.13.14:830][614]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.13.14:830][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.13.41:218][715]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.13.41:218][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.16.27:932][850]BlueprintLog: New page: Compile GI_instance
+[2022.10.31-08.16.28:321][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.31-08.19.59:531][480]BlueprintLog: New page: Compile PC_default
+[2022.10.31-08.19.59:740][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.10.31-08.20.30:340][623]LogSlate: Window 'Delete Function' being destroyed
+[2022.10.31-08.21.58:217][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.31-08.22.07:201][842]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.31-08.22.07:293][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.31-08.22.07:365][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.31-08.22.07:434][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.31-08.22.09:732][ 73]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.10.31-08.22.09:736][ 73]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.10.31-08.22.10:629][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.31-08.22.10:633][163]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.074
+[2022.10.31-08.22.10:634][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GI_instance] ([2] browsable assets)...
+[2022.10.31-08.22.10:634][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/GI_instance]
+[2022.10.31-08.22.10:634][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.10.31-08.22.10:913][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GI_instance_Auto4
+[2022.10.31-08.22.10:913][163]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance_Auto48E49530C4C64F1B2873ABD90103CAA93.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto4.uasset'
+[2022.10.31-08.22.10:915][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.10.31-08.22.10:915][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.10.31-08.22.10:915][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.10.31-08.22.10:955][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto4
+[2022.10.31-08.22.10:955][163]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto4C12117AE4980451CF11DC49A9CA198D7.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto4.uasset'
+[2022.10.31-08.22.10:956][163]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/character_containers] ([2] browsable assets)...
+[2022.10.31-08.22.10:959][163]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventoryv2/character_containers.character_containers]
+[2022.10.31-08.22.10:959][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/character_containers]
+[2022.10.31-08.22.10:995][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/character_containers_Auto4
+[2022.10.31-08.22.10:995][163]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/character_containers_Auto4929F1183434AE370117A0D99A733B95A.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/character_containers_Auto4.uasset'
+[2022.10.31-08.22.10:996][163]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/container_cell] ([2] browsable assets)...
+[2022.10.31-08.22.10:998][163]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cell.container_cell]
+[2022.10.31-08.22.10:998][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/container_cell]
+[2022.10.31-08.22.11:030][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/container_cell_Auto4
+[2022.10.31-08.22.11:031][163]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cell_Auto4B0FBA97344B270EB70730BB3DDB8A9D6.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/container_cell_Auto4.uasset'
+[2022.10.31-08.22.11:031][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventoryv2/containerfunctions] ([2] browsable assets)...
+[2022.10.31-08.22.11:031][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/containerfunctions]
+[2022.10.31-08.22.11:041][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/containerfunctions_Auto4
+[2022.10.31-08.22.11:041][163]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerfunctions_Auto4DB1A1CA54F78D90C358237A1E47744F6.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/containerfunctions_Auto4.uasset'
+[2022.10.31-08.22.11:043][163]LogFileHelpers: Auto-saving content packages took 0.410
+[2022.10.31-08.22.14:552][557]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/container_cell
+[2022.10.31-08.22.14:552][557]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cellFD5AB4DF4141CB21EBE819B858B70069.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/container_cell.uasset'
+[2022.10.31-08.22.14:588][557]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/character_containers
+[2022.10.31-08.22.14:588][557]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/character_containersFD08503841C3D9652FD43FBE0A16881A.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/character_containers.uasset'
+[2022.10.31-08.22.14:599][557]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/containerfunctions
+[2022.10.31-08.22.14:600][557]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerfunctionsBBA797884EBDFE1B78D9DE87B3AAF64D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/containerfunctions.uasset'
+[2022.10.31-08.22.14:616][557]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.31-08.22.14:616][557]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cell.container_cell
+[2022.10.31-08.22.14:616][557]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/character_containers.character_containers
+[2022.10.31-08.22.14:617][557]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventoryv2/containerfunctions.containerfunctions
+[2022.10.31-08.22.15:387][647]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.31-08.22.15:398][647]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-08.22.15:428][647]LogPlayLevel: [PlayLevel] Compiling GI_instance before play...
+[2022.10.31-08.22.15:729][647]LogPlayLevel: [PlayLevel] Compiling container_cell before play...
+[2022.10.31-08.22.15:820][647]LogPlayLevel: [PlayLevel] Compiling character_containers before play...
+[2022.10.31-08.22.16:063][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.10.31-08.22.16:067][647]LogPlayLevel: PlayLevel: Blueprint regeneration took 669 ms (3 blueprints)
+[2022.10.31-08.22.16:067][647]PIE: New page: PIE session: LV_islandMap (1/11/2022, 10:22:16 am)
+[2022.10.31-08.22.16:067][647]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.31-08.22.16:073][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006577s)
+[2022.10.31-08.22.16:073][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006638s)
+[2022.10.31-08.22.16:073][647]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.31-08.22.16:073][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-08.22.16:075][647]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.31-08.22.16:075][647]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2022.10.31-08.22.16:143][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.31-08.22.16:144][647]LogBlueprintUserMessages: [GI_instance_C_39] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.31-08.22.16:145][647]LogBlueprintUserMessages: [GI_instance_C_39] Main: Load Plant companion bonusses
+[2022.10.31-08.22.16:145][647]LogBlueprintUserMessages: [GI_instance_C_39] Main: Load Plant environment companion bonusses
+[2022.10.31-08.22.16:145][647]LogBlueprintUserMessages: [GI_instance_C_39] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.31-08.22.16:145][647]LogBlueprintUserMessages: [GI_instance_C_39] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.31-08.22.16:145][647]LogBlueprintUserMessages: [GI_instance_C_39] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.31-08.22.16:145][647]LogBlueprintUserMessages: [GI_instance_C_39] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.31-08.22.16:145][647]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.10.31-08.22.16:145][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-08.22.16:145][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-08.22.16:145][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-08.22.16:145][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-08.22.16:145][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-08.22.16:145][647]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.31-08.22.16:145][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-08.22.16:145][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-08.22.16:146][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.31-08.22.16:146][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.31-08.22.16:146][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.31-08.22.16:147][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.31-08.22.16:176][647]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.31-08.22.16:177][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-08.22.16:177][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-08.22.16:177][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-08.22.16:178][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2022.10.31-08.22.16:178][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2022.10.31-08.22.16:179][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2022.10.31-08.22.16:179][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2022.10.31-08.22.16:179][647]LogInit: FAudioDevice initialized.
+[2022.10.31-08.22.16:179][647]LogAudio: Display: Audio Device (ID: 41) registered with world 'LV_islandMap'.
+[2022.10.31-08.22.16:194][647]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.31-08.22.16:194][647]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.31-21.22.16
+[2022.10.31-08.22.16:195][647]LogWorld: Bringing up level for play took: 0.000400
+[2022.10.31-08.22.16:196][647]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2022.10.31-08.22.16:197][647]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.31-08.22.16:197][647]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.31-08.22.16:197][647]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.31-08.22.16:197][647]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.31-08.22.16:261][647]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8359.019 Y=45893.735 Z=-14191.870] for [BP_Island_C]
+[2022.10.31-08.22.16:271][647]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10162.663 Y=26497.695 Z=-13464.004] for [BP_Island_C]
+[2022.10.31-08.22.16:291][647]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_18
+[2022.10.31-08.22.16:291][647]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.31-08.22.16:291][647]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.31-08.22.16:291][647]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.31-08.22.16:291][647]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.31-08.22.16:292][647]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.31-08.22.16:292][647]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.31-08.22.16:292][647]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:293][647]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.22.16:294][647]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.10.31-08.22.16:295][647]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.31-08.22.16:295][647]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.31-08.22.16:295][647]PIE: Server logged in
+[2022.10.31-08.22.16:295][647]PIE: Play in editor total start time 0.898 seconds.
+[2022.10.31-08.22.21:042][147]LogBlueprintUserMessages: [GI_instance_C_39] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.31-08.22.21:342][172]LogBlueprintUserMessages: [GI_instance_C_39] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.31-08.22.22:158][266]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.10.31-08.22.22:159][266]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.31-08.22.22:159][266]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.10.31-08.22.22:159][266]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.31-08.22.29:761][122]LogBlueprintUserMessages: [GI_instance_C_39] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.31-08.22.31:932][364]LogBlueprintUserMessages: [container_cell_C_74] dragging
+[2022.10.31-08.22.32:512][429]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.10.31-08.22.32:513][429]LogBlueprintUserMessages: [GI_instance_C_39] Found Item 180 to remove at slot 2 in container 
+[2022.10.31-08.22.33:469][535]LogBlueprintUserMessages: [None] The container pockets in socket middle_waist has 2 empty slots and 0 full slots. 
+[2022.10.31-08.22.33:469][535]LogBlueprintUserMessages: [container_cell_C_85] all slots are empty, container can be removed
+[2022.10.31-08.22.33:469][535]LogBlueprintUserMessages: [container_cell_C_85] dragging
+[2022.10.31-08.22.33:776][569]LogBlueprintUserMessages: [GI_instance_C_39] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.31-08.22.35:550][766]LogBlueprintUserMessages: [GI_instance_C_39] empty slot  smallslot found at slotid 3 in container hands
+[2022.10.31-08.22.37:149][945]LogBlueprintUserMessages: [container_cell_C_139] dragging
+[2022.10.31-08.22.38:282][ 74]LogBlueprintUserMessages: [small_empty_socket_C_5] Itemtype is container belt. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.10.31-08.22.38:283][ 74]LogBlueprintUserMessages: [GI_instance_C_39] Found Item 182 to remove at slot 3 in container 
+[2022.10.31-08.22.40:969][377]LogBlueprintUserMessages: [GI_instance_C_39] empty slot  smallslot found at slotid 3 in container hands
+[2022.10.31-08.22.43:691][680]LogBlueprintUserMessages: [container_cell_C_190] dragging
+[2022.10.31-08.22.44:291][748]LogBlueprintUserMessages: [small_empty_socket_C_4] Itemtype is container baldric. This should process new slot generation for backpacks. Dropped on character sockets right_hip
+[2022.10.31-08.22.44:292][748]LogBlueprintUserMessages: [GI_instance_C_39] Found Item 186 to remove at slot 3 in container 
+[2022.10.31-08.22.46:603][  3]LogBlueprintUserMessages: [container_cell_C_217] dragging
+[2022.10.31-08.22.47:736][131]LogBlueprintUserMessages: [container_cell_C_199] From container source 0 slot 2 to target 2 and slotb 0
+[2022.10.31-08.22.49:063][279]LogBlueprintUserMessages: [container_cell_C_239] dragging
+[2022.10.31-08.22.49:371][314]LogBlueprintUserMessages: [container_cell_C_241] From container source 2 slot 0 to target 2 and slotb 2
+[2022.10.31-08.22.49:994][383]LogBlueprintUserMessages: [container_cell_C_249] dragging
+[2022.10.31-08.22.50:162][402]LogBlueprintUserMessages: [container_cell_C_250] From container source 2 slot 2 to target 2 and slotb 3
+[2022.10.31-08.22.50:764][469]LogBlueprintUserMessages: [container_cell_C_258] dragging
+[2022.10.31-08.22.51:211][519]LogBlueprintUserMessages: [container_cell_C_238] From container source 2 slot 3 to target 0 and slotb 11
+[2022.10.31-08.22.51:790][584]LogBlueprintUserMessages: [container_cell_C_274] dragging
+[2022.10.31-08.22.52:478][661]LogBlueprintUserMessages: [small_empty_socket_C_7] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets right_waist
+[2022.10.31-08.22.52:479][661]LogBlueprintUserMessages: [GI_instance_C_39] Found Item 180 to remove at slot 11 in container 
+[2022.10.31-08.22.54:007][831]LogBlueprintUserMessages: [None] The container pockets in socket right_waist has 2 empty slots and 0 full slots. 
+[2022.10.31-08.22.54:007][831]LogBlueprintUserMessages: [container_cell_C_275] all slots are empty, container can be removed
+[2022.10.31-08.22.54:007][831]LogBlueprintUserMessages: [container_cell_C_275] dragging
+[2022.10.31-08.22.54:821][922]LogBlueprintUserMessages: [GI_instance_C_39] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.31-08.22.56:186][ 69]LogBlueprintUserMessages: [container_cell_C_312] Rule#1 - Must be unequipable
+[2022.10.31-08.22.58:819][360]LogBlueprintUserMessages: [container_cell_C_301] dragging
+[2022.10.31-08.22.59:519][439]LogBlueprintUserMessages: [container_cell_C_149] From container source 0 slot 0 to target 1 and slotb 1
+[2022.10.31-08.23.00:054][494]LogBlueprintUserMessages: [container_cell_C_316] dragging
+[2022.10.31-08.23.00:621][557]LogBlueprintUserMessages: [container_cell_C_329] From container source 0 slot 1 to target 1 and slotb 2
+[2022.10.31-08.23.16:141][306]LogBlueprintUserMessages: [container_cell_C_343] dragging
+[2022.10.31-08.23.16:673][366]LogBlueprintUserMessages: [small_empty_socket_C_3] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets left_hip
+[2022.10.31-08.23.16:673][366]LogBlueprintUserMessages: [GI_instance_C_39] Container Found( pockets) but is not compatible with target socket (left_hip)
+[2022.10.31-08.23.16:673][366]LogBlueprintUserMessages: [small_empty_socket_C_3] container creation went wrong
+[2022.10.31-08.23.21:161][865]LogBlueprintUserMessages: [container_cell_C_344] dragging
+[2022.10.31-08.23.21:468][900]LogBlueprintUserMessages: [container_cell_C_339] From container source 1 slot 2 to target 0 and slotb 9
+[2022.10.31-08.23.22:069][964]LogBlueprintUserMessages: [container_cell_C_346] dragging
+[2022.10.31-08.23.22:500][  4]LogBlueprintUserMessages: [container_cell_C_356] From container source 1 slot 1 to target 0 and slotb 8
+[2022.10.31-08.23.23:750][140]LogBlueprintUserMessages: [container_cell_C_365] dragging
+[2022.10.31-08.23.24:694][247]LogBlueprintUserMessages: [small_empty_socket_C_0] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets back
+[2022.10.31-08.23.24:694][247]LogBlueprintUserMessages: [GI_instance_C_39] Container Found( pockets) but is not compatible with target socket (back)
+[2022.10.31-08.23.24:694][247]LogBlueprintUserMessages: [small_empty_socket_C_0] container creation went wrong
+[2022.10.31-08.23.27:454][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-08.23.27:454][542]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.31-08.23.27:455][542]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.23.27:457][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.23.27:469][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-08.23.27:477][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.23.27:551][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-08.23.27:551][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.10.31-08.23.27:553][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.10.31-08.23.27:567][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.31-08.23.27:603][543]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.10.31-08.23.32:767][142]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Inventoryv2/container_generator.container_generator
+[2022.10.31-08.23.32:768][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-08.23.32:774][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-08.23.33:127][142]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.31-08.23.33:127][142]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.31-08.23.51:477][197]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.23.51:477][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.23.51:490][197]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.23.51:490][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.24.15:041][852]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.10.31-08.24.15:047][852]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.10.31-08.25.08:159][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.10.31-08.25.11:701][975]LogSlate: Took 0.004298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.31-08.25.32:025][975]LogSlate: Window 'Replace References?' being destroyed
+[2022.10.31-08.25.32:029][975]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with containeruniformgrid; and then delete them.
+
+Are you sure?
+[2022.10.31-08.25.32:029][975]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.31-08.25.32:077][975]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:077][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.32:093][975]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:094][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.32:219][975]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:219][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.32:233][975]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:233][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.32:374][975]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:374][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.32:540][975]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:540][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.32:715][975]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.31-08.25.32:715][975]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:715][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.32:880][975]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:881][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.32:893][975]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.32:893][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.33:023][975]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.25.33:023][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.25.33:863][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.10.31-08.25.34:085][975]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.10.31-08.25.34:599][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.31-08.25.55:103][975]LogSlate: Window 'Save Content' being destroyed
+[2022.10.31-08.25.55:198][975]LogSavePackage: Moving output files for package: /Game/Blueprints/Interface/BP_MenuAtLocation
+[2022.10.31-08.25.55:199][975]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_MenuAtLocation6FE60AE0470E9F29CBA707BF3CE715CF.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Interface/BP_MenuAtLocation.uasset'
+[2022.10.31-08.25.55:236][975]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/character_containers
+[2022.10.31-08.25.55:237][975]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/character_containers2B9301514B734C97D33F8AB2B6920EF5.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/character_containers.uasset'
+[2022.10.31-08.25.55:239][975]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/container_generator
+[2022.10.31-08.25.55:239][975]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_generatorACED2FC342338D8CEBA6E9AF7CE439D2.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/container_generator.uasset'
+[2022.10.31-08.25.55:253][975]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.31-08.25.55:253][975]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/character_containers.character_containers
+[2022.10.31-08.25.55:254][975]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation
+[2022.10.31-08.25.55:255][975]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Inventoryv2/container_generator.Default__container_generator_C
+[2022.10.31-08.25.55:255][975]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Inventoryv2/container_generator.container_generator_C
+[2022.10.31-08.25.55:255][975]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Inventoryv2/container_generator.container_generator
+[2022.10.31-08.25.58:367][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.31-08.25.58:376][312]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-08.25.58:384][312]LogPlayLevel: [PlayLevel] Compiling character_containers before play...
+[2022.10.31-08.25.58:468][312]LogPlayLevel: [PlayLevel] Compiling BP_MenuAtLocation before play...
+[2022.10.31-08.25.58:545][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.31-08.25.58:549][312]LogPlayLevel: PlayLevel: Blueprint regeneration took 173 ms (2 blueprints)
+[2022.10.31-08.25.58:549][312]PIE: New page: PIE session: LV_islandMap (1/11/2022, 10:25:58 am)
+[2022.10.31-08.25.58:549][312]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.31-08.25.58:556][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006484s)
+[2022.10.31-08.25.58:556][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006542s)
+[2022.10.31-08.25.58:556][312]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.31-08.25.58:556][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-08.25.58:556][312]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.10.31-08.25.58:556][312]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2022.10.31-08.25.58:580][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.31-08.25.58:583][312]LogBlueprintUserMessages: [GI_instance_C_40] Main: Load Plant Life Cycle Reference Data Table
+[2022.10.31-08.25.58:583][312]LogBlueprintUserMessages: [GI_instance_C_40] Main: Load Plant companion bonusses
+[2022.10.31-08.25.58:583][312]LogBlueprintUserMessages: [GI_instance_C_40] Main: Load Plant environment companion bonusses
+[2022.10.31-08.25.58:583][312]LogBlueprintUserMessages: [GI_instance_C_40] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.10.31-08.25.58:583][312]LogBlueprintUserMessages: [GI_instance_C_40] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.10.31-08.25.58:583][312]LogBlueprintUserMessages: [GI_instance_C_40] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.10.31-08.25.58:583][312]LogBlueprintUserMessages: [GI_instance_C_40] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.10.31-08.25.58:583][312]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.10.31-08.25.58:583][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-08.25.58:583][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-08.25.58:583][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-08.25.58:583][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-08.25.58:583][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-08.25.58:583][312]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.31-08.25.58:583][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-08.25.58:583][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-08.25.58:584][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.31-08.25.58:584][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.31-08.25.58:584][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.31-08.25.58:585][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.31-08.25.58:614][312]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.31-08.25.58:614][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-08.25.58:614][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-08.25.58:614][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-08.25.58:615][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2022.10.31-08.25.58:615][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2022.10.31-08.25.58:616][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2022.10.31-08.25.58:616][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2022.10.31-08.25.58:616][312]LogInit: FAudioDevice initialized.
+[2022.10.31-08.25.58:616][312]LogAudio: Display: Audio Device (ID: 42) registered with world 'LV_islandMap'.
+[2022.10.31-08.25.58:626][312]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.10.31-08.25.58:626][312]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.10.31-21.25.58
+[2022.10.31-08.25.58:627][312]LogWorld: Bringing up level for play took: 0.000388
+[2022.10.31-08.25.58:628][312]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2022.10.31-08.25.58:628][312]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.31-08.25.58:628][312]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.31-08.25.58:628][312]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.31-08.25.58:628][312]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.31-08.25.58:674][312]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=34983.367 Y=11409.345 Z=-7535.782] for [BP_Island_C]
+[2022.10.31-08.25.58:726][312]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_20
+[2022.10.31-08.25.58:726][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.10.31-08.25.58:726][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.10.31-08.25.58:726][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.10.31-08.25.58:727][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.10.31-08.25.58:727][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.10.31-08.25.58:727][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.10.31-08.25.58:727][312]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:728][312]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.10.31-08.25.58:729][312]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.10.31-08.25.58:730][312]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.10.31-08.25.58:730][312]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.31-08.25.58:730][312]PIE: Server logged in
+[2022.10.31-08.25.58:730][312]PIE: Play in editor total start time 0.354 seconds.
+[2022.10.31-08.26.00:063][461]LogBlueprintUserMessages: [GI_instance_C_40] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.31-08.26.00:618][527]LogBlueprintUserMessages: [GI_instance_C_40] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.31-08.26.01:473][629]LogBlueprintUserMessages: [GI_instance_C_40] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.31-08.26.02:818][790]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.10.31-08.26.02:819][790]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.31-08.26.02:819][790]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.10.31-08.26.02:819][790]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.31-08.26.05:648][127]LogBlueprintUserMessages: [container_cell_C_72] dragging
+[2022.10.31-08.26.06:291][204]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container belt. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.10.31-08.26.06:293][204]LogBlueprintUserMessages: [GI_instance_C_40] Found Item 213 to remove at slot 0 in container 
+[2022.10.31-08.26.06:934][280]LogBlueprintUserMessages: [None] The container belt in socket middle_waist has 3 empty slots and 0 full slots. 
+[2022.10.31-08.26.06:934][280]LogBlueprintUserMessages: [container_cell_C_85] all slots are empty, container can be removed
+[2022.10.31-08.26.06:934][280]LogBlueprintUserMessages: [container_cell_C_85] dragging
+[2022.10.31-08.26.07:656][366]LogBlueprintUserMessages: [GI_instance_C_40] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.31-08.26.08:936][516]LogBlueprintUserMessages: [container_cell_C_112] dragging
+[2022.10.31-08.26.10:615][717]LogBlueprintUserMessages: [small_empty_socket_C_0] Itemtype is container bandolier. This should process new slot generation for backpacks. Dropped on character sockets back
+[2022.10.31-08.26.10:615][717]LogBlueprintUserMessages: [GI_instance_C_40] Container Found( bandolier) but is not compatible with target socket (back)
+[2022.10.31-08.26.10:615][717]LogBlueprintUserMessages: [small_empty_socket_C_0] container creation went wrong
+[2022.10.31-08.26.12:613][954]LogBlueprintUserMessages: [container_cell_C_112] dragging
+[2022.10.31-08.26.13:098][ 12]LogBlueprintUserMessages: [small_empty_socket_C_1] Itemtype is container bandolier. This should process new slot generation for backpacks. Dropped on character sockets left_shoulder
+[2022.10.31-08.26.13:099][ 12]LogBlueprintUserMessages: [GI_instance_C_40] Found Item 209 to remove at slot 1 in container 
+[2022.10.31-08.26.15:559][304]LogBlueprintUserMessages: [container_cell_C_143] dragging
+[2022.10.31-08.26.16:193][380]LogBlueprintUserMessages: [small_empty_socket_C_2] Itemtype is container pouch. This should process new slot generation for backpacks. Dropped on character sockets right_shoulder
+[2022.10.31-08.26.16:193][380]LogBlueprintUserMessages: [GI_instance_C_40] Container Found( pouch) but is not compatible with target socket (right_shoulder)
+[2022.10.31-08.26.16:193][380]LogBlueprintUserMessages: [small_empty_socket_C_2] container creation went wrong
+[2022.10.31-08.26.16:865][458]LogBlueprintUserMessages: [container_cell_C_143] dragging
+[2022.10.31-08.26.17:350][516]LogBlueprintUserMessages: [small_empty_socket_C_0] Itemtype is container pouch. This should process new slot generation for backpacks. Dropped on character sockets back
+[2022.10.31-08.26.17:350][516]LogBlueprintUserMessages: [GI_instance_C_40] Container Found( pouch) but is not compatible with target socket (back)
+[2022.10.31-08.26.17:350][516]LogBlueprintUserMessages: [small_empty_socket_C_0] container creation went wrong
+[2022.10.31-08.26.17:933][584]LogBlueprintUserMessages: [container_cell_C_143] dragging
+[2022.10.31-08.26.18:581][661]LogBlueprintUserMessages: [small_empty_socket_C_9] Itemtype is container pouch. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.10.31-08.26.18:582][661]LogBlueprintUserMessages: [GI_instance_C_40] Found Item 219 to remove at slot 2 in container 
+[2022.10.31-08.26.20:898][932]LogBlueprintUserMessages: [container_cell_C_169] dragging
+[2022.10.31-08.26.21:883][ 50]LogBlueprintUserMessages: [container_cell_C_153] From container source 0 slot 0 to target 2 and slotb 0
+[2022.10.31-08.26.22:795][159]LogBlueprintUserMessages: [container_cell_C_193] dragging
+[2022.10.31-08.26.23:322][222]LogBlueprintUserMessages: [small_empty_socket_C_5] Itemtype is container belt. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.10.31-08.26.23:323][222]LogBlueprintUserMessages: [GI_instance_C_40] Found Item 213 to remove at slot 0 in container 
+[2022.10.31-08.26.24:818][400]LogBlueprintUserMessages: [None] The container belt in socket left_waist has 3 empty slots and 0 full slots. 
+[2022.10.31-08.26.24:818][400]LogBlueprintUserMessages: [container_cell_C_199] all slots are empty, container can be removed
+[2022.10.31-08.26.24:818][400]LogBlueprintUserMessages: [container_cell_C_199] dragging
+[2022.10.31-08.26.25:318][460]LogBlueprintUserMessages: [GI_instance_C_40] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.31-08.26.27:350][703]LogBlueprintUserMessages: [None] The container pouch in socket middle_waist has 4 empty slots and 0 full slots. 
+[2022.10.31-08.26.27:350][703]LogBlueprintUserMessages: [container_cell_C_204] all slots are empty, container can be removed
+[2022.10.31-08.26.27:350][703]LogBlueprintUserMessages: [container_cell_C_204] dragging
+[2022.10.31-08.26.27:826][760]LogBlueprintUserMessages: [GI_instance_C_40] empty slot  smallslot found at slotid 1 in container hands
+[2022.10.31-08.26.29:505][954]LogBlueprintUserMessages: [container_cell_C_227] Rule#1 - Must be unequipable
+[2022.10.31-08.26.30:095][ 22]LogBlueprintUserMessages: [container_cell_C_228] Rule#1 - Must be unequipable
+[2022.10.31-08.26.30:630][ 84]LogBlueprintUserMessages: [container_cell_C_232] Rule#1 - Must be unequipable
+[2022.10.31-08.26.31:879][228]LogBlueprintUserMessages: [container_cell_C_224] dragging
+[2022.10.31-08.26.32:581][312]LogBlueprintUserMessages: [small_empty_socket_C_3] Itemtype is container pouch. This should process new slot generation for backpacks. Dropped on character sockets left_hip
+[2022.10.31-08.26.32:581][312]LogBlueprintUserMessages: [GI_instance_C_40] Container Found( pouch) but is not compatible with target socket (left_hip)
+[2022.10.31-08.26.32:581][312]LogBlueprintUserMessages: [small_empty_socket_C_3] container creation went wrong
+[2022.10.31-08.26.34:038][483]LogBlueprintUserMessages: [container_cell_C_223] dragging
+[2022.10.31-08.26.34:556][545]LogBlueprintUserMessages: [small_empty_socket_C_10] Itemtype is container belt. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.10.31-08.26.34:557][545]LogBlueprintUserMessages: [GI_instance_C_40] Found Item 213 to remove at slot 0 in container 
+[2022.10.31-08.26.35:201][622]LogBlueprintUserMessages: [None] The container belt in socket left_waist has 3 empty slots and 0 full slots. 
+[2022.10.31-08.26.35:201][622]LogBlueprintUserMessages: [container_cell_C_240] all slots are empty, container can be removed
+[2022.10.31-08.26.35:201][622]LogBlueprintUserMessages: [container_cell_C_240] dragging
+[2022.10.31-08.26.35:872][702]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'characteritems' of length 220 in '/Game/GI_instance.GI_instance_C'!
+[2022.10.31-08.26.35:872][702]LogBlueprintUserMessages: [small_empty_socket_C_3] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets left_hip
+[2022.10.31-08.26.35:872][702]LogBlueprintUserMessages: [GI_instance_C_40] Container Found( pockets) but is not compatible with target socket (left_hip)
+[2022.10.31-08.26.35:872][702]LogBlueprintUserMessages: [small_empty_socket_C_3] container creation went wrong
+[2022.10.31-08.26.37:465][891]LogBlueprintUserMessages: [None] The container belt in socket left_waist has 3 empty slots and 0 full slots. 
+[2022.10.31-08.26.37:465][891]LogBlueprintUserMessages: [container_cell_C_240] all slots are empty, container can be removed
+[2022.10.31-08.26.37:465][891]LogBlueprintUserMessages: [container_cell_C_240] dragging
+[2022.10.31-08.26.38:101][967]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'characteritems' of length 220 in '/Game/GI_instance.GI_instance_C'!
+[2022.10.31-08.26.38:103][967]LogBlueprintUserMessages: [small_empty_socket_C_3] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets left_hip
+[2022.10.31-08.26.38:103][967]LogBlueprintUserMessages: [GI_instance_C_40] Container Found( pockets) but is not compatible with target socket (left_hip)
+[2022.10.31-08.26.38:103][967]LogBlueprintUserMessages: [small_empty_socket_C_3] container creation went wrong
+[2022.10.31-08.26.38:877][ 59]LogBlueprintUserMessages: [None] The container belt in socket left_waist has 3 empty slots and 0 full slots. 
+[2022.10.31-08.26.38:877][ 59]LogBlueprintUserMessages: [container_cell_C_240] all slots are empty, container can be removed
+[2022.10.31-08.26.38:877][ 59]LogBlueprintUserMessages: [container_cell_C_240] dragging
+[2022.10.31-08.26.39:197][ 97]LogBlueprintUserMessages: [GI_instance_C_40] empty slot  smallslot found at slotid 0 in container hands
+[2022.10.31-08.26.40:827][288]LogBlueprintUserMessages: [None] The container bandolier in socket left_shoulder has 3 empty slots and 0 full slots. 
+[2022.10.31-08.26.40:827][288]LogBlueprintUserMessages: [container_cell_C_128] all slots are empty, container can be removed
+[2022.10.31-08.26.40:827][288]LogBlueprintUserMessages: [container_cell_C_128] dragging
+[2022.10.31-08.26.41:328][348]LogBlueprintUserMessages: [GI_instance_C_40] empty slot  smallslot found at slotid 2 in container hands
+[2022.10.31-08.26.45:654][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-08.26.45:654][858]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.10.31-08.26.45:654][858]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-08.26.45:657][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.26.45:665][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-08.26.45:673][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-08.26.45:697][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-08.26.45:698][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2022.10.31-08.26.45:699][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2022.10.31-08.26.45:745][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.31-08.26.45:778][859]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.10.31-08.26.50:767][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.31-08.26.50:833][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.10.31-08.26.51:109][100]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.10.31-08.26.51:109][100]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance54DBD55046B5636DB5CA3FB94E01220B.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.10.31-08.26.51:111][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset" SILENT=true
+[2022.10.31-08.26.51:151][100]LogSavePackage: Moving output files for package: /Game/PC_default
+[2022.10.31-08.26.51:152][100]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default9506E7A64670F722F8C1DBBB1A55F8DA.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset'
+[2022.10.31-08.26.51:175][100]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.31-08.26.51:175][100]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.10.31-08.26.51:175][100]LogContentValidation: Display: Validating Blueprint /Game/PC_default.PC_default
