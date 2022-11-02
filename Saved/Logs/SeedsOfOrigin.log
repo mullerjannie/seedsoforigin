@@ -10554,3 +10554,1264 @@ Script call stack:
 [2022.11.02-08.07.53:205][831]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerfunctions01AB3C314BFA4D50EB6BC18EDA69BC58.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/containerfunctions.uasset'
 [2022.11.02-08.07.53:224][831]AssetCheck: New page: Asset Save: containerfunctions
 [2022.11.02-08.07.53:224][831]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventoryv2/containerfunctions.containerfunctions
+[2022.11.02-08.09.51:517][519]LogSlate: Window 'Output Log' being destroyed
+[2022.11.02-08.09.51:531][519]LogSlate: Window 'Output Log' being destroyed
+[2022.11.02-08.10.50:484][354]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-08.10.50:494][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-08.10.50:494][354]PIE: New page: PIE session: LV_islandMap (3/11/2022, 10:10:50 am)
+[2022.11.02-08.10.50:495][354]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.10.50:501][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006683s)
+[2022.11.02-08.10.50:501][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006778s)
+[2022.11.02-08.10.50:501][354]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.02-08.10.50:501][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-08.10.50:501][354]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.02-08.10.50:503][354]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2022.11.02-08.10.50:594][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.02-08.10.50:597][354]LogBlueprintUserMessages: [GI_instance_C_68] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.02-08.10.50:597][354]LogBlueprintUserMessages: [GI_instance_C_68] Main: Load Plant companion bonusses
+[2022.11.02-08.10.50:597][354]LogBlueprintUserMessages: [GI_instance_C_68] Main: Load Plant environment companion bonusses
+[2022.11.02-08.10.50:597][354]LogBlueprintUserMessages: [GI_instance_C_68] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.02-08.10.50:598][354]LogBlueprintUserMessages: [GI_instance_C_68] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.02-08.10.50:598][354]LogBlueprintUserMessages: [GI_instance_C_68] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.02-08.10.50:598][354]LogBlueprintUserMessages: [GI_instance_C_68] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.02-08.10.50:598][354]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2022.11.02-08.10.50:598][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-08.10.50:598][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-08.10.50:598][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-08.10.50:598][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-08.10.50:598][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-08.10.50:598][354]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.02-08.10.50:598][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-08.10.50:598][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-08.10.50:599][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-08.10.50:599][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-08.10.50:599][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-08.10.50:600][354]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.02-08.10.50:628][354]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.02-08.10.50:629][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-08.10.50:629][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-08.10.50:629][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-08.10.50:629][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2022.11.02-08.10.50:629][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2022.11.02-08.10.50:630][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2022.11.02-08.10.50:630][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2022.11.02-08.10.50:630][354]LogInit: FAudioDevice initialized.
+[2022.11.02-08.10.50:630][354]LogAudio: Display: Audio Device (ID: 70) registered with world 'LV_islandMap'.
+[2022.11.02-08.10.50:644][354]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.02-08.10.50:644][354]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.02-21.10.50
+[2022.11.02-08.10.50:644][354]LogWorld: Bringing up level for play took: 0.000407
+[2022.11.02-08.10.50:645][354]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2022.11.02-08.10.50:647][354]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.02-08.10.50:647][354]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.10.50:647][354]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.10.50:647][354]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.10.50:675][354]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=23480.941 Y=10029.908 Z=-9990.998] for [BP_Island_C]
+[2022.11.02-08.10.50:725][354]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11746.574 Y=20245.980 Z=-16454.817] for [BP_Island_C]
+[2022.11.02-08.10.50:740][354]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_5
+[2022.11.02-08.10.50:740][354]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.02-08.10.50:740][354]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.02-08.10.50:740][354]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.02-08.10.50:740][354]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.02-08.10.50:740][354]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.02-08.10.50:740][354]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.02-08.10.50:740][354]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:742][354]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.10.50:743][354]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.02-08.10.50:744][354]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.02-08.10.50:744][354]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.10.50:744][354]PIE: Server logged in
+[2022.11.02-08.10.50:745][354]PIE: Play in editor total start time 0.251 seconds.
+[2022.11.02-08.10.51:865][472]LogBlueprintUserMessages: [BP_item_C_63] smallslot
+[2022.11.02-08.10.55:844][947]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.02-08.10.55:845][947]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.02-08.10.55:845][947]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.02-08.10.55:845][947]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.02-08.10.57:784][177]LogBlueprintUserMessages: [BP_item_C_63] smallslot
+[2022.11.02-08.10.58:404][251]LogBlueprintUserMessages: [GI_instance_C_68] empty slot  smallslot found at slotid 0 in container hands
+[2022.11.02-08.10.58:799][297]LogBlueprintUserMessages: [BP_item_C_55] smallslot
+[2022.11.02-08.10.59:564][388]LogBlueprintUserMessages: [GI_instance_C_68] empty slot  smallslot found at slotid 1 in container hands
+[2022.11.02-08.11.00:503][498]LogBlueprintUserMessages: [BP_item_C_56] smallslot
+[2022.11.02-08.11.00:951][551]LogBlueprintUserMessages: [GI_instance_C_68] empty slot  smallslot found at slotid 2 in container hands
+[2022.11.02-08.11.07:884][363]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.11.09:664][575]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.11.10:977][731]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.02-08.11.10:978][731]LogBlueprintUserMessages: [None] Only (0 of 1) target slots are empty
+[2022.11.02-08.11.10:978][731]LogBlueprintUserMessages: [container_cell_C_74] From container source 0 slot 2 to target 0 and slotb 2
+[2022.11.02-08.11.12:915][960]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.02-08.11.12:915][960]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.11.12:915][960]LogBlueprintUserMessages: [container_cell_C_99] From container source 0 slot 2 to target 0 and slotb 3
+[2022.11.02-08.11.13:848][ 70]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.02-08.11.13:848][ 70]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.11.13:848][ 70]LogBlueprintUserMessages: [container_cell_C_127] From container source 0 slot 3 to target 0 and slotb 7
+[2022.11.02-08.11.15:240][232]LogBlueprintUserMessages: [small_empty_socket_C_4] Itemtype is container sack. This should process new slot generation for backpacks. Dropped on character sockets right_hip
+[2022.11.02-08.11.15:241][232]LogBlueprintUserMessages: [GI_instance_C_68] Container Found( sack) but is not compatible with target socket (right_hip)
+[2022.11.02-08.11.15:241][232]LogBlueprintUserMessages: [small_empty_socket_C_4] container creation went wrong
+[2022.11.02-08.11.15:753][292]LogBlueprintUserMessages: [BP_item_C_62] smallslot
+[2022.11.02-08.11.15:778][295]LogBlueprintUserMessages: [BP_item_C_58] mediumslot
+[2022.11.02-08.11.16:083][331]LogBlueprintUserMessages: [BP_item_C_58] mediumslot
+[2022.11.02-08.11.16:380][366]LogBlueprintUserMessages: [BP_item_C_62] smallslot
+[2022.11.02-08.11.18:185][581]LogBlueprintUserMessages: [GI_instance_C_68] empty slot  smallslot found at slotid 2 in container hands
+[2022.11.02-08.11.19:317][715]LogBlueprintUserMessages: [BP_item_C_58] mediumslot
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] X=4.000 Y=0.000
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] X=4.000 Y=1.000
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] Only (1 of 4) target slots are empty
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [GI_instance_C_68] Match on vector X=0.000 Y=2.000, removing index 8
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [GI_instance_C_68] Match on vector X=1.000 Y=1.000, removing index 5
+[2022.11.02-08.11.21:315][953]LogBlueprintUserMessages: [GI_instance_C_68] Match on vector X=1.000 Y=2.000, removing index 7
+[2022.11.02-08.11.23:849][249]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.02-08.11.23:849][249]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.11.23:849][249]LogBlueprintUserMessages: [container_cell_C_194] From container source 0 slot 6 to target 0 and slotb 5
+[2022.11.02-08.11.24:813][363]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.02-08.11.24:813][363]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.11.24:813][363]LogBlueprintUserMessages: [container_cell_C_210] From container source 0 slot 5 to target 0 and slotb 3
+[2022.11.02-08.11.32:172][227]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.02-08.11.32:172][227]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.11.32:172][227]LogBlueprintUserMessages: [container_cell_C_230] From container source 0 slot 2 to target 0 and slotb 5
+[2022.11.02-08.11.33:434][360]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.02-08.11.33:434][360]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.11.33:434][360]LogBlueprintUserMessages: [container_cell_C_245] From container source 0 slot 3 to target 0 and slotb 2
+[2022.11.02-08.11.34:238][453]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.02-08.11.34:238][453]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.11.34:239][453]LogBlueprintUserMessages: [container_cell_C_264] From container source 0 slot 5 to target 0 and slotb 3
+[2022.11.02-08.12.07:693][401]LogBlueprintUserMessages: [small_empty_socket_C_0] Itemtype is container sack. This should process new slot generation for backpacks. Dropped on character sockets back
+[2022.11.02-08.12.07:695][401]LogBlueprintUserMessages: [GI_instance_C_68] Found Item 56 to remove at slot 2 in container 
+[2022.11.02-08.12.09:887][657]LogBlueprintUserMessages: [None] X=1.000 Y=3.000
+[2022.11.02-08.12.09:887][657]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.09:887][657]LogBlueprintUserMessages: [container_cell_C_295] From container source 0 slot 3 to target 1 and slotb 7
+[2022.11.02-08.12.11:249][815]LogBlueprintUserMessages: [None] X=0.000 Y=3.000
+[2022.11.02-08.12.11:249][815]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.11:249][815]LogBlueprintUserMessages: [container_cell_C_329] From container source 0 slot 1 to target 1 and slotb 6
+[2022.11.02-08.12.12:684][981]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.02-08.12.12:684][981]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.12:684][981]LogBlueprintUserMessages: [container_cell_C_345] From container source 0 slot 0 to target 1 and slotb 5
+[2022.11.02-08.12.19:192][738]LogBlueprintUserMessages: [BP_item_C_65] mediumslot
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] Only (2 of 4) target slots are empty
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] Only (3 of 4) target slots are empty
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.02-08.12.21:521][ 15]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.02-08.12.21:522][ 15]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.21:522][ 15]LogBlueprintUserMessages: [GI_instance_C_68] Match on vector X=2.000 Y=1.000, removing index 5
+[2022.11.02-08.12.21:522][ 15]LogBlueprintUserMessages: [GI_instance_C_68] Match on vector X=3.000 Y=0.000, removing index 3
+[2022.11.02-08.12.21:522][ 15]LogBlueprintUserMessages: [GI_instance_C_68] Match on vector X=3.000 Y=1.000, removing index 4
+[2022.11.02-08.12.27:025][663]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container messenger. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.11.02-08.12.27:025][663]LogBlueprintUserMessages: [GI_instance_C_68] Container Found( messenger) but is not compatible with target socket (middle_waist)
+[2022.11.02-08.12.27:025][663]LogBlueprintUserMessages: [small_empty_socket_C_6] container creation went wrong
+[2022.11.02-08.12.28:737][863]LogBlueprintUserMessages: [small_empty_socket_C_5] Itemtype is container messenger. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.11.02-08.12.28:738][863]LogBlueprintUserMessages: [GI_instance_C_68] Found Item 55 to remove at slot 6 in container 
+[2022.11.02-08.12.31:507][186]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.02-08.12.31:507][186]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.31:507][186]LogBlueprintUserMessages: [container_cell_C_377] From container source 1 slot 7 to target 2 and slotb 0
+[2022.11.02-08.12.33:974][464]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.02-08.12.33:974][464]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.33:974][464]LogBlueprintUserMessages: [container_cell_C_410] From container source 1 slot 5 to target 2 and slotb 3
+[2022.11.02-08.12.40:980][276]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.02-08.12.40:980][276]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.40:980][276]LogBlueprintUserMessages: [container_cell_C_422] From container source 2 slot 0 to target 2 and slotb 1
+[2022.11.02-08.12.41:904][385]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.02-08.12.41:904][385]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.41:904][385]LogBlueprintUserMessages: [container_cell_C_437] From container source 2 slot 1 to target 2 and slotb 4
+[2022.11.02-08.12.43:424][560]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.02-08.12.43:424][560]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.12.43:424][560]LogBlueprintUserMessages: [container_cell_C_445] From container source 2 slot 4 to target 2 and slotb 0
+[2022.11.02-08.13.18:569][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-08.13.18:569][671]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.13.18:570][671]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-08.13.18:572][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.13.18:580][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.02-08.13.18:588][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.13.18:675][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-08.13.18:678][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2022.11.02-08.13.18:679][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2022.11.02-08.13.18:709][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-08.13.18:721][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.11.02-08.13.18:759][672]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.11.02-08.13.56:636][128]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/Inventoryv2/ContainerDimensions.ContainerDimensions
+[2022.11.02-08.14.19:033][714]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Inventoryv2/Containers.Containers
+[2022.11.02-08.14.25:316][432]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Inventoryv2/containerslot.containerslot
+[2022.11.02-08.14.45:016][749]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Inventoryv2/EnumContainerType.EnumContainerType
+[2022.11.02-08.14.57:007][158]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-08.14.57:007][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.15.27:453][518]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Inventoryv2/EnumSlotType.EnumSlotType
+[2022.11.02-08.15.38:413][806]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_2' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_2' is empty
+[2022.11.02-08.15.38:417][806]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_3' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_3' is empty
+[2022.11.02-08.16.44:242][598]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_8' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_8' is empty
+[2022.11.02-08.16.44:245][598]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_9' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_9' is empty
+[2022.11.02-08.19.13:842][486]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_14' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_14' is empty
+[2022.11.02-08.19.13:847][486]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_15' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_15' is empty
+[2022.11.02-08.19.34:128][862]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_20' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_20' is empty
+[2022.11.02-08.19.34:133][862]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_21' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_21' is empty
+[2022.11.02-08.19.46:553][314]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.02-08.19.46:556][314]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/EnumSlotType
+[2022.11.02-08.19.46:556][314]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/EnumSlotTypeC856D77B4215902008FE1EB7ECFCCB71.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/EnumSlotType.uasset'
+[2022.11.02-08.19.46:573][314]AssetCheck: New page: Asset Save: EnumSlotType
+[2022.11.02-08.19.46:573][314]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Inventoryv2/EnumSlotType.EnumSlotType
+[2022.11.02-08.19.52:573][ 17]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/EnumSlotType
+[2022.11.02-08.19.52:573][ 17]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/EnumSlotType402629EC4F03E8AB8F0E1DB2F5DABC62.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/EnumSlotType.uasset'
+[2022.11.02-08.19.52:591][ 17]AssetCheck: New page: Asset Save: EnumSlotType
+[2022.11.02-08.19.52:591][ 17]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Inventoryv2/EnumSlotType.EnumSlotType
+[2022.11.02-08.20.48:840][436]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Inventoryv2/containerslot.containerslot
+[2022.11.02-08.21.14:839][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.11.02-08.21.14:842][463]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.213
+[2022.11.02-08.21.14:844][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GI_instance] ([2] browsable assets)...
+[2022.11.02-08.21.14:844][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/GI_instance]
+[2022.11.02-08.21.14:844][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2022.11.02-08.21.15:131][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GI_instance_Auto0
+[2022.11.02-08.21.15:131][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance_Auto043CDB87B49C8FD044977529126C1E26A.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/GI_instance_Auto0.uasset'
+[2022.11.02-08.21.15:132][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventoryv2/Containers] ([1] browsable assets)...
+[2022.11.02-08.21.15:132][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/Containers]
+[2022.11.02-08.21.15:134][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/Containers_Auto0
+[2022.11.02-08.21.15:134][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Containers_Auto028508B2A485069627C62B4AD4B067D82.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/Containers_Auto0.uasset'
+[2022.11.02-08.21.15:135][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventoryv2/containerslot] ([1] browsable assets)...
+[2022.11.02-08.21.15:135][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/containerslot]
+[2022.11.02-08.21.15:136][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/containerslot_Auto0
+[2022.11.02-08.21.15:136][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerslot_Auto08A5FEBE94245FA6AD4AD599C502FD821.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/containerslot_Auto0.uasset'
+[2022.11.02-08.21.15:141][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/ItemsStructure] ([1] browsable assets)...
+[2022.11.02-08.21.15:141][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/ItemsStructure]
+[2022.11.02-08.21.15:142][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/ItemsStructure_Auto0
+[2022.11.02-08.21.15:142][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/ItemsStructure_Auto0111DA24849146347F392F799FB4EE860.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Items/ItemsStructure_Auto0.uasset'
+[2022.11.02-08.21.15:142][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.11.02-08.21.15:142][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.11.02-08.21.15:142][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2022.11.02-08.21.15:181][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto0
+[2022.11.02-08.21.15:181][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto0927FE56F451B85201AC17D919C675B27.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto0.uasset'
+[2022.11.02-08.21.15:182][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Interface/BP_MenuAtLocation] ([2] browsable assets)...
+[2022.11.02-08.21.15:188][463]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation]
+[2022.11.02-08.21.15:188][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interface/BP_MenuAtLocation]
+[2022.11.02-08.21.15:230][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Interface/BP_MenuAtLocation_Auto0
+[2022.11.02-08.21.15:230][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_MenuAtLocation_Auto0374F6AC84063CDE2154326B769DC80CE.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Interface/BP_MenuAtLocation_Auto0.uasset'
+[2022.11.02-08.21.15:231][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventoryv2/containerfunctions] ([2] browsable assets)...
+[2022.11.02-08.21.15:231][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/containerfunctions]
+[2022.11.02-08.21.15:271][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/containerfunctions_Auto0
+[2022.11.02-08.21.15:271][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerfunctions_Auto0782D97E54186FF2E27E9C69F943B5401.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/containerfunctions_Auto0.uasset'
+[2022.11.02-08.21.15:272][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/character_containers] ([2] browsable assets)...
+[2022.11.02-08.21.15:278][463]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventoryv2/character_containers.character_containers]
+[2022.11.02-08.21.15:278][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/character_containers]
+[2022.11.02-08.21.15:317][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/character_containers_Auto0
+[2022.11.02-08.21.15:318][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/character_containers_Auto0A42348F54D4AE17BEF2FB3A4B8F7E787.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/character_containers_Auto0.uasset'
+[2022.11.02-08.21.15:319][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/container_cell] ([2] browsable assets)...
+[2022.11.02-08.21.15:321][463]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cell.container_cell]
+[2022.11.02-08.21.15:321][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/container_cell]
+[2022.11.02-08.21.15:356][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/container_cell_Auto0
+[2022.11.02-08.21.15:357][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cell_Auto06A7B90B448EBBC596A7FA8A401EB58F3.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/container_cell_Auto0.uasset'
+[2022.11.02-08.21.15:358][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/containeruniformgrid] ([2] browsable assets)...
+[2022.11.02-08.21.15:360][463]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventoryv2/containeruniformgrid.containeruniformgrid]
+[2022.11.02-08.21.15:360][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/containeruniformgrid]
+[2022.11.02-08.21.15:363][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/containeruniformgrid_Auto0
+[2022.11.02-08.21.15:363][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containeruniformgrid_Auto0C1DBA226455D6150EAAE968D80AF2AD3.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/containeruniformgrid_Auto0.uasset'
+[2022.11.02-08.21.15:364][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/small_empty_socket] ([2] browsable assets)...
+[2022.11.02-08.21.15:365][463]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventoryv2/small_empty_socket.small_empty_socket]
+[2022.11.02-08.21.15:365][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/small_empty_socket]
+[2022.11.02-08.21.15:386][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/small_empty_socket_Auto0
+[2022.11.02-08.21.15:386][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/small_empty_socket_Auto02AFC4C4D468F1AF70F4D61AFCF3671AE.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/small_empty_socket_Auto0.uasset'
+[2022.11.02-08.21.15:387][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/containeruniformgrid1v2] ([2] browsable assets)...
+[2022.11.02-08.21.15:389][463]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventoryv2/containeruniformgrid1v2.containeruniformgrid1v2]
+[2022.11.02-08.21.15:389][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/containeruniformgrid1v2]
+[2022.11.02-08.21.15:392][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/containeruniformgrid1v2_Auto0
+[2022.11.02-08.21.15:393][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containeruniformgrid1v2_Auto0C1B5708C4B4B202D99AA428AA8B8EEE4.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/containeruniformgrid1v2_Auto0.uasset'
+[2022.11.02-08.21.15:394][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/container_cellv2] ([2] browsable assets)...
+[2022.11.02-08.21.15:397][463]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cellv2.container_cellv2]
+[2022.11.02-08.21.15:397][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/container_cellv2]
+[2022.11.02-08.21.15:434][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/container_cellv2_Auto0
+[2022.11.02-08.21.15:434][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cellv2_Auto0C3EB271745DE5D78FF22DB80B429C8A9.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/container_cellv2_Auto0.uasset'
+[2022.11.02-08.21.15:435][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Inventoryv2/BP_item] ([2] browsable assets)...
+[2022.11.02-08.21.15:486][463]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Inventoryv2/BP_item.BP_item]
+[2022.11.02-08.21.15:492][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/BP_item]
+[2022.11.02-08.21.15:519][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/BP_item_Auto0
+[2022.11.02-08.21.15:519][463]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_item_Auto03FFF51254BA3AE466C101D8FAE203B14.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/BP_item_Auto0.uasset'
+[2022.11.02-08.21.15:520][463]LogFileHelpers: Auto-saving content packages took 0.677
+[2022.11.02-08.22.48:035][553]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_26' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_26' is empty
+[2022.11.02-08.22.48:039][553]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Containers_27' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Containers_27' is empty
+[2022.11.02-08.22.49:908][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/containerslot
+[2022.11.02-08.22.49:909][742]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerslot4AEF26854958254E52C79BB45D31FD5E.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/containerslot.uasset'
+[2022.11.02-08.22.49:926][742]AssetCheck: New page: Asset Save: containerslot
+[2022.11.02-08.22.49:926][742]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Inventoryv2/containerslot.containerslot
+[2022.11.02-08.22.51:233][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.11.02-08.22.51:289][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.11.02-08.22.51:566][886]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.11.02-08.22.51:566][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instanceCDD1F06F4F7BA1AD055212A794BBC651.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.11.02-08.22.51:569][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/Containers
+[2022.11.02-08.22.51:569][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Containers1D01140F4750B03E7D1D079986171AC1.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/Containers.uasset'
+[2022.11.02-08.22.51:571][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/ItemsStructure
+[2022.11.02-08.22.51:572][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/ItemsStructureFC8525BE40866746905C4C9DD428221D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Items/ItemsStructure.uasset'
+[2022.11.02-08.22.51:573][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset" SILENT=true
+[2022.11.02-08.22.51:611][886]LogSavePackage: Moving output files for package: /Game/PC_default
+[2022.11.02-08.22.51:612][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_defaultA5F8FAE14BC7183B75AA33967D025F12.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset'
+[2022.11.02-08.22.51:658][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Interface/BP_MenuAtLocation
+[2022.11.02-08.22.51:659][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_MenuAtLocationC7D820A942ACFB8D8146F6AD6ADFD25C.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Interface/BP_MenuAtLocation.uasset'
+[2022.11.02-08.22.51:697][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/containerfunctions
+[2022.11.02-08.22.51:697][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerfunctionsD4A33B444D9A7EDAABEF358A58B234FE.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/containerfunctions.uasset'
+[2022.11.02-08.22.51:741][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/character_containers
+[2022.11.02-08.22.51:741][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/character_containersA55A56B041414E28E1DC24A59740ECE2.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/character_containers.uasset'
+[2022.11.02-08.22.51:779][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/container_cell
+[2022.11.02-08.22.51:780][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cell58A336F248411B0F15CA95956671A48B.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/container_cell.uasset'
+[2022.11.02-08.22.51:786][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/containeruniformgrid
+[2022.11.02-08.22.51:786][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containeruniformgrid5D04FFBE4E4A5AD8AF310D94E133C0B3.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/containeruniformgrid.uasset'
+[2022.11.02-08.22.51:807][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/small_empty_socket
+[2022.11.02-08.22.51:807][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/small_empty_socket700EE76D4166FE39740046A37302D2EA.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/small_empty_socket.uasset'
+[2022.11.02-08.22.51:814][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/containeruniformgrid1v2
+[2022.11.02-08.22.51:814][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containeruniformgrid1v27516FBEA48730500D1151AB46D0FBDA6.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/containeruniformgrid1v2.uasset'
+[2022.11.02-08.22.51:851][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/container_cellv2
+[2022.11.02-08.22.51:851][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cellv21F2FBDE74E0CECBE379E0083EF3DEAFD.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/container_cellv2.uasset'
+[2022.11.02-08.22.51:900][886]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/BP_item
+[2022.11.02-08.22.51:901][886]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_item504138084A98F44A3AEF4C8983A831CB.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/BP_item.uasset'
+[2022.11.02-08.22.51:924][886]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.02-08.22.51:924][886]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.11.02-08.22.51:924][886]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Inventoryv2/Containers.Containers
+[2022.11.02-08.22.51:924][886]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Items/ItemsStructure.ItemsStructure
+[2022.11.02-08.22.51:924][886]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventoryv2/containerfunctions.containerfunctions
+[2022.11.02-08.22.51:924][886]LogContentValidation: Display: Validating Blueprint /Game/PC_default.PC_default
+[2022.11.02-08.22.51:924][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation
+[2022.11.02-08.22.51:925][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cell.container_cell
+[2022.11.02-08.22.51:925][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/containeruniformgrid.containeruniformgrid
+[2022.11.02-08.22.51:925][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/character_containers.character_containers
+[2022.11.02-08.22.51:926][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/small_empty_socket.small_empty_socket
+[2022.11.02-08.22.51:926][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/containeruniformgrid1v2.containeruniformgrid1v2
+[2022.11.02-08.22.51:926][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cellv2.container_cellv2
+[2022.11.02-08.22.51:926][886]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventoryv2/BP_item.BP_item
+[2022.11.02-08.22.54:733][214]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-08.22.54:744][214]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.02-08.22.54:768][214]LogPlayLevel: [PlayLevel] Compiling GI_instance before play...
+[2022.11.02-08.22.54:770][214]LogPlayLevel: [PlayLevel]   Compiling container_cell as a dependent...
+[2022.11.02-08.22.54:771][214]LogPlayLevel: [PlayLevel]   Compiling container_cellv2 as a dependent...
+[2022.11.02-08.22.54:773][214]LogPlayLevel: [PlayLevel]   Compiling small_empty_socket as a dependent...
+[2022.11.02-08.22.54:876][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] In use pin  Array Element Type  no longer exists on node  For Each Loop with Break . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.54:881][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] Enum to String  has invalid enum value '(INVALID)'
+[2022.11.02-08.22.54:883][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] In use pin  Type  no longer exists on node  Set members in containerslot . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:194][214]LogPlayLevel: [PlayLevel] Compiling containerfunctions before play...
+[2022.11.02-08.22.55:198][214]LogPlayLevel: [PlayLevel]   Compiling character_containers as a dependent...
+[2022.11.02-08.22.55:209][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\containerfunctions.uasset: [Compiler] In use pin  Largeslot  no longer exists on node  Switch on EnumSlotType . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:209][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\containerfunctions.uasset: [Compiler] In use pin  Longsleeve  no longer exists on node  Switch on EnumSlotType . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:226][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\character_containers.uasset: [Compiler] In use pin  Array Element Location 5 0D994B484B0AE0FAAB4184AE7D97D761 Y  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:226][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\character_containers.uasset: [Compiler] In use pin  Array Element Location 5 0D994B484B0AE0FAAB4184AE7D97D761 X  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:229][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\character_containers.uasset: [Compiler] In use pin  Array Element Type  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:229][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\character_containers.uasset: [Compiler] In use pin  Array Element Location 5 0D994B484B0AE0FAAB4184AE7D97D761 Y  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:229][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\character_containers.uasset: [Compiler] In use pin  Array Element Location 5 0D994B484B0AE0FAAB4184AE7D97D761 X  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:230][214]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\character_containers.uasset: [Compiler] For Each Loop  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.11.02-08.22.55:394][214]LogPlayLevel: [PlayLevel] Compiling PC_default before play...
+[2022.11.02-08.22.55:565][214]LogPlayLevel: [PlayLevel] Compiling BP_item before play...
+[2022.11.02-08.22.55:645][214]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.11.02-08.22.55:662][214]LogPlayLevel: [PlayLevel] Compiling BP_MenuAtLocation before play...
+[2022.11.02-08.22.55:675][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] In use pin  Array Element Type  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:676][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] In use pin  Array Element Type  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:682][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] In use pin  New Item Location 5 0D994B484B0AE0FAAB4184AE7D97D761 Y  no longer exists on node  Add . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:682][214]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] In use pin  New Item Location 5 0D994B484B0AE0FAAB4184AE7D97D761 X  no longer exists on node  Add . Please refresh node or break links to remove pin.
+[2022.11.02-08.22.55:682][214]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] Input pin  Type  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.11.02-08.22.55:682][214]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] Input pin  Type  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.11.02-08.22.55:683][214]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] Input pin  Type  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.11.02-08.22.55:683][214]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] Input pin  Type  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.11.02-08.22.55:778][214]LogPlayLevel: [PlayLevel] Compiling containeruniformgrid before play...
+[2022.11.02-08.22.55:869][214]LogPlayLevel: [PlayLevel] Compiling containeruniformgrid1v2 before play...
+[2022.11.02-08.22.56:056][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.11.02-08.22.56:060][214]LogPlayLevel: PlayLevel: Blueprint regeneration took 1316 ms (12 blueprints)
+[2022.11.02-08.22.56:060][214]BlueprintLog: Warning: Blueprint failed to compile:  GI_instance
+[2022.11.02-08.22.56:060][214]BlueprintLog: Warning: Blueprint failed to compile:  containerfunctions
+[2022.11.02-08.22.56:060][214]BlueprintLog: Warning: Blueprint failed to compile:  character_containers
+[2022.11.02-08.22.56:060][214]BlueprintLog: Warning: Blueprint failed to compile:  BP_MenuAtLocation
+[2022.11.02-08.22.56:060][214]LogCustomDialog: Dialog displayed:
+[2022.11.02-08.22.57:412][214]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.11.02-08.23.41:763][953]BlueprintLog: New page: Compile character_containers
+[2022.11.02-08.23.41:780][953]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\character_containers.uasset: [Compiler] In use pin  Array Element Location 5 0D994B484B0AE0FAAB4184AE7D97D761 Y  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.23.41:780][953]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\character_containers.uasset: [Compiler] In use pin  Array Element Location 5 0D994B484B0AE0FAAB4184AE7D97D761 X  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.23.41:956][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.11.02-08.24.07:601][731]BlueprintLog: New page: Compile character_containers
+[2022.11.02-08.24.07:802][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.11.02-08.24.09:975][970]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-08.24.09:986][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-08.24.09:986][970]BlueprintLog: Warning: Blueprint failed to compile:  GI_instance
+[2022.11.02-08.24.09:986][970]BlueprintLog: Warning: Blueprint failed to compile:  containerfunctions
+[2022.11.02-08.24.09:986][970]BlueprintLog: Warning: Blueprint failed to compile:  BP_MenuAtLocation
+[2022.11.02-08.24.09:986][970]LogCustomDialog: Dialog displayed:
+[2022.11.02-08.24.11:262][970]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.11.02-08.24.17:774][588]BlueprintLog: New page: Compile BP_MenuAtLocation
+[2022.11.02-08.24.17:788][588]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] In use pin  Array Element Type  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.24.17:794][588]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] In use pin  New Item Location 5 0D994B484B0AE0FAAB4184AE7D97D761 Y  no longer exists on node  Add . Please refresh node or break links to remove pin.
+[2022.11.02-08.24.17:794][588]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] In use pin  New Item Location 5 0D994B484B0AE0FAAB4184AE7D97D761 X  no longer exists on node  Add . Please refresh node or break links to remove pin.
+[2022.11.02-08.24.17:794][588]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] Input pin  Type  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.11.02-08.24.17:794][588]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] Input pin  Type  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.11.02-08.24.17:795][588]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] Input pin  Type  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.11.02-08.24.17:795][588]LogBlueprint: Warning: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] Input pin  Type  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.11.02-08.24.17:999][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.11.02-08.25.15:245][ 88]BlueprintLog: New page: Compile BP_MenuAtLocation
+[2022.11.02-08.25.15:260][ 88]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Interface\BP_MenuAtLocation.uasset: [Compiler] In use pin  Array Element Type  no longer exists on node  For Each Loop . Please refresh node or break links to remove pin.
+[2022.11.02-08.25.15:459][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.11.02-08.25.23:311][828]BlueprintLog: New page: Compile BP_MenuAtLocation
+[2022.11.02-08.25.23:528][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.11.02-08.25.25:982][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.11.02-08.25.26:090][ 65]LogSavePackage: Moving output files for package: /Game/Blueprints/Interface/BP_MenuAtLocation
+[2022.11.02-08.25.26:090][ 65]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_MenuAtLocation43D991254B935D065163FDBC645423E5.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Interface/BP_MenuAtLocation.uasset'
+[2022.11.02-08.25.26:129][ 65]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/character_containers
+[2022.11.02-08.25.26:129][ 65]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/character_containers1451E1D346BAE6FB0F38BA95F115FB87.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/character_containers.uasset'
+[2022.11.02-08.25.26:148][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.02-08.25.26:148][ 65]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Interface/BP_MenuAtLocation.BP_MenuAtLocation
+[2022.11.02-08.25.26:149][ 65]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/character_containers.character_containers
+[2022.11.02-08.25.27:888][242]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-08.25.27:898][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-08.25.27:898][242]BlueprintLog: Warning: Blueprint failed to compile:  GI_instance
+[2022.11.02-08.25.27:898][242]BlueprintLog: Warning: Blueprint failed to compile:  containerfunctions
+[2022.11.02-08.25.27:898][242]LogCustomDialog: Dialog displayed:
+[2022.11.02-08.25.29:960][242]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.11.02-08.25.42:430][640]BlueprintLog: New page: Compile GI_instance
+[2022.11.02-08.25.42:554][640]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] In use pin  Array Element Type  no longer exists on node  For Each Loop with Break . Please refresh node or break links to remove pin.
+[2022.11.02-08.25.42:558][640]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] Enum to String  has invalid enum value '(INVALID)'
+[2022.11.02-08.25.42:559][640]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] In use pin  Type  no longer exists on node  Set members in containerslot . Please refresh node or break links to remove pin.
+[2022.11.02-08.25.42:751][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.11.02-08.26.01:989][583]BlueprintLog: New page: Compile GI_instance
+[2022.11.02-08.26.02:121][583]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\GI_instance.uasset: [Compiler] In use pin  Type  no longer exists on node  Set members in containerslot . Please refresh node or break links to remove pin.
+[2022.11.02-08.26.02:340][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.11.02-08.26.22:160][740]BlueprintLog: New page: Compile GI_instance
+[2022.11.02-08.26.22:524][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.11.02-08.26.26:773][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.11.02-08.26.26:842][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.11.02-08.26.27:128][203]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.11.02-08.26.27:129][203]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance833B6F7645DCBBE4DC632899B9E68007.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.11.02-08.26.27:147][203]AssetCheck: New page: Asset Save: GI_instance
+[2022.11.02-08.26.27:147][203]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
+[2022.11.02-08.26.28:305][336]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-08.26.28:315][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-08.26.28:315][336]BlueprintLog: Warning: Blueprint failed to compile:  containerfunctions
+[2022.11.02-08.26.28:315][336]LogCustomDialog: Dialog displayed:
+[2022.11.02-08.26.30:026][336]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.11.02-08.26.34:564][852]BlueprintLog: New page: Compile containerfunctions
+[2022.11.02-08.26.34:609][852]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\containerfunctions.uasset: [Compiler] In use pin  Largeslot  no longer exists on node  Switch on EnumSlotType . Please refresh node or break links to remove pin.
+[2022.11.02-08.26.34:609][852]LogBlueprint: Error: [AssetLog] C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\Content\Blueprints\Inventoryv2\containerfunctions.uasset: [Compiler] In use pin  Longsleeve  no longer exists on node  Switch on EnumSlotType . Please refresh node or break links to remove pin.
+[2022.11.02-08.26.34:750][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.11.02-08.26.57:790][443]BlueprintLog: New page: Compile containerfunctions
+[2022.11.02-08.26.57:956][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.11.02-08.27.01:577][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.11.02-08.27.01:660][822]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/containerfunctions
+[2022.11.02-08.27.01:661][822]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerfunctions6BCA6CDC464CEEC60715FFAD20449656.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/containerfunctions.uasset'
+[2022.11.02-08.27.01:679][822]AssetCheck: New page: Asset Save: containerfunctions
+[2022.11.02-08.27.01:679][822]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventoryv2/containerfunctions.containerfunctions
+[2022.11.02-08.27.02:717][944]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-08.27.02:727][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-08.27.02:727][944]PIE: New page: PIE session: LV_islandMap (3/11/2022, 10:27:02 am)
+[2022.11.02-08.27.02:727][944]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.27.02:734][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006762s)
+[2022.11.02-08.27.02:734][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006836s)
+[2022.11.02-08.27.02:734][944]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.02-08.27.02:734][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-08.27.02:735][944]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.02-08.27.02:735][944]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2022.11.02-08.27.02:819][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.11.02-08.27.02:821][944]LogBlueprintUserMessages: [GI_instance_C_69] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.02-08.27.02:821][944]LogBlueprintUserMessages: [GI_instance_C_69] Main: Load Plant companion bonusses
+[2022.11.02-08.27.02:821][944]LogBlueprintUserMessages: [GI_instance_C_69] Main: Load Plant environment companion bonusses
+[2022.11.02-08.27.02:822][944]LogBlueprintUserMessages: [GI_instance_C_69] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.02-08.27.02:822][944]LogBlueprintUserMessages: [GI_instance_C_69] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.02-08.27.02:822][944]LogBlueprintUserMessages: [GI_instance_C_69] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.02-08.27.02:822][944]LogBlueprintUserMessages: [GI_instance_C_69] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.02-08.27.02:822][944]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2022.11.02-08.27.02:822][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-08.27.02:822][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-08.27.02:822][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-08.27.02:822][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-08.27.02:822][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-08.27.02:822][944]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.02-08.27.02:822][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-08.27.02:822][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-08.27.02:823][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-08.27.02:823][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-08.27.02:823][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-08.27.02:824][944]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.02-08.27.02:854][944]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.02-08.27.02:854][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-08.27.02:854][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-08.27.02:854][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-08.27.02:855][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2022.11.02-08.27.02:855][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2022.11.02-08.27.02:856][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2022.11.02-08.27.02:856][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2022.11.02-08.27.02:856][944]LogInit: FAudioDevice initialized.
+[2022.11.02-08.27.02:856][944]LogAudio: Display: Audio Device (ID: 71) registered with world 'LV_islandMap'.
+[2022.11.02-08.27.02:941][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-08.27.02:942][944]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.02-08.27.02:943][944]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.02-21.27.02
+[2022.11.02-08.27.02:944][944]LogWorld: Bringing up level for play took: 0.001648
+[2022.11.02-08.27.02:951][944]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2022.11.02-08.27.02:952][944]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.02-08.27.02:953][944]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.02-08.27.02:953][944]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.27.02:953][944]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.27.02:954][944]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.27.03:093][944]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_9
+[2022.11.02-08.27.03:093][944]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.02-08.27.03:093][944]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.02-08.27.03:093][944]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.02-08.27.03:093][944]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.02-08.27.03:093][944]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.02-08.27.03:093][944]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.02-08.27.03:093][944]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:095][944]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.03:096][944]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.02-08.27.03:096][944]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.02-08.27.03:096][944]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.27.03:098][944]PIE: Server logged in
+[2022.11.02-08.27.03:099][944]PIE: Play in editor total start time 0.373 seconds.
+[2022.11.02-08.27.03:121][944]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.11.02-08.27.10:498][587]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.27.11:492][677]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.02-08.27.11:492][677]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.02-08.27.11:492][677]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.02-08.27.11:492][677]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.02-08.27.22:740][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-08.27.22:740][637]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.27.22:740][637]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.02-08.27.22:743][637]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-08.27.22:746][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.27.22:758][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.02-08.27.22:768][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.27.22:866][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-08.27.22:866][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2022.11.02-08.27.22:868][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2022.11.02-08.27.22:909][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.11.02-08.27.22:937][638]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2022.11.02-08.27.41:899][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.11.02-08.27.41:996][719]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/character_containers
+[2022.11.02-08.27.41:997][719]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/character_containers47E2F49B44A0DFD2EA30B49D0A7ED55E.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/character_containers.uasset'
+[2022.11.02-08.27.42:017][719]AssetCheck: New page: Asset Save: character_containers
+[2022.11.02-08.27.42:017][719]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/character_containers.character_containers
+[2022.11.02-08.27.43:164][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-08.27.43:175][842]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.02-08.27.43:184][842]LogPlayLevel: [PlayLevel] Compiling character_containers before play...
+[2022.11.02-08.27.43:467][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.11.02-08.27.43:471][842]LogPlayLevel: PlayLevel: Blueprint regeneration took 296 ms (1 blueprints)
+[2022.11.02-08.27.43:471][842]PIE: New page: PIE session: LV_islandMap (3/11/2022, 10:27:43 am)
+[2022.11.02-08.27.43:471][842]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.27.43:478][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006554s)
+[2022.11.02-08.27.43:478][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006611s)
+[2022.11.02-08.27.43:478][842]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.02-08.27.43:478][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-08.27.43:478][842]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.02-08.27.43:478][842]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2022.11.02-08.27.43:564][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.02-08.27.43:567][842]LogBlueprintUserMessages: [GI_instance_C_70] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.02-08.27.43:567][842]LogBlueprintUserMessages: [GI_instance_C_70] Main: Load Plant companion bonusses
+[2022.11.02-08.27.43:567][842]LogBlueprintUserMessages: [GI_instance_C_70] Main: Load Plant environment companion bonusses
+[2022.11.02-08.27.43:567][842]LogBlueprintUserMessages: [GI_instance_C_70] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.02-08.27.43:567][842]LogBlueprintUserMessages: [GI_instance_C_70] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.02-08.27.43:567][842]LogBlueprintUserMessages: [GI_instance_C_70] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.02-08.27.43:567][842]LogBlueprintUserMessages: [GI_instance_C_70] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.02-08.27.43:569][842]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2022.11.02-08.27.43:569][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-08.27.43:569][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-08.27.43:569][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-08.27.43:569][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-08.27.43:569][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-08.27.43:569][842]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.02-08.27.43:569][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-08.27.43:569][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-08.27.43:569][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-08.27.43:569][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-08.27.43:569][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-08.27.43:571][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.02-08.27.43:599][842]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.02-08.27.43:599][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-08.27.43:599][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-08.27.43:599][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-08.27.43:599][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2022.11.02-08.27.43:599][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2022.11.02-08.27.43:601][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2022.11.02-08.27.43:601][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2022.11.02-08.27.43:601][842]LogInit: FAudioDevice initialized.
+[2022.11.02-08.27.43:601][842]LogAudio: Display: Audio Device (ID: 72) registered with world 'LV_islandMap'.
+[2022.11.02-08.27.43:662][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-08.27.43:663][842]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.02-08.27.43:663][842]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.02-21.27.43
+[2022.11.02-08.27.43:663][842]LogWorld: Bringing up level for play took: 0.000627
+[2022.11.02-08.27.43:666][842]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2022.11.02-08.27.43:666][842]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.02-08.27.43:666][842]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.02-08.27.43:666][842]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.27.43:666][842]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.27.43:666][842]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.27.43:738][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20181.890 Y=4283.273 Z=713.369] for [BP_Island_C]
+[2022.11.02-08.27.43:767][842]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_11
+[2022.11.02-08.27.43:767][842]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.02-08.27.43:767][842]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.02-08.27.43:767][842]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.02-08.27.43:767][842]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.02-08.27.43:767][842]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.02-08.27.43:767][842]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.02-08.27.43:767][842]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:769][842]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.27.43:770][842]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.02-08.27.43:771][842]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.02-08.27.43:771][842]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.27.43:772][842]PIE: Server logged in
+[2022.11.02-08.27.43:773][842]PIE: Play in editor total start time 0.598 seconds.
+[2022.11.02-08.27.43:825][842]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.11.02-08.27.46:028][992]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.02-08.27.46:029][992]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.02-08.27.46:029][992]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.02-08.27.46:029][992]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.02-08.27.54:743][654]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.27.58:796][963]LogBlueprintUserMessages: [BP_item_C_122] smallslot
+[2022.11.02-08.27.59:591][ 24]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 0 in container hands
+[2022.11.02-08.28.01:306][150]LogBlueprintUserMessages: [BP_item_C_131] smallslot
+[2022.11.02-08.28.02:682][254]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 1 in container hands
+[2022.11.02-08.28.02:983][276]LogBlueprintUserMessages: [BP_item_C_128] smallslot
+[2022.11.02-08.28.03:723][332]LogBlueprintUserMessages: [BP_item_C_128] smallslot
+[2022.11.02-08.28.03:939][348]LogBlueprintUserMessages: [BP_item_C_128] smallslot
+[2022.11.02-08.28.04:406][383]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 2 in container hands
+[2022.11.02-08.28.05:599][471]LogBlueprintUserMessages: [BP_item_C_125] smallslot
+[2022.11.02-08.28.05:722][480]LogBlueprintUserMessages: [BP_item_C_126] smallslot
+[2022.11.02-08.28.06:951][574]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 3 in container hands
+[2022.11.02-08.28.07:157][589]LogBlueprintUserMessages: [BP_item_C_125] smallslot
+[2022.11.02-08.28.08:402][682]LogBlueprintUserMessages: [BP_item_C_130] smallslot
+[2022.11.02-08.28.09:279][749]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 4 in container hands
+[2022.11.02-08.28.09:828][789]LogBlueprintUserMessages: [BP_item_C_125] smallslot
+[2022.11.02-08.28.10:654][851]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 5 in container hands
+[2022.11.02-08.28.11:825][937]LogBlueprintUserMessages: [BP_item_C_124] smallslot
+[2022.11.02-08.28.12:606][996]LogBlueprintUserMessages: [BP_item_C_121] smallslot
+[2022.11.02-08.28.12:953][ 22]LogBlueprintUserMessages: [BP_item_C_123] smallslot
+[2022.11.02-08.28.13:318][ 49]LogBlueprintUserMessages: [BP_item_C_127] smallslot
+[2022.11.02-08.28.13:787][ 84]LogBlueprintUserMessages: [BP_item_C_123] smallslot
+[2022.11.02-08.28.14:070][105]LogBlueprintUserMessages: [BP_item_C_121] smallslot
+[2022.11.02-08.28.14:901][167]LogBlueprintUserMessages: [BP_item_C_129] shortsleeve
+[2022.11.02-08.28.15:184][188]LogBlueprintUserMessages: [BP_item_C_127] smallslot
+[2022.11.02-08.28.15:436][207]LogBlueprintUserMessages: [BP_item_C_127] smallslot
+[2022.11.02-08.28.15:836][237]LogBlueprintUserMessages: [BP_item_C_129] shortsleeve
+[2022.11.02-08.28.17:661][377]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.02-08.28.17:661][377]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.02-08.28.17:661][377]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.28.17:661][377]LogBlueprintUserMessages: [GI_instance_C_70] Match on vector X=2.000 Y=2.000, removing index 10
+[2022.11.02-08.28.18:767][459]LogBlueprintUserMessages: [BP_item_C_127] smallslot
+[2022.11.02-08.28.22:702][760]LogBlueprintUserMessages: [BP_item_C_127] smallslot
+[2022.11.02-08.28.23:091][789]LogBlueprintUserMessages: [BP_item_C_127] smallslot
+[2022.11.02-08.28.25:316][954]LogBlueprintUserMessages: [BP_item_C_127] smallslot
+[2022.11.02-08.28.25:672][981]LogBlueprintUserMessages: [BP_item_C_127] smallslot
+[2022.11.02-08.28.26:392][ 35]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 7 in container hands
+[2022.11.02-08.28.28:268][174]LogBlueprintUserMessages: [BP_item_C_123] smallslot
+[2022.11.02-08.28.29:510][268]LogBlueprintUserMessages: [BP_item_C_123] smallslot
+[2022.11.02-08.28.30:021][306]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.28.30:170][317]LogBlueprintUserMessages: [BP_item_C_123] smallslot
+[2022.11.02-08.28.30:690][356]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 8 in container hands
+[2022.11.02-08.28.31:632][426]LogBlueprintUserMessages: [BP_item_C_121] smallslot
+[2022.11.02-08.28.32:360][482]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 9 in container hands
+[2022.11.02-08.28.33:863][594]LogBlueprintUserMessages: [BP_item_C_124] smallslot
+[2022.11.02-08.28.34:400][635]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 10 in container hands
+[2022.11.02-08.28.43:242][284]LogBlueprintUserMessages: [small_empty_socket_C_4] Itemtype is container baldric. This should process new slot generation for backpacks. Dropped on character sockets right_hip
+[2022.11.02-08.28.43:243][284]LogBlueprintUserMessages: [GI_instance_C_70] Found Item 124 to remove at slot 11 in container 
+[2022.11.02-08.28.43:243][284]LogScript: Warning: Attempted to access index 11 from array slots_12_A73AF1054B783371D8A4898E4CCBE61F of length 11!
+	GI_instance_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70
+	Function /Game/GI_instance.GI_instance_C:removeitem_charactercontainer:0306
+[2022.11.02-08.28.43:243][284]PIE: Error: Blueprint Runtime Error: "Attempted to access index 11 from array slots_12_A73AF1054B783371D8A4898E4CCBE61F of length 11!". Node:  Set members in containerslot Graph:  removeitem_charactercontainer Function:  Removeitem Charactercontainer Blueprint:  GI_instance
+[2022.11.02-08.28.43:243][284]LogScript: Warning: Accessed None reading structure itemid_16_54A4F04C452859258E2ED99BC5EB74A9
+	GI_instance_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70
+	Function /Game/GI_instance.GI_instance_C:removeitem_charactercontainer:0306
+[2022.11.02-08.28.43:243][284]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure itemid_16_54A4F04C452859258E2ED99BC5EB74A9". Node:  Set members in containerslot Graph:  removeitem_charactercontainer Function:  Removeitem Charactercontainer Blueprint:  GI_instance
+[2022.11.02-08.28.43:243][284]LogScript: Warning: Attempted to assign to None
+	GI_instance_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70
+	Function /Game/GI_instance.GI_instance_C:removeitem_charactercontainer:0306
+[2022.11.02-08.28.43:243][284]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set members in containerslot Graph:  removeitem_charactercontainer Function:  Removeitem Charactercontainer Blueprint:  GI_instance
+[2022.11.02-08.28.43:243][284]LogScript: Warning: Attempted to access index 11 from array slots_12_A73AF1054B783371D8A4898E4CCBE61F of length 11!
+	GI_instance_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70
+	Function /Game/GI_instance.GI_instance_C:removeitem_charactercontainer:033B
+[2022.11.02-08.28.43:243][284]PIE: Error: Blueprint Runtime Error: "Attempted to access index 11 from array slots_12_A73AF1054B783371D8A4898E4CCBE61F of length 11!". Node:  Set members in containerslot Graph:  removeitem_charactercontainer Function:  Removeitem Charactercontainer Blueprint:  GI_instance
+[2022.11.02-08.28.43:243][284]LogScript: Warning: Accessed None reading structure empty_13_2F2CD2254E81392FDDBBA78D4D988006
+	GI_instance_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70
+	Function /Game/GI_instance.GI_instance_C:removeitem_charactercontainer:033B
+[2022.11.02-08.28.43:243][284]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure empty_13_2F2CD2254E81392FDDBBA78D4D988006". Node:  Set members in containerslot Graph:  removeitem_charactercontainer Function:  Removeitem Charactercontainer Blueprint:  GI_instance
+[2022.11.02-08.28.52:214][951]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container pouch. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.11.02-08.28.52:215][951]LogBlueprintUserMessages: [GI_instance_C_70] Found Item 121 to remove at slot 9 in container 
+[2022.11.02-08.28.58:097][381]LogBlueprintUserMessages: [small_empty_socket_C_1] Itemtype is container baldric. This should process new slot generation for backpacks. Dropped on character sockets left_shoulder
+[2022.11.02-08.28.58:097][381]LogBlueprintUserMessages: [GI_instance_C_70] Container Found( baldric) but is not compatible with target socket (left_shoulder)
+[2022.11.02-08.28.58:097][381]LogBlueprintUserMessages: [small_empty_socket_C_1] container creation went wrong
+[2022.11.02-08.29.00:106][527]LogBlueprintUserMessages: [small_empty_socket_C_3] Itemtype is container baldric. This should process new slot generation for backpacks. Dropped on character sockets left_hip
+[2022.11.02-08.29.00:106][527]LogBlueprintUserMessages: [GI_instance_C_70] Found Item 123 to remove at slot 8 in container 
+[2022.11.02-08.29.05:534][925]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.29.09:719][235]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.11.02-08.29.09:719][235]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.11.02-08.29.09:719][235]LogNet: Browse: /Game/Levels/LV_houseMap
+[2022.11.02-08.29.09:719][235]LogLoad: LoadMap: /Game/Levels/LV_houseMap
+[2022.11.02-08.29.09:719][235]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.29.09:720][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.02-08.29.09:720][235]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-08.29.09:723][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.29.09:831][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-08.29.09:846][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.11.02-08.29.09:873][235]LogAudio: Display: Audio Device (ID: 72) registered with world 'LV_houseMap'.
+[2022.11.02-08.29.09:873][235]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.02-08.29.09:874][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-08.29.09:874][235]LogAIModule: Creating AISystem for world LV_houseMap
+[2022.11.02-08.29.09:874][235]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2022.11.02-08.29.09:874][235]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.02-08.29.09:878][235]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_houseMap.LV_houseMap up for play (max tick rate 0) at 2022.11.02-21.29.09
+[2022.11.02-08.29.09:878][235]LogWorld: Bringing up level for play took: 0.003203
+[2022.11.02-08.29.09:878][235]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.02-08.29.09:878][235]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.29.09:878][235]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.29.09:878][235]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.29.09:879][235]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.02-08.29.09:879][235]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.02-08.29.09:879][235]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.02-08.29.09:880][235]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.02-08.29.09:880][235]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.02-08.29.09:880][235]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.02-08.29.09:880][235]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [character_containers_C_1] create sockets
+[2022.11.02-08.29.09:881][235]LogBlueprintUserMessages: [GI_instance_C_70] FTN: CreateContianer Container pockets already exists
+[2022.11.02-08.29.09:883][235]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.02-08.29.09:884][235]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.02-08.29.09:884][235]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.29.09:884][235]LogLoad: Took 0.165632 seconds to LoadMap(/Game/Levels/LV_houseMap)
+[2022.11.02-08.29.10:424][277]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.29.12:770][465]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.11.02-08.29.12:770][465]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.11.02-08.29.12:770][465]LogNet: Browse: /Game/Levels/LV_islandMap
+[2022.11.02-08.29.12:770][465]LogLoad: LoadMap: /Game/Levels/LV_islandMap
+[2022.11.02-08.29.12:770][465]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_houseMap
+[2022.11.02-08.29.12:771][465]LogWorld: UWorld::CleanupWorld for LV_houseMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-08.29.12:771][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.29.12:883][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-08.29.12:886][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.11.02-08.29.12:890][465]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.29.12:897][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006707s)
+[2022.11.02-08.29.12:897][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006778s)
+[2022.11.02-08.29.12:897][465]LogAudio: Display: Audio Device (ID: 72) registered with world 'LV_islandMap'.
+[2022.11.02-08.29.12:897][465]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.02-08.29.12:897][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-08.29.12:897][465]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.02-08.29.12:898][465]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2022.11.02-08.29.12:898][465]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.02-08.29.12:898][465]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.02-21.29.12
+[2022.11.02-08.29.12:898][465]LogWorld: Bringing up level for play took: 0.000327
+[2022.11.02-08.29.12:898][465]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.02-08.29.12:899][465]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.02-08.29.12:899][465]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.29.12:899][465]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.29.12:899][465]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.29.12:968][465]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20181.890 Y=4283.273 Z=713.369] for [BP_Island_C]
+[2022.11.02-08.29.12:998][465]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_11
+[2022.11.02-08.29.12:998][465]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.02-08.29.12:998][465]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.02-08.29.12:998][465]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.02-08.29.12:998][465]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.02-08.29.12:998][465]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.02-08.29.12:998][465]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.02-08.29.12:998][465]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.02-08.29.12:999][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.12:999][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.12:999][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.13:000][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.13:000][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.13:000][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.13:000][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.13:000][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.13:000][465]LogBlueprintUserMessages: [character_containers_C_2] create sockets
+[2022.11.02-08.29.13:000][465]LogBlueprintUserMessages: [GI_instance_C_70] FTN: CreateContianer Container pockets already exists
+[2022.11.02-08.29.13:001][465]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.02-08.29.13:002][465]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.02-08.29.13:002][465]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.29.13:003][465]LogLoad: Took 0.232303 seconds to LoadMap(/Game/Levels/UEDPIE_0_LV_islandMap)
+[2022.11.02-08.29.13:657][512]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.11.02-08.29.15:458][646]LogBlueprintUserMessages: [character_containers_C_2] running constructure event
+[2022.11.02-08.29.25:160][367]LogBlueprintUserMessages: [small_empty_socket_C_7] Itemtype is container satchel. This should process new slot generation for backpacks. Dropped on character sockets right_waist
+[2022.11.02-08.29.25:160][367]LogBlueprintUserMessages: [GI_instance_C_70] Container Found( satchel) but is not compatible with target socket (right_waist)
+[2022.11.02-08.29.25:160][367]LogBlueprintUserMessages: [small_empty_socket_C_7] container creation went wrong
+[2022.11.02-08.29.27:064][506]LogBlueprintUserMessages: [small_empty_socket_C_5] Itemtype is container satchel. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.11.02-08.29.27:066][506]LogBlueprintUserMessages: [GI_instance_C_70] Found Item 130 to remove at slot 4 in container 
+[2022.11.02-08.29.32:148][879]LogBlueprintUserMessages: [None] The container pouch in socket middle_waist has 4 empty slots and 0 full slots. 
+[2022.11.02-08.29.32:148][879]LogBlueprintUserMessages: [container_cell_C_16] all slots are empty, container can be removed
+[2022.11.02-08.29.32:585][911]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.02-08.29.32:585][911]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.29.32:585][911]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 4 in container hands
+[2022.11.02-08.29.33:340][965]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Branch Graph:  iscontainerunequipable Function:  Iscontainerunequipable Blueprint:  containerfunctions
+[2022.11.02-08.29.33:340][965]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Branch Graph:  iscontainerunequipable Function:  Iscontainerunequipable Blueprint:  containerfunctions
+[2022.11.02-08.29.33:341][965]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.33:341][965]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure slots_12_A73AF1054B783371D8A4898E4CCBE61F". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.33:341][965]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.33:341][965]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Print String Graph:  iscontainerempty Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.33:341][965]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_7_F27DEF8342CE8DC58B7D9787C66D7E5A". Node:  Print String Graph:  iscontainerempty Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.33:341][965]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Print String Graph:  iscontainerempty Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.33:341][965]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Print String Graph:  iscontainerempty Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.33:341][965]LogBlueprintUserMessages: [None] The container pockets in socket back has 0 empty slots and 0 full slots. 
+[2022.11.02-08.29.33:341][965]LogBlueprintUserMessages: [container_cell_C_23] all slots are empty, container can be removed
+[2022.11.02-08.29.33:846][  2]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.02-08.29.33:846][  2]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.29.33:846][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:02F6
+[2022.11.02-08.29.33:846][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Get Itemdetails Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:846][  2]LogScript: Warning: Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:02F6
+[2022.11.02-08.29.33:847][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844". Node:  Get Itemdetails Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:847][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:03DD
+[2022.11.02-08.29.33:847][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Additem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:847][  2]LogScript: Warning: Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:03DD
+[2022.11.02-08.29.33:847][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844". Node:  Additem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:847][  2]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 8 in container hands
+[2022.11.02-08.29.33:849][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:04DD
+[2022.11.02-08.29.33:849][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Removeitem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:849][  2]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:04DD
+[2022.11.02-08.29.33:849][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Removeitem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:849][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:0525
+[2022.11.02-08.29.33:849][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Removeitem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:849][  2]LogScript: Warning: Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:0525
+[2022.11.02-08.29.33:849][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844". Node:  Removeitem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:849][  2]LogBlueprintUserMessages: [GI_instance_C_70] Found Item 0 to remove at slot 8 in container 
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:019E
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Branch Graph:  ForEachLoop Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Accessed None reading structure slots_12_A73AF1054B783371D8A4898E4CCBE61F
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:019E
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure slots_12_A73AF1054B783371D8A4898E4CCBE61F". Node:  Branch Graph:  ForEachLoop Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Accessed None
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:0157
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  ForEachLoop Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:02FA
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Branch Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:02FA
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Branch Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:03A7
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Clear Children Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:03A7
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Clear Children Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:0469
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Add Child Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:0469
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Add Child Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:0688
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Resetsocket Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_59
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:0688
+[2022.11.02-08.29.33:850][  2]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Resetsocket Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.33:850][  2]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array charactercontainers [4/3]!
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Branch Graph:  iscontainerunequipable Function:  Iscontainerunequipable Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Branch Graph:  iscontainerunequipable Function:  Iscontainerunequipable Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure slots_12_A73AF1054B783371D8A4898E4CCBE61F". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  ForEachLoopWithBreak Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Print String Graph:  iscontainerempty Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_7_F27DEF8342CE8DC58B7D9787C66D7E5A". Node:  Print String Graph:  iscontainerempty Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Print String Graph:  iscontainerempty Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Print String Graph:  iscontainerempty Function:  Iscontainerempty Blueprint:  containerfunctions
+[2022.11.02-08.29.35:858][146]LogBlueprintUserMessages: [None] The container pockets in socket back has 0 empty slots and 0 full slots. 
+[2022.11.02-08.29.35:858][146]LogBlueprintUserMessages: [container_cell_C_24] all slots are empty, container can be removed
+[2022.11.02-08.29.36:440][189]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.02-08.29.36:440][189]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.29.36:440][189]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:02F6
+[2022.11.02-08.29.36:440][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Get Itemdetails Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:440][189]LogScript: Warning: Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:02F6
+[2022.11.02-08.29.36:440][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844". Node:  Get Itemdetails Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:440][189]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:03DD
+[2022.11.02-08.29.36:440][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Additem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:440][189]LogScript: Warning: Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:03DD
+[2022.11.02-08.29.36:440][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844". Node:  Additem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:440][189]LogBlueprintUserMessages: [GI_instance_C_70] empty slot  smallslot found at slotid 9 in container hands
+[2022.11.02-08.29.36:442][189]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:04DD
+[2022.11.02-08.29.36:442][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Removeitem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:442][189]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:04DD
+[2022.11.02-08.29.36:442][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Removeitem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:442][189]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:0525
+[2022.11.02-08.29.36:442][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Removeitem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:442][189]LogScript: Warning: Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:0525
+[2022.11.02-08.29.36:442][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure parentcontaineritemid_25_AF6CE1BF43F2D352AB6A1CA9DE078844". Node:  Removeitem Charactercontainer Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:442][189]LogBlueprintUserMessages: [GI_instance_C_70] Found Item 0 to remove at slot 8 in container 
+[2022.11.02-08.29.36:442][189]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:019E
+[2022.11.02-08.29.36:442][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Branch Graph:  ForEachLoop Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Accessed None reading structure slots_12_A73AF1054B783371D8A4898E4CCBE61F
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:019E
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure slots_12_A73AF1054B783371D8A4898E4CCBE61F". Node:  Branch Graph:  ForEachLoop Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Accessed None
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:0157
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  ForEachLoop Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:02FA
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Branch Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:02FA
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Branch Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:03A7
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Clear Children Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	character_containers_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2
+	Function /Game/Blueprints/Inventoryv2/character_containers.character_containers_C:Refreshcontainerv2:03A7
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Clear Children Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Add Child Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Add Child Graph:  Refreshcontainerv2 Function:  Refreshcontainerv 2 Blueprint:  character_containers
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Attempted to access index 4 from array charactercontainers of length 4!
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:0688
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array charactercontainers of length 4!". Node:  Resetsocket Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE
+	container_cell_C /Engine/Transient.UnrealEdEngine_0:GI_instance_C_70.character_containers_C_2.WidgetTree.container_cell_C_75
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop:0688
+[2022.11.02-08.29.36:443][189]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure socket_5_CC3CCB814CE73BA597CBD089196F64DE". Node:  Resetsocket Graph:  OnDrop Function:  On Drop Blueprint:  container_cell
+[2022.11.02-08.29.36:443][189]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array charactercontainers [4/3]!
+[2022.11.02-08.29.40:058][456]LogBlueprintUserMessages: [None] The container baldric in socket right_hip has 4 empty slots and 0 full slots. 
+[2022.11.02-08.29.40:058][456]LogBlueprintUserMessages: [container_cell_C_11] all slots are empty, container can be removed
+[2022.11.02-08.29.41:640][567]LogBlueprintUserMessages: [None] The container baldric in socket right_hip has 4 empty slots and 0 full slots. 
+[2022.11.02-08.29.41:640][567]LogBlueprintUserMessages: [container_cell_C_89] all slots are empty, container can be removed
+[2022.11.02-08.29.41:995][593]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.02-08.29.41:995][593]LogBlueprintUserMessages: [None] Only (0 of 1) target slots are empty
+[2022.11.02-08.29.41:995][593]LogBlueprintUserMessages: [GI_instance_C_70] No slot found canont, pickup item
+[2022.11.02-08.29.44:309][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-08.29.44:309][757]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.29.44:310][757]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.02-08.29.44:316][757]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-08.29.44:320][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.29.44:332][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.02-08.29.44:345][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.29.44:441][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2022.11.02-08.29.44:442][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2022.11.02-08.29.44:462][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.11.02-08.29.44:542][758]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2022.11.02-08.29.46:254][924]LogSlate: Window 'Message Log' being destroyed
+[2022.11.02-08.29.46:263][924]LogSlate: Window 'Message Log' being destroyed
+[2022.11.02-08.29.47:915][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.11.02-08.29.54:431][871]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.02-08.29.54:441][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.02-08.29.54:442][871]PIE: New page: PIE session: LV_islandMap (3/11/2022, 10:29:54 am)
+[2022.11.02-08.29.54:442][871]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.29.54:448][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006878s)
+[2022.11.02-08.29.54:448][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006946s)
+[2022.11.02-08.29.54:448][871]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.02-08.29.54:448][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.02-08.29.54:448][871]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.02-08.29.54:448][871]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2022.11.02-08.29.54:538][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.02-08.29.54:540][871]LogBlueprintUserMessages: [GI_instance_C_71] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.02-08.29.54:540][871]LogBlueprintUserMessages: [GI_instance_C_71] Main: Load Plant companion bonusses
+[2022.11.02-08.29.54:541][871]LogBlueprintUserMessages: [GI_instance_C_71] Main: Load Plant environment companion bonusses
+[2022.11.02-08.29.54:541][871]LogBlueprintUserMessages: [GI_instance_C_71] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.02-08.29.54:541][871]LogBlueprintUserMessages: [GI_instance_C_71] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.02-08.29.54:541][871]LogBlueprintUserMessages: [GI_instance_C_71] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.02-08.29.54:541][871]LogBlueprintUserMessages: [GI_instance_C_71] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.02-08.29.54:541][871]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2022.11.02-08.29.54:541][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-08.29.54:541][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-08.29.54:541][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-08.29.54:541][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-08.29.54:541][871]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-08.29.54:541][871]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.02-08.29.54:541][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-08.29.54:541][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-08.29.54:542][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-08.29.54:542][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-08.29.54:542][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-08.29.54:544][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.02-08.29.54:581][871]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.02-08.29.54:581][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-08.29.54:581][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-08.29.54:581][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-08.29.54:581][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2022.11.02-08.29.54:581][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2022.11.02-08.29.54:583][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2022.11.02-08.29.54:583][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2022.11.02-08.29.54:583][871]LogInit: FAudioDevice initialized.
+[2022.11.02-08.29.54:583][871]LogAudio: Display: Audio Device (ID: 73) registered with world 'LV_islandMap'.
+[2022.11.02-08.29.54:644][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-08.29.54:644][871]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.02-08.29.54:645][871]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.02-21.29.54
+[2022.11.02-08.29.54:645][871]LogWorld: Bringing up level for play took: 0.000659
+[2022.11.02-08.29.54:648][871]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2022.11.02-08.29.54:648][871]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.02-08.29.54:649][871]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.02-08.29.54:649][871]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.29.54:649][871]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.02-08.29.54:649][871]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.29.54:732][871]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11775.567 Y=31255.531 Z=-2933.592] for [BP_Island_C]
+[2022.11.02-08.29.54:753][871]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_13
+[2022.11.02-08.29.54:753][871]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.02-08.29.54:753][871]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.02-08.29.54:753][871]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.02-08.29.54:753][871]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.02-08.29.54:753][871]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.02-08.29.54:753][871]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.02-08.29.54:753][871]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:754][871]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.02-08.29.54:755][871]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.02-08.29.54:756][871]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.02-08.29.54:756][871]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.02-08.29.54:759][871]PIE: Server logged in
+[2022.11.02-08.29.54:760][871]PIE: Play in editor total start time 0.319 seconds.
+[2022.11.02-08.29.54:782][871]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.11.02-08.29.55:878][935]LogBlueprintUserMessages: [BP_item_C_151] smallslot
+[2022.11.02-08.29.56:659][996]LogBlueprintUserMessages: [BP_item_C_151] smallslot
+[2022.11.02-08.29.57:084][ 29]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.29.57:517][ 63]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.02-08.29.57:517][ 63]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.02-08.29.57:517][ 63]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.02-08.29.57:517][ 63]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.02-08.29.59:336][204]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.30.01:266][344]LogViewport: Scene viewport resized to 3440x1358, mode Windowed.
+[2022.11.02-08.30.09:884][ 18]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.02-08.30.11:559][148]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.30.11:857][171]LogBlueprintUserMessages: [BP_item_C_152] smallslot
+[2022.11.02-08.30.12:620][230]LogBlueprintUserMessages: [BP_item_C_147] shortsleeve
+[2022.11.02-08.30.13:719][316]LogBlueprintUserMessages: [BP_item_C_153] smallslot
+[2022.11.02-08.30.13:968][335]LogBlueprintUserMessages: [BP_item_C_149] smallslot
+[2022.11.02-08.30.14:615][384]LogBlueprintUserMessages: [BP_item_C_152] smallslot
+[2022.11.02-08.30.15:977][488]LogBlueprintUserMessages: [BP_item_C_147] shortsleeve
+[2022.11.02-08.30.17:453][601]LogBlueprintUserMessages: [BP_item_C_147] shortsleeve
+[2022.11.02-08.30.17:601][612]LogBlueprintUserMessages: [BP_item_C_147] shortsleeve
+[2022.11.02-08.30.17:868][633]LogBlueprintUserMessages: [BP_item_C_147] shortsleeve
+[2022.11.02-08.30.18:901][714]LogBlueprintUserMessages: [BP_item_C_147] shortsleeve
+[2022.11.02-08.30.19:681][776]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.02-08.30.19:682][776]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.02-08.30.19:682][776]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.19:682][776]LogBlueprintUserMessages: [GI_instance_C_71] Match on vector X=0.000 Y=1.000, removing index 4
+[2022.11.02-08.30.23:253][ 47]LogBlueprintUserMessages: [BP_item_C_150] smallslot
+[2022.11.02-08.30.24:048][109]LogBlueprintUserMessages: [GI_instance_C_71] empty slot  smallslot found at slotid 1 in container hands
+[2022.11.02-08.30.24:373][134]LogBlueprintUserMessages: [BP_item_C_152] smallslot
+[2022.11.02-08.30.25:651][235]LogBlueprintUserMessages: [GI_instance_C_71] empty slot  smallslot found at slotid 2 in container hands
+[2022.11.02-08.30.27:150][348]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.02-08.30.27:150][348]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.27:150][348]LogBlueprintUserMessages: [container_cell_C_71] From container source 0 slot 2 to target 0 and slotb 4
+[2022.11.02-08.30.27:938][407]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.02-08.30.27:938][407]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.27:938][407]LogBlueprintUserMessages: [container_cell_C_94] From container source 0 slot 1 to target 0 and slotb 5
+[2022.11.02-08.30.28:571][454]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.02-08.30.28:571][454]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.28:571][454]LogBlueprintUserMessages: [container_cell_C_119] From container source 0 slot 4 to target 0 and slotb 8
+[2022.11.02-08.30.29:022][487]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.02-08.30.29:023][487]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.29:023][487]LogBlueprintUserMessages: [container_cell_C_142] From container source 0 slot 5 to target 0 and slotb 9
+[2022.11.02-08.30.29:573][528]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.02-08.30.29:573][528]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.29:573][528]LogBlueprintUserMessages: [container_cell_C_161] From container source 0 slot 9 to target 0 and slotb 6
+[2022.11.02-08.30.29:986][559]LogBlueprintUserMessages: [container_cell_C_186] Rule#1 - Must be unequipable
+[2022.11.02-08.30.30:558][601]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.02-08.30.30:558][601]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.30:558][601]LogBlueprintUserMessages: [container_cell_C_181] From container source 0 slot 8 to target 0 and slotb 4
+[2022.11.02-08.30.31:154][645]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.02-08.30.31:155][645]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.31:155][645]LogBlueprintUserMessages: [container_cell_C_200] From container source 0 slot 4 to target 0 and slotb 1
+[2022.11.02-08.30.32:210][725]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.02-08.30.32:210][725]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.32:210][725]LogBlueprintUserMessages: [container_cell_C_225] From container source 0 slot 6 to target 0 and slotb 4
+[2022.11.02-08.30.32:882][776]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.02-08.30.32:882][776]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.32:882][776]LogBlueprintUserMessages: [container_cell_C_245] From container source 0 slot 1 to target 0 and slotb 2
+[2022.11.02-08.30.37:468][125]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.02-08.30.37:468][125]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.37:468][125]LogBlueprintUserMessages: [container_cell_C_266] From container source 0 slot 4 to target 0 and slotb 1
+[2022.11.02-08.30.38:056][169]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.02-08.30.38:056][169]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.30.38:056][169]LogBlueprintUserMessages: [container_cell_C_292] From container source 0 slot 2 to target 0 and slotb 5
+[2022.11.02-08.30.39:439][274]LogBlueprintUserMessages: [BP_item_C_143] smallslot
+[2022.11.02-08.30.40:603][365]LogBlueprintUserMessages: [BP_item_C_146] smallslot
+[2022.11.02-08.30.41:328][421]LogBlueprintUserMessages: [BP_item_C_144] smallslot
+[2022.11.02-08.30.42:172][486]LogBlueprintUserMessages: [BP_item_C_144] smallslot
+[2022.11.02-08.30.42:755][532]LogBlueprintUserMessages: [BP_item_C_149] smallslot
+[2022.11.02-08.30.43:398][582]LogBlueprintUserMessages: [BP_item_C_153] smallslot
+[2022.11.02-08.30.43:950][624]LogBlueprintUserMessages: [BP_item_C_144] smallslot
+[2022.11.02-08.30.45:227][722]LogBlueprintUserMessages: [BP_item_C_148] smallslot
+[2022.11.02-08.30.45:802][768]LogBlueprintUserMessages: [GI_instance_C_71] empty slot  smallslot found at slotid 2 in container hands
+[2022.11.02-08.30.47:004][858]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.30.49:293][ 35]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.30.49:941][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.02-08.30.52:664][287]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.02-08.30.55:718][526]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.02-08.30.57:142][635]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.02-08.31.04:501][209]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.02-08.31.07:669][455]LogBlueprintUserMessages: [BP_item_C_134] smallslot
+[2022.11.02-08.31.08:345][509]LogBlueprintUserMessages: [BP_item_C_140] smallslot
+[2022.11.02-08.31.09:158][573]LogBlueprintUserMessages: [BP_item_C_140] smallslot
+[2022.11.02-08.31.09:184][575]LogBlueprintUserMessages: [BP_item_C_140] smallslot
+[2022.11.02-08.31.09:461][597]LogBlueprintUserMessages: [BP_item_C_140] smallslot
+[2022.11.02-08.31.09:530][602]LogBlueprintUserMessages: [BP_item_C_134] smallslot
+[2022.11.02-08.31.09:817][624]LogBlueprintUserMessages: [BP_item_C_133] smallslot
+[2022.11.02-08.31.10:199][654]LogBlueprintUserMessages: [BP_item_C_133] smallslot
+[2022.11.02-08.31.11:138][727]LogBlueprintUserMessages: [BP_item_C_135] smallslot
+[2022.11.02-08.31.11:690][769]LogBlueprintUserMessages: [BP_item_C_141] shortsleeve
+[2022.11.02-08.31.12:060][798]LogBlueprintUserMessages: [BP_item_C_141] shortsleeve
+[2022.11.02-08.31.13:201][885]LogBlueprintUserMessages: [BP_item_C_141] shortsleeve
+[2022.11.02-08.31.14:324][972]LogBlueprintUserMessages: [BP_item_C_139] smallslot
+[2022.11.02-08.31.15:202][ 41]LogBlueprintUserMessages: [BP_item_C_137] smallslot
+[2022.11.02-08.31.15:229][ 43]LogBlueprintUserMessages: [GI_instance_C_71] empty slot  smallslot found at slotid 3 in container hands
+[2022.11.02-08.31.15:546][ 67]LogBlueprintUserMessages: [BP_item_C_142] smallslot
+[2022.11.02-08.31.17:999][257]LogBlueprintUserMessages: [BP_item_C_138] smallslot
+[2022.11.02-08.31.18:205][273]LogBlueprintUserMessages: [BP_item_C_138] smallslot
+[2022.11.02-08.31.18:229][275]LogBlueprintUserMessages: [BP_item_C_138] smallslot
+[2022.11.02-08.31.18:458][292]LogBlueprintUserMessages: [BP_item_C_138] smallslot
+[2022.11.02-08.31.19:986][407]LogBlueprintUserMessages: [BP_item_C_142] smallslot
+[2022.11.02-08.31.21:846][551]LogBlueprintUserMessages: [BP_item_C_139] smallslot
+[2022.11.02-08.31.21:873][553]LogBlueprintUserMessages: [GI_instance_C_71] empty slot  smallslot found at slotid 4 in container hands
+[2022.11.02-08.31.27:327][973]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.02-08.31.30:844][247]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.02-08.31.33:317][441]LogBlueprintUserMessages: [BP_item_C_119] mediumslot
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=4.000 Y=1.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=4.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] Only (2 of 4) target slots are empty
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=0.000 Y=3.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=1.000 Y=3.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] Only (2 of 4) target slots are empty
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=1.000 Y=3.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=2.000 Y=3.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] Only (2 of 4) target slots are empty
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=2.000 Y=3.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=3.000 Y=3.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] Only (2 of 4) target slots are empty
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=3.000 Y=3.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=4.000 Y=2.000
+[2022.11.02-08.31.33:998][495]LogBlueprintUserMessages: [None] X=4.000 Y=3.000
+[2022.11.02-08.31.33:999][495]LogBlueprintUserMessages: [None] Only (1 of 4) target slots are empty
+[2022.11.02-08.31.33:999][495]LogBlueprintUserMessages: [GI_instance_C_71] No slot found canont, pickup item
+[2022.11.02-08.31.34:944][568]LogBlueprintUserMessages: [BP_item_C_119] mediumslot
+[2022.11.02-08.31.38:533][848]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.02-08.31.39:040][887]LogBlueprintUserMessages: [BP_item_C_119] mediumslot
+[2022.11.02-08.31.46:252][446]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.11.02-08.31.46:253][446]LogBlueprintUserMessages: [GI_instance_C_71] Found Item 152 to remove at slot 6 in container 
+[2022.11.02-08.31.51:410][845]LogBlueprintUserMessages: [small_empty_socket_C_4] Itemtype is container bandolier. This should process new slot generation for backpacks. Dropped on character sockets right_hip
+[2022.11.02-08.31.51:410][845]LogBlueprintUserMessages: [GI_instance_C_71] Container Found( bandolier) but is not compatible with target socket (right_hip)
+[2022.11.02-08.31.51:410][845]LogBlueprintUserMessages: [small_empty_socket_C_4] container creation went wrong
+[2022.11.02-08.31.53:127][975]LogBlueprintUserMessages: [small_empty_socket_C_2] Itemtype is container bandolier. This should process new slot generation for backpacks. Dropped on character sockets right_shoulder
+[2022.11.02-08.31.53:128][975]LogBlueprintUserMessages: [GI_instance_C_71] Found Item 137 to remove at slot 3 in container 
+[2022.11.02-08.31.55:172][120]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.02-08.31.55:172][120]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.31.55:172][120]LogBlueprintUserMessages: [container_cell_C_427] From container source 0 slot 5 to target 0 and slotb 3
+[2022.11.02-08.31.58:124][341]LogBlueprintUserMessages: [small_empty_socket_C_5] Itemtype is container satchel. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.11.02-08.31.58:125][341]LogBlueprintUserMessages: [GI_instance_C_71] Found Item 139 to remove at slot 5 in container 
+[2022.11.02-08.32.22:982][284]LogBlueprintUserMessages: [small_empty_socket_C_1] Itemtype is container bandolier. This should process new slot generation for backpacks. Dropped on character sockets left_shoulder
+[2022.11.02-08.32.22:983][284]LogBlueprintUserMessages: [GI_instance_C_71] Found Item 147 to remove at slot 0 in container 
+[2022.11.02-08.32.27:075][598]LogBlueprintUserMessages: [BP_item_C_119] mediumslot
+[2022.11.02-08.32.27:479][630]LogBlueprintUserMessages: [BP_item_C_119] mediumslot
+[2022.11.02-08.32.29:231][770]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.02-08.32.29:231][770]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.02-08.32.29:231][770]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.02-08.32.29:231][770]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.02-08.32.29:231][770]LogBlueprintUserMessages: [None] Only (1 of 4) target slots are empty
+[2022.11.02-08.32.29:231][770]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.02-08.32.29:231][770]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.02-08.32.29:232][770]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.02-08.32.29:232][770]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.02-08.32.29:232][770]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.02-08.32.29:232][770]LogBlueprintUserMessages: [GI_instance_C_71] Match on vector X=2.000 Y=2.000, removing index 9
+[2022.11.02-08.32.29:232][770]LogBlueprintUserMessages: [GI_instance_C_71] Match on vector X=3.000 Y=1.000, removing index 6
+[2022.11.02-08.32.29:232][770]LogBlueprintUserMessages: [GI_instance_C_71] Match on vector X=3.000 Y=2.000, removing index 8
+[2022.11.02-08.34.13:289][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-08.34.13:289][ 32]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.02-08.34.13:291][ 32]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.02-08.34.13:299][ 32]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-08.34.13:304][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.34.13:312][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.02-08.34.13:323][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-08.34.13:420][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-08.34.13:421][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2022.11.02-08.34.13:422][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2022.11.02-08.34.13:439][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.11.02-08.34.13:466][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2022.11.02-08.34.14:800][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
