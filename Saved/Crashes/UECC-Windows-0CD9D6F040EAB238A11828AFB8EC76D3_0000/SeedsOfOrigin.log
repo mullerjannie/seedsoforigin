@@ -19307,15 +19307,3 @@ Script Stack (0 frames):
 [2022.11.03-04.17.05:556][943]LogOutputDevice: Error: [Callstack] 0x00007ffc894a244d KERNEL32.DLL!UnknownFunction []
 [2022.11.03-04.17.05:556][943]LogOutputDevice: Error: [Callstack] 0x00007ffc8b40df78 ntdll.dll!UnknownFunction []
 [2022.11.03-04.17.05:556][943]LogOutputDevice: Error: 
-[2022.11.03-04.17.05:561][943]LogStats:                SubmitErrorReport -  0.000 s
-[2022.11.03-04.17.07:194][943]LogStats:                    SendNewReport -  1.633 s
-[2022.11.03-04.17.07:194][943]LogStats:             FDebug::EnsureFailed -  2.100 s
-[2022.11.03-04.17.08:914][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
-[2022.11.03-04.17.08:982][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
-[2022.11.03-04.17.09:288][123]LogSavePackage: Moving output files for package: /Game/GI_instance
-[2022.11.03-04.17.09:288][123]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance327B942847CE231D54D048A719EDE528.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
-[2022.11.03-04.17.09:332][123]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/container_cell
-[2022.11.03-04.17.09:332][123]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cell603F523F41D185289E6F49BFBF88C272.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/container_cell.uasset'
-[2022.11.03-04.17.09:350][123]AssetCheck: New page: Asset Save: multiple assets
-[2022.11.03-04.17.09:350][123]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
-[2022.11.03-04.17.09:350][123]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cell.container_cell
