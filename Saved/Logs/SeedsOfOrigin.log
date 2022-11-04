@@ -29633,3 +29633,864 @@ Script call stack:
 [2022.11.04-08.57.10:839][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
 [2022.11.04-08.57.10:875][546]LogPlayLevel: Display: Destroying online subsystem :Context_167
 [2022.11.04-08.57.35:125][528]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.024 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.04-09.00.05:237][976]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5004ms] waiting for h/w. InstanceID=1
+[2022.11.04-09.00.05:237][976]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27208
+[2022.11.04-18.09.28:511][977]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-32959168ms], ThreadID=27208
+[2022.11.04-18.09.28:989][977]LogHttp: Warning: 00000719A13E1900: HTTP request timed out after 32963.34 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2233A248-44DD-FABB-4B61-88AF25008D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b92d55914af53ebca6d4edbb274fdf8f%7Ccc92e06c68af4558ab9501b18d3a0b40%7C67d0f83e-950d-4e74-9005-9b1530759190&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.04-18.09.29:416][977]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [32964278ms] waiting for h/w. InstanceID=1
+[2022.11.04-18.09.30:455][977]LogHttp: Warning: 00000719A13E1900: request failed, libcurl error: 0 (No error)
+[2022.11.04-18.09.30:455][977]LogHttp: Warning: 00000719A13E1900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x717298c0f30 [can pipeline])
+[2022.11.04-18.09.30:455][977]LogHttp: Warning: 00000719A13E1900: libcurl info message cache 1 (Re-using existing connection! (#36) with host datarouter.ol.epicgames.com)
+[2022.11.04-18.09.30:455][977]LogHttp: Warning: 00000719A13E1900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.198.254.132) port 443 (#36))
+[2022.11.04-18.09.30:455][977]LogHttp: Warning: 00000719A13E1900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.04-18.09.30:455][977]LogHttp: Warning: 00000719A13E1900: libcurl info message cache 4 (Closing connection 36)
+[2022.11.04-18.09.30:455][977]LogHttp: Warning: 00000719A13E1900: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.11.04-18.09.30:455][977]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2233A248-44DD-FABB-4B61-88AF25008D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b92d55914af53ebca6d4edbb274fdf8f%7Ccc92e06c68af4558ab9501b18d3a0b40%7C67d0f83e-950d-4e74-9005-9b1530759190&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.04-18.09.30:472][977]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bff120f8-ed3d-46d2-95f5-8ae17c8e0723}, Name=Realtek HD Audio 2nd output (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=32964184.00
+[2022.11.04-18.09.30:472][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.04-18.09.30:487][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.04-18.09.30:809][979]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27208
+[2022.11.04-18.09.31:131][979]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bff120f8-ed3d-46d2-95f5-8ae17c8e0723}, Name=Realtek HD Audio 2nd output (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=91.03
+[2022.11.04-18.09.31:131][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.04-18.09.31:148][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.04-18.09.47:380][835]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.04-18.09.47:406][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.04-18.09.47:407][835]PIE: New page: PIE session: LV_islandMap (5/11/2022, 8:09:47 pm)
+[2022.11.04-18.09.47:408][835]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.04-18.09.47:416][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008607s)
+[2022.11.04-18.09.47:416][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.008689s)
+[2022.11.04-18.09.47:417][835]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-18.09.47:422][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-18.09.47:429][835]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.04-18.09.47:430][835]LogPlayLevel: PIE: World Init took: (0.013103s)
+[2022.11.04-18.09.47:582][835]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.11.04-18.09.47:590][835]LogBlueprintUserMessages: [GI_instance_C_139] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.04-18.09.47:590][835]LogBlueprintUserMessages: [GI_instance_C_139] Main: Load Plant companion bonusses
+[2022.11.04-18.09.47:590][835]LogBlueprintUserMessages: [GI_instance_C_139] Main: Load Plant environment companion bonusses
+[2022.11.04-18.09.47:590][835]LogBlueprintUserMessages: [GI_instance_C_139] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.04-18.09.47:590][835]LogBlueprintUserMessages: [GI_instance_C_139] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.04-18.09.47:590][835]LogBlueprintUserMessages: [GI_instance_C_139] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.04-18.09.47:590][835]LogBlueprintUserMessages: [GI_instance_C_139] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.04-18.09.47:591][835]LogAudio: Display: Creating Audio Device:                 Id: 141, Scope: Unique, Realtime: True
+[2022.11.04-18.09.47:591][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.04-18.09.47:591][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.04-18.09.47:591][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.04-18.09.47:591][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.04-18.09.47:591][835]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.04-18.09.47:591][835]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.04-18.09.47:591][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.04-18.09.47:591][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.04-18.09.47:592][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.04-18.09.47:592][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.04-18.09.47:592][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.04-18.09.47:595][835]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.04-18.09.47:627][835]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.11.04-18.09.47:627][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.04-18.09.47:627][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.04-18.09.47:627][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.04-18.09.47:628][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=141
+[2022.11.04-18.09.47:628][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=141
+[2022.11.04-18.09.47:629][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=141
+[2022.11.04-18.09.47:629][835]LogInit: FAudioDevice initialized.
+[2022.11.04-18.09.47:629][835]LogAudio: Display: Audio Device (ID: 141) registered with world 'LV_islandMap'.
+[2022.11.04-18.09.47:673][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=141
+[2022.11.04-18.09.47:686][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.04-18.09.47:686][835]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.04-18.09.47:687][835]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.05-07.09.47
+[2022.11.04-18.09.47:687][835]LogWorld: Bringing up level for play took: 0.000827
+[2022.11.04-18.09.47:690][835]LogOnline: OSS: Created online subsystem instance for: :Context_168
+[2022.11.04-18.09.47:692][835]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.04-18.09.47:693][835]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.04-18.09.47:693][835]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.04-18.09.47:693][835]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.04-18.09.47:693][835]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.04-18.09.47:723][835]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5906.858 Y=1052.889 Z=10648.671] for [BP_Island_C]
+[2022.11.04-18.09.47:728][835]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=48376.414 Y=45535.141 Z=2568.895] for [BP_Island_C]
+[2022.11.04-18.09.47:799][835]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_6
+[2022.11.04-18.09.47:799][835]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.04-18.09.47:799][835]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.04-18.09.47:799][835]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.04-18.09.47:799][835]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.04-18.09.47:799][835]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.04-18.09.47:799][835]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.04-18.09.47:799][835]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.04-18.09.47:800][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:800][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:800][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:800][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:800][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:800][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:800][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:801][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:801][835]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.09.47:801][835]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.09.47:801][835]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.04-18.09.47:803][835]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.04-18.09.47:803][835]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.04-18.09.47:809][835]PIE: Server logged in
+[2022.11.04-18.09.47:812][835]PIE: Play in editor total start time 0.416 seconds.
+[2022.11.04-18.09.47:832][835]LogViewport: Scene viewport resized to 3434x1352, mode Windowed.
+[2022.11.04-18.09.48:082][840]LogBlueprintUserMessages: [BP_item_C_57] smallslot
+[2022.11.04-18.09.48:373][856]LogBlueprintUserMessages: [BP_item_C_57] smallslot
+[2022.11.04-18.09.48:728][876]LogBlueprintUserMessages: [BP_item_C_57] smallslot
+[2022.11.04-18.09.51:158][ 21]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.04-18.09.51:158][ 21]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.04-18.09.51:158][ 21]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.04-18.09.51:158][ 21]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.04-18.09.51:917][ 64]LogBlueprintUserMessages: [BP_item_C_57] smallslot
+[2022.11.04-18.09.52:983][129]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.09.52:983][129]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.09.52:984][129]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.09.52:986][129]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.09.53:383][153]LogBlueprintUserMessages: [BP_item_C_62] smallslot
+[2022.11.04-18.09.54:776][244]LogBlueprintUserMessages: [BP_item_C_59] smallslot
+[2022.11.04-18.09.55:600][296]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.04-18.09.56:493][353]LogBlueprintUserMessages: [BP_item_C_55] smallslot
+[2022.11.04-18.09.57:276][403]LogBlueprintUserMessages: [BP_item_C_55] smallslot
+[2022.11.04-18.09.57:608][423]LogBlueprintUserMessages: [BP_item_C_56] smallslot
+[2022.11.04-18.09.58:378][470]LogBlueprintUserMessages: [BP_item_C_56] smallslot
+[2022.11.04-18.09.58:922][503]LogBlueprintUserMessages: [BP_item_C_60] smallslot
+[2022.11.04-18.09.59:757][554]LogBlueprintUserMessages: [BP_item_C_56] smallslot
+[2022.11.04-18.10.01:934][684]LogBlueprintUserMessages: [BP_item_C_65] smallslot
+[2022.11.04-18.10.02:147][697]LogBlueprintUserMessages: [BP_item_C_65] smallslot
+[2022.11.04-18.10.02:455][716]LogBlueprintUserMessages: [BP_item_C_61] smallslot
+[2022.11.04-18.10.04:064][815]LogBlueprintUserMessages: [BP_item_C_63] smallslot
+[2022.11.04-18.10.04:195][823]LogBlueprintUserMessages: [BP_item_C_64] smallslot
+[2022.11.04-18.10.04:442][839]LogBlueprintUserMessages: [BP_item_C_58] mediumslot
+[2022.11.04-18.10.05:092][880]LogBlueprintUserMessages: [BP_item_C_63] smallslot
+[2022.11.04-18.10.05:399][900]LogBlueprintUserMessages: [BP_item_C_63] smallslot
+[2022.11.04-18.10.06:345][963]LogBlueprintUserMessages: [BP_item_C_58] mediumslot
+[2022.11.04-18.10.07:108][ 16]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.10.07:108][ 16]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.10.07:108][ 16]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.10.07:108][ 16]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.10.07:109][ 16]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.10.07:109][ 16]LogBlueprintUserMessages: [GI_instance_C_139] Match on vector X=1.000 Y=1.000, removing index 5
+[2022.11.04-18.10.07:109][ 16]LogBlueprintUserMessages: [GI_instance_C_139] Match on vector X=2.000 Y=0.000, removing index 2
+[2022.11.04-18.10.07:109][ 16]LogBlueprintUserMessages: [GI_instance_C_139] Match on vector X=2.000 Y=1.000, removing index 4
+[2022.11.04-18.10.07:109][ 16]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.10.07:111][ 16]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.10.10:783][263]LogBlueprintUserMessages: [container_cell_C_50] Incoming Widget is from / container 0 origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=0.000 Y=2.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.10.10:783][263]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.10.10:785][263]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.10.10:785][263]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=0.000 Y=0.000
+[2022.11.04-18.10.10:785][263]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.10.10:785][263]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.10.10:787][263]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.10.10:787][263]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.10.10:787][263]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.10.11:882][336]LogBlueprintUserMessages: [container_cell_C_71] Incoming Widget is from / container 0 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is mediumslot or is emptyfalse targetting containter 0 slot X=0.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.10.11:882][336]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.10.11:882][336]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.10.11:882][336]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.10.11:882][336]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.10.11:882][336]LogBlueprintUserMessages: [None] Only (2 of 4) target slots are empty
+[2022.11.04-18.10.11:882][336]LogBlueprintUserMessages: [container_cell_C_71] The target cell X=0.000 Y=0.000 has space but insufficient spatial capacity to support the item
+[2022.11.04-18.10.16:027][620]LogBlueprintUserMessages: [small_empty_socket_C_4] Itemtype is container bandolier. This should process new slot generation for backpacks. Dropped on character sockets right_hip
+[2022.11.04-18.10.16:027][620]LogBlueprintUserMessages: [GI_instance_C_139] Container Found( bandolier) but is not compatible with target socket (right_hip)
+[2022.11.04-18.10.16:027][620]LogBlueprintUserMessages: [small_empty_socket_C_4] container creation went wrong
+[2022.11.04-18.10.18:484][786]LogBlueprintUserMessages: [small_empty_socket_C_2] Itemtype is container bandolier. This should process new slot generation for backpacks. Dropped on character sockets right_shoulder
+[2022.11.04-18.10.18:484][786]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.10.18:486][786]LogBlueprintUserMessages: [GI_instance_C_139] Found Item 58 to remove at slot 0 in container hands
+[2022.11.04-18.10.18:486][786]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.10.18:486][786]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.10.18:486][786]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.10.18:486][786]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.10.18:486][786]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.10.18:488][786]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.10.19:352][839]LogBlueprintUserMessages: [None] The container bandolier in socket right_shoulder has 3 empty slots and 0 full slots. 
+[2022.11.04-18.10.19:352][839]LogBlueprintUserMessages: [container_cell_C_72] all slots are empty, container can be removed
+[2022.11.04-18.10.20:149][891]LogBlueprintUserMessages: [container_cell_C_95] Incoming Widget is from / container 1 origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is genericslot or is emptytrue targetting containter 0 slot X=1.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.10.20:149][891]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.10.20:149][891]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.10.20:149][891]LogBlueprintUserMessages: [GI_instance_C_139] empty slot  genericslot found at slotid 0 in container 8
+[2022.11.04-18.10.20:150][891]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.10.20:151][891]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.10.28:636][476]LogBlueprintUserMessages: [BP_item_C_63] smallslot
+[2022.11.04-18.10.29:190][514]LogBlueprintUserMessages: [BP_item_C_64] smallslot
+[2022.11.04-18.10.38:002][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.04-18.10.38:002][ 81]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.04-18.10.38:005][ 81]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.04-18.10.38:013][ 81]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-18.10.38:018][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-18.10.38:033][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.04-18.10.38:046][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-18.10.38:167][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-18.10.38:167][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=141
+[2022.11.04-18.10.38:169][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=141
+[2022.11.04-18.10.38:198][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.11.04-18.10.38:231][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_168
+[2022.11.04-18.12.58:386][  3]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.04-18.12.58:398][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.04-18.12.58:398][  3]PIE: New page: PIE session: LV_islandMap (5/11/2022, 8:12:58 pm)
+[2022.11.04-18.12.58:398][  3]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.04-18.12.58:405][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006603s)
+[2022.11.04-18.12.58:405][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006666s)
+[2022.11.04-18.12.58:405][  3]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-18.12.58:405][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-18.12.58:405][  3]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.04-18.12.58:405][  3]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2022.11.04-18.12.58:513][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.11.04-18.12.58:519][  3]LogBlueprintUserMessages: [GI_instance_C_140] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.04-18.12.58:519][  3]LogBlueprintUserMessages: [GI_instance_C_140] Main: Load Plant companion bonusses
+[2022.11.04-18.12.58:519][  3]LogBlueprintUserMessages: [GI_instance_C_140] Main: Load Plant environment companion bonusses
+[2022.11.04-18.12.58:519][  3]LogBlueprintUserMessages: [GI_instance_C_140] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.04-18.12.58:519][  3]LogBlueprintUserMessages: [GI_instance_C_140] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.04-18.12.58:519][  3]LogBlueprintUserMessages: [GI_instance_C_140] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.04-18.12.58:519][  3]LogBlueprintUserMessages: [GI_instance_C_140] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.04-18.12.58:520][  3]LogAudio: Display: Creating Audio Device:                 Id: 142, Scope: Unique, Realtime: True
+[2022.11.04-18.12.58:520][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.04-18.12.58:520][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.04-18.12.58:520][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.04-18.12.58:520][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.04-18.12.58:520][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.04-18.12.58:520][  3]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.04-18.12.58:520][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.04-18.12.58:520][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.04-18.12.58:520][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.04-18.12.58:520][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.04-18.12.58:520][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.04-18.12.58:522][  3]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.04-18.12.58:552][  3]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.11.04-18.12.58:552][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.04-18.12.58:552][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.04-18.12.58:552][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.04-18.12.58:552][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=142
+[2022.11.04-18.12.58:552][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=142
+[2022.11.04-18.12.58:553][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=142
+[2022.11.04-18.12.58:553][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=142
+[2022.11.04-18.12.58:553][  3]LogInit: FAudioDevice initialized.
+[2022.11.04-18.12.58:553][  3]LogAudio: Display: Audio Device (ID: 142) registered with world 'LV_islandMap'.
+[2022.11.04-18.12.58:608][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.04-18.12.58:609][  3]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.04-18.12.58:609][  3]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.05-07.12.58
+[2022.11.04-18.12.58:609][  3]LogWorld: Bringing up level for play took: 0.000619
+[2022.11.04-18.12.58:612][  3]LogOnline: OSS: Created online subsystem instance for: :Context_169
+[2022.11.04-18.12.58:612][  3]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.04-18.12.58:613][  3]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.04-18.12.58:613][  3]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.04-18.12.58:613][  3]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.04-18.12.58:613][  3]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.04-18.12.58:698][  3]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=36800.745 Y=22559.282 Z=-23472.549] for [BP_Island_C]
+[2022.11.04-18.12.58:703][  3]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5061.495 Y=883.511 Z=-23007.141] for [BP_Island_C]
+[2022.11.04-18.12.58:709][  3]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_7
+[2022.11.04-18.12.58:709][  3]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.04-18.12.58:709][  3]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.04-18.12.58:709][  3]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.04-18.12.58:709][  3]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.04-18.12.58:709][  3]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.04-18.12.58:709][  3]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.04-18.12.58:709][  3]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.04-18.12.58:710][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:710][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:711][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:711][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:711][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:711][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:711][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:711][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:711][  3]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.12.58:711][  3]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.12.58:712][  3]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.04-18.12.58:713][  3]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.04-18.12.58:713][  3]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.04-18.12.58:718][  3]PIE: Server logged in
+[2022.11.04-18.12.58:721][  3]PIE: Play in editor total start time 0.323 seconds.
+[2022.11.04-18.12.58:736][  3]LogViewport: Scene viewport resized to 3434x1352, mode Windowed.
+[2022.11.04-18.12.59:487][ 41]LogBlueprintUserMessages: [BP_item_C_87] smallslot
+[2022.11.04-18.13.00:494][102]LogBlueprintUserMessages: [BP_item_C_85] smallslot
+[2022.11.04-18.13.01:041][135]LogBlueprintUserMessages: [BP_item_C_78] mediumslot
+[2022.11.04-18.13.03:249][274]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.13.03:249][274]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.13.03:249][274]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.13.03:249][274]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.13.03:249][274]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.13.03:249][274]LogBlueprintUserMessages: [GI_instance_C_140] Match on vector X=0.000 Y=1.000, removing index 4
+[2022.11.04-18.13.03:249][274]LogBlueprintUserMessages: [GI_instance_C_140] Match on vector X=1.000 Y=0.000, removing index 1
+[2022.11.04-18.13.03:250][274]LogBlueprintUserMessages: [GI_instance_C_140] Match on vector X=1.000 Y=1.000, removing index 3
+[2022.11.04-18.13.03:250][274]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.13.03:250][274]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.13.03:775][306]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.04-18.13.03:775][306]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.04-18.13.03:775][306]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.04-18.13.03:775][306]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.04-18.13.04:120][327]LogBlueprintUserMessages: [BP_item_C_86] smallslot
+[2022.11.04-18.13.07:892][560]LogBlueprintUserMessages: [BP_item_C_77] smallslot
+[2022.11.04-18.13.39:532][972]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.11.04-18.13.39:532][972]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.13.39:533][972]LogBlueprintUserMessages: [GI_instance_C_140] Found Item 78 to remove at slot 0 in container hands
+[2022.11.04-18.13.39:533][972]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.13.39:533][972]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.13.39:533][972]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.13.39:533][972]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.13.39:533][972]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.13.39:535][972]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.16.11:436][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.04-18.16.11:437][268]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.04-18.16.11:440][268]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.04-18.16.11:443][268]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-18.16.11:446][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-18.16.11:454][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.04-18.16.11:463][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-18.16.11:585][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.04-18.16.11:585][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=142
+[2022.11.04-18.16.11:586][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=142
+[2022.11.04-18.16.11:623][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.11.04-18.16.11:659][269]LogPlayLevel: Display: Destroying online subsystem :Context_169
+[2022.11.04-18.18.29:691][102]BlueprintLog: New page: Compile container_cell
+[2022.11.04-18.18.29:948][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.11.04-18.18.39:292][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.04-18.18.39:302][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.04-18.18.39:303][ 64]PIE: New page: PIE session: LV_islandMap (5/11/2022, 8:18:39 pm)
+[2022.11.04-18.18.39:304][ 64]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.04-18.18.39:310][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006667s)
+[2022.11.04-18.18.39:310][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006733s)
+[2022.11.04-18.18.39:310][ 64]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.04-18.18.39:310][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.04-18.18.39:311][ 64]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.04-18.18.39:311][ 64]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2022.11.04-18.18.39:421][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.11.04-18.18.39:428][ 64]LogBlueprintUserMessages: [GI_instance_C_141] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.04-18.18.39:429][ 64]LogBlueprintUserMessages: [GI_instance_C_141] Main: Load Plant companion bonusses
+[2022.11.04-18.18.39:429][ 64]LogBlueprintUserMessages: [GI_instance_C_141] Main: Load Plant environment companion bonusses
+[2022.11.04-18.18.39:429][ 64]LogBlueprintUserMessages: [GI_instance_C_141] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.04-18.18.39:429][ 64]LogBlueprintUserMessages: [GI_instance_C_141] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.04-18.18.39:429][ 64]LogBlueprintUserMessages: [GI_instance_C_141] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.04-18.18.39:429][ 64]LogBlueprintUserMessages: [GI_instance_C_141] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.04-18.18.39:429][ 64]LogAudio: Display: Creating Audio Device:                 Id: 143, Scope: Unique, Realtime: True
+[2022.11.04-18.18.39:429][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.04-18.18.39:429][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.04-18.18.39:429][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.04-18.18.39:429][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.04-18.18.39:429][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.04-18.18.39:429][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.04-18.18.39:429][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.04-18.18.39:429][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.04-18.18.39:430][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.04-18.18.39:430][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.04-18.18.39:430][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.04-18.18.39:431][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.04-18.18.39:460][ 64]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.11.04-18.18.39:460][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.04-18.18.39:460][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.04-18.18.39:460][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.04-18.18.39:460][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=143
+[2022.11.04-18.18.39:460][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=143
+[2022.11.04-18.18.39:462][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=143
+[2022.11.04-18.18.39:462][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=143
+[2022.11.04-18.18.39:462][ 64]LogInit: FAudioDevice initialized.
+[2022.11.04-18.18.39:462][ 64]LogAudio: Display: Audio Device (ID: 143) registered with world 'LV_islandMap'.
+[2022.11.04-18.18.39:523][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.04-18.18.39:523][ 64]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.04-18.18.39:525][ 64]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.05-07.18.39
+[2022.11.04-18.18.39:525][ 64]LogWorld: Bringing up level for play took: 0.001032
+[2022.11.04-18.18.39:527][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_170
+[2022.11.04-18.18.39:527][ 64]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.04-18.18.39:528][ 64]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.04-18.18.39:528][ 64]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.04-18.18.39:528][ 64]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.04-18.18.39:528][ 64]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.04-18.18.39:631][ 64]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_15
+[2022.11.04-18.18.39:632][ 64]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.04-18.18.39:632][ 64]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.04-18.18.39:632][ 64]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.04-18.18.39:632][ 64]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.04-18.18.39:632][ 64]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.04-18.18.39:632][ 64]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.04-18.18.39:632][ 64]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:633][ 64]LogBlueprintUserMessages: [character_containers_C_0] create sockets
+[2022.11.04-18.18.39:634][ 64]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.18.39:634][ 64]LogBlueprintUserMessages: [PC_default_C_0] create UI in PC default
+[2022.11.04-18.18.39:635][ 64]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.04-18.18.39:635][ 64]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.04-18.18.39:638][ 64]PIE: Server logged in
+[2022.11.04-18.18.39:641][ 64]PIE: Play in editor total start time 0.339 seconds.
+[2022.11.04-18.18.39:665][ 64]LogViewport: Scene viewport resized to 3434x1352, mode Windowed.
+[2022.11.04-18.18.40:912][136]LogBlueprintUserMessages: [BP_item_C_170] smallslot
+[2022.11.04-18.18.41:739][198]LogBlueprintUserMessages: [BP_item_C_166] shortsleeve
+[2022.11.04-18.18.42:197][232]LogBlueprintUserMessages: [BP_item_C_167] smallslot
+[2022.11.04-18.18.42:266][237]LogBlueprintUserMessages: [BP_item_C_166] shortsleeve
+[2022.11.04-18.18.44:091][375]LogBlueprintUserMessages: [BP_item_C_170] smallslot
+[2022.11.04-18.18.44:447][401]LogBlueprintUserMessages: [character_containers_C_0] running constructure event
+[2022.11.04-18.18.44:447][401]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.04-18.18.44:447][401]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.04-18.18.44:447][401]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.04-18.18.44:793][426]LogBlueprintUserMessages: [BP_item_C_170] smallslot
+[2022.11.04-18.18.44:861][431]LogBlueprintUserMessages: [BP_item_C_166] shortsleeve
+[2022.11.04-18.18.45:740][496]LogBlueprintUserMessages: [BP_item_C_170] smallslot
+[2022.11.04-18.18.47:301][608]LogBlueprintUserMessages: [BP_item_C_166] shortsleeve
+[2022.11.04-18.18.48:660][707]LogBlueprintUserMessages: [BP_item_C_170] smallslot
+[2022.11.04-18.18.48:813][718]LogBlueprintUserMessages: [BP_item_C_166] shortsleeve
+[2022.11.04-18.18.48:958][728]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.18.48:958][728]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.18.48:958][728]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.18.48:958][728]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=0.000 Y=1.000, removing index 4
+[2022.11.04-18.18.48:958][728]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.18.48:961][728]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.18.48:965][728]LogBlueprintUserMessages: [BP_item_C_167] smallslot
+[2022.11.04-18.18.49:279][751]LogBlueprintUserMessages: [BP_item_C_170] smallslot
+[2022.11.04-18.18.50:031][805]LogBlueprintUserMessages: [BP_item_C_167] smallslot
+[2022.11.04-18.18.59:639][515]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container messenger. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.11.04-18.18.59:639][515]LogBlueprintUserMessages: [GI_instance_C_141] Container Found( messenger) but is not compatible with target socket (middle_waist)
+[2022.11.04-18.18.59:639][515]LogBlueprintUserMessages: [small_empty_socket_C_6] container creation went wrong
+[2022.11.04-18.19.03:819][821]LogBlueprintUserMessages: [small_empty_socket_C_5] Itemtype is container messenger. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.11.04-18.19.03:819][821]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.03:820][821]LogBlueprintUserMessages: [GI_instance_C_141] Found Item 166 to remove at slot 0 in container hands
+[2022.11.04-18.19.03:820][821]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.03:820][821]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.03:820][821]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.03:822][821]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.06:641][ 22]LogBlueprintUserMessages: [None] The container messenger in socket left_waist has 6 empty slots and 0 full slots. 
+[2022.11.04-18.19.06:642][ 22]LogBlueprintUserMessages: [container_cell_C_35] all slots are empty, container can be removed
+[2022.11.04-18.19.10:275][287]LogBlueprintUserMessages: [container_cell_C_52] Incoming Widget is from / container 1 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is genericslot or is emptytrue targetting containter 0 slot X=1.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.10:275][287]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.10:275][287]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.10:275][287]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.10:275][287]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.10:275][287]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.10:275][287]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=1.000 Y=1.000, removing index 3
+[2022.11.04-18.19.10:275][287]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.10:278][287]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.12:101][415]LogBlueprintUserMessages: [container_cell_C_76] Incoming Widget is from / container 0 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 0 slot X=2.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.12:101][415]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.19.12:101][415]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.12:101][415]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.12:101][415]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=0.000
+[2022.11.04-18.19.12:101][415]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.12:101][415]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.12:101][415]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.12:103][415]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.19.12:103][415]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.12:103][415]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.12:103][415]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=2.000 Y=1.000, removing index 2
+[2022.11.04-18.19.12:103][415]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.12:943][475]LogBlueprintUserMessages: [container_cell_C_99] Incoming Widget is from / container 0 origin cell X=2.000 Y=0.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 0 slot X=3.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.12:943][475]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.04-18.19.12:943][475]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.19.12:943][475]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.12:943][475]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=0.000
+[2022.11.04-18.19.12:943][475]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.19.12:943][475]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.12:943][475]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.12:946][475]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.04-18.19.12:946][475]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.19.12:946][475]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.12:946][475]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=3.000 Y=1.000, removing index 1
+[2022.11.04-18.19.12:946][475]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.13:880][541]LogBlueprintUserMessages: [container_cell_C_126] Incoming Widget is from / container 0 origin cell X=3.000 Y=0.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 0 slot X=0.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.13:880][541]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.13:880][541]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.13:880][541]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.13:880][541]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=3.000 Y=0.000
+[2022.11.04-18.19.13:880][541]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.04-18.19.13:880][541]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.19.13:880][541]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.13:882][541]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.13:882][541]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.13:882][541]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.13:882][541]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=0.000 Y=1.000, removing index 5
+[2022.11.04-18.19.13:883][541]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.14:810][606]LogBlueprintUserMessages: [small_empty_socket_C_9] Itemtype is container messenger. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.11.04-18.19.14:810][606]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.14:811][606]LogBlueprintUserMessages: [GI_instance_C_141] Found Item 166 to remove at slot 4 in container hands
+[2022.11.04-18.19.14:811][606]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.14:811][606]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.14:811][606]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.14:813][606]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.15:401][646]LogBlueprintUserMessages: [None] The container messenger in socket left_waist has 6 empty slots and 0 full slots. 
+[2022.11.04-18.19.15:401][646]LogBlueprintUserMessages: [container_cell_C_156] all slots are empty, container can be removed
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [container_cell_C_173] Incoming Widget is from / container 1 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is genericslot or is emptytrue targetting containter 0 slot X=0.000 Y=2.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=0.000 Y=3.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] Only (1 of 2) target slots are empty
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=1.000 Y=3.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] Only (1 of 2) target slots are empty
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=2.000 Y=3.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] Only (1 of 2) target slots are empty
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=3.000 Y=3.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] Only (1 of 2) target slots are empty
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.15:613][661]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=1.000 Y=1.000, removing index 5
+[2022.11.04-18.19.15:614][661]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.15:616][661]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.18:134][838]LogBlueprintUserMessages: [small_empty_socket_C_7] Itemtype is container messenger. This should process new slot generation for backpacks. Dropped on character sockets right_waist
+[2022.11.04-18.19.18:134][838]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.18:136][838]LogBlueprintUserMessages: [GI_instance_C_141] Found Item 166 to remove at slot 4 in container hands
+[2022.11.04-18.19.18:136][838]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.18:136][838]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.18:136][838]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.18:138][838]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.18:639][874]LogBlueprintUserMessages: [None] The container messenger in socket right_waist has 6 empty slots and 0 full slots. 
+[2022.11.04-18.19.18:639][874]LogBlueprintUserMessages: [container_cell_C_208] all slots are empty, container can be removed
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [container_cell_C_230] Incoming Widget is from / container 1 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is genericslot or is emptytrue targetting containter 0 slot X=2.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=0.000 Y=3.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] Only (1 of 2) target slots are empty
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=1.000 Y=3.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] Only (1 of 2) target slots are empty
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=2.000 Y=3.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] Only (1 of 2) target slots are empty
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=3.000 Y=3.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] Only (1 of 2) target slots are empty
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.19.18:878][891]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.18:879][891]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.18:879][891]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=2.000 Y=1.000, removing index 5
+[2022.11.04-18.19.18:879][891]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.18:881][891]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.19:873][957]LogBlueprintUserMessages: [BP_item_C_165] smallslot
+[2022.11.04-18.19.20:179][978]LogBlueprintUserMessages: [BP_item_C_173] smallslot
+[2022.11.04-18.19.20:627][ 10]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.19.20:627][ 10]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.20:627][ 10]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.20:629][ 10]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.21:148][ 46]LogBlueprintUserMessages: [BP_item_C_165] smallslot
+[2022.11.04-18.19.21:220][ 51]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.21:220][ 51]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.21:221][ 51]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.21:223][ 51]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.22:001][107]LogBlueprintUserMessages: [BP_item_C_170] smallslot
+[2022.11.04-18.19.22:083][113]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.22:083][113]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.22:083][113]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.22:085][113]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.22:606][150]LogBlueprintUserMessages: [BP_item_C_167] smallslot
+[2022.11.04-18.19.22:732][159]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.04-18.19.22:732][159]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.22:732][159]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.22:734][159]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.23:728][230]LogBlueprintUserMessages: [BP_item_C_171] smallslot
+[2022.11.04-18.19.23:825][237]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.04-18.19.23:825][237]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.23:825][237]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.23:827][237]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.24:699][299]LogBlueprintUserMessages: [BP_item_C_174] smallslot
+[2022.11.04-18.19.24:977][312]LogViewport: Scene viewport resized to 3433x1352, mode Windowed.
+[2022.11.04-18.19.25:043][312]LogViewport: Scene viewport resized to 3432x1352, mode Windowed.
+[2022.11.04-18.19.25:095][312]LogBlueprintUserMessages: [BP_item_C_174] smallslot
+[2022.11.04-18.19.25:434][336]LogBlueprintUserMessages: [BP_item_C_174] smallslot
+[2022.11.04-18.19.25:473][339]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.19.25:473][339]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.25:473][339]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.25:476][339]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.25:994][376]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.04-18.19.26:104][384]LogBlueprintUserMessages: [BP_item_C_169] smallslot
+[2022.11.04-18.19.26:132][386]LogBlueprintUserMessages: [BP_item_C_172] smallslot
+[2022.11.04-18.19.27:046][451]LogBlueprintUserMessages: [BP_item_C_172] smallslot
+[2022.11.04-18.19.27:330][471]LogBlueprintUserMessages: [BP_item_C_172] smallslot
+[2022.11.04-18.19.27:398][476]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.27:398][476]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.27:398][476]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.27:400][476]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.28:104][527]LogBlueprintUserMessages: [BP_item_C_169] smallslot
+[2022.11.04-18.19.28:255][538]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.28:255][538]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.28:255][538]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.28:257][538]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.29:476][614]LogBlueprintUserMessages: [container_cell_C_433] Incoming Widget is from / container 0 origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=1.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.29:476][614]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.29:476][614]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.29:476][614]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=0.000 Y=0.000
+[2022.11.04-18.19.29:476][614]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.29:476][614]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.29:478][614]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.29:478][614]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.29:478][614]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.30:190][663]LogBlueprintUserMessages: [container_cell_C_455] Incoming Widget is from / container 0 origin cell X=0.000 Y=1.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=1.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.30:190][663]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.30:191][663]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.30:191][663]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=0.000 Y=1.000
+[2022.11.04-18.19.30:191][663]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.30:191][663]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.30:192][663]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.30:193][663]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.30:193][663]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.30:764][702]LogBlueprintUserMessages: [container_cell_C_478] Incoming Widget is from / container 0 origin cell X=1.000 Y=1.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=0.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.30:764][702]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.30:764][702]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.30:764][702]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=1.000
+[2022.11.04-18.19.30:764][702]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.30:764][702]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.30:766][702]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.30:766][702]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.30:766][702]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.31:458][748]LogBlueprintUserMessages: [container_cell_C_498] Incoming Widget is from / container 0 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=0.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.31:459][748]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.31:459][748]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.31:459][748]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=0.000
+[2022.11.04-18.19.31:459][748]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.31:459][748]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.31:461][748]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.31:461][748]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.31:461][748]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.32:282][803]LogBlueprintUserMessages: [container_cell_C_522] Incoming Widget is from / container 0 origin cell X=2.000 Y=0.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 0 slot X=1.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.32:282][803]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.32:282][803]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.32:283][803]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.32:283][803]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=0.000
+[2022.11.04-18.19.32:283][803]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.19.32:283][803]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.32:283][803]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.32:285][803]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.32:285][803]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.32:285][803]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.32:285][803]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=1.000 Y=1.000, removing index 8
+[2022.11.04-18.19.32:285][803]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.33:682][898]LogBlueprintUserMessages: [container_cell_C_544] Incoming Widget is from / container 0 origin cell X=1.000 Y=2.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=2.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.33:683][898]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.19.33:683][898]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.33:683][898]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=2.000
+[2022.11.04-18.19.33:683][898]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.33:683][898]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.33:684][898]LogBlueprintUserMessages: [None] X=2.000 Y=0.000
+[2022.11.04-18.19.33:684][898]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.33:684][898]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.34:760][971]LogBlueprintUserMessages: [container_cell_C_567] Incoming Widget is from / container 0 origin cell X=2.000 Y=2.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=1.000 Y=2.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.34:761][971]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.34:761][971]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.34:761][971]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=2.000
+[2022.11.04-18.19.34:761][971]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.34:761][971]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.34:763][971]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.34:763][971]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.34:763][971]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.35:623][ 30]LogBlueprintUserMessages: [container_cell_C_587] Incoming Widget is from / container 0 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 0 slot X=2.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.35:623][ 30]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.35:623][ 30]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.35:623][ 30]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.35:623][ 30]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=0.000
+[2022.11.04-18.19.35:623][ 30]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.35:623][ 30]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.35:623][ 30]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.35:625][ 30]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.35:625][ 30]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.35:625][ 30]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.35:625][ 30]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=2.000 Y=2.000, removing index 9
+[2022.11.04-18.19.35:625][ 30]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.36:848][114]LogBlueprintUserMessages: [container_cell_C_611] Incoming Widget is from / container 0 origin cell X=3.000 Y=0.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=1.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.36:848][114]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.36:848][114]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.36:848][114]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=3.000 Y=0.000
+[2022.11.04-18.19.36:848][114]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.04-18.19.36:848][114]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.36:850][114]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.36:850][114]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.36:850][114]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.37:731][175]LogBlueprintUserMessages: [container_cell_C_633] Incoming Widget is from / container 0 origin cell X=3.000 Y=1.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=1.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.37:731][175]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.37:731][175]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.37:731][175]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=3.000 Y=1.000
+[2022.11.04-18.19.37:731][175]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.19.37:731][175]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.37:733][175]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.37:733][175]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.37:733][175]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.38:537][231]LogBlueprintUserMessages: [container_cell_C_655] Incoming Widget is from / container 0 origin cell X=2.000 Y=1.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 0 slot X=3.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.38:538][231]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.04-18.19.38:538][231]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.19.38:538][231]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.38:538][231]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=1.000
+[2022.11.04-18.19.38:538][231]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.38:538][231]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.38:538][231]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.38:540][231]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.04-18.19.38:540][231]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.19.38:540][231]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.38:540][231]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=3.000 Y=1.000, removing index 9
+[2022.11.04-18.19.38:540][231]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.46:049][781]LogBlueprintUserMessages: [small_empty_socket_C_11] Itemtype is container saddle. This should process new slot generation for backpacks. Dropped on character sockets right_waist
+[2022.11.04-18.19.46:049][781]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.46:050][781]LogBlueprintUserMessages: [GI_instance_C_141] Found Item 167 to remove at slot 1 in container hands
+[2022.11.04-18.19.46:050][781]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.04-18.19.46:050][781]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.46:052][781]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.48:360][946]LogBlueprintUserMessages: [container_cell_C_680] Incoming Widget is from / container 0 origin cell X=1.000 Y=2.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 1 slot X=0.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.48:360][946]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.48:361][946]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.48:361][946]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=2.000
+[2022.11.04-18.19.48:361][946]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.48:361][946]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.48:363][946]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.48:363][946]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.48:363][946]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.48:814][976]LogBlueprintUserMessages: [None] The container saddle in socket right_waist has 8 empty slots and 1 full slots. 
+[2022.11.04-18.19.48:814][976]LogBlueprintUserMessages: [container_cell_C_723] Rule#2 - Must be empty
+[2022.11.04-18.19.50:296][ 79]LogBlueprintUserMessages: [container_cell_C_723] Incoming Widget is from / container 0 origin cell X=3.000 Y=0.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 1 slot X=1.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.50:296][ 79]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.50:296][ 79]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.50:296][ 79]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.50:296][ 79]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=3.000 Y=0.000
+[2022.11.04-18.19.50:296][ 79]LogBlueprintUserMessages: [None] X=3.000 Y=0.000
+[2022.11.04-18.19.50:296][ 79]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.19.50:296][ 79]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.19.50:299][ 79]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.50:299][ 79]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.50:299][ 79]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.50:300][ 79]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=1.000 Y=1.000, removing index 4
+[2022.11.04-18.19.50:300][ 79]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.51:450][158]LogBlueprintUserMessages: [container_cell_C_746] Incoming Widget is from / container 1 origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 1 slot X=0.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.51:450][158]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.51:450][158]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.51:450][158]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=0.000 Y=0.000
+[2022.11.04-18.19.51:450][158]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.51:450][158]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.51:452][158]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.51:452][158]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.51:452][158]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.52:229][211]LogBlueprintUserMessages: [container_cell_C_763] Incoming Widget is from / container 1 origin cell X=0.000 Y=1.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 1 slot X=0.000 Y=2.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.52:229][211]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.19.52:229][211]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.52:229][211]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=0.000 Y=1.000
+[2022.11.04-18.19.52:229][211]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.52:229][211]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.52:231][211]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.19.52:231][211]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.52:231][211]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.53:094][270]LogBlueprintUserMessages: [container_cell_C_777] Incoming Widget is from / container 1 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 1 slot X=2.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.53:094][270]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.53:094][270]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.53:094][270]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.53:094][270]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=1.000 Y=0.000
+[2022.11.04-18.19.53:094][270]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.53:094][270]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.53:094][270]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.53:096][270]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.53:096][270]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.53:096][270]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.53:096][270]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=2.000 Y=2.000, removing index 4
+[2022.11.04-18.19.53:096][270]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.54:138][344]LogBlueprintUserMessages: [container_cell_C_796] Incoming Widget is from / container 1 origin cell X=2.000 Y=1.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 1 slot X=0.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.54:138][344]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.54:138][344]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.54:138][344]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.54:138][344]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=2.000 Y=1.000
+[2022.11.04-18.19.54:138][344]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.19.54:138][344]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.19.54:138][344]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.54:140][344]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.54:140][344]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.54:140][344]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.54:140][344]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=0.000 Y=1.000, removing index 4
+[2022.11.04-18.19.54:140][344]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.55:037][405]LogBlueprintUserMessages: [container_cell_C_814] Incoming Widget is from / container 1 origin cell X=0.000 Y=2.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 1 slot X=1.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.55:037][405]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.55:037][405]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.55:037][405]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=0.000 Y=2.000
+[2022.11.04-18.19.55:037][405]LogBlueprintUserMessages: [None] X=0.000 Y=2.000
+[2022.11.04-18.19.55:037][405]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.55:038][405]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.55:038][405]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.55:038][405]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.55:975][469]LogBlueprintUserMessages: [container_cell_C_828] Incoming Widget is from / container 1 origin cell X=1.000 Y=1.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 1 slot X=1.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.55:975][469]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.55:975][469]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.55:975][469]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=1.000 Y=1.000
+[2022.11.04-18.19.55:975][469]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.55:975][469]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.55:977][469]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.19.55:977][469]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.55:977][469]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.57:388][565]LogBlueprintUserMessages: [container_cell_C_848] Incoming Widget is from / container 1 origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 1 slot X=1.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.19.57:388][565]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.57:388][565]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.57:388][565]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.57:388][565]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=0.000 Y=0.000
+[2022.11.04-18.19.57:388][565]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.19.57:388][565]LogBlueprintUserMessages: [None] X=0.000 Y=1.000
+[2022.11.04-18.19.57:388][565]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.57:389][565]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.19.57:389][565]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.19.57:389][565]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.19.57:390][565]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=1.000 Y=2.000, removing index 1
+[2022.11.04-18.19.57:390][565]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.19.58:404][634]LogBlueprintUserMessages: [None] The container saddle in socket right_waist has 6 empty slots and 2 full slots. 
+[2022.11.04-18.19.58:404][634]LogBlueprintUserMessages: [container_cell_C_864] Rule#2 - Must be empty
+[2022.11.04-18.20.03:213][983]LogBlueprintUserMessages: [container_cell_C_864] Incoming Widget is from / container 0 origin cell X=1.000 Y=1.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 1 slot X=0.000 Y=0.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.20.03:213][983]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.20.03:213][983]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.03:213][983]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=1.000
+[2022.11.04-18.20.03:213][983]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.20.03:213][983]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.20.03:215][983]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.20.03:215][983]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.03:215][983]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.20.05:936][178]LogBlueprintUserMessages: [container_cell_C_872] Incoming Widget is from / container 1 origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=2.000 Y=2.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.20.05:936][178]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.20.05:936][178]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.05:936][178]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=0.000 Y=0.000
+[2022.11.04-18.20.05:936][178]LogBlueprintUserMessages: [None] X=0.000 Y=0.000
+[2022.11.04-18.20.05:936][178]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.20.05:937][178]LogBlueprintUserMessages: [None] X=2.000 Y=2.000
+[2022.11.04-18.20.05:937][178]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.05:938][178]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.20.08:294][346]LogBlueprintUserMessages: [container_cell_C_904] Incoming Widget is from / container 1 origin cell X=1.000 Y=1.000 and is container slot type genericslot and itemslot is shortsleeve or is emptyfalse targetting containter 0 slot X=3.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.20.08:294][346]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.20.08:294][346]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.04-18.20.08:295][346]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.08:295][346]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=1.000 Y=1.000
+[2022.11.04-18.20.08:295][346]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.20.08:295][346]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.20.08:295][346]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.20.08:297][346]LogBlueprintUserMessages: [None] X=3.000 Y=1.000
+[2022.11.04-18.20.08:297][346]LogBlueprintUserMessages: [None] X=3.000 Y=2.000
+[2022.11.04-18.20.08:297][346]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.08:297][346]LogBlueprintUserMessages: [GI_instance_C_141] Match on vector X=3.000 Y=2.000, removing index 7
+[2022.11.04-18.20.08:297][346]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.20.09:065][398]LogBlueprintUserMessages: [None] The container saddle in socket right_waist has 8 empty slots and 1 full slots. 
+[2022.11.04-18.20.09:065][398]LogBlueprintUserMessages: [container_cell_C_908] Rule#2 - Must be empty
+[2022.11.04-18.20.10:106][470]LogBlueprintUserMessages: [container_cell_C_920] Incoming Widget is from / container 1 origin cell X=1.000 Y=0.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter 0 slot X=2.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.20.10:106][470]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.20.10:106][470]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.10:107][470]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=1.000 Y=0.000
+[2022.11.04-18.20.10:107][470]LogBlueprintUserMessages: [None] X=1.000 Y=0.000
+[2022.11.04-18.20.10:107][470]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 1
+[2022.11.04-18.20.10:108][470]LogBlueprintUserMessages: [None] X=2.000 Y=1.000
+[2022.11.04-18.20.10:108][470]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.10:108][470]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.20.10:999][530]LogBlueprintUserMessages: [None] The container saddle in socket right_waist has 9 empty slots and 0 full slots. 
+[2022.11.04-18.20.10:999][530]LogBlueprintUserMessages: [container_cell_C_931] all slots are empty, container can be removed
+[2022.11.04-18.20.11:724][582]LogBlueprintUserMessages: [container_cell_C_945] Incoming Widget is from / container 1 origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is genericslot or is emptytrue targetting containter 0 slot X=1.000 Y=1.000 of type genericslot and itemslot is 0 or is empty true
+[2022.11.04-18.20.11:724][582]LogBlueprintUserMessages: [None] X=1.000 Y=1.000
+[2022.11.04-18.20.11:724][582]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.11:724][582]LogBlueprintUserMessages: [None] X=1.000 Y=2.000
+[2022.11.04-18.20.11:724][582]LogBlueprintUserMessages: [None] All slots empty moved item
+[2022.11.04-18.20.11:725][582]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.20.11:726][582]LogBlueprintUserMessages: [character_containers_C_0] refreshing container 0
+[2022.11.04-18.20.22:696][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.04-18.20.22:696][375]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.04-18.20.22:698][375]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.04-18.20.22:706][375]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.04-18.20.22:711][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-18.20.22:719][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.04-18.20.22:734][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.04-18.20.22:868][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=143
+[2022.11.04-18.20.22:869][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=143
+[2022.11.04-18.20.22:912][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.11.04-18.20.22:944][376]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2022.11.04-18.20.24:260][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.11.04-18.20.24:392][516]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/container_cell
+[2022.11.04-18.20.24:392][516]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cellB21B458849A667B8133B0B8616BDAE51.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/container_cell.uasset'
+[2022.11.04-18.20.24:482][516]AssetCheck: New page: Asset Save: container_cell
+[2022.11.04-18.20.24:482][516]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cell.container_cell
+[2022.11.04-18.20.39:803][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.04-18.20.40:847][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
