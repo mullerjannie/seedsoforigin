@@ -1,0 +1,3 @@
+/Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_item_C_58
+/Game/Blueprints/Items/BP_item.BP_item_C
+/Game/Blueprints/Items/BP_item.BP_item_C:ExecuteUbergraph_BP_item:CallFunc_Array_Random_OutItem_1
