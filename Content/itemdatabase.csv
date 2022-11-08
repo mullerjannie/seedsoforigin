@@ -1,4 +1,5 @@
 ﻿Row Name,itemname,itemtype,itemsizeslottype,icon,equipable,consumable,stackable,description,properties
+hands,hands,container,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_spare_parts_11_b.Tex_spare_parts_11_b',yes,no,no,Default 3x4 container for picking up items.,
 pockets,pockets,container,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_container_06_b.Tex_container_06_b',yes,no,no,A 1x2 container equipped on the waist.,
 bandolier,bandolier,container,mediumslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_spare_parts_07_b.Tex_spare_parts_07_b',yes,no,no,A 3x1 container equipped on shoulders.,
 baldric,baldric,container,mediumslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_spare_parts_08_b.Tex_spare_parts_08_b',yes,no,no,A 4x1 container equipped on the hip.,
@@ -9,7 +10,6 @@ messengerbag,messengerbag,container,mediumslot,Texture2D'/Game/CraftResourcesIco
 satchel,satchel,container,mediumslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_container_08_b.Tex_container_08_b',yes,no,no,A 3x2 container equipped on the waiste.,
 saddlebag,saddlebag,container,mediumslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_container_09_b.Tex_container_09_b',yes,no,no,A 3x3 container equipped on the left and right waist.,
 sack,sack,container,mediumslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_container_12_b.Tex_container_12_b',yes,no,no,A 4x2 container equipped on the back.,
-hands,hands,container,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_spare_parts_11_b.Tex_spare_parts_11_b',yes,no,no,Default 3x4 container for picking up items.,
 small compartment,small compartment,compartment,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_strings_07_b.Tex_strings_07_b',yes,no,no,A 1x1 compartment to upgrade small slots.,
 medium compartment,medium compartment,compartment,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_strings_08_b.Tex_strings_08_b',yes,no,no,A 2x2 compartment to upgrade small slots,
 large compartment,large compartment,compartment,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_strings_09_b.Tex_strings_09_b',yes,no,no,A 3x3 compartment to upgrade small slots.,
