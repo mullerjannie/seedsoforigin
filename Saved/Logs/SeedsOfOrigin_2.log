@@ -7991,3 +7991,652 @@ Script call stack:
 [2022.11.09-09.00.21:051][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
 [2022.11.09-09.00.21:075][888]LogPlayLevel: Display: Destroying online subsystem :Context_39
 [2022.11.09-09.00.23:010][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.11.09-09.40.54:918][474]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.855 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-10.40.55:108][222]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.767 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-11.40.54:875][968]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.761 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-12.40.55:121][715]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.794 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-13.40.55:052][462]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.956 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-14.40.54:981][209]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.832 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-15.40.55:078][956]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.781 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-16.40.55:296][704]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.964 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-17.40.55:017][451]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.703 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-18.40.55:231][198]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.046 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-19.40.54:961][944]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.900 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-20.10.08:102][857]BlueprintLog: New page: Compile PC_default
+[2022.11.09-20.10.08:718][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.11.09-20.10.40:716][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.11.09-20.10.40:724][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.111
+[2022.11.09-20.10.40:724][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.11.09-20.10.40:724][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.11.09-20.10.40:724][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.11.09-20.10.40:774][780]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto6
+[2022.11.09-20.10.40:774][780]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto69AEBC863419EABB6324313ACA43EFF54.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto6.uasset'
+[2022.11.09-20.10.40:775][780]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.11.09-20.34.37:778][676]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Inventoryv2/Containers.Containers
+[2022.11.09-20.36.54:465][ 38]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-20.36.54:465][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-20.39.00:031][234]BlueprintLog: New page: Compile containerfunctions
+[2022.11.09-20.39.00:244][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.11.09-20.39.27:699][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.11.09-20.39.27:706][379]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.097
+[2022.11.09-20.39.27:706][379]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Inventoryv2/containerfunctions] ([2] browsable assets)...
+[2022.11.09-20.39.27:706][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Inventoryv2/containerfunctions]
+[2022.11.09-20.39.27:791][379]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Inventoryv2/containerfunctions_Auto7
+[2022.11.09-20.39.27:791][379]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerfunctions_Auto7081EBA9447B8B3C5931E8EB7A6F60F1B.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Inventoryv2/containerfunctions_Auto7.uasset'
+[2022.11.09-20.39.27:792][379]LogFileHelpers: Auto-saving content packages took 0.086
+[2022.11.09-20.40.55:295][855]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.233 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-20.41.54:227][900]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Inventoryv2/containerslot.containerslot
+[2022.11.09-20.55.26:953][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.11.09-20.55.27:107][438]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/containerfunctions
+[2022.11.09-20.55.27:107][438]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/containerfunctionsE0C979D04415A91FE25AF5A33E4BF9F7.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/containerfunctions.uasset'
+[2022.11.09-20.55.27:109][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset" SILENT=true
+[2022.11.09-20.55.27:153][438]LogSavePackage: Moving output files for package: /Game/PC_default
+[2022.11.09-20.55.27:154][438]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_defaultC8FAFDB24C890F590A05838FB5FFC676.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset'
+[2022.11.09-20.55.27:223][438]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/container_cell
+[2022.11.09-20.55.27:223][438]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/container_cell200D081C4820458AA9E01A8404F89456.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/container_cell.uasset'
+[2022.11.09-20.55.27:240][438]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.09-20.55.27:240][438]LogContentValidation: Display: Validating Blueprint /Game/PC_default.PC_default
+[2022.11.09-20.55.27:240][438]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventoryv2/containerfunctions.containerfunctions
+[2022.11.09-20.55.27:240][438]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/container_cell.container_cell
+[2022.11.09-20.55.32:452][ 28]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-20.55.32:465][ 28]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.09-20.55.32:547][ 28]LogPlayLevel: [PlayLevel] Compiling GI_instance before play...
+[2022.11.09-20.55.32:978][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.11.09-20.55.32:985][ 28]LogPlayLevel: PlayLevel: Blueprint regeneration took 520 ms (1 blueprints)
+[2022.11.09-20.55.32:985][ 28]PIE: New page: PIE session: LV_islandMap (10/11/2022, 10:55:32 pm)
+[2022.11.09-20.55.32:986][ 28]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.09-20.55.32:993][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007108s)
+[2022.11.09-20.55.32:993][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.007170s)
+[2022.11.09-20.55.32:993][ 28]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-20.55.32:993][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-20.55.32:993][ 28]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.09-20.55.32:995][ 28]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2022.11.09-20.55.33:077][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.09-20.55.33:079][ 28]LogBlueprintUserMessages: [GI_instance_C_21] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.09-20.55.33:079][ 28]LogBlueprintUserMessages: [GI_instance_C_21] Main: Load Plant companion bonusses
+[2022.11.09-20.55.33:079][ 28]LogBlueprintUserMessages: [GI_instance_C_21] Main: Load Plant environment companion bonusses
+[2022.11.09-20.55.33:079][ 28]LogBlueprintUserMessages: [GI_instance_C_21] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.09-20.55.33:079][ 28]LogBlueprintUserMessages: [GI_instance_C_21] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.09-20.55.33:079][ 28]LogBlueprintUserMessages: [GI_instance_C_21] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.09-20.55.33:079][ 28]LogBlueprintUserMessages: [GI_instance_C_21] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.09-20.55.33:080][ 28]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.11.09-20.55.33:080][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-20.55.33:080][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-20.55.33:080][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-20.55.33:080][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-20.55.33:080][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-20.55.33:080][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-20.55.33:080][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-20.55.33:080][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-20.55.33:080][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-20.55.33:080][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-20.55.33:080][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-20.55.33:082][ 28]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-20.55.33:113][ 28]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.09-20.55.33:114][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-20.55.33:114][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-20.55.33:114][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-20.55.33:115][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2022.11.09-20.55.33:115][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2022.11.09-20.55.33:116][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2022.11.09-20.55.33:116][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2022.11.09-20.55.33:116][ 28]LogInit: FAudioDevice initialized.
+[2022.11.09-20.55.33:116][ 28]LogAudio: Display: Audio Device (ID: 23) registered with world 'LV_islandMap'.
+[2022.11.09-20.55.33:180][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-20.55.33:180][ 28]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.09-20.55.33:181][ 28]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.10-09.55.33
+[2022.11.09-20.55.33:181][ 28]LogWorld: Bringing up level for play took: 0.000707
+[2022.11.09-20.55.33:184][ 28]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2022.11.09-20.55.33:185][ 28]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.09-20.55.33:185][ 28]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.09-20.55.33:185][ 28]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.09-20.55.33:185][ 28]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.09-20.55.33:185][ 28]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.09-20.55.33:261][ 28]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5667.287 Y=19568.469 Z=13430.434] for [BP_Island_C]
+[2022.11.09-20.55.33:262][ 28]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=27915.281 Y=20519.120 Z=-12606.433] for [BP_Island_C]
+[2022.11.09-20.55.33:262][ 28]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6422.620 Y=17461.166 Z=10299.233] for [BP_Island_C]
+[2022.11.09-20.55.33:277][ 28]LogBlueprintUserMessages: [LV_islandMap_C_0] BP_Island_C_5
+[2022.11.09-20.55.33:277][ 28]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.09-20.55.33:277][ 28]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.55.33:278][ 28]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.55.33:280][ 28]LogBlueprintUserMessages: [GI_instance_C_21] Container exist for socket
+[2022.11.09-20.55.33:281][ 28]LogBlueprintUserMessages: [PC_default_C_0] Player Controlr begin play
+[2022.11.09-20.55.33:281][ 28]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.09-20.55.33:282][ 28]PIE: Server logged in
+[2022.11.09-20.55.33:283][ 28]PIE: Play in editor total start time 0.819 seconds.
+[2022.11.09-20.55.33:325][ 28]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.11.09-20.55.34:390][ 96]LogBlueprintUserMessages: [BP_item_C_55] Item is sack iwith slot size mediumslot and item type container
+[2022.11.09-20.55.34:655][121]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=0.000 with vacant X=0.000 Y=0.000 items.
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=0.000 with vacant X=1.000 Y=0.000 items.
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=1.000 with vacant X=0.000 Y=1.000 items.
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=1.000 with vacant X=1.000 Y=1.000 items.
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=0.000, removing vector X=0.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=0.000, removing vector X=1.000 Y=0.000. Total slots removed1.
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=1.000, removing vector X=0.000 Y=1.000. Total slots removed2.
+[2022.11.09-20.55.34:656][121]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=1.000, removing vector X=1.000 Y=1.000. Total slots removed3.
+[2022.11.09-20.55.34:992][151]LogBlueprintUserMessages: [BP_item_C_56] Item is sack iwith slot size mediumslot and item type container
+[2022.11.09-20.55.35:226][173]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.55.35:226][173]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=0.000 
+[2022.11.09-20.55.35:226][173]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.55.35:226][173]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.55.35:226][173]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=0.000 with vacant X=2.000 Y=0.000 items.
+[2022.11.09-20.55.35:227][173]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=0.000 with vacant X=3.000 Y=0.000 items.
+[2022.11.09-20.55.35:227][173]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=1.000 with vacant X=2.000 Y=1.000 items.
+[2022.11.09-20.55.35:227][173]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=1.000 with vacant X=3.000 Y=1.000 items.
+[2022.11.09-20.55.35:227][173]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.55.35:227][173]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=0.000, removing vector X=2.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.55.35:227][173]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=0.000, removing vector X=3.000 Y=0.000. Total slots removed1.
+[2022.11.09-20.55.35:227][173]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=1.000, removing vector X=2.000 Y=1.000. Total slots removed2.
+[2022.11.09-20.55.35:227][173]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=1.000, removing vector X=3.000 Y=1.000. Total slots removed3.
+[2022.11.09-20.55.35:649][209]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.09-20.55.36:192][256]LogBlueprintUserMessages: [BP_item_C_65] Item is large compartment iwith slot size smallslot and item type compartment
+[2022.11.09-20.55.36:416][275]LogBlueprintUserMessages: [BP_item_C_65] Item is large compartment iwith slot size smallslot and item type compartment
+[2022.11.09-20.55.36:461][279]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=0.000 Y=2.000 
+[2022.11.09-20.55.36:461][279]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=2.000 with vacant X=0.000 Y=2.000 items.
+[2022.11.09-20.55.36:461][279]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.11.09-20.55.36:461][279]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=2.000, removing vector X=0.000 Y=2.000. Total slots removed0.
+[2022.11.09-20.55.37:110][336]LogBlueprintUserMessages: [BP_item_C_59] Item is messengerbag iwith slot size mediumslot and item type container
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=2.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=3.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=3.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=2.000 with vacant X=1.000 Y=2.000 items.
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=2.000 with vacant X=2.000 Y=2.000 items.
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] All slots not vacant, 2 of 4
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [GI_instance_C_21] Container doesn't have slots available
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=3.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=3.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=2.000 with vacant X=2.000 Y=2.000 items.
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=2.000 with vacant X=3.000 Y=2.000 items.
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] All slots not vacant, 2 of 4
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [GI_instance_C_21] Container doesn't have slots available
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=4.000 Y=2.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=3.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=4.000 Y=3.000 
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=2.000 with vacant X=3.000 Y=2.000 items.
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [None] All slots not vacant, 1 of 4
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [GI_instance_C_21] Container doesn't have slots available
+[2022.11.09-20.55.37:233][347]LogBlueprintUserMessages: [BP_item_C_59] Could not add item in additemv3
+[2022.11.09-20.55.38:213][433]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-20.55.38:213][433]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.09-20.55.38:213][433]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [small_empty_socket_C_0] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets back
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=3.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=3.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=0.000
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=0.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.55.40:833][673]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.55.43:283][895]LogBlueprintUserMessages: [None] The container sack in socket back has 8 empty slots and 0 full slots. 
+[2022.11.09-20.55.43:283][895]LogBlueprintUserMessages: [container_cell_C_48] all slots are empty, container can be removed
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [container_cell_C_38] Incoming Widget is from / container  origin cell X=0.000 Y=3.000 and is container slot type genericslot and itemslot is smallslot or is emptytrue targetting containter  slot X=2.000 Y=0.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is compartment
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [container_cell_C_38] Operation #1. Both cells are empty and target is hands , it's an unequip operation
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=0.000 
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=0.000 with vacant X=2.000 Y=0.000 items.
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=0.000 with vacant X=3.000 Y=0.000 items.
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=1.000 with vacant X=2.000 Y=1.000 items.
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=1.000 with vacant X=3.000 Y=1.000 items.
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=0.000, removing vector X=2.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=0.000, removing vector X=3.000 Y=0.000. Total slots removed1.
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=1.000, removing vector X=2.000 Y=1.000. Total slots removed2.
+[2022.11.09-20.55.43:675][932]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=1.000, removing vector X=3.000 Y=1.000. Total slots removed3.
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [small_empty_socket_C_9] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets back
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=3.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=3.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=0.000
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=0.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.55.44:945][ 41]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.55.47:077][226]LogBlueprintUserMessages: [container_cell_C_67] Incoming Widget is from / container  origin cell X=0.000 Y=2.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter  slot X=0.000 Y=1.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is compartment
+[2022.11.09-20.55.47:077][226]LogBlueprintUserMessages: [container_cell_C_67] Operation #3. Upgrade Container. Target cell is empty, it is a generic slot (not upgraded) and then item being dropped is a compartment
+[2022.11.09-20.55.47:077][226]LogBlueprintUserMessages: [GI_instance_C_21] The slot largeslot needs 3 and 3 cols. The target only has 4 rows and 2 cols.
+[2022.11.09-20.55.47:077][226]LogBlueprintUserMessages: [GI_instance_C_21] The slot largeslot needs 3 and 3 cols. The target only has 4 rows and 2 cols.
+[2022.11.09-20.55.47:077][226]LogBlueprintUserMessages: [GI_instance_C_21] The slot largeslot needs 3 and 3 cols. The target only has 4 rows and 2 cols.
+[2022.11.09-20.55.47:078][226]LogBlueprintUserMessages: [GI_instance_C_21] The slot largeslot needs 3 and 3 cols. The target only has 4 rows and 2 cols.
+[2022.11.09-20.55.47:078][226]LogBlueprintUserMessages: [GI_instance_C_21] The slot largeslot needs 3 and 3 cols. The target only has 4 rows and 2 cols.
+[2022.11.09-20.55.47:078][226]LogBlueprintUserMessages: [GI_instance_C_21] The slot largeslot needs 3 and 3 cols. The target only has 4 rows and 2 cols.
+[2022.11.09-20.55.47:078][226]LogBlueprintUserMessages: [GI_instance_C_21] The slot largeslot needs 3 and 3 cols. The target only has 4 rows and 2 cols.
+[2022.11.09-20.55.47:078][226]LogBlueprintUserMessages: [GI_instance_C_21] The slot largeslot needs 3 and 3 cols. The target only has 4 rows and 2 cols.
+[2022.11.09-20.55.47:078][226]LogBlueprintUserMessages: [container_cell_C_67] Could not upgrade container for some reason
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [container_cell_C_86] Incoming Widget is from / container  origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is mediumslot or is emptyfalse targetting containter  slot X=0.000 Y=2.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is container
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [container_cell_C_86] Operation #4.2. Move item (To Spatial Inventory).Target cell is empty and a regular inventory item is moved 
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [container_cell_C_86] SPATIAL MOVE
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=2.000 
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=2.000 
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=3.000 
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=3.000 
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=2.000 with vacant X=0.000 Y=2.000 items.
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=2.000 with vacant X=1.000 Y=2.000 items.
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=3.000 with vacant X=0.000 Y=3.000 items.
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=3.000 with vacant X=1.000 Y=3.000 items.
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=2.000, removing vector X=0.000 Y=2.000. Total slots removed0.
+[2022.11.09-20.55.48:321][335]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=2.000, removing vector X=1.000 Y=2.000. Total slots removed1.
+[2022.11.09-20.55.48:322][335]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=3.000, removing vector X=0.000 Y=3.000. Total slots removed2.
+[2022.11.09-20.55.48:322][335]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=3.000, removing vector X=1.000 Y=3.000. Total slots removed3.
+[2022.11.09-20.55.48:322][335]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=0.000 Y=0.000
+[2022.11.09-20.55.48:322][335]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.55.48:322][335]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.55.48:322][335]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.55.48:322][335]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.55.50:564][522]LogBlueprintUserMessages: [BP_item_C_59] Item is messengerbag iwith slot size mediumslot and item type container
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=2.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=3.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=3.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=2.000 with vacant X=1.000 Y=2.000 items.
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=2.000 with vacant X=2.000 Y=2.000 items.
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] All slots not vacant, 2 of 4
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [GI_instance_C_21] Container doesn't have slots available
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=3.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=3.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=2.000 with vacant X=2.000 Y=2.000 items.
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=2.000 with vacant X=3.000 Y=2.000 items.
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] All slots not vacant, 2 of 4
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [GI_instance_C_21] Container doesn't have slots available
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=4.000 Y=2.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=3.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=4.000 Y=3.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=2.000 with vacant X=3.000 Y=2.000 items.
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] All slots not vacant, 1 of 4
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [GI_instance_C_21] Container doesn't have slots available
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=0.000 
+[2022.11.09-20.55.50:823][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=0.000 with vacant X=2.000 Y=0.000 items.
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=0.000 with vacant X=3.000 Y=0.000 items.
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=1.000 with vacant X=2.000 Y=1.000 items.
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=1.000 with vacant X=3.000 Y=1.000 items.
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=0.000, removing vector X=2.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=0.000, removing vector X=3.000 Y=0.000. Total slots removed1.
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=1.000, removing vector X=2.000 Y=1.000. Total slots removed2.
+[2022.11.09-20.55.50:824][546]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=1.000, removing vector X=3.000 Y=1.000. Total slots removed3.
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [small_empty_socket_C_7] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets right_waist
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=0.000
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=0.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.55.53:052][730]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.55.56:335][ 26]LogBlueprintUserMessages: [BP_item_C_64] Item is large compartment iwith slot size smallslot and item type compartment
+[2022.11.09-20.55.56:496][ 41]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=1.000 Y=2.000 
+[2022.11.09-20.55.56:496][ 41]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=2.000 with vacant X=1.000 Y=2.000 items.
+[2022.11.09-20.55.56:496][ 41]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.11.09-20.55.56:496][ 41]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=2.000, removing vector X=1.000 Y=2.000. Total slots removed0.
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [container_cell_C_151] Incoming Widget is from / container  origin cell X=1.000 Y=2.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter  slot X=2.000 Y=0.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is compartment
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [container_cell_C_151] Operation #4.2. Move item (To Spatial Inventory).Target cell is empty and a regular inventory item is moved 
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [container_cell_C_151] SPATIAL MOVE
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=0.000 with vacant X=2.000 Y=0.000 items.
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=0.000, removing vector X=2.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=2.000
+[2022.11.09-20.56.00:253][382]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=1.000 Y=2.000 
+[2022.11.09-20.56.01:672][505]LogBlueprintUserMessages: [BP_item_C_58] Item is belt iwith slot size smallslot and item type container
+[2022.11.09-20.56.02:931][620]LogBlueprintUserMessages: [BP_item_C_60] Item is messengerbag iwith slot size mediumslot and item type container
+[2022.11.09-20.56.03:762][698]LogBlueprintUserMessages: [BP_item_C_57] Item is potion iwith slot size smallslot and item type consumable
+[2022.11.09-20.56.04:542][771]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.56.04:542][771]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=2.000 with vacant X=2.000 Y=2.000 items.
+[2022.11.09-20.56.04:542][771]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.11.09-20.56.04:542][771]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=2.000, removing vector X=2.000 Y=2.000. Total slots removed0.
+[2022.11.09-20.56.06:455][940]LogBlueprintUserMessages: [container_cell_C_196] Incoming Widget is from / container  origin cell X=2.000 Y=2.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter  slot X=3.000 Y=0.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is consumable
+[2022.11.09-20.56.06:456][940]LogBlueprintUserMessages: [container_cell_C_196] Operation #4.2. Move item (To Spatial Inventory).Target cell is empty and a regular inventory item is moved 
+[2022.11.09-20.56.06:456][940]LogBlueprintUserMessages: [container_cell_C_196] SPATIAL MOVE
+[2022.11.09-20.56.06:456][940]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=3.000 Y=0.000 
+[2022.11.09-20.56.06:456][940]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=0.000 with vacant X=3.000 Y=0.000 items.
+[2022.11.09-20.56.06:456][940]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.11.09-20.56.06:456][940]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=0.000, removing vector X=3.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.56.06:456][940]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=2.000
+[2022.11.09-20.56.06:456][940]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.56.07:176][  1]LogBlueprintUserMessages: [BP_item_C_63] Item is short sleeve iwith slot size smallslot and item type compartment
+[2022.11.09-20.56.07:635][ 41]LogBlueprintUserMessages: [BP_item_C_63] Item is short sleeve iwith slot size smallslot and item type compartment
+[2022.11.09-20.56.08:513][120]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.56.08:513][120]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=2.000 with vacant X=3.000 Y=2.000 items.
+[2022.11.09-20.56.08:513][120]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.11.09-20.56.08:513][120]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=2.000, removing vector X=3.000 Y=2.000. Total slots removed0.
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [container_cell_C_255] Incoming Widget is from / container  origin cell X=3.000 Y=2.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter  slot X=2.000 Y=0.000 of type genericslot and itemslot is 2 or is empty true. Item type for widget in is compartment
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [container_cell_C_255] Operation #3. Upgrade Container. Target cell is empty, it is a generic slot (not upgraded) and then item being dropped is a compartment
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=0.000 with vacant X=0.000 Y=0.000 items.
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=1.000 with vacant X=0.000 Y=1.000 items.
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [None] All slots vacant, 2 of 2
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=0.000, removing vector X=0.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=1.000, removing vector X=0.000 Y=1.000. Total slots removed1.
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=3.000 Y=2.000
+[2022.11.09-20.56.10:110][263]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.56.12:817][499]LogBlueprintUserMessages: [BP_item_C_60] Item is messengerbag iwith slot size mediumslot and item type container
+[2022.11.09-20.56.12:946][511]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.56.12:946][511]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.56.12:946][511]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.56.12:946][511]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.56.12:946][511]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=0.000 with vacant X=0.000 Y=0.000 items.
+[2022.11.09-20.56.12:947][511]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=0.000 with vacant X=1.000 Y=0.000 items.
+[2022.11.09-20.56.12:947][511]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=1.000 with vacant X=0.000 Y=1.000 items.
+[2022.11.09-20.56.12:947][511]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=1.000 with vacant X=1.000 Y=1.000 items.
+[2022.11.09-20.56.12:947][511]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.56.12:947][511]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=0.000, removing vector X=0.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.56.12:947][511]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=0.000, removing vector X=1.000 Y=0.000. Total slots removed1.
+[2022.11.09-20.56.12:947][511]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=0.000 Y=1.000, removing vector X=0.000 Y=1.000. Total slots removed2.
+[2022.11.09-20.56.12:947][511]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=1.000, removing vector X=1.000 Y=1.000. Total slots removed3.
+[2022.11.09-20.56.13:485][557]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.09-20.56.14:345][631]LogBlueprintUserMessages: [BP_item_C_62] Item is backpack iwith slot size mediumslot and item type container
+[2022.11.09-20.56.18:373][998]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.11.09-20.56.18:373][998]LogBlueprintUserMessages: [GI_instance_C_21] Container is not compatible with target socket
+[2022.11.09-20.56.18:374][998]LogBlueprintUserMessages: [small_empty_socket_C_6] container creation went wrong
+[2022.11.09-20.56.20:113][157]LogBlueprintUserMessages: [small_empty_socket_C_5] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets left_waist
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=0.000 Y=0.000
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.56.20:114][157]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.57.45:355][245]LogBlueprintUserMessages: [BP_item_C_62] Item is backpack iwith slot size mediumslot and item type container
+[2022.11.09-20.57.46:499][352]LogBlueprintUserMessages: [BP_item_C_58] Item is belt iwith slot size smallslot and item type container
+[2022.11.09-20.57.48:087][504]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.57.48:087][504]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=1.000 with vacant X=2.000 Y=1.000 items.
+[2022.11.09-20.57.48:087][504]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.11.09-20.57.48:087][504]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=1.000, removing vector X=2.000 Y=1.000. Total slots removed0.
+[2022.11.09-20.57.50:163][692]LogBlueprintUserMessages: [small_empty_socket_C_6] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets middle_waist
+[2022.11.09-20.57.50:163][692]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.57.50:163][692]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.57.50:163][692]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.57.50:163][692]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=1.000
+[2022.11.09-20.57.50:163][692]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.57.52:774][927]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.09-20.57.57:216][335]LogBlueprintUserMessages: [PC_default_C_0] cast failed
+[2022.11.09-20.57.59:295][528]LogBlueprintUserMessages: [BP_item_C_62] Item is backpack iwith slot size mediumslot and item type container
+[2022.11.09-20.58.14:378][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.09-20.58.27:362][111]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] set current island
+[2022.11.09-20.58.29:167][280]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.09-20.58.29:730][332]LogBlueprintUserMessages: [BP_item_C_20] Item is chest iwith slot size mediumslot and item type container
+[2022.11.09-20.58.29:741][333]LogBlueprintUserMessages: [BP_item_C_19] Item is bandolier iwith slot size mediumslot and item type container
+[2022.11.09-20.58.30:620][415]LogBlueprintUserMessages: [PC_default_C_0] hit nothing...
+[2022.11.09-20.58.30:772][429]LogBlueprintUserMessages: [BP_item_C_11] Item is barrel iwith slot size mediumslot and item type container
+[2022.11.09-20.58.31:422][488]LogBlueprintUserMessages: [BP_item_C_11] Item is barrel iwith slot size mediumslot and item type container
+[2022.11.09-20.58.32:392][582]LogBlueprintUserMessages: [BP_item_C_14] Item is sack iwith slot size mediumslot and item type container
+[2022.11.09-20.58.34:555][771]LogBlueprintUserMessages: [BP_item_C_12] Item is satchel iwith slot size mediumslot and item type container
+[2022.11.09-20.58.35:526][861]LogBlueprintUserMessages: [BP_item_C_13] Item is saddlebag iwith slot size mediumslot and item type container
+[2022.11.09-20.58.36:036][909]LogBlueprintUserMessages: [BP_item_C_16] Item is sword iwith slot size smallslot and item type weapon
+[2022.11.09-20.58.40:685][326]LogBlueprintUserMessages: [BP_item_C_19] Item is bandolier iwith slot size mediumslot and item type container
+[2022.11.09-20.58.40:718][329]LogBlueprintUserMessages: [BP_item_C_20] Item is chest iwith slot size mediumslot and item type container
+[2022.11.09-20.58.43:568][588]LogBlueprintUserMessages: [BP_item_C_17] Item is potion iwith slot size smallslot and item type consumable
+[2022.11.09-20.58.44:125][639]LogBlueprintUserMessages: [BP_item_C_17] Item is potion iwith slot size smallslot and item type consumable
+[2022.11.09-20.58.44:966][717]LogBlueprintUserMessages: [BP_item_C_15] Item is medium compartment iwith slot size smallslot and item type compartment
+[2022.11.09-20.58.46:013][816]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.58.46:013][816]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=1.000 with vacant X=3.000 Y=1.000 items.
+[2022.11.09-20.58.46:013][816]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.11.09-20.58.46:013][816]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=1.000, removing vector X=3.000 Y=1.000. Total slots removed0.
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [container_cell_C_423] Incoming Widget is from / container  origin cell X=3.000 Y=1.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter  slot X=1.000 Y=0.000 of type genericslot and itemslot is 2 or is empty true. Item type for widget in is compartment
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [container_cell_C_423] Operation #3. Upgrade Container. Target cell is empty, it is a generic slot (not upgraded) and then item being dropped is a compartment
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=0.000 with vacant X=1.000 Y=0.000 items.
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=0.000 with vacant X=2.000 Y=0.000 items.
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=1.000 with vacant X=1.000 Y=1.000 items.
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=1.000 with vacant X=2.000 Y=1.000 items.
+[2022.11.09-20.58.47:774][968]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.58.47:775][968]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=0.000, removing vector X=1.000 Y=0.000. Total slots removed0.
+[2022.11.09-20.58.47:775][968]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=0.000, removing vector X=2.000 Y=0.000. Total slots removed1.
+[2022.11.09-20.58.47:775][968]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=1.000, removing vector X=1.000 Y=1.000. Total slots removed2.
+[2022.11.09-20.58.47:775][968]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=1.000, removing vector X=2.000 Y=1.000. Total slots removed3.
+[2022.11.09-20.58.47:775][968]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=3.000 Y=1.000
+[2022.11.09-20.58.47:775][968]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.58.49:013][ 72]LogBlueprintUserMessages: [None] The container messengerbag in socket right_waist has 2 empty slots and 0 full slots. 
+[2022.11.09-20.58.49:013][ 72]LogBlueprintUserMessages: [container_cell_C_455] all slots are empty, container can be removed
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [container_cell_C_442] Incoming Widget is from / container  origin cell X=1.000 Y=0.000 and is container slot type mediumslot and itemslot is mediumslot or is emptytrue targetting containter  slot X=3.000 Y=2.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is container
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [container_cell_C_442] Operation #1. Both cells are empty and target is hands , it's an unequip operation
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=4.000 Y=2.000 
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=3.000 
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=4.000 Y=3.000 
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=2.000 with vacant X=3.000 Y=2.000 items.
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [None] All slots not vacant, 1 of 4
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [GI_instance_C_21] Container doesn't have slots available
+[2022.11.09-20.58.49:720][131]LogBlueprintUserMessages: [container_cell_C_442] no space to unequip item in target
+[2022.11.09-20.58.50:793][220]LogBlueprintUserMessages: [None] The container messengerbag in socket right_waist has 2 empty slots and 0 full slots. 
+[2022.11.09-20.58.50:793][220]LogBlueprintUserMessages: [container_cell_C_483] all slots are empty, container can be removed
+[2022.11.09-20.58.51:652][295]LogBlueprintUserMessages: [container_cell_C_475] Incoming Widget is from / container  origin cell X=1.000 Y=0.000 and is container slot type mediumslot and itemslot is mediumslot or is emptytrue targetting containter  slot X=2.000 Y=1.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is container
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [container_cell_C_475] Operation #1. Both cells are empty and target is hands , it's an unequip operation
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=1.000 with vacant X=2.000 Y=1.000 items.
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=1.000 with vacant X=3.000 Y=1.000 items.
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=2.000 with vacant X=2.000 Y=2.000 items.
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=2.000 with vacant X=3.000 Y=2.000 items.
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=1.000, removing vector X=2.000 Y=1.000. Total slots removed0.
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=1.000, removing vector X=3.000 Y=1.000. Total slots removed1.
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=2.000, removing vector X=2.000 Y=2.000. Total slots removed2.
+[2022.11.09-20.58.51:653][295]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=2.000, removing vector X=3.000 Y=2.000. Total slots removed3.
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [small_empty_socket_C_10] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets right_waist
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] No index found for container 4 and slot X=0.000 Y=0.000
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.58.53:643][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Should only the on of these where it matches the top left vector for the compartment, This is left behind because it willl be updated in the next step.
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] No index found for container 4 and slot X=1.000 Y=0.000
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Should only the on of these where it matches the top left vector for the compartment, This is left behind because it willl be updated in the next step.
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=1.000
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.58.53:645][465]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.58.54:572][533]LogBlueprintUserMessages: [None] The container messengerbag in socket right_waist has 2 empty slots and 0 full slots. 
+[2022.11.09-20.58.54:572][533]LogBlueprintUserMessages: [container_cell_C_543] all slots are empty, container can be removed
+[2022.11.09-20.58.55:385][594]LogBlueprintUserMessages: [container_cell_C_524] Incoming Widget is from / container  origin cell X=1.000 Y=0.000 and is container slot type mediumslot and itemslot is mediumslot or is emptytrue targetting containter  slot X=2.000 Y=1.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is container
+[2022.11.09-20.58.55:385][594]LogBlueprintUserMessages: [container_cell_C_524] Operation #1. Both cells are empty and target is hands , it's an unequip operation
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=1.000 with vacant X=2.000 Y=1.000 items.
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=1.000 with vacant X=3.000 Y=1.000 items.
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=2.000 with vacant X=2.000 Y=2.000 items.
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] Compare target X=3.000 Y=2.000 with vacant X=3.000 Y=2.000 items.
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=1.000, removing vector X=2.000 Y=1.000. Total slots removed0.
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=1.000, removing vector X=3.000 Y=1.000. Total slots removed1.
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=2.000, removing vector X=2.000 Y=2.000. Total slots removed2.
+[2022.11.09-20.58.55:387][594]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=3.000 Y=2.000, removing vector X=3.000 Y=2.000. Total slots removed3.
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [small_empty_socket_C_11] Itemtype is container pockets. This should process new slot generation for backpacks. Dropped on character sockets right_waist
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] No index found for container 4 and slot X=0.000 Y=0.000
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=0.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type shortsleeve isrows & cols, X=0.000 Y=1.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Should only the on of these where it matches the top left vector for the compartment, This is left behind because it willl be updated in the next step.
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.58.57:676][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] No index found for container 4 and slot X=1.000 Y=0.000
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=0.000 
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Should only the on of these where it matches the top left vector for the compartment, This is left behind because it willl be updated in the next step.
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [GI_instance_C_21] Other type of slot won't be deleted because it remains in place after the compartment upgrade
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=2.000 Y=1.000
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=1.000 
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-20.58.57:677][789]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=3.000 Y=2.000 
+[2022.11.09-20.59.01:542][112]LogBlueprintUserMessages: [container_cell_C_594] Incoming Widget is from / container  origin cell X=3.000 Y=0.000 and is container slot type genericslot and itemslot is smallslot or is emptyfalse targetting containter  slot X=1.000 Y=0.000 of type mediumslot and itemslot is 2 or is empty true. Item type for widget in is consumable
+[2022.11.09-20.59.01:542][112]LogBlueprintUserMessages: [container_cell_C_594] Operation #4.0. Error in movememt assessment
+[2022.11.09-20.59.01:542][112]LogBlueprintUserMessages: [container_cell_C_594] Invalid Drop Operation
+[2022.11.09-20.59.03:465][282]LogBlueprintUserMessages: [container_cell_C_622] Incoming Widget is from / container  origin cell X=0.000 Y=2.000 and is container slot type genericslot and itemslot is mediumslot or is emptyfalse targetting containter  slot X=1.000 Y=0.000 of type mediumslot and itemslot is 2 or is empty true. Item type for widget in is container
+[2022.11.09-20.59.03:465][282]LogBlueprintUserMessages: [container_cell_C_622] Operation #4.1. Move item (To Compartment).Target cell is empty and a regular inventory item is moved 
+[2022.11.09-20.59.03:465][282]LogBlueprintUserMessages: [None] No index found for container 1 and slot X=0.000 Y=2.000
+[2022.11.09-20.59.03:465][282]LogBlueprintUserMessages: [None] No index found for container 4 and slot X=1.000 Y=0.000
+[2022.11.09-21.03.45:581][966]LogBlueprintUserMessages: [None] The container sack in socket back has 5 empty slots and 0 full slots. 
+[2022.11.09-21.03.45:581][966]LogBlueprintUserMessages: [container_cell_C_639] all slots are empty, container can be removed
+[2022.11.09-21.03.46:317][ 19]LogBlueprintUserMessages: [container_cell_C_630] Incoming Widget is from / container  origin cell X=1.000 Y=0.000 and is container slot type mediumslot and itemslot is smallslot or is emptytrue targetting containter  slot X=1.000 Y=1.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is consumable
+[2022.11.09-21.03.46:317][ 19]LogBlueprintUserMessages: [container_cell_C_630] Operation #1. Both cells are empty and target is hands , it's an unequip operation
+[2022.11.09-21.03.46:318][ 19]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_SwitchEnum', from offset 4359
+[2022.11.09-21.03.46:318][ 19]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop
+
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=1.000 
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=2.000 
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=2.000 Y=2.000 
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=1.000 with vacant X=1.000 Y=1.000 items.
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=1.000 with vacant X=2.000 Y=1.000 items.
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=2.000 with vacant X=1.000 Y=2.000 items.
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=2.000 with vacant X=2.000 Y=2.000 items.
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=1.000, removing vector X=1.000 Y=1.000. Total slots removed0.
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=1.000, removing vector X=2.000 Y=1.000. Total slots removed1.
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=1.000 Y=2.000, removing vector X=1.000 Y=2.000. Total slots removed2.
+[2022.11.09-21.03.48:041][ 19]LogBlueprintUserMessages: [GI_instance_C_21] Match on vector X=2.000 Y=2.000, removing vector X=2.000 Y=2.000. Total slots removed3.
+[2022.11.09-21.03.52:726][335]LogBlueprintUserMessages: [container_cell_C_670] Incoming Widget is from / container  origin cell X=1.000 Y=1.000 and is container slot type genericslot and itemslot is mediumslot or is emptyfalse targetting containter  slot X=1.000 Y=0.000 of type mediumslot and itemslot is 2 or is empty true. Item type for widget in is container
+[2022.11.09-21.03.52:726][335]LogBlueprintUserMessages: [container_cell_C_670] Operation #4.1. Move item (To Compartment).Target cell is empty and a regular inventory item is moved 
+[2022.11.09-21.03.52:726][335]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_SwitchEnum', from offset 4359
+[2022.11.09-21.03.52:726][335]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Inventoryv2/container_cell.container_cell_C:OnDrop
+
+[2022.11.09-21.05.06:297][335]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2022.11.09-21.05.06:298][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-21.29.59:339][335]LogBlueprintUserMessages: [None] No index found for container 0 and slot X=1.000 Y=1.000
+[2022.11.09-21.29.59:339][335]LogBlueprintUserMessages: [None] No index found for container 3 and slot X=1.000 Y=0.000
+[2022.11.09-21.29.59:418][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-21.29.59:418][335]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.09-21.29.59:419][335]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-21.29.59:423][335]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-21.29.59:426][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-21.29.59:440][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-21.29.59:452][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-21.29.59:556][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.11.09-21.29.59:559][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.11.09-21.29.59:577][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.11.09-21.29.59:603][336]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.11.09-21.30.01:729][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.11.09-21.30.01:785][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GI_instance" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset" SILENT=true
+[2022.11.09-21.30.02:098][580]LogSavePackage: Moving output files for package: /Game/GI_instance
+[2022.11.09-21.30.02:099][580]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/GI_instance69AE481E44BE54DDE9F2C58F8FA14A4D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/GI_instance.uasset'
+[2022.11.09-21.30.02:120][580]AssetCheck: New page: Asset Save: GI_instance
+[2022.11.09-21.30.02:120][580]LogContentValidation: Display: Validating Blueprint /Game/GI_instance.GI_instance
