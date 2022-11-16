@@ -22,3 +22,6 @@ pants,pants,clothing,mediumslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex
 sword,sword,Weapon,largesleeve,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_recipes_11_b.Tex_recipes_11_b',yes,no,no,A sword equipped as weapon.,
 chest,chest,container,mediumslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_container_05_b.Tex_container_05_b',no,no,no,A chest to store items in the world.,
 barrel,barrel,container,mediumslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_container_04_b.Tex_container_04_b',no,no,no,A barrel to store liquids in the world.,
+potion A,potion A,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_reagent_10_b.Tex_reagent_10_b',no,yes,yes,A potion to restore vitality.,
+potion B,potion B,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_reagent_10_b.Tex_reagent_10_b',no,yes,yes,A potion to restore vitality.,
+potion C,potion C,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_reagent_10_b.Tex_reagent_10_b',no,yes,yes,A potion to restore vitality.,
