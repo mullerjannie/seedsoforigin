@@ -1414,3 +1414,16 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.19-22.40.32:326][226]BlueprintLog: New page: Compile character_containers
 [2022.11.19-22.40.32:442][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
 [2022.11.19-22.40.35:823][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.19-22.44.35:267][ 79]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Inventoryv2/small_empty_socket.small_empty_socket
+[2022.11.19-22.44.35:267][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.19-22.44.35:273][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.19-22.44.35:659][ 79]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.19-22.44.35:659][ 79]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.19-22.45.13:442][460]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/Items/ItemDatabase.ItemDatabase
+[2022.11.19-22.46.12:440][ 26]BlueprintLog: New page: Compile small_empty_socket
+[2022.11.19-22.46.12:606][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.11.19-22.46.15:423][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.11.19-22.46.15:503][336]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/small_empty_socket
+[2022.11.19-22.46.15:504][336]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/small_empty_socketC0F9D4804CF38CB2A7795E89BB065911.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/small_empty_socket.uasset'
+[2022.11.19-22.46.15:521][336]AssetCheck: New page: Asset Save: small_empty_socket
+[2022.11.19-22.46.15:521][336]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Inventoryv2/small_empty_socket.small_empty_socket
