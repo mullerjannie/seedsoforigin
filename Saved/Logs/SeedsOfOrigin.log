@@ -1476,3 +1476,1186 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.30-03.18.44:561][ 20]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b2e314dc-8a5f-48b5-8353-759defe17f02}, Name=Realtek HD Audio 2nd output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=131.62
 [2022.11.30-03.18.44:561][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2022.11.30-03.18.44:565][ 21]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.30-04.04.48:875][382]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.006 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.30-05.04.48:946][122]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.927 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.30-06.04.48:970][858]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.991 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.30-06.05.52:313][390]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.30-06.05.52:314][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator0' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator1' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator2' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator3' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator4' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator5' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator6' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator7' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator8' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator9' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator10' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator11' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::EnumZodiac_MAX' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator0' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator1' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator2' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator3' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator4' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator5' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator6' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator7' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator8' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator9' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator10' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:941][390]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator11' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator0' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator1' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator2' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator3' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator4' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator5' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator6' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator7' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator8' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator9' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator10' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator11' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::EnumMonth_MAX' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator0' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator1' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator2' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator3' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator4' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator5' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator6' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator7' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator8' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:945][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator9' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:946][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator10' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.52:946][390]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator11' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-06.05.54:168][390]LogSlate: Took 0.003720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.30-06.06.39:958][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.11.30-06.06.40:080][115]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LV_islandMap.LV_islandMap
+[2022.11.30-06.06.40:080][115]Cmd: MAP LOAD FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Levels/LV_islandMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.30-06.06.40:080][115]LightingResults: New page: Lighting Build
+[2022.11.30-06.06.40:080][115]LoadErrors: New page: Loading map: LV_islandMap.umap
+[2022.11.30-06.06.40:122][115]LogWorld: UWorld::CleanupWorld for LV_combatMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-06.06.40:122][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.06.40:122][115]MapCheck: New page: Map Check
+[2022.11.30-06.06.40:122][115]LightingResults: New page: Lighting Build
+[2022.11.30-06.06.40:151][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-06.06.40:153][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.11.30-06.06.40:155][115]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-06.06.40:155][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.06.40:194][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.11.30-06.06.40:221][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.30-06.06.40:293][115]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_islandMap'.
+[2022.11.30-06.06.40:293][115]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-06.06.40:293][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.06.40:294][115]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.30-06.06.40:298][115]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.30-06.06.40:333][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.30-06.06.40:353][115]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.30-06.06.40:353][115]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2022.11.30-06.06.40:353][115]LogFileHelpers: Loading map 'LV_islandMap' took 0.273
+[2022.11.30-06.06.42:264][333]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.30-06.06.42:277][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-06.06.42:278][333]PIE: New page: PIE session: LV_islandMap (1/12/2022, 8:06:42 am)
+[2022.11.30-06.06.42:278][333]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.30-06.06.42:284][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006712s)
+[2022.11.30-06.06.42:284][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006782s)
+[2022.11.30-06.06.42:284][333]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-06.06.42:284][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.06.42:284][333]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.30-06.06.42:285][333]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2022.11.30-06.06.42:314][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.30-06.06.42:315][333]LogBlueprintUserMessages: [GI_instance_C_2] Main: Loading Plant Catalogue from Data Table
+[2022.11.30-06.06.42:316][333]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.30-06.06.42:316][333]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant companion bonusses
+[2022.11.30-06.06.42:316][333]LogBlueprintUserMessages: [GI_instance_C_2] Main: Load Plant environment companion bonusses
+[2022.11.30-06.06.42:317][333]LogBlueprintUserMessages: [GI_instance_C_2] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.30-06.06.42:317][333]LogBlueprintUserMessages: [GI_instance_C_2] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.30-06.06.42:317][333]LogBlueprintUserMessages: [GI_instance_C_2] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.30-06.06.42:317][333]LogBlueprintUserMessages: [GI_instance_C_2] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.30-06.06.42:317][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:317][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:317][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:318][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:319][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:320][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:321][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:322][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:323][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:324][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:325][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:326][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:327][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:328][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:328][333]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.30-06.06.42:328][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-06.06.42:328][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-06.06.42:328][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-06.06.42:328][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-06.06.42:328][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-06.06.42:328][333]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-06.06.42:328][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-06.06.42:328][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-06.06.42:328][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-06.06.42:328][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-06.06.42:328][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-06.06.42:332][333]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-06.06.42:363][333]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.11.30-06.06.42:363][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-06.06.42:363][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-06.06.42:363][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-06.06.42:363][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.30-06.06.42:363][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.30-06.06.42:365][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.30-06.06.42:365][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.30-06.06.42:365][333]LogInit: FAudioDevice initialized.
+[2022.11.30-06.06.42:365][333]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_islandMap'.
+[2022.11.30-06.06.42:380][333]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.30-06.06.42:381][333]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.30-19.06.42
+[2022.11.30-06.06.42:381][333]LogWorld: Bringing up level for play took: 0.000407
+[2022.11.30-06.06.42:383][333]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.11.30-06.06.42:383][333]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.30-06.06.42:384][333]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-06.06.42:384][333]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-06.06.42:384][333]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-06.06.42:410][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9552.293 Y=1516.770 Z=5133.978] for [BP_Island_C]
+[2022.11.30-06.06.42:555][333]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_15
+[2022.11.30-06.06.42:555][333]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.30-06.06.42:555][333]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.30-06.06.42:555][333]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.30-06.06.42:555][333]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.30-06.06.42:555][333]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.30-06.06.42:555][333]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.30-06.06.42:555][333]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.42:557][333]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.42:558][333]LogBlueprintUserMessages: [GI_instance_C_2] Container exist for socket
+[2022.11.30-06.06.42:558][333]LogBlueprintUserMessages: [character_containers_C_0] Container 39805446486666EDB1793FBAF8037889 has 12 slots.
+[2022.11.30-06.06.42:559][333]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.11.30-06.06.42:560][333]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-06.06.42:560][333]PIE: Server logged in
+[2022.11.30-06.06.42:560][333]PIE: Play in editor total start time 0.283 seconds.
+[2022.11.30-06.06.43:867][468]LogBlueprintUserMessages: [BP_item_C_156] Item is satchel iwith slot size mediumslot and item type container
+[2022.11.30-06.06.44:884][587]LogScript: Warning: Accessed None trying to read property Widget
+	BP_Container_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Container_C_36
+	Function /Game/Blueprints/Inventoryv2/BP_Container.BP_Container_C:ExecuteUbergraph_BP_Container:09EC
+[2022.11.30-06.06.44:884][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Container Blueprint:  BP_Container
+[2022.11.30-06.06.44:884][587]LogBlueprintUserMessages: [character_containers_C_0] Container BF467F644F3A807B3BBD529F9081D58C has 12 slots.
+[2022.11.30-06.06.44:885][587]LogBlueprintUserMessages: [character_containers_C_0] World container brnanch returning the canvas with slots
+[2022.11.30-06.06.46:160][739]LogBlueprintUserMessages: [BP_item_C_156] Item is satchel iwith slot size mediumslot and item type container
+[2022.11.30-06.06.47:320][878]LogBlueprintUserMessages: [BP_item_C_160] Item is air essence iwith slot size smallslot and item type consumable
+[2022.11.30-06.06.53:371][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.06.53:371][570]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.30-06.06.53:372][570]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-06.06.53:375][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.06.53:384][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-06.06.53:388][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.06.53:417][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.06.53:417][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.30-06.06.53:418][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.30-06.06.53:466][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.30-06.06.53:590][571]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.11.30-06.06.59:047][167]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.30-06.06.59:058][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-06.06.59:058][167]PIE: New page: PIE session: LV_islandMap (1/12/2022, 8:06:59 am)
+[2022.11.30-06.06.59:060][167]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.30-06.06.59:066][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006767s)
+[2022.11.30-06.06.59:066][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.006833s)
+[2022.11.30-06.06.59:066][167]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-06.06.59:067][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.06.59:067][167]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.30-06.06.59:067][167]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2022.11.30-06.06.59:095][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.30-06.06.59:096][167]LogBlueprintUserMessages: [GI_instance_C_3] Main: Loading Plant Catalogue from Data Table
+[2022.11.30-06.06.59:096][167]LogBlueprintUserMessages: [GI_instance_C_3] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.30-06.06.59:096][167]LogBlueprintUserMessages: [GI_instance_C_3] Main: Load Plant companion bonusses
+[2022.11.30-06.06.59:096][167]LogBlueprintUserMessages: [GI_instance_C_3] Main: Load Plant environment companion bonusses
+[2022.11.30-06.06.59:096][167]LogBlueprintUserMessages: [GI_instance_C_3] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [GI_instance_C_3] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [GI_instance_C_3] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [GI_instance_C_3] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:097][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:098][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:099][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:100][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:101][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:102][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:103][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:104][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:105][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:106][167]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.30-06.06.59:106][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-06.06.59:106][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-06.06.59:106][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-06.06.59:106][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-06.06.59:106][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-06.06.59:106][167]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-06.06.59:106][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-06.06.59:106][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-06.06.59:106][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-06.06.59:106][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-06.06.59:106][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-06.06.59:108][167]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-06.06.59:136][167]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.11.30-06.06.59:136][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-06.06.59:136][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-06.06.59:136][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-06.06.59:137][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.11.30-06.06.59:137][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.11.30-06.06.59:138][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.11.30-06.06.59:138][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.11.30-06.06.59:138][167]LogInit: FAudioDevice initialized.
+[2022.11.30-06.06.59:138][167]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV_islandMap'.
+[2022.11.30-06.06.59:146][167]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.30-06.06.59:147][167]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.30-19.06.59
+[2022.11.30-06.06.59:147][167]LogWorld: Bringing up level for play took: 0.000370
+[2022.11.30-06.06.59:148][167]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.11.30-06.06.59:148][167]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.30-06.06.59:148][167]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-06.06.59:148][167]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-06.06.59:148][167]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-06.06.59:298][167]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=17426.069 Y=20744.957 Z=4094.821] for [BP_Island_C]
+[2022.11.30-06.06.59:314][167]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_8
+[2022.11.30-06.06.59:314][167]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.30-06.06.59:314][167]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.30-06.06.59:314][167]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.30-06.06.59:314][167]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.30-06.06.59:314][167]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.30-06.06.59:314][167]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.30-06.06.59:314][167]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.06.59:316][167]LogBlueprintUserMessages: [GI_instance_C_3] Container exist for socket
+[2022.11.30-06.06.59:317][167]LogBlueprintUserMessages: [character_containers_C_0] Container E06309A54DAC15CD6088ABA743E45273 has 12 slots.
+[2022.11.30-06.06.59:317][167]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.11.30-06.06.59:318][167]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-06.06.59:318][167]PIE: Server logged in
+[2022.11.30-06.06.59:320][167]PIE: Play in editor total start time 0.26 seconds.
+[2022.11.30-06.07.00:243][238]LogBlueprintUserMessages: [BP_item_C_91] Item is Essence of Leo iwith slot size smallslot and item type consumable
+[2022.11.30-06.07.00:867][294]LogScript: Warning: Accessed None trying to read property Widget
+	BP_Container_C /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap:PersistentLevel.BP_Container_C_407
+	Function /Game/Blueprints/Inventoryv2/BP_Container.BP_Container_C:ExecuteUbergraph_BP_Container:09EC
+[2022.11.30-06.07.00:867][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Widget". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Container Blueprint:  BP_Container
+[2022.11.30-06.07.00:867][294]LogBlueprintUserMessages: [character_containers_C_0] Container DCEBC21E430EE8598AC84397548FFDC7 has 12 slots.
+[2022.11.30-06.07.00:869][294]LogBlueprintUserMessages: [character_containers_C_0] World container brnanch returning the canvas with slots
+[2022.11.30-06.07.10:247][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Inventoryv2/BP_Container.BP_Container
+[2022.11.30-06.07.10:247][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.07.17:781][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.07.17:781][966]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.30-06.07.17:782][966]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-06.07.17:785][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.07.17:797][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-06.07.17:802][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.07.17:839][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.07.17:841][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.30-06.07.17:842][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.30-06.07.17:881][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.30-06.07.17:940][967]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.11.30-06.08.20:715][263]BlueprintLog: New page: Compile BP_Container
+[2022.11.30-06.08.20:805][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.30-06.08.24:705][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.30-06.08.24:718][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-06.08.24:718][722]PIE: New page: PIE session: LV_islandMap (1/12/2022, 8:08:24 am)
+[2022.11.30-06.08.24:718][722]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.30-06.08.24:726][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007546s)
+[2022.11.30-06.08.24:726][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.007618s)
+[2022.11.30-06.08.24:726][722]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-06.08.24:726][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.08.24:727][722]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.30-06.08.24:727][722]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2022.11.30-06.08.24:760][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.30-06.08.24:760][722]LogBlueprintUserMessages: [GI_instance_C_4] Main: Loading Plant Catalogue from Data Table
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [GI_instance_C_4] Main: Load Plant Life Cycle Reference Data Table
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [GI_instance_C_4] Main: Load Plant companion bonusses
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [GI_instance_C_4] Main: Load Plant environment companion bonusses
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [GI_instance_C_4] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [GI_instance_C_4] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [GI_instance_C_4] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [GI_instance_C_4] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:761][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:762][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:763][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:764][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:765][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:766][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:767][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:768][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.24:769][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.24:769][722]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.11.30-06.08.24:769][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-06.08.24:769][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-06.08.24:769][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-06.08.24:769][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-06.08.24:769][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-06.08.24:769][722]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-06.08.24:769][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-06.08.24:769][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-06.08.24:770][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-06.08.24:770][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-06.08.24:770][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-06.08.24:771][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-06.08.24:800][722]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.11.30-06.08.24:800][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-06.08.24:800][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-06.08.24:800][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-06.08.24:801][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.11.30-06.08.24:801][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.11.30-06.08.24:803][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.11.30-06.08.24:803][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.11.30-06.08.24:803][722]LogInit: FAudioDevice initialized.
+[2022.11.30-06.08.24:803][722]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_islandMap'.
+[2022.11.30-06.08.24:886][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.08.24:887][722]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.11.30-06.08.24:888][722]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.11.30-19.08.24
+[2022.11.30-06.08.24:889][722]LogWorld: Bringing up level for play took: 0.001147
+[2022.11.30-06.08.24:893][722]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.11.30-06.08.24:894][722]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.30-06.08.24:894][722]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.30-06.08.24:894][722]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-06.08.24:894][722]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-06.08.24:894][722]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-06.08.24:949][722]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=41563.159 Y=12933.744 Z=11291.087] for [BP_Island_C]
+[2022.11.30-06.08.24:988][722]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5858.028 Y=40375.987 Z=3035.828] for [BP_Island_C]
+[2022.11.30-06.08.24:997][722]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2516.251 Y=45347.452 Z=13938.567] for [BP_Island_C]
+[2022.11.30-06.08.25:059][722]LogBlueprintUserMessages: [LV_islandMap_C_3] BP_Island_C_17
+[2022.11.30-06.08.25:060][722]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.11.30-06.08.25:060][722]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.11.30-06.08.25:060][722]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.11.30-06.08.25:060][722]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.11.30-06.08.25:060][722]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.11.30-06.08.25:060][722]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.11.30-06.08.25:060][722]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [GI_instance_C_4] Container exist for socket
+[2022.11.30-06.08.25:061][722]LogBlueprintUserMessages: [character_containers_C_0] Container 107BD3654DE7EBF07CC32EBCB71C0831 has 12 slots.
+[2022.11.30-06.08.25:062][722]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.11.30-06.08.25:063][722]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-06.08.25:066][722]PIE: Server logged in
+[2022.11.30-06.08.25:067][722]PIE: Play in editor total start time 0.35 seconds.
+[2022.11.30-06.08.25:090][722]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.11.30-06.08.33:218][395]LogBlueprintUserMessages: [character_containers_C_0] Container F1DF78364312D195374A3889BDC9E069 has 12 slots.
+[2022.11.30-06.08.33:220][395]LogBlueprintUserMessages: [character_containers_C_0] World container brnanch returning the canvas with slots
+[2022.11.30-06.08.34:200][488]LogBlueprintUserMessages: [BP_item_C_158] Item is potion A iwith slot size smallslot and item type consumable
+[2022.11.30-06.08.36:353][684]LogBlueprintUserMessages: [BP_item_C_164] Item is shirt iwith slot size mediumslot and item type clothing
+[2022.11.30-06.08.36:477][696]LogBlueprintUserMessages: [None] found slots
+[2022.11.30-06.08.36:477][696]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.36:477][696]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.36:477][696]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.36:477][696]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=0.000 with vacant X=0.000 Y=0.000 items.
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=0.000 with vacant X=1.000 Y=0.000 items.
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=1.000 with vacant X=0.000 Y=1.000 items.
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=1.000 with vacant X=1.000 Y=1.000 items.
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [GI_instance_C_4] Match on vector X=0.000 Y=0.000, removing vector X=0.000 Y=0.000. Total slots removed0.
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [GI_instance_C_4] Match on vector X=1.000 Y=0.000, removing vector X=1.000 Y=0.000. Total slots removed1.
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [GI_instance_C_4] Match on vector X=0.000 Y=1.000, removing vector X=0.000 Y=1.000. Total slots removed2.
+[2022.11.30-06.08.36:480][696]LogBlueprintUserMessages: [GI_instance_C_4] Match on vector X=1.000 Y=1.000, removing vector X=1.000 Y=1.000. Total slots removed3.
+[2022.11.30-06.08.36:481][696]LogBlueprintUserMessages: [character_containers_C_0] Container 107BD3654DE7EBF07CC32EBCB71C0831 has 9 slots.
+[2022.11.30-06.08.36:481][696]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.11.30-06.08.37:648][804]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.30-06.08.37:648][804]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.11.30-06.08.37:648][804]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.30-06.08.40:045][ 27]LogBlueprintUserMessages: [container_cell_C_16] Incoming Widget is from / container  origin cell X=0.000 Y=0.000 and is container slot type genericslot and itemslot is mediumslot or is emptyfalse targetting containter  slot X=0.000 Y=1.000 of type genericslot and itemslot is 1 or is empty true. Item type for widget in is clothing
+[2022.11.30-06.08.40:045][ 27]LogBlueprintUserMessages: [container_cell_C_16] Operation #4.2. Move item (To Spatial Inventory).Target cell is empty and a regular inventory item is moved 
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] found slots
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=2.000 
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=2.000 
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=1.000 with vacant X=0.000 Y=1.000 items.
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=1.000 with vacant X=1.000 Y=1.000 items.
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=2.000 with vacant X=0.000 Y=2.000 items.
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=2.000 with vacant X=1.000 Y=2.000 items.
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] All slots vacant, 4 of 4
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [GI_instance_C_4] Match on vector X=0.000 Y=1.000, removing vector X=0.000 Y=1.000. Total slots removed0.
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [GI_instance_C_4] Match on vector X=1.000 Y=1.000, removing vector X=1.000 Y=1.000. Total slots removed1.
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [GI_instance_C_4] Match on vector X=0.000 Y=2.000, removing vector X=0.000 Y=2.000. Total slots removed2.
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [GI_instance_C_4] Match on vector X=1.000 Y=2.000, removing vector X=1.000 Y=2.000. Total slots removed3.
+[2022.11.30-06.08.40:046][ 27]LogBlueprintUserMessages: [None] No index found for container 21 and slot X=0.000 Y=0.000
+[2022.11.30-06.08.40:047][ 27]LogBlueprintUserMessages: [None] found slots
+[2022.11.30-06.08.40:047][ 27]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=0.000 
+[2022.11.30-06.08.40:047][ 27]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=0.000 
+[2022.11.30-06.08.40:047][ 27]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=0.000 Y=1.000 
+[2022.11.30-06.08.40:047][ 27]LogBlueprintUserMessages: [None] Test vector Required for item slot type mediumslot isrows & cols, X=1.000 Y=1.000 
+[2022.11.30-06.08.40:050][ 27]LogBlueprintUserMessages: [character_containers_C_0] Container 107BD3654DE7EBF07CC32EBCB71C0831 has 12 slots.
+[2022.11.30-06.08.40:054][ 27]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.11.30-06.08.40:054][ 27]LogBlueprintUserMessages: [container_cell_C_16] Refresh for container in socket hands - true
+[2022.11.30-06.08.40:054][ 27]LogBlueprintUserMessages: [character_containers_C_0] Container F1DF78364312D195374A3889BDC9E069 has 9 slots.
+[2022.11.30-06.08.40:055][ 27]LogBlueprintUserMessages: [character_containers_C_0] World container brnanch returning the canvas with slots
+[2022.11.30-06.08.40:056][ 27]LogBlueprintUserMessages: [container_cell_C_16] Refresh for container in socket world - true
+[2022.11.30-06.08.41:289][141]LogViewport: Display: Viewport HideCursorDuringCapture Changed, True -> False
+[2022.11.30-06.08.44:861][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.08.44:861][469]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.11.30-06.08.44:862][469]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.30-06.08.44:866][469]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-06.08.44:870][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.08.44:881][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-06.08.44:886][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.08.44:924][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.30-06.08.44:925][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.30-06.08.44:946][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.11.30-06.08.44:968][470]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.11.30-06.08.47:436][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.30-06.08.47:558][762]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006907 seconds
+[2022.11.30-06.08.47:576][762]LogSavePackage: Moving output files for package: /Game/Blueprints/Inventoryv2/BP_Container
+[2022.11.30-06.08.47:576][762]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_ContainerBD0B7D564BB74E7B983B09A3933A4F94.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Inventoryv2/BP_Container.uasset'
+[2022.11.30-06.08.47:593][762]AssetCheck: New page: Asset Save: BP_Container
+[2022.11.30-06.08.47:593][762]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Inventoryv2/BP_Container.BP_Container
