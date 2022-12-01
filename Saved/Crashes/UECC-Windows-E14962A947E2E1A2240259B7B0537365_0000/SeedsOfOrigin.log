@@ -1,0 +1,1545 @@
+﻿Log file open, 12/01/22 11:31:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=24156)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SeedsOfOrigin
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\mulle\OneDrive\My Documents\GitHub\seedsoforigin\SeedsOfOrigin.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.819] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b92d55914af53ebca6d4edbb274fdf8f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.253888
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-E14962A947E2E1A2240259B7B0537365
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.819] (), CPU: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.30-22.31.52:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.30-22.31.52:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.30-22.31.52:540][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.30-22.31.52:542][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.30-22.31.52:555][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.30-22.31.52:555][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.30-22.31.52:677][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.30-22.31.52:677][  0]LogD3D12RHI: Adapter has 8012MB of dedicated video memory, 0MB of dedicated system memory, and 8155MB of shared system memory, 1 output[s]
+[2022.11.30-22.31.52:681][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.30-22.31.52:681][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8155MB of shared system memory, 0 output[s]
+[2022.11.30-22.31.52:681][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.30-22.31.52:681][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.30-22.31.52:681][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.30-22.31.52:681][  0]LogHAL: Display: Platform has ~ 16 GB [17102979072 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.30-22.31.52:681][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.30-22.31.52:681][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.30-22.31.52:681][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.30-22.31.52:682][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.30-22.31.52:682][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.30-22.31.52:682][  0]LogInit: Computer: MSIDESKTOP
+[2022.11.30-22.31.52:682][  0]LogInit: User: mulle
+[2022.11.30-22.31.52:682][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.30-22.31.52:682][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.30-22.31.52:682][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.11.30-22.31.52:682][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.30-22.31.52:682][  0]LogMemory: Process Physical Memory: 291.02 MB used, 301.64 MB peak
+[2022.11.30-22.31.52:682][  0]LogMemory: Process Virtual Memory: 258.66 MB used, 258.66 MB peak
+[2022.11.30-22.31.52:682][  0]LogMemory: Physical Memory: 8716.87 MB used,  7593.80 MB free, 16310.67 MB total
+[2022.11.30-22.31.52:682][  0]LogMemory: Virtual Memory: 17417.54 MB used,  23514.51 MB free, 40932.05 MB total
+[2022.11.30-22.31.52:682][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.30-22.31.52:685][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.30-22.31.52:697][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.30-22.31.52:698][  0]LogInit: Using OS detected language (en-US).
+[2022.11.30-22.31.52:698][  0]LogInit: Using OS detected locale (en-NZ).
+[2022.11.30-22.31.52:702][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.30-22.31.52:887][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.30-22.31.52:896][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.30-22.31.52:896][  0]LogWindowsTextInputMethodSystem:   - English (New Zealand) - (Keyboard).
+[2022.11.30-22.31.52:896][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.30-22.31.52:896][  0]LogWindowsTextInputMethodSystem: Activated input method: English (New Zealand) - (Keyboard).
+[2022.11.30-22.31.52:930][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.30-22.31.52:930][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.30-22.31.54:604][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.30-22.31.54:606][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.30-22.31.54:606][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.30-22.31.54:669][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.30-22.31.54:704][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.30-22.31.54:710][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.30-22.31.54:727][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.30-22.31.54:740][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.30-22.31.54:740][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.30-22.31.54:779][  0]LogD3D12RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.30-22.31.54:779][  0]LogWindows: Attached monitors:
+[2022.11.30-22.31.54:779][  0]LogWindows:     resolution: 3440x1440, work area: (0, 0) -> (3440, 1392), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.30-22.31.54:779][  0]LogWindows: Found 1 attached monitors.
+[2022.11.30-22.31.54:779][  0]LogWindows: EnumDisplayDevices:
+[2022.11.30-22.31.54:779][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.30-22.31.54:779][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.30-22.31.54:779][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.30-22.31.54:779][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.30-22.31.54:779][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.30-22.31.54:779][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2022.11.30-22.31.54:779][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.11.30-22.31.54:779][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.11.30-22.31.54:779][  0]LogRHI: Texture pool is 4563 MB (70% of 6519 MB)
+[2022.11.30-22.31.54:779][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.30-22.31.54:779][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.30-22.31.54:792][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.30-22.31.54:796][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/SeedsOfOrigin.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/SeedsOfOrigin.uproject"  -platform=all'
+[2022.11.30-22.31.54:796][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/SeedsOfOrigin.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/SeedsOfOrigin.uproject"  -platform=all" ]
+[2022.11.30-22.31.54:818][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.30-22.31.54:825][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.30-22.31.54:825][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.30-22.31.54:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.30-22.31.54:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.30-22.31.54:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.30-22.31.54:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.30-22.31.54:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.30-22.31.54:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.30-22.31.54:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.30-22.31.54:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.30-22.31.54:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.30-22.31.54:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.30-22.31.54:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.30-22.31.54:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.30-22.31.54:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.30-22.31.54:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.30-22.31.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.30-22.31.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.30-22.31.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.30-22.31.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.30-22.31.54:868][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.30-22.31.54:874][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.30-22.31.54:876][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.30-22.31.54:876][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.30-22.31.54:876][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.30-22.31.54:876][  0]LogTargetPlatformManager:   PCM
+[2022.11.30-22.31.54:878][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.30-22.31.54:878][  0]LogTargetPlatformManager:   BINKA
+[2022.11.30-22.31.54:878][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.30-22.31.54:878][  0]LogTargetPlatformManager:   OGG
+[2022.11.30-22.31.54:878][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.30-22.31.54:878][  0]LogTargetPlatformManager:   OPUS
+[2022.11.30-22.31.54:920][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.30-22.31.54:921][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.30-22.31.54:925][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.30-22.31.54:928][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.30-22.31.54:928][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.30-22.31.54:928][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.30-22.31.54:928][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.30-22.31.54:928][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.30-22.31.54:928][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.30-22.31.54:928][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.30-22.31.54:928][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.30-22.31.54:928][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.30-22.31.54:931][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.30-22.31.54:931][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.30-22.31.54:934][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.30-22.31.54:936][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.30-22.31.54:936][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.30-22.31.54:936][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.30-22.31.54:936][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.30-22.31.54:956][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.30-22.31.54:956][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.30-22.31.54:956][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.30-22.31.54:963][  0]LogDerivedDataCache: Speed tests for C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.30-22.31.54:963][  0]LogDerivedDataCache: Display: Performance to C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=339.51MBs, RandomWriteSpeed=238.66MBs. Assigned SpeedClass 'Local'
+[2022.11.30-22.31.54:964][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.30-22.31.54:964][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.30-22.31.54:964][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.30-22.31.54:970][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.30-22.31.54:970][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.30-22.31.54:970][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/Shaders/WorkingDirectory/26468/).
+[2022.11.30-22.31.54:971][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mulle/AppData/Local/Temp/UnrealShaderWorkingDir/3B726319481719AC3BB51896E890897B/'.
+[2022.11.30-22.31.54:971][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.30-22.31.54:971][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.30-22.31.58:377][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.30-22.31.58:377][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.30-22.31.58:416][  0]LogAssetRegistry: FAssetRegistry took 0.0125 seconds to start up
+[2022.11.30-22.31.58:421][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.30-22.31.58:594][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.30-22.31.58:595][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.30-22.31.58:832][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.30-22.31.58:832][  0]LogDeviceProfileManager: Active device profile: [00000A559DDC6900][00000A5593A50000 50] WindowsEditor
+[2022.11.30-22.31.58:832][  0]LogDeviceProfileManager: Profiles: [00000A559DDC63C0][00000A5593A55000 50] Windows, [00000A559DDC6900][00000A5593A50000 50] WindowsEditor, [00000A559DDC4600][00000A55939D7800 50] WindowsServer, [00000A559DDC4440][00000A559396C800 50] WindowsClient, [00000A559DDC5E80][00000A5593A52800 50] IOS, [00000A559DDC1500][00000A5581A8A000 50] iPadAir2, [00000A559DDC71C0][00000A559D052800 50] IPadPro, [00000A559DDC7540][00000A559D050000 50] iPadAir3, [00000A559DDC3F00][00000A559D057800 50] iPadAir4, [00000A559DDC2D80][00000A559D05A000 50] iPadMini4, [00000A559DDC3800][00000A559D05C800 50] iPadMini5, [00000A559DDC7700][00000A5595AFC800 50] iPadMini6, [00000A559DDC9F40][00000A559D065000 50] iPhone6S, [00000A559DDCA2C0][00000A559D062800 50] iPhone7, [00000A559DDCA640][00000A559D060000 50] iPodTouch7, [00000A559DDC5940][00000A559D06A000 50] iPhone6SPlus, [00000A559DDC5B00][00000A559D06C800 50] iPhone7Plus, [00000A559DDC3640][00000A559D055000 50] iPhoneSE, [00000A559DDC4280][00000A559D070000 50] iPhone8, [00000A559DDCA480][00000A559D075000 50] iPhone8Plus, [00000A559DDC39C0][00000A559D077800 50] iPhoneX, [00000A559DDC4980][00000A559D07A000 50] iPhoneXS, [00000A559DDC9BC0][00000A559D07C800 50] iPhoneXSMax, [00000A559DDCAB80][00000A559D067800 50] iPhoneXR, [00000A559DDC9A00][00000A559D080000 50] iPhone11, [00000A559DDC2A00][00000A559D085000 50] iPhone11Pro, [00000A559DDC9D80][00000A559D087800 50] iPhone11ProMax, [00000A559DDC3480][00000A559D08A000 50] iPhoneSE2, [00000A559DDC8340][00000A559D08C800 50] iPhone12Mini, [00000A559DDC78C0][00000A559D072800 50] iPhone12, [00000A559DDC16C0][00000A559D090000 50] iPhone12Pro, [00000A559DDC2840][00000A559D095000 50] iPhone12ProMax, [00000A559DDC5CC0][00000A559D097800 50] iPhone13Mini, [00000A559DDC7C40][00000A559D09A000 50] iPhone13, [00000A559DDC9840][00000A559D09C800 50] iPhone13Pro, [00000A559DDCA800][00000A559D082800 50] iPhone13ProMax, [00000A559DDC8180][00000A559D0A0000 50] iPadPro105, [00000A559DDC3B80][00000A559D0A5000 50] iPadPro129, [00000A559DDC5080][00000A559D0A7800 50] iPadPro97, [00000A559DDC40C0][00000A559D0AA000 50] iPadPro2_129, [00000A559DDC6E40][00000A559D0AC800 50] iPad5, [00000A559DDC6C80][00000A559D092800 50] iPad6, [00000A559DDC7A80][00000A559D0B0000 50] iPad7, [00000A559DDC47C0][00000A559D0B5000 50] iPad8, [00000A559DDC0FC0][00000A559D0B7800 50] iPad9, [00000A559DDC6740][00000A559D0BA000 50] iPadPro11, [00000A559DDC2300][00000A559D0BC800 50] iPadPro2_11, [00000A559DDC4D00][00000A559D0A2800 50] iPadPro3_11, [00000A559DDC5240][00000A559D0C0000 50] iPadPro3_129, [00000A559DDC7380][00000A559D0C5000 50] iPadPro4_129, [00000A559DDC8C00][00000A559D0C7800 50] iPadPro5_129, [00000A559DDC3D40][00000A559D0CA000 50] AppleTV, [00000A559DDC5780][00000A559D0CC800 50] AppleTV4K, [00000A559DDC94C0][00000A559D0B2800 50] TVOS, [00000A559DDCC400][00000A559D0D2800 50] Mac, [00000A559DDCC780][00000A559D0D0000 50] MacEditor, [00000A559DDC1880][00000A559D0D7800 50] MacClient, [00000A559DDC55C0][00000A559D0DA000 50] MacServer, [00000A559DDCCCC0][00000A559D0C2800 50] Linux, [00000A559DDCD040][00000A559D0DC800 50] LinuxEditor, [00000A559DDCBD00][00000A559D0E0000 50] LinuxArm64Editor, [00000A559DDCD200][00000A559D0E5000 50] LinuxArm64, [00000A559DDC7FC0][00000A559D0E7800 50] LinuxClient, [00000A559DDCCB00][00000A559D0EA000 50] LinuxArm64Client, [00000A559DDC6040][00000A559D0EC800 50] LinuxServer, [00000A559DDC9140][00000A559D0D5000 50] LinuxArm64Server, [00000A559DDC4EC0][00000A559D0F0000 50] Android, [00000A559DDCBEC0][00000A559D0F5000 50] Android_Preview_OpenGL, [00000A559DDCB440][00000A559D0F7800 50] Android_Preview_Vulkan, [00000A559DDCC940][00000A559D0FA000 50] Android_Low, [00000A559DDC2140][00000A559D0FC800 50] Android_Mid, [00000A559DDC7E00][00000A559D0E2800 50] Android_High, [00000A559DDC6200][00000A559D100000 50] Android_Default, [00000A559DDCDAC0][00000A559D105000 50] Android_Adreno4xx, [00000A559DDC9680][00000A559D107800 50] Android_Adreno5xx_Low, [00000A559DDC6AC0][00000A559D10A000 50] Android_Adreno5xx, [00000A559DDC8DC0][00000A559D10C800 50] Android_Adreno6xx, [00000A559DDC8880][00000A559D0F2800 50] Android_Adreno6xx_Vulkan, [00000A559DDC3100][00000A559D110000 50] Android_Adreno7xx, [00000A559DDCB7C0][00000A559D115000 50] Android_Adreno7xx_Vulkan, [00000A559DDC1F80][00000A559D117800 50] Android_Mali_T6xx, [00000A559DDC8F80][00000A559D11A000 50] Android_Mali_T7xx, [00000A559DDC24C0][00000A559D11C800 50] Android_Mali_T8xx, [00000A559DDC2680][00000A559D102800 50] Android_Mali_G71, [00000A559DDC8A40][00000A559D120000 50] Android_Mali_G72, [00000A559DDC7000][00000A559D125000 50] Android_Mali_G72_Vulkan, [00000A559DDCB280][00000A559D127800 50] Android_Mali_G76, [00000A559DDCCE80][00000A559D12A000 50] Android_Mali_G76_Vulkan, [00000A559DDCB600][00000A559D12C800 50] Android_Mali_G77, [00000A559DDCD580][00000A559D112800 50] Android_Mali_G77_Vulkan, [00000A559DDCDC80][00000A559D130000 50] Android_Mali_G78, [00000A559DDCBB40][00000A559D135000 50] Android_Mali_G78_Vulkan, [00000A559DDC32C0][00000A559D137800 50] Android_Mali_G710, [00000A559DDCDE40][00000A559D13A000 50] Android_Mali_G710_Vulkan, [00000A559DDCA9C0][00000A559D13C800 50] Android_Xclipse_920, [00000A559DDCE000][00000A559D122800 50] Android_Xclipse_920_Vulkan, [00000A559DDCAF00][00000A559D140000 50] Android_Vulkan_SM5, [00000A559DDC2F40][00000A559D145000 50] Android_PowerVR_G6xxx, [00000A559DDCEC40][00000A559D147800 50] Android_PowerVR_GT7xxx, [00000A559DDCC5C0][00000A559D14A000 50] Android_PowerVR_GE8xxx, [00000A559DDC9300][00000A559D14C800 50] Android_PowerVR_GM9xxx, [00000A559DDCEE00][00000A559D132800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A559DDCC080][00000A559D150000 50] Android_TegraK1, [00000A559DDCEFC0][00000A559D155000 50] Android_Unknown_Vulkan, [00000A559DDC2BC0][00000A559D157800 50] Oculus_Quest, [00000A559DDCAD40][00000A559D15A000 50] Oculus_Quest2, [00000A559DDCB0C0][00000A559D15C800 50] HoloLens, 
+[2022.11.30-22.31.58:833][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.30-22.31.58:900][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.30-22.31.59:062][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.30-22.31.59:062][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.30-22.31.59:062][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.30-22.31.59:062][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.30-22.31.59:062][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.30-22.31.59:090][  0]LogNetVersion: SeedsOfOrigin 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2313048309)
+[2022.11.30-22.31.59:428][  0]LogSlate: Border
+[2022.11.30-22.31.59:428][  0]LogSlate: BreadcrumbButton
+[2022.11.30-22.31.59:428][  0]LogSlate: Default
+[2022.11.30-22.31.59:428][  0]LogSlate: Icons.Save
+[2022.11.30-22.31.59:428][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.30-22.31.59:428][  0]LogSlate: ListView
+[2022.11.30-22.31.59:428][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.30-22.31.59:428][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.30-22.31.59:428][  0]LogSlate: TableView.DarkRow
+[2022.11.30-22.31.59:428][  0]LogSlate: TableView.Row
+[2022.11.30-22.31.59:428][  0]LogSlate: TreeView
+[2022.11.30-22.31.59:721][  0]SourceControl: Source control is disabled
+[2022.11.30-22.31.59:779][  0]SourceControl: Source control is disabled
+[2022.11.30-22.31.59:779][  0]SourceControl: Source control is disabled
+[2022.11.30-22.31.59:937][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.30-22.31.59:937][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.11.30-22.31.59:937][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.30-22.32.00:166][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D4811FF4422CF88CBB981890957A7A9A | Instance: 284C92974E672399B92BD5A84D8CE19C (MSIDESKTOP-26468).
+[2022.11.30-22.32.00:193][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.30-22.32.00:199][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.30-22.32.00:215][  0]LogPython: Using Python 3.9.7
+[2022.11.30-22.32.01:290][  0]SourceControl: Source control is disabled
+[2022.11.30-22.32.01:292][  0]SourceControl: Source control is disabled
+[2022.11.30-22.32.01:299][  0]LogUProjectInfo: Found projects:
+[2022.11.30-22.32.01:308][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.30-22.32.01:309][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.30-22.32.01:309][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.30-22.32.01:315][  0]SourceControl: Source control is disabled
+[2022.11.30-22.32.01:437][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.30-22.32.01:668][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.30-22.32.01:696][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.30-22.32.01:696][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.30-22.32.01:811][  0]LogCollectionManager: Loaded 0 collections in 0.002188 seconds
+[2022.11.30-22.32.01:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Collections/' took 0.00s
+[2022.11.30-22.32.01:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Developers/mulle/Collections/' took 0.00s
+[2022.11.30-22.32.01:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Collections/' took 0.00s
+[2022.11.30-22.32.02:120][  0]LogEngine: Initializing Engine...
+[2022.11.30-22.32.02:132][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.30-22.32.02:133][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.30-22.32.02:583][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.30-22.32.02:584][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-22.32.02:598][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-22.32.02:634][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.30-22.32.02:635][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.30-22.32.02:662][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.30-22.32.02:666][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.30-22.32.02:666][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.30-22.32.02:666][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.30-22.32.02:666][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.30-22.32.02:666][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-22.32.02:666][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-22.32.02:666][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-22.32.02:666][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-22.32.02:666][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.30-22.32.02:666][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-22.32.02:666][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.30-22.32.02:666][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-22.32.02:666][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.30-22.32.02:666][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.30-22.32.02:666][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-22.32.02:671][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-22.32.02:716][  0]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.11.30-22.32.02:716][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-22.32.02:732][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-22.32.02:732][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-22.32.02:732][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.30-22.32.02:732][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.30-22.32.02:734][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.30-22.32.02:734][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.30-22.32.02:734][  0]LogInit: FAudioDevice initialized.
+[2022.11.30-22.32.02:734][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.30-22.32.02:734][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.30-22.32.02:734][  0]LogInit: Texture streaming: Enabled
+[2022.11.30-22.32.02:770][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.30-22.32.02:782][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.30-22.32.02:782][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={7B1A9F9D-4F52-5380-441C-569646A44CD2}
+[2022.11.30-22.32.02:812][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.30-22.32.02:820][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.30-22.32.02:820][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.30-22.32.04:140][  0]LogLiveCoding: Display: First instance in process group "UE_SeedsOfOrigin_0xbfcf25eb", spawning console
+[2022.11.30-22.32.04:140][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.30-22.32.04:140][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.30-22.32.04:183][  0]LogInit: Transaction tracking system initialized
+[2022.11.30-22.32.04:263][  0]BlueprintLog: New page: Editor Load
+[2022.11.30-22.32.04:518][  0]LocalizationService: Localization service is disabled
+[2022.11.30-22.32.04:577][  0]TimingProfiler: Initialize
+[2022.11.30-22.32.04:577][  0]TimingProfiler: OnSessionChanged
+[2022.11.30-22.32.04:577][  0]LoadingProfiler: Initialize
+[2022.11.30-22.32.04:577][  0]LoadingProfiler: OnSessionChanged
+[2022.11.30-22.32.04:577][  0]NetworkingProfiler: Initialize
+[2022.11.30-22.32.04:577][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.30-22.32.04:577][  0]MemoryProfiler: Initialize
+[2022.11.30-22.32.04:577][  0]MemoryProfiler: OnSessionChanged
+[2022.11.30-22.32.04:825][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.30-22.32.04:825][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.30-22.32.04:826][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.30-22.32.05:509][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/' took 0.05s
+[2022.11.30-22.32.05:509][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.30-22.32.05:633][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.30-22.32.05:635][  0]SourceControl: Source control is disabled
+[2022.11.30-22.32.05:736][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.30-22.32.17:627][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.11.30-22.32.17:640][  0]LogUnrealEdMisc: Loading editor; pre map load, took 26.830
+[2022.11.30-22.32.17:640][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Levels/LV_islandMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.30-22.32.17:640][  0]LightingResults: New page: Lighting Build
+[2022.11.30-22.32.17:648][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-22.32.17:648][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-22.32.17:648][  0]MapCheck: New page: Map Check
+[2022.11.30-22.32.17:648][  0]LightingResults: New page: Lighting Build
+[2022.11.30-22.32.17:656][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-22.32.17:659][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.30-22.32.17:777][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator8' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.17:777][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator9' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.17:777][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator7' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.17:777][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator10' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.17:777][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator11' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.17:777][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::EnumSeason_MAX' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.18:373][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Inventoryv2/container_empty_socket.container_empty_socket_C:OnDrop:CallFunc_Get_Itemtypgetitemdetails_Output'. Unknown structure.
+[2022.11.30-22.32.18:408][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Inventoryv2/containeruniformgrid.containeruniformgrid_C:container'. Unknown structure.
+[2022.11.30-22.32.18:408][  0]LogClass: Warning: Property container of container has a struct type mismatch (tag STRUCT_REINST_Containers_5 != prop FallbackStruct) in package:  /Game/Blueprints/Inventoryv2/containeruniformgrid. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.11.30-22.32.20:257][  0]LogClass: Warning: Property container of container has a struct type mismatch (tag FallbackStruct != prop Containers) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.11.30-22.32.20:783][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator8' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.20:783][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator9' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.20:783][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator7' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.20:783][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator10' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.20:783][  0]LogEnum: Warning: Enum name collision: 'EnumSeason::NewEnumerator11' is in both '/Game/Seasons/EnumSeason.EnumSeason' and '/Game/Blueprints/Seasons/EnumSeason.EnumSeason'
+[2022.11.30-22.32.20:827][  0]LogStaticMesh: StaticMesh /Game/Environment/Meshes/SM_Mushroom_A.SM_Mushroom_A should be resaved to improve async compilation performance.
+[2022.11.30-22.32.20:949][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TopDown_StarterKit/Meshes/FX/SM_plane_particles) ...
+[2022.11.30-22.32.20:999][  0]LogStaticMesh: StaticMesh /Game/Environment/Meshes/SM_Castle_Window_A.SM_Castle_Window_A should be resaved to improve async compilation performance.
+[2022.11.30-22.32.21:050][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TopDown_StarterKit/Meshes/FX/SM_arrow_particle) ...
+[2022.11.30-22.32.21:082][  0]LogStaticMesh: StaticMesh /Game/AdvancedVillagePack/Meshes/SM_Flower_Var03.SM_Flower_Var03 should be resaved to improve async compilation performance.
+[2022.11.30-22.32.21:083][  0]LogStaticMesh: StaticMesh /Game/AdvancedVillagePack/Meshes/SM_Flower_Var05.SM_Flower_Var05 should be resaved to improve async compilation performance.
+[2022.11.30-22.32.21:084][  0]LogStaticMesh: StaticMesh /Game/AdvancedVillagePack/Meshes/SM_Plant.SM_Plant should be resaved to improve async compilation performance.
+[2022.11.30-22.32.21:110][  0]LogStaticMesh: StaticMesh /Game/Environment/Meshes/SM_Bushes_Cluster_A.SM_Bushes_Cluster_A should be resaved to improve async compilation performance.
+[2022.11.30-22.32.21:156][  0]LogStaticMesh: StaticMesh /Game/Environment/Meshes/SM_Tree_Type_B.SM_Tree_Type_B should be resaved to improve async compilation performance.
+[2022.11.30-22.32.21:179][  0]LogStaticMesh: StaticMesh /Game/Environment/Meshes/SM_Tree_Type_B_Leaves.SM_Tree_Type_B_Leaves should be resaved to improve async compilation performance.
+[2022.11.30-22.32.21:416][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_islandMap'.
+[2022.11.30-22.32.21:416][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-22.32.21:416][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-22.32.21:417][  0]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.11.30-22.32.21:433][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.30-22.32.21:475][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.30-22.32.21:476][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.30-22.32.21:477][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.29ms to complete.
+[2022.11.30-22.32.21:477][  0]LogFileHelpers: Loading map 'LV_islandMap' took 3.836
+[2022.11.30-22.32.21:500][  0]LogUnrealEdMisc: Total Editor Startup Time, took 30.691
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: ================================================
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.30-22.32.21:500][  0]LogShaderCompilers: Display: ================================================
+[2022.11.30-22.32.21:589][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-22.32.21:594][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-22.32.21:598][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-22.32.21:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-22.32.21:630][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:630][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:636][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:636][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:640][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:640][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:643][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:643][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:653][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:653][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:659][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:659][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:662][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:662][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:666][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:666][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:669][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:670][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:674][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.30-22.32.21:674][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.30-22.32.21:674][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.30-22.32.21:904][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.30-22.32.21:908][  0]LogSlate: Took 0.003780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.30-22.32.21:909][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.30-22.32.21:914][  0]LogSlate: Took 0.004850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.30-22.32.21:943][  0]LogViewport: Scene viewport resized to 2742x815, mode Windowed.
+[2022.11.30-22.32.21:989][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.30-22.32.22:474][  0]LogStall: Startup...
+[2022.11.30-22.32.22:475][  0]LogStall: Startup complete.
+[2022.11.30-22.32.22:488][  0]LogInput: Warning: Action Jump uses invalid key Daydream_Left_Select_Click.
+[2022.11.30-22.32.22:488][  0]LogInput: Warning: Action Jump uses invalid key MagicLeap_Left_Trigger.
+[2022.11.30-22.32.22:488][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.11.30-22.32.22:488][  0]LogInput: Warning: Action ResetVR uses invalid key Daydream_Left_Trackpad_Click.
+[2022.11.30-22.32.22:488][  0]LogInput: Warning: Action ResetVR uses invalid key MagicLeap_Left_Bumper.
+[2022.11.30-22.32.22:488][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.11.30-22.32.22:488][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.11.30-22.32.22:488][  0]LogLoad: (Engine Initialization) Total time: 31.68 seconds
+[2022.11.30-22.32.22:488][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.30-22.32.22:545][  0]LogAssetRegistry: Asset discovery search completed in 24.1299 seconds
+[2022.11.30-22.32.22:571][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.30-22.32.22:598][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.30-22.32.31:827][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.30-22.32.33:723][954]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.30-22.32.33:740][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.30-22.32.33:749][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.30-22.32.33:758][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.30-22.32.42:658][963]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Islands/BP_Island.BP_Island
+[2022.11.30-22.32.42:659][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator0' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator1' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator2' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator3' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator4' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator5' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator6' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator7' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator8' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator9' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator10' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator11' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::EnumZodiac_MAX' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator0' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator1' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator2' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator3' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator4' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator5' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator6' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator7' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator8' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator9' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator10' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:170][963]LogEnum: Warning: Enum name collision: 'EnumZodiac::NewEnumerator11' is in both '/Game/Month/EnumZodiac.EnumZodiac' and '/Game/Blueprints/Month/EnumZodiac.EnumZodiac'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator0' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator1' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator2' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator3' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator4' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator5' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator6' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator7' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator8' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator9' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator10' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator11' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::EnumMonth_MAX' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator0' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator1' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator2' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator3' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator4' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator5' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator6' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator7' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator8' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator9' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator10' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.43:172][963]LogEnum: Warning: Enum name collision: 'EnumMonth::NewEnumerator11' is in both '/Game/Month/EnumMonth.EnumMonth' and '/Game/Blueprints/Month/EnumMonth.EnumMonth'
+[2022.11.30-22.32.44:168][963]LogSlate: Took 0.002853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.30-22.33.56:098][281]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.126 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.30-22.33.56:475][324]LogViewport: Scene viewport resized to 2053x974, mode Windowed.
+[2022.11.30-22.35.16:938][336]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.11.30-22.35.17:068][336]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.11.30-22.35.17:171][336]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.11.30-22.35.17:171][336]LogTurnkeySupport: Display: Adding device menu item for MSIDESKTOP
+[2022.11.30-22.35.17:171][336]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/SeedsOfOrigin.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/TurnkeyReport_1.log" -log="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/TurnkeyLog_1.log" -project="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/SeedsOfOrigin.uproject"  -Device=Win64@MSIDESKTOP'
+[2022.11.30-22.35.17:171][336]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/SeedsOfOrigin.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/TurnkeyReport_1.log" -log="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Intermediate/TurnkeyLog_1.log" -project="C:/Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/SeedsOfOrigin.uproject"  -Device=Win64@MSIDESKTOP" -nocompile ]
+[2022.11.30-22.35.17:252][343]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.30-22.37.24:637][820]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.30-22.37.24:637][820]LogEditorClassViewer: Warning: Class /Game/Blueprints/BPSkysphere.BPSkysphere_C has parent /Game/Levels/BP_skysphere.BP_skysphere_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.30-22.37.26:319][820]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.30-22.37.26:328][820]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.30-22.37.26:331][820]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.30-22.37.26:344][821]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.30-22.37.27:247][914]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.11.30-22.37.27:252][914]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.30-22.37.27:889][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Islands/NewBlueprint.NewBlueprint
+[2022.11.30-22.37.27:889][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-22.37.28:392][990]LogViewport: Scene viewport resized to 2053x974, mode Windowed.
+[2022.11.30-22.37.36:652][844]LogMaterial: Display: Material /Engine/VREditor/TransformGizmo/TransformGizmoMaterial.TransformGizmoMaterial needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.36:654][844]LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 736996153BFB3D62F8AA1860B95D30B81C6F71FF), compiling. 
+[2022.11.30-22.37.36:711][844]LogMaterial: Display: Material /Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.TranslucentTransformGizmoMaterial needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.36:713][844]LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9F9C8B06254291BC3E1CB7B931779DECB6056410), compiling. 
+[2022.11.30-22.37.36:733][844]LogMaterial: Display: Material /Engine/VREditor/TransformGizmo/Main.Main needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.36:735][844]LogMaterial: Display: Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: B5A5A60B8E25B4940EC6042EC8E904FCE1095521), compiling. 
+[2022.11.30-22.37.36:747][844]LogMaterial: Display: Material /Engine/VREditor/TransformGizmo/Xray.Xray needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.36:751][844]LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: F8EB3E88A9BE31B3246B777178ECFF7408C5FCC2), compiling. 
+[2022.11.30-22.37.36:795][844]LogMaterial: Display: Material /Engine/EditorMaterials/Camera/CineMat.CineMat needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.36:799][844]LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: 527015E336D31DBF7444E66FAE0434C42B8BB87B), compiling. 
+[2022.11.30-22.37.36:860][844]LogMaterial: Display: Material /Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial.FloorPlaneMaterial needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.36:867][844]LogMaterial: Display: Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 542377778C96363ED674A72DCF98EDF15C088E20), compiling. 
+[2022.11.30-22.37.36:952][844]LogMaterial: Display: Material /Engine/EditorMaterials/Thumbnails/SkySphereMaterial.SkySphereMaterial needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.36:957][844]LogMaterial: Display: Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 279EB7C3EA755C12B198D8D5CF33C08111B28416), compiling. 
+[2022.11.30-22.37.37:006][844]LogMaterial: Display: Material /Engine/EngineMaterials/DefaultMaterial.DefaultMaterial needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.37:015][844]LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9409BF33C15350ECDE57C79E6C85810779EE88CA), compiling. 
+[2022.11.30-22.37.37:315][844]LogMaterial: Display: Material /Game/Environment/M_Red.M_Red needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.37:320][844]LogMaterial: Display: Missing cached shadermap for M_Red in PCD3D_SM5, Default, SM5 (DDC key hash: BD48EA5BD5EF6FDAFA3AB6F63FC130083C6AD022), compiling. 
+[2022.11.30-22.37.37:359][844]LogMaterial: Display: Material /Engine/EngineSky/M_Sky_Panning_Clouds2.M_Sky_Panning_Clouds2 needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.37:360][844]LogMaterial: Display: Missing cached shadermap for M_Sky_Panning_Clouds2 in PCD3D_SM5, Default, SM5 (DDC key hash: 330CD0D22F6A2D336A535F3B1995E2769EDA6B6C), compiling. 
+[2022.11.30-22.37.37:379][844]LogMaterial: Display: Material /Game/Environment/Materials/Material_Master.Material_Master needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.37:387][844]LogMaterial: Display: Missing cached shadermap for Material_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 1C222D36FE0FAEABD38BF2BC3FA27A5D02551240), compiling. 
+[2022.11.30-22.37.37:690][844]LogMaterial: Display: Material /Game/Environment/Materials/M_Uber.M_Uber needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.37:697][844]LogMaterial: Display: Missing cached shadermap for M_Uber in PCD3D_SM5, Default, SM5 (DDC key hash: 0784768E04BB3C4797420A243D81DE7D9BE13E9B), compiling. 
+[2022.11.30-22.37.37:779][844]LogMaterial: Display: Material /Game/Environment/Materials/M_Mushroom_A.M_Mushroom_A needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.37:790][844]LogMaterial: Display: Missing cached shadermap for M_Mushroom_A in PCD3D_SM5, Default, SM5 (DDC key hash: 2BDA9FA2A874E191B8BDDD84C8738D1CD88D9FC7), compiling. 
+[2022.11.30-22.37.37:928][844]LogMaterial: Display: Material /Game/TopDown_StarterKit/Materials/Dummy_Training/M_Dummy_Training.M_Dummy_Training needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.37:934][844]LogMaterial: Display: Missing cached shadermap for M_Dummy_Training in PCD3D_SM5, Default, SM5 (DDC key hash: 26A0037E18E1C500BD50FB03699DD70666E11167), compiling. 
+[2022.11.30-22.37.38:052][844]LogMaterial: Display: Material /Game/Environment/Materials/M_StoneWall_FlatColor.M_StoneWall_FlatColor needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.38:060][844]LogMaterial: Display: Missing cached shadermap for M_StoneWall_FlatColor in PCD3D_SM5, Default, SM5 (DDC key hash: 8E6F9A4D03CECF08AE1977A32B1811D5B55A3A08), compiling. 
+[2022.11.30-22.37.38:168][844]LogMaterial: Display: Material /Engine/EditorMaterials/PersonaFloorMat.PersonaFloorMat needed to have new flag set bUsedWithNanite !
+[2022.11.30-22.37.38:174][844]LogMaterial: Display: Missing cached shadermap for PersonaFloorMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1C1576C1EA8FDBA845317EA51069B3A57B848852), compiling. 
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: ================================================
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Total job queries 717, among them cache hits 0 (0.00%)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 3 distinct outputs (100.00%)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Shaders Compiled: 717
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Jobs assigned 32, completed 3 (9.38%)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 3.50 s
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Job execution time: average 4.09 s, max 4.09 s
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Job life time (pending + execution): average 4.14 s, max 4.14
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.14 s
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 3.56 jobs/batch
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Average processing rate: 0.72 jobs/sec
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Effective parallelization: 0.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 2.23 sec, max 2.23 sec, min 2.23 sec)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 61.18% of total time (compiled    1 times, average 2.23 sec, max 2.23 sec, min 2.23 sec)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 22.21% of total time (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> - 16.61% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2022.11.30-22.37.40:890][911]LogShaderCompilers: Display: ================================================
+[2022.11.30-22.37.41:436][927]LogSlate: Window 'Nanite Tools' being destroyed
+[2022.11.30-22.37.41:462][927]LogSlate: Window 'Nanite Tools' being destroyed
+[2022.11.30-22.37.59:699][344]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.30-22.37.59:699][344]LogEditorClassViewer: Warning: Class /Game/Blueprints/BPSkysphere.BPSkysphere_C has parent /Game/Levels/BP_skysphere.BP_skysphere_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.30-22.38.12:573][344]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2022.11.30-22.38.23:305][658]BlueprintLog: New page: Compile NewBlueprint
+[2022.11.30-22.38.23:452][658]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.11.30-22.38.44:629][354]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.11.30-22.38.44:665][354]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-22.38.44:665][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-22.38.44:806][354]LogSlate: Window 'SeedsOfOrigin - Unreal Editor' being destroyed
+[2022.11.30-22.38.44:858][354]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.30-22.38.44:859][354]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-22.38.44:859][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2022.11.30-22.38.45:176][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2022.11.30-22.38.45:177][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2022.11.30-22.38.45:179][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2022.11.30-22.38.45:179][354]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2022.11.30-22.38.45:179][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.11.30-22.38.45:179][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.11.30-22.38.45:180][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.11.30-22.38.45:180][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2022.11.30-22.38.45:180][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2022.11.30-22.38.45:180][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2022.11.30-22.38.45:180][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2022.11.30-22.38.45:180][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2022.11.30-22.38.45:180][354]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2022.11.30-22.38.45:218][354]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.30-22.38.45:249][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-22.38.45:265][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-22.38.45:288][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-22.38.45:299][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-22.38.45:343][354]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2022.11.30-22.38.45:406][354]LogViewport: Scene viewport resized to 2170x815, mode Windowed.
+[2022.11.30-22.38.45:601][354]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Blueprints/Islands/BP_Island.BP_Island) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.11.30-22.38.45:601][354]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Islands/BP_Island.BP_Island
+[2022.11.30-22.38.45:602][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-22.39.03:143][859]LogViewport: Scene viewport resized to 800x376, mode Windowed.
+[2022.11.30-22.39.12:110][277]LogViewport: Scene viewport resized to 2170x815, mode Windowed.
+[2022.11.30-22.39.21:326][607]LogSlate: Window 'BP_Island' being destroyed
+[2022.11.30-22.39.27:466][753]LogViewport: Scene viewport resized to 1197x903, mode Windowed.
+[2022.11.30-22.39.37:050][ 14]LogViewport: Scene viewport resized to 2742x815, mode Windowed.
+[2022.11.30-22.39.45:685][270]LogSlate: Window 'Place Actors' being destroyed
+[2022.11.30-22.39.45:716][270]LogViewport: Scene viewport resized to 1368x815, mode Windowed.
+[2022.11.30-22.39.51:475][429]LogViewport: Scene viewport resized to 1481x815, mode Windowed.
+[2022.11.30-22.39.51:616][431]LogViewport: Scene viewport resized to 1899x815, mode Windowed.
+[2022.11.30-22.39.51:763][433]LogViewport: Scene viewport resized to 2058x815, mode Windowed.
+[2022.11.30-22.39.51:876][435]LogViewport: Scene viewport resized to 2126x815, mode Windowed.
+[2022.11.30-22.39.51:988][437]LogViewport: Scene viewport resized to 2245x815, mode Windowed.
+[2022.11.30-22.39.52:349][450]LogViewport: Scene viewport resized to 2249x815, mode Windowed.
+[2022.11.30-22.39.52:506][451]LogViewport: Scene viewport resized to 2202x815, mode Windowed.
+[2022.11.30-22.39.53:450][471]LogViewport: Scene viewport resized to 1195x926, mode Windowed.
+[2022.11.30-22.39.53:601][473]LogViewport: Scene viewport resized to 467x284, mode Windowed.
+[2022.11.30-22.39.53:867][481]LogViewport: Scene viewport resized to 2053x1229, mode Windowed.
+[2022.11.30-22.39.55:017][527]LogViewport: Scene viewport resized to 2051x1252, mode Windowed.
+[2022.11.30-22.39.55:425][528]LogViewport: Scene viewport resized to 2053x1229, mode Windowed.
+[2022.11.30-22.39.56:279][575]LogSlate: Window 'BP_Island' being destroyed
+[2022.11.30-22.40.23:565][699]LogViewport: Scene viewport resized to 2051x1252, mode Windowed.
+[2022.11.30-22.40.23:709][701]LogViewport: Scene viewport resized to 467x184, mode Windowed.
+[2022.11.30-22.40.24:310][718]LogViewport: Scene viewport resized to 469x195, mode Windowed.
+[2022.11.30-22.40.26:551][787]LogViewport: Scene viewport resized to 470x195, mode Windowed.
+[2022.11.30-22.40.26:654][787]LogViewport: Scene viewport resized to 526x277, mode Windowed.
+[2022.11.30-22.40.26:753][787]LogViewport: Scene viewport resized to 786x548, mode Windowed.
+[2022.11.30-22.40.26:870][787]LogViewport: Scene viewport resized to 977x790, mode Windowed.
+[2022.11.30-22.40.26:981][787]LogViewport: Scene viewport resized to 1073x897, mode Windowed.
+[2022.11.30-22.40.27:071][787]LogViewport: Scene viewport resized to 1155x955, mode Windowed.
+[2022.11.30-22.40.27:157][787]LogViewport: Scene viewport resized to 1190x979, mode Windowed.
+[2022.11.30-22.40.27:237][787]LogViewport: Scene viewport resized to 1203x987, mode Windowed.
+[2022.11.30-22.40.27:325][787]LogViewport: Scene viewport resized to 1207x989, mode Windowed.
+[2022.11.30-22.40.27:404][787]LogViewport: Scene viewport resized to 1214x996, mode Windowed.
+[2022.11.30-22.40.27:493][787]LogViewport: Scene viewport resized to 1225x1006, mode Windowed.
+[2022.11.30-22.40.27:592][787]LogViewport: Scene viewport resized to 1228x1008, mode Windowed.
+[2022.11.30-22.40.30:237][846]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.11.30-22.40.30:237][846]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.11.30-22.40.30:237][846]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.NavMeshBoundsVolume_0
+[2022.11.30-22.40.30:239][846]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.NavMeshBoundsVolume_0
+[2022.11.30-22.40.31:112][873]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.11.30-22.40.33:090][916]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.11.30-22.40.33:090][916]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: ================================================
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Total job queries 717, among them cache hits 0 (0.00%)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Tracking 621 distinct input hashes that result in 379 distinct outputs (61.03%)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: RAM used: 1.50 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.18%
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Shaders Compiled: 717
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Jobs assigned 686, completed 621 (90.52%)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Time job spent in pending queue: average 88.48 s, longest 185.05 s
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Job execution time: average 21.39 s, max 45.77 s
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Job life time (pending + execution): average 101.15 s, max 185.14
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 185.29 s
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Jobs were issued in 93 batches (only local compilation was used), average 7.38 jobs/batch
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Average processing rate: 3.35 jobs/sec
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Effective parallelization: 7.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   14 times, average 3.30 sec, max 6.34 sec, min 1.60 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   14 times, average 3.28 sec, max 6.77 sec, min 1.48 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   14 times, average 3.16 sec, max 6.62 sec, min 1.41 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   14 times, average 3.05 sec, max 6.18 sec, min 1.46 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   14 times, average 3.05 sec, max 6.06 sec, min 1.49 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.04% of total time (compiled   34 times, average 2.85 sec, max 5.99 sec, min 1.27 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.66% of total time (compiled   32 times, average 2.86 sec, max 5.61 sec, min 1.14 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.58% of total time (compiled   36 times, average 2.52 sec, max 5.03 sec, min 1.07 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.51% of total time (compiled   40 times, average 2.24 sec, max 5.08 sec, min 1.03 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.13% of total time (compiled   33 times, average 2.56 sec, max 5.49 sec, min 1.15 sec)
+[2022.11.30-22.40.42:022][142]LogShaderCompilers: Display: ================================================
+[2022.11.30-22.41.06:880][856]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.30-22.41.12:660][273]Cmd: DELETE
+[2022.11.30-22.41.12:660][273]Cmd: ACTOR DELETE
+[2022.11.30-22.41.12:667][273]LogEditorActor: Deleted Actor: RecastNavMesh
+[2022.11.30-22.41.12:667][273]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2022.11.30-22.41.12:722][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.30-22.41.12:726][273]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2022.11.30-22.41.12:727][273]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.11.30-22.41.15:083][458]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.11.30-22.41.15:083][458]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.11.30-22.41.22:925][122]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.11.30-22.41.22:925][122]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.11.30-22.41.50:192][459]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.11.30-22.41.50:192][459]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.11.30-22.41.52:890][697]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.11.30-22.41.52:890][697]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.11.30-22.41.54:482][825]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.11.30-22.41.54:482][825]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.11.30-22.42.13:955][511]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.11.30-22.42.13:955][511]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.11.30-22.42.24:380][356]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.11.30-22.42.24:380][356]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.11.30-22.43.28:057][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.30-22.43.28:067][  3]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006177 seconds
+[2022.11.30-22.43.28:111][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LV_islandMap_Auto1
+[2022.11.30-22.43.28:112][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/LV_islandMap_Auto118BA7FDB4EA5200F0ED2418186E556C7.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Levels/LV_islandMap_Auto1.umap'
+[2022.11.30-22.43.28:118][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.110
+[2022.11.30-22.43.28:118][  3]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.110
+[2022.11.30-22.43.28:119][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/VREditor/TransformGizmo/TransformGizmoMaterial] ([1] browsable assets)...
+[2022.11.30-22.43.28:136][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/VREditor/TransformGizmo/TransformGizmoMaterial.TransformGizmoMaterial]
+[2022.11.30-22.43.28:136][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/TransformGizmo/TransformGizmoMaterial]
+[2022.11.30-22.43.28:139][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/VREditor/TransformGizmo/TransformGizmoMaterial_Auto1
+[2022.11.30-22.43.28:139][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/TransformGizmoMaterial_Auto197DEB46D4F8F10CA5210DA9085EF903D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/VREditor/TransformGizmo/TransformGizmoMaterial_Auto1.uasset'
+[2022.11.30-22.43.28:139][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial] ([1] browsable assets)...
+[2022.11.30-22.43.28:155][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.TranslucentTransformGizmoMaterial]
+[2022.11.30-22.43.28:155][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial]
+[2022.11.30-22.43.28:157][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Auto1
+[2022.11.30-22.43.28:158][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/TranslucentTransformGizmoMateria196F7691454AEF3EC5B2B68267B6CB12.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Auto1.uasset'
+[2022.11.30-22.43.28:158][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/VREditor/TransformGizmo/Main] ([1] browsable assets)...
+[2022.11.30-22.43.28:176][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/VREditor/TransformGizmo/Main.Main]
+[2022.11.30-22.43.28:176][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/TransformGizmo/Main]
+[2022.11.30-22.43.28:178][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/VREditor/TransformGizmo/Main_Auto1
+[2022.11.30-22.43.28:178][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Main_Auto12EF76A374558AD0FABFD83ACC0716DAF.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/VREditor/TransformGizmo/Main_Auto1.uasset'
+[2022.11.30-22.43.28:179][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/VREditor/TransformGizmo/Xray] ([1] browsable assets)...
+[2022.11.30-22.43.28:190][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/VREditor/TransformGizmo/Xray.Xray]
+[2022.11.30-22.43.28:190][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/VREditor/TransformGizmo/Xray]
+[2022.11.30-22.43.28:193][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/VREditor/TransformGizmo/Xray_Auto1
+[2022.11.30-22.43.28:193][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Xray_Auto107E2E94F428899F6BC6B17858EB7C458.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/VREditor/TransformGizmo/Xray_Auto1.uasset'
+[2022.11.30-22.43.28:194][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EditorMaterials/Camera/CineMat] ([1] browsable assets)...
+[2022.11.30-22.43.28:207][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EditorMaterials/Camera/CineMat.CineMat]
+[2022.11.30-22.43.28:207][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/Camera/CineMat]
+[2022.11.30-22.43.28:209][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorMaterials/Camera/CineMat_Auto1
+[2022.11.30-22.43.28:209][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/CineMat_Auto12F3CFA704524DCEE4E9927A9A8833780.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/EditorMaterials/Camera/CineMat_Auto1.uasset'
+[2022.11.30-22.43.28:210][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EditorMaterials/Thumbnails/SkySphereMaterial] ([1] browsable assets)...
+[2022.11.30-22.43.28:219][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EditorMaterials/Thumbnails/SkySphereMaterial.SkySphereMaterial]
+[2022.11.30-22.43.28:219][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/Thumbnails/SkySphereMaterial]
+[2022.11.30-22.43.28:221][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorMaterials/Thumbnails/SkySphereMaterial_Auto1
+[2022.11.30-22.43.28:221][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/SkySphereMaterial_Auto1B0F548C24E721F56A19918B53BBD697D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/EditorMaterials/Thumbnails/SkySphereMaterial_Auto1.uasset'
+[2022.11.30-22.43.28:222][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial] ([1] browsable assets)...
+[2022.11.30-22.43.28:229][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial.FloorPlaneMaterial]
+[2022.11.30-22.43.28:229][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial]
+[2022.11.30-22.43.28:232][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial_Auto1
+[2022.11.30-22.43.28:232][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/FloorPlaneMaterial_Auto1C7BCBBA04BBC6F7825E5B7B118776A4C.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial_Auto1.uasset'
+[2022.11.30-22.43.28:233][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EngineMaterials/DefaultMaterial] ([1] browsable assets)...
+[2022.11.30-22.43.28:240][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EngineMaterials/DefaultMaterial.DefaultMaterial]
+[2022.11.30-22.43.28:240][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineMaterials/DefaultMaterial]
+[2022.11.30-22.43.28:244][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EngineMaterials/DefaultMaterial_Auto1
+[2022.11.30-22.43.28:244][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/DefaultMaterial_Auto1491AB0F9437A9984F0D6EDBA37F8C51E.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/EngineMaterials/DefaultMaterial_Auto1.uasset'
+[2022.11.30-22.43.28:246][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EngineSky/M_Sky_Panning_Clouds2] ([1] browsable assets)...
+[2022.11.30-22.43.28:253][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EngineSky/M_Sky_Panning_Clouds2.M_Sky_Panning_Clouds2]
+[2022.11.30-22.43.28:253][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineSky/M_Sky_Panning_Clouds2]
+[2022.11.30-22.43.28:259][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EngineSky/M_Sky_Panning_Clouds2_Auto1
+[2022.11.30-22.43.28:259][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/M_Sky_Panning_Clouds2_Auto1823337B74255429992C73D898CBA9D48.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/EngineSky/M_Sky_Panning_Clouds2_Auto1.uasset'
+[2022.11.30-22.43.28:260][  3]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Islands/BP_Island] ([2] browsable assets)...
+[2022.11.30-22.43.28:268][  3]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Islands/BP_Island.BP_Island]
+[2022.11.30-22.43.28:268][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Islands/BP_Island]
+[2022.11.30-22.43.28:279][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Islands/BP_Island_Auto1
+[2022.11.30-22.43.28:280][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_Island_Auto1D35889A44CFFD8A47BD4198F85874D2F.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Islands/BP_Island_Auto1.uasset'
+[2022.11.30-22.43.28:284][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Materials/Material_Master] ([1] browsable assets)...
+[2022.11.30-22.43.28:291][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/Materials/Material_Master.Material_Master]
+[2022.11.30-22.43.28:291][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Materials/Material_Master]
+[2022.11.30-22.43.28:300][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Materials/Material_Master_Auto1
+[2022.11.30-22.43.28:300][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Material_Master_Auto17264A0224F81C1AFF5C5FA93E2DC6678.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Environment/Materials/Material_Master_Auto1.uasset'
+[2022.11.30-22.43.28:300][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Materials/M_Uber] ([1] browsable assets)...
+[2022.11.30-22.43.28:308][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/Materials/M_Uber.M_Uber]
+[2022.11.30-22.43.28:308][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Materials/M_Uber]
+[2022.11.30-22.43.28:312][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Materials/M_Uber_Auto1
+[2022.11.30-22.43.28:312][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/M_Uber_Auto1B5CD0D4B48D8674C75DED4B86EB2F6D1.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Environment/Materials/M_Uber_Auto1.uasset'
+[2022.11.30-22.43.28:313][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Materials/M_Mushroom_A] ([1] browsable assets)...
+[2022.11.30-22.43.28:323][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/Materials/M_Mushroom_A.M_Mushroom_A]
+[2022.11.30-22.43.28:323][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Materials/M_Mushroom_A]
+[2022.11.30-22.43.28:327][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Materials/M_Mushroom_A_Auto1
+[2022.11.30-22.43.28:327][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/M_Mushroom_A_Auto1CFAC749848403A01CBEEACB416CD084B.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Environment/Materials/M_Mushroom_A_Auto1.uasset'
+[2022.11.30-22.43.28:328][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown_StarterKit/Materials/Dummy_Training/M_Dummy_Training] ([1] browsable assets)...
+[2022.11.30-22.43.28:341][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDown_StarterKit/Materials/Dummy_Training/M_Dummy_Training.M_Dummy_Training]
+[2022.11.30-22.43.28:341][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown_StarterKit/Materials/Dummy_Training/M_Dummy_Training]
+[2022.11.30-22.43.28:343][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown_StarterKit/Materials/Dummy_Training/M_Dummy_Training_Auto1
+[2022.11.30-22.43.28:343][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/M_Dummy_Training_Auto150E2783A480F7505B2FE9C8AA33C743C.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/TopDown_StarterKit/Materials/Dummy_Training/M_Dummy_Training_Auto1.uasset'
+[2022.11.30-22.43.28:344][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Materials/M_StoneWall_FlatColor] ([1] browsable assets)...
+[2022.11.30-22.43.28:350][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/Materials/M_StoneWall_FlatColor.M_StoneWall_FlatColor]
+[2022.11.30-22.43.28:352][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Materials/M_StoneWall_FlatColor]
+[2022.11.30-22.43.28:354][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Materials/M_StoneWall_FlatColor_Auto1
+[2022.11.30-22.43.28:354][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/M_StoneWall_FlatColor_Auto10E4EF0E44ACECFACFA8C7E9F61D5B6CE.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Environment/Materials/M_StoneWall_FlatColor_Auto1.uasset'
+[2022.11.30-22.43.28:354][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/M_Red] ([1] browsable assets)...
+[2022.11.30-22.43.28:364][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Environment/M_Red.M_Red]
+[2022.11.30-22.43.28:364][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/M_Red]
+[2022.11.30-22.43.28:365][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/M_Red_Auto1
+[2022.11.30-22.43.28:365][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/M_Red_Auto1F81C9A90467A83077B6DE98BE5989FA7.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Environment/M_Red_Auto1.uasset'
+[2022.11.30-22.43.28:366][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EditorMaterials/PersonaFloorMat] ([1] browsable assets)...
+[2022.11.30-22.43.28:392][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EditorMaterials/PersonaFloorMat.PersonaFloorMat]
+[2022.11.30-22.43.28:393][  3]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/PersonaFloorMat]
+[2022.11.30-22.43.28:398][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorMaterials/PersonaFloorMat_Auto1
+[2022.11.30-22.43.28:398][  3]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PersonaFloorMat_Auto17A2E768C4DE628F4AF54B39CDDC1B050.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Engine/EditorMaterials/PersonaFloorMat_Auto1.uasset'
+[2022.11.30-22.43.28:399][  3]LogFileHelpers: Auto-saving content packages took 0.281
+[2022.11.30-23.33.56:240][601]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.275 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-00.33.56:216][375]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.246 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-00.43.50:788][441]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.12.01-00.43.50:788][441]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.12.01-00.43.59:381][197]BlueprintLog: New page: Compile BP_Island
+[2022.12.01-00.43.59:481][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.01-00.43.59:576][198]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.12.01-00.43.59:576][198]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.12.01-00.44.01:389][357]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-00.44.01:412][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-00.44.01:412][357]PIE: New page: PIE session: LV_islandMap (2/12/2022, 2:44:01 am)
+[2022.12.01-00.44.01:416][357]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.01-00.44.01:416][357]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.01-00.44.01:416][357]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.12.01-00.44.01:425][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008653s)
+[2022.12.01-00.44.01:425][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.008775s)
+[2022.12.01-00.44.01:425][357]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-00.44.01:425][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.44.01:425][357]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.12.01-00.44.01:425][357]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2022.12.01-00.44.01:458][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.12.01-00.44.01:460][357]LogBlueprintUserMessages: [GI_instance_C_0] Main: Loading Plant Catalogue from Data Table
+[2022.12.01-00.44.01:460][357]LogBlueprintUserMessages: [GI_instance_C_0] Main: Load Plant Life Cycle Reference Data Table
+[2022.12.01-00.44.01:460][357]LogBlueprintUserMessages: [GI_instance_C_0] Main: Load Plant companion bonusses
+[2022.12.01-00.44.01:460][357]LogBlueprintUserMessages: [GI_instance_C_0] Main: Load Plant environment companion bonusses
+[2022.12.01-00.44.01:460][357]LogBlueprintUserMessages: [GI_instance_C_0] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.12.01-00.44.01:460][357]LogBlueprintUserMessages: [GI_instance_C_0] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.12.01-00.44.01:460][357]LogBlueprintUserMessages: [GI_instance_C_0] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [GI_instance_C_0] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:461][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:462][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:463][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:464][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:465][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:466][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:467][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:468][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:469][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:469][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:469][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:469][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:469][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:469][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:469][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:469][357]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.01-00.44.01:469][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-00.44.01:469][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-00.44.01:469][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-00.44.01:469][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-00.44.01:469][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-00.44.01:469][357]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-00.44.01:469][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-00.44.01:469][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-00.44.01:469][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-00.44.01:469][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-00.44.01:469][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-00.44.01:471][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-00.44.01:503][357]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.01-00.44.01:503][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-00.44.01:503][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-00.44.01:503][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-00.44.01:503][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.01-00.44.01:503][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.01-00.44.01:504][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.01-00.44.01:504][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.01-00.44.01:504][357]LogInit: FAudioDevice initialized.
+[2022.12.01-00.44.01:504][357]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV_islandMap'.
+[2022.12.01-00.44.01:523][357]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.12.01-00.44.01:524][357]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.12.01-13.44.01
+[2022.12.01-00.44.01:524][357]LogWorld: Bringing up level for play took: 0.000915
+[2022.12.01-00.44.01:526][357]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.12.01-00.44.01:527][357]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-00.44.01:544][357]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.01-00.44.01:544][357]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.01-00.44.01:544][357]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.01-00.44.01:726][357]LogBlueprintUserMessages: [LV_islandMap_C_2] BP_Island_C_8
+[2022.12.01-00.44.01:726][357]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.12.01-00.44.01:726][357]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.12.01-00.44.01:726][357]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.12.01-00.44.01:726][357]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.12.01-00.44.01:726][357]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.12.01-00.44.01:726][357]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.12.01-00.44.01:726][357]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.01-00.44.01:728][357]LogBlueprintUserMessages: [GI_instance_C_0] Container exist for socket
+[2022.12.01-00.44.01:729][357]LogBlueprintUserMessages: [character_containers_C_0] Container 91A9386D441A7C8BC5A2AEB376642BEE has 12 slots.
+[2022.12.01-00.44.01:730][357]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.12.01-00.44.01:732][357]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.01-00.44.01:732][357]PIE: Server logged in
+[2022.12.01-00.44.01:733][357]PIE: Play in editor total start time 0.327 seconds.
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.01:736][357]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.12.01-00.44.11:206][193]LogBlueprintUserMessages: [PC_default_C_0] Run
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] next week day
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GI_instance_C_0] get day for sequence1legnth of day structure array7
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Month: Fetch new month for current index
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] Calculate Season: Fetch new season for current index
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp0newtemp4
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp0newtemp7
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp0newtemp12
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp0newtemp9
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp0newtemp-33
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp0newtemp12
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp0newtemp-30
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp0newtemp-34
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp0newtemp10
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp0newtemp-37
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp0newtemp-32
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin5.0seasonmax15.0actual temp0newtemp14
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin10.0max20.0seasonmin0.0seasonmax10.0actual temp0newtemp1
+[2022.12.01-00.44.11:208][193]LogBlueprintUserMessages: [GS_singlePlayer_C_0] internal:islandmin-20.0max-10.0seasonmin-40.0seasonmax-30.0actual temp0newtemp-32
+[2022.12.01-00.44.13:900][494]LogBlueprintUserMessages: [PC_default_C_0] Pause
+[2022.12.01-00.44.15:751][704]LogBlueprintUserMessages: [BP_item_C_96] Item is air essence iwith slot size smallslot and item type consumable
+[2022.12.01-00.44.20:494][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-00.44.20:494][216]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.12.01-00.44.20:495][216]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-00.44.20:500][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.44.20:511][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-00.44.20:518][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.44.20:565][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-00.44.20:570][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.01-00.44.20:571][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.01-00.44.20:632][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.01-00.44.20:672][217]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.12.01-00.44.25:809][696]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.12.01-00.44.25:809][696]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.12.01-00.44.28:182][892]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-00.44.28:182][892]LogEditorClassViewer: Warning: Class /Game/Blueprints/BPSkysphere.BPSkysphere_C has parent /Game/Levels/BP_skysphere.BP_skysphere_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-00.45.03:509][966]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.12.01-00.45.03:509][966]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.12.01-00.45.03:509][966]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.StaticMeshActor_0
+[2022.12.01-00.45.03:509][966]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.StaticMeshActor_0
+[2022.12.01-00.46.32:586][944]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.12.01-00.46.32:587][944]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.12.01-00.46.40:488][653]BlueprintLog: New page: Compile BP_Island
+[2022.12.01-00.46.40:611][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.01-00.46.40:712][654]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.12.01-00.46.40:712][654]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.12.01-00.46.45:909][128]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.12.01-00.46.45:909][128]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.12.01-00.46.58:947][315]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-00.46.58:947][315]LogEditorClassViewer: Warning: Class /Game/Blueprints/BPSkysphere.BPSkysphere_C has parent /Game/Levels/BP_skysphere.BP_skysphere_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-00.48.05:482][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.01-00.48.05:530][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LV_islandMap_Auto2
+[2022.12.01-00.48.05:531][448]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/LV_islandMap_Auto2B2BB9FF24AC0BA3FEE0704B077D76153.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Levels/LV_islandMap_Auto2.umap'
+[2022.12.01-00.48.05:536][448]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.100
+[2022.12.01-00.48.05:536][448]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2022.12.01-00.48.05:537][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Islands/BP_Island] ([2] browsable assets)...
+[2022.12.01-00.48.05:638][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Islands/BP_Island.BP_Island]
+[2022.12.01-00.48.05:639][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Islands/BP_Island]
+[2022.12.01-00.48.05:652][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Islands/BP_Island_Auto2
+[2022.12.01-00.48.05:652][448]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_Island_Auto2F0B9016E4AD979E55083A6A2A5B3EBB6.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Islands/BP_Island_Auto2.uasset'
+[2022.12.01-00.48.05:653][448]LogFileHelpers: Auto-saving content packages took 0.117
+[2022.12.01-00.48.08:607][611]LogUObjectGlobals: Warning: Failed to find object 'Class None.BP_Island'
+[2022.12.01-00.48.08:607][611]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/Islands/BP_Island.BP_Island'
+[2022.12.01-00.48.22:694][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.12.01-00.48.22:694][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.12.01-00.48.22:694][881]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.StaticMeshActor_1
+[2022.12.01-00.48.22:694][881]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.StaticMeshActor_1
+[2022.12.01-00.48.23:015][914]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.12.01-00.48.23:015][914]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.12.01-00.48.23:015][914]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.StaticMeshActor_2
+[2022.12.01-00.48.23:016][914]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.StaticMeshActor_2
+[2022.12.01-00.48.23:033][914]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2022.12.01-00.48.34:669][141]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.01-00.48.34:669][141]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.01-00.48.34:669][141]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.NavMeshBoundsVolume_1
+[2022.12.01-00.48.34:670][141]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.NavMeshBoundsVolume_1
+[2022.12.01-00.48.36:777][371]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.01-00.48.36:777][371]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.12.01-00.48.36:778][371]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.NavMeshBoundsVolume_2
+[2022.12.01-00.48.36:779][371]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/LV_islandMap.LV_islandMap:PersistentLevel.NavMeshBoundsVolume_2
