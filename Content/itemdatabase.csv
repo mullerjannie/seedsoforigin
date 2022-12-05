@@ -32,7 +32,7 @@ leaves A,leaves A,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textu
 fruit A,fruit A,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_herbs_05.Tex_herbs_05',no,no,yes,Fruit of plant,
 Sap A,Sap A,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_reagent_03_b.Tex_reagent_03_b',no,no,yes,Sap of plant,
 water essence,water essence,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_reagent_05_b.Tex_reagent_05_b',no,no,yes,Elemental essence of plant,
-Seed A,Seed A,seed,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_seeds_01_b.Tex_seeds_01_b',no,no,yes,Seed of plant,
+Seed A,Seed A,seed,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_seeds_01_b.Tex_seeds_01_b',no,no,no,Seed of plant,
 fire essence,fire essence,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_reagent_05_b.Tex_reagent_05_b',no,no,yes,Elemental essence of plant,
 air essence,air essence,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_reagent_05_b.Tex_reagent_05_b',no,no,yes,Elemental essence of plant,
 earth essence,earth essence,consumable,smallslot,Texture2D'/Game/CraftResourcesIcons/Textures/Tex_reagent_05_b.Tex_reagent_05_b',no,no,yes,Elemental essence of plant,
