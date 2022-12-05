@@ -15107,3 +15107,1459 @@ Script call stack:
 [2022.12.05-08.08.01:243][163]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.05-08.08.01:243][163]LogContentValidation: Display: Validating Blueprint /Game/PC_default.PC_default
 [2022.12.05-08.08.01:243][163]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_item.BP_item
+[2022.12.05-08.13.14:206][204]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2022.12.05-08.13.14:206][204]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=31068
+[2022.12.05-08.13.14:534][204]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{84a7e48a-35b4-40ad-bcb8-292662323636}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=23.40
+[2022.12.05-08.13.14:534][204]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.05-08.13.14:540][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.05-08.50.46:375][920]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.946 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-09.50.46:601][655]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.176 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-10.50.46:292][389]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.997 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-11.50.46:292][125]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.027 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-12.50.46:324][859]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.008 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-13.50.46:558][594]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.031 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-14.50.46:573][329]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.960 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-15.50.46:663][ 66]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.072 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-16.50.46:509][801]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.923 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-17.50.46:672][537]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.195 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-18.50.46:270][270]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.971 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-19.50.46:446][  6]LogDerivedDataCache: C:/Users/mulle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.926 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-20.18.50:959][344]BlueprintLog: New page: Compile BP_item
+[2022.12.05-20.18.51:112][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.05-20.19.16:311][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.05-20.19.16:317][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_islandMap' took 0.091
+[2022.12.05-20.19.16:318][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_default] ([2] browsable assets)...
+[2022.12.05-20.19.16:318][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_default]
+[2022.12.05-20.19.16:318][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.12.05-20.19.16:383][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_default_Auto3
+[2022.12.05-20.19.16:384][589]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default_Auto34DDD7DFE4443FA95D4C78EA0B9CE555D.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/PC_default_Auto3.uasset'
+[2022.12.05-20.19.16:386][589]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_item] ([2] browsable assets)...
+[2022.12.05-20.19.16:405][589]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_item.BP_item]
+[2022.12.05-20.19.16:405][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_item]
+[2022.12.05-20.19.16:419][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BP_item_Auto3
+[2022.12.05-20.19.16:420][589]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_item_Auto3D204528D48A4201B03310688D2B2436B.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/Autosaves/Game/Blueprints/Items/BP_item_Auto3.uasset'
+[2022.12.05-20.19.16:421][589]LogFileHelpers: Auto-saving content packages took 0.104
+[2022.12.05-20.26.02:231][223]BlueprintLog: New page: Compile BP_item
+[2022.12.05-20.26.02:381][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.12.05-20.26.04:891][496]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.05-20.26.04:909][496]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.05-20.26.04:934][496]LogPlayLevel: [PlayLevel] Compiling PC_default before play...
+[2022.12.05-20.26.05:352][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.05-20.26.05:359][496]LogPlayLevel: PlayLevel: Blueprint regeneration took 449 ms (1 blueprints)
+[2022.12.05-20.26.05:359][496]PIE: New page: PIE session: LV_islandMap (6/12/2022, 10:26:05 pm)
+[2022.12.05-20.26.05:364][496]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.12.05-20.26.05:372][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008698s)
+[2022.12.05-20.26.05:372][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LV_islandMap.LV_islandMap to /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap (0.008809s)
+[2022.12.05-20.26.05:372][496]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-20.26.05:373][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-20.26.05:373][496]LogAIModule: Creating AISystem for world LV_islandMap
+[2022.12.05-20.26.05:374][496]LogPlayLevel: PIE: World Init took: (0.001941s)
+[2022.12.05-20.26.05:461][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.12.05-20.26.05:463][496]LogBlueprintUserMessages: [GI_instance_C_27] Main: Loading Plant Catalogue from Data Table
+[2022.12.05-20.26.05:464][496]LogBlueprintUserMessages: [GI_instance_C_27] Main: Load Plant Life Cycle Reference Data Table
+[2022.12.05-20.26.05:464][496]LogBlueprintUserMessages: [GI_instance_C_27] Main: Load Plant companion bonusses
+[2022.12.05-20.26.05:464][496]LogBlueprintUserMessages: [GI_instance_C_27] Main: Load Plant environment companion bonusses
+[2022.12.05-20.26.05:464][496]LogBlueprintUserMessages: [GI_instance_C_27] ElementWaterStart12500.0End25000.0Water Mod1.15Wind Mod1.1Earth Mod1.05Fire Mod1.0Aether Mod
+[2022.12.05-20.26.05:464][496]LogBlueprintUserMessages: [GI_instance_C_27] ElementWindStart0.0End12499.0Water Mod1.05Wind Mod1.15Earth Mod1.1Fire Mod1.05Aether Mod
+[2022.12.05-20.26.05:464][496]LogBlueprintUserMessages: [GI_instance_C_27] ElementEarthStart0.0End-12499.0Water Mod1.05Wind Mod1.1Earth Mod1.15Fire Mod1.05Aether Mod
+[2022.12.05-20.26.05:464][496]LogBlueprintUserMessages: [GI_instance_C_27] ElementFireStart-12500.0End-25000.0Water Mod1.0Wind Mod1.05Earth Mod1.1Fire Mod1.15Aether Mod
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:465][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:466][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:467][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:468][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:469][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:470][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:471][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:472][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:473][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:474][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:474][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:474][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:474][496]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.12.05-20.26.05:474][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-20.26.05:474][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-20.26.05:474][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-20.26.05:474][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-20.26.05:474][496]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-20.26.05:474][496]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-20.26.05:474][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-20.26.05:474][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-20.26.05:475][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-20.26.05:475][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-20.26.05:475][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-20.26.05:477][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-20.26.05:510][496]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.12.05-20.26.05:511][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-20.26.05:511][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-20.26.05:511][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-20.26.05:511][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.12.05-20.26.05:511][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.12.05-20.26.05:513][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.12.05-20.26.05:513][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.12.05-20.26.05:513][496]LogInit: FAudioDevice initialized.
+[2022.12.05-20.26.05:513][496]LogAudio: Display: Audio Device (ID: 29) registered with world 'LV_islandMap'.
+[2022.12.05-20.26.05:571][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-20.26.05:571][496]LogLoad: Game class is 'GM_singleplayer_C'
+[2022.12.05-20.26.05:572][496]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LV_islandMap.LV_islandMap up for play (max tick rate 0) at 2022.12.06-09.26.05
+[2022.12.05-20.26.05:572][496]LogWorld: Bringing up level for play took: 0.000886
+[2022.12.05-20.26.05:575][496]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2022.12.05-20.26.05:576][496]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.05-20.26.05:576][496]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-20.26.05:576][496]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-20.26.05:576][496]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-20.26.05:576][496]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-20.26.05:666][496]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=21471.298 Y=26726.586 Z=22627.187] for [BP_Island_C]
+[2022.12.05-20.26.05:764][496]LogBlueprintUserMessages: [LV_islandMap_C_0] BP_Island_C_11
+[2022.12.05-20.26.05:764][496]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Roots Total Growth Events:9
+[2022.12.05-20.26.05:764][496]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Trees Total Growth Events:29
+[2022.12.05-20.26.05:764][496]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Vines Total Growth Events:10
+[2022.12.05-20.26.05:764][496]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Aquatic Total Growth Events:10
+[2022.12.05-20.26.05:764][496]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Fungus Total Growth Events:15
+[2022.12.05-20.26.05:764][496]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Herbs Total Growth Events:9
+[2022.12.05-20.26.05:764][496]LogBlueprintUserMessages: [GS_singlePlayer_C_0] FTN: Loadtotaleventperplantphase Plant Type:Shrubs Total Growth Events:10
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=0.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=1.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=1.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=1.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=1.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=0.000 Y=2.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=1.000 Y=2.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=2.000 Y=2.000 
+[2022.12.05-20.26.05:766][496]LogBlueprintUserMessages: [None] Test vector creation (Inital) for rows & cols, X=3.000 Y=2.000 
+[2022.12.05-20.26.05:767][496]LogBlueprintUserMessages: [GI_instance_C_27] Container exist for socket
+[2022.12.05-20.26.05:767][496]LogBlueprintUserMessages: [character_containers_C_0] Container 40B1B836478011BE15097393AF158566 has 12 slots.
+[2022.12.05-20.26.05:768][496]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.12.05-20.26.05:770][496]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-20.26.05:771][496]PIE: Server logged in
+[2022.12.05-20.26.05:772][496]PIE: Play in editor total start time 0.864 seconds.
+[2022.12.05-20.26.05:823][496]LogViewport: Scene viewport resized to 1714x1352, mode Windowed.
+[2022.12.05-20.26.06:461][516]LogBlueprintUserMessages: [BP_item_C_114] Item is Essence of Aries iwith slot size smallslot and item type consumable
+[2022.12.05-20.26.07:157][563]LogBlueprintUserMessages: [BP_item_C_114] Item is Essence of Aries iwith slot size smallslot and item type consumable
+[2022.12.05-20.26.07:418][581]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.07:418][581]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.07:418][581]LogBlueprintUserMessages: [None] found slots
+[2022.12.05-20.26.07:418][581]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=0.000 Y=0.000 
+[2022.12.05-20.26.07:419][581]LogBlueprintUserMessages: [None] Compare target X=0.000 Y=0.000 with vacant X=0.000 Y=0.000 items.
+[2022.12.05-20.26.07:419][581]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.12.05-20.26.07:419][581]LogBlueprintUserMessages: [GI_instance_C_27] Match on vector X=0.000 Y=0.000, removing vector X=0.000 Y=0.000. Total slots removed0.
+[2022.12.05-20.26.07:419][581]LogBlueprintUserMessages: [character_containers_C_0] Container 40B1B836478011BE15097393AF158566 has 12 slots.
+[2022.12.05-20.26.07:420][581]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.07:420][581]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.12.05-20.26.09:099][721]LogBlueprintUserMessages: [BP_item_C_117] Item is pouch iwith slot size smallslot and item type container
+[2022.12.05-20.26.09:255][734]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:255][734]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:255][734]LogBlueprintUserMessages: [None] found slots
+[2022.12.05-20.26.09:255][734]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=1.000 Y=0.000 
+[2022.12.05-20.26.09:255][734]LogBlueprintUserMessages: [None] Compare target X=1.000 Y=0.000 with vacant X=1.000 Y=0.000 items.
+[2022.12.05-20.26.09:255][734]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.12.05-20.26.09:255][734]LogBlueprintUserMessages: [GI_instance_C_27] Match on vector X=1.000 Y=0.000, removing vector X=1.000 Y=0.000. Total slots removed0.
+[2022.12.05-20.26.09:255][734]LogBlueprintUserMessages: [character_containers_C_0] Container 40B1B836478011BE15097393AF158566 has 12 slots.
+[2022.12.05-20.26.09:257][734]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:257][734]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:257][734]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.12.05-20.26.09:586][761]LogBlueprintUserMessages: [BP_item_C_115] Item is shirt iwith slot size mediumslot and item type clothing
+[2022.12.05-20.26.09:901][787]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:901][787]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:901][787]LogBlueprintUserMessages: [None] found slots
+[2022.12.05-20.26.09:901][787]LogBlueprintUserMessages: [None] Test vector Required for item slot type smallslot isrows & cols, X=2.000 Y=0.000 
+[2022.12.05-20.26.09:901][787]LogBlueprintUserMessages: [None] Compare target X=2.000 Y=0.000 with vacant X=2.000 Y=0.000 items.
+[2022.12.05-20.26.09:901][787]LogBlueprintUserMessages: [None] All slots vacant, 1 of 1
+[2022.12.05-20.26.09:901][787]LogBlueprintUserMessages: [GI_instance_C_27] Match on vector X=2.000 Y=0.000, removing vector X=2.000 Y=0.000. Total slots removed0.
+[2022.12.05-20.26.09:901][787]LogBlueprintUserMessages: [character_containers_C_0] Container 40B1B836478011BE15097393AF158566 has 12 slots.
+[2022.12.05-20.26.09:902][787]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:902][787]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:903][787]LogBlueprintUserMessages: [GI_instance_C_27] Item details not found for GUID 00000000000000000000000000000000
+[2022.12.05-20.26.09:903][787]LogBlueprintUserMessages: [character_containers_C_0] Character container brnanch returning the canvas with slots but already updated slot & socket mapping
+[2022.12.05-20.26.10:657][847]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.05-20.26.10:657][847]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.05-20.26.10:657][847]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.05-20.26.15:105][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-20.26.15:105][212]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LV_islandMap
+[2022.12.05-20.26.15:105][212]LogSlate: Window 'SeedsOfOrigin Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.05-20.26.15:112][212]LogWorld: UWorld::CleanupWorld for LV_islandMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.15:117][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.15:127][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-20.26.15:136][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.15:227][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.12.05-20.26.15:229][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.12.05-20.26.15:255][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.05-20.26.15:284][213]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.12.05-20.26.17:097][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.12.05-20.26.17:154][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_default" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset" SILENT=true
+[2022.12.05-20.26.17:226][404]LogSavePackage: Moving output files for package: /Game/PC_default
+[2022.12.05-20.26.17:227][404]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/PC_default3425A1AE436D940B2E96D7BC36297031.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/PC_default.uasset'
+[2022.12.05-20.26.17:268][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/BP_item" FILE="../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Items/BP_item.uasset" SILENT=true
+[2022.12.05-20.26.17:282][404]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_item
+[2022.12.05-20.26.17:282][404]LogSavePackage: Moving '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Saved/BP_itemA6699E5B406FF30FA85CE498633370FB.tmp' to '../../../../../../Users/mulle/OneDrive/My Documents/GitHub/seedsoforigin/Content/Blueprints/Items/BP_item.uasset'
+[2022.12.05-20.26.17:303][404]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.05-20.26.17:303][404]LogContentValidation: Display: Validating Blueprint /Game/PC_default.PC_default
+[2022.12.05-20.26.17:303][404]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/BP_item.BP_item
+[2022.12.05-20.26.19:669][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.12.05-20.26.19:672][669]LogStall: Shutdown...
+[2022.12.05-20.26.19:680][669]LogStall: Shutdown complete.
+[2022.12.05-20.26.19:824][669]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.19:824][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.20:322][669]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.20:322][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.20:846][669]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.20:847][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.20:865][669]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.20:865][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.21:203][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.05-20.26.21:203][669]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.21:203][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.21:481][669]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.21:481][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.21:730][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.05-20.26.21:730][669]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.21:730][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.21:940][669]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.21:940][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.21:958][669]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.21:958][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.22:235][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.05-20.26.22:235][669]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.22:235][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.22:449][669]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.22:449][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-20.26.22:642][669]LogSlate: Window 'SeedsOfOrigin - Unreal Editor' being destroyed
+[2022.12.05-20.26.23:484][670]Cmd: QUIT_EDITOR
+[2022.12.05-20.26.23:485][670]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.05-20.26.23:492][670]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.05-20.26.23:493][670]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.05-20.26.23:493][670]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.05-20.26.24:451][670]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.05-20.26.24:451][670]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.05-20.26.24:451][670]LogAudio: Display: Audio Device unregistered from world 'LV_islandMap'.
+[2022.12.05-20.26.24:453][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.05-20.26.24:454][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.05-20.26.24:480][670]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.05-20.26.24:498][670]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.05-20.26.24:500][670]LogExit: Preparing to exit.
+[2022.12.05-20.26.24:643][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.12.05-20.26.24:684][670]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:685][670]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:698][670]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:700][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:700][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:700][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:700][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:701][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:701][670]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:701][670]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.24:701][670]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.05-20.26.25:885][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:886][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:886][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:886][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:886][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:886][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:886][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:886][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:887][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:887][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:887][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:887][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:887][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:887][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:887][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:887][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:888][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:889][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:890][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:891][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:892][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:893][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:894][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:894][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:894][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:894][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:894][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:894][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:894][670]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.12.05-20.26.25:894][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:909][670]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-20.26.25:958][670]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.12.05-20.26.26:092][670]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.12.05-20.26.26:095][670]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.12.05-20.26.26:150][670]LogExit: Editor shut down
+[2022.12.05-20.26.26:160][670]LogExit: Transaction tracking system shut down
+[2022.12.05-20.26.27:262][670]LogExit: Object subsystem successfully closed.
+[2022.12.05-20.26.27:278][670]LogShaderCompilers: Display: ================================================
+[2022.12.05-20.26.27:278][670]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.05-20.26.27:278][670]LogShaderCompilers: Display: Total job queries 96, among them cache hits 0 (0.00%)
+[2022.12.05-20.26.27:278][670]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 56 distinct outputs (58.33%)
+[2022.12.05-20.26.27:278][670]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Shaders Compiled: 96
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Jobs assigned 96, completed 96 (100.00%)
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Average time worker was idle: 6.04 s
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Time job spent in pending queue: average 3.68 s, longest 15.42 s
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Job execution time: average 6.92 s, max 10.98 s
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Job life time (pending + execution): average 10.60 s, max 16.74
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.85 s
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 3.10 jobs/batch
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Average processing rate: 4.02 jobs/sec
+[2022.12.05-20.26.27:279][670]LogShaderCompilers: Display: Effective parallelization: 6.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 2.12 sec, max 2.48 sec, min 1.92 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 2.07 sec, max 2.22 sec, min 1.79 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 2.02 sec, max 2.12 sec, min 1.85 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.98 sec, max 1.98 sec, min 1.98 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.10% of total time (compiled    3 times, average 2.12 sec, max 2.48 sec, min 1.92 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.99% of total time (compiled    3 times, average 2.07 sec, max 2.22 sec, min 1.79 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.92% of total time (compiled    3 times, average 2.02 sec, max 2.12 sec, min 1.85 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 3.68% of total time (compiled    3 times, average 1.91 sec, max 1.95 sec, min 1.85 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.63% of total time (compiled    3 times, average 1.88 sec, max 2.01 sec, min 1.64 sec)
+[2022.12.05-20.26.27:280][670]LogShaderCompilers: Display: ================================================
+[2022.12.05-20.26.27:373][670]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.05-20.26.27:577][670]LogModuleManager: Shutting down and abandoning module SequencerWidgets (888)
+[2022.12.05-20.26.27:577][670]LogModuleManager: Shutting down and abandoning module BlueprintGraph (886)
+[2022.12.05-20.26.27:577][670]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (884)
+[2022.12.05-20.26.27:578][670]LogModuleManager: Shutting down and abandoning module Voice (882)
+[2022.12.05-20.26.27:578][670]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (880)
+[2022.12.05-20.26.27:578][670]LogModuleManager: Shutting down and abandoning module SubobjectEditor (878)
+[2022.12.05-20.26.27:578][670]LogModuleManager: Shutting down and abandoning module SceneOutliner (876)
+[2022.12.05-20.26.27:578][670]LogModuleManager: Shutting down and abandoning module AddContentDialog (874)
+[2022.12.05-20.26.27:582][670]LogModuleManager: Shutting down and abandoning module WidgetCarousel (873)
+[2022.12.05-20.26.27:582][670]LogModuleManager: Shutting down and abandoning module StatusBar (870)
+[2022.12.05-20.26.27:582][670]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (868)
+[2022.12.05-20.26.27:584][670]LogModuleManager: Shutting down and abandoning module TimeManagement (866)
+[2022.12.05-20.26.27:584][670]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2022.12.05-20.26.27:585][670]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2022.12.05-20.26.27:586][670]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2022.12.05-20.26.27:586][670]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (858)
+[2022.12.05-20.26.27:586][670]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2022.12.05-20.26.27:586][670]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2022.12.05-20.26.27:586][670]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (852)
+[2022.12.05-20.26.27:586][670]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (850)
+[2022.12.05-20.26.27:589][670]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (848)
+[2022.12.05-20.26.27:592][670]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (846)
+[2022.12.05-20.26.27:594][670]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (844)
+[2022.12.05-20.26.27:595][670]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (842)
+[2022.12.05-20.26.27:595][670]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (840)
+[2022.12.05-20.26.27:595][670]LogModuleManager: Shutting down and abandoning module PlanarCut (838)
+[2022.12.05-20.26.27:595][670]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (836)
+[2022.12.05-20.26.27:595][670]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (834)
+[2022.12.05-20.26.27:595][670]LogModuleManager: Shutting down and abandoning module WebMMedia (832)
+[2022.12.05-20.26.27:596][670]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (830)
+[2022.12.05-20.26.27:597][670]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (828)
+[2022.12.05-20.26.27:598][670]LogModuleManager: Shutting down and abandoning module SequenceRecorder (827)
+[2022.12.05-20.26.27:598][670]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (824)
+[2022.12.05-20.26.27:598][670]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (822)
+[2022.12.05-20.26.27:598][670]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (820)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (818)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (816)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (814)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (812)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module CharacterAI (810)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module TextureAlignMode (808)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module BspMode (806)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module GeometryMode (804)
+[2022.12.05-20.26.27:599][670]LogModuleManager: Shutting down and abandoning module IKRigEditor (802)
+[2022.12.05-20.26.27:601][670]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (800)
+[2022.12.05-20.26.27:601][670]LogModuleManager: Shutting down and abandoning module ControlRigEditor (798)
+[2022.12.05-20.26.27:603][670]LogModuleManager: Shutting down and abandoning module AnimationEditor (797)
+[2022.12.05-20.26.27:604][670]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (794)
+[2022.12.05-20.26.27:605][670]LogModuleManager: Shutting down and abandoning module SmartSnapping (792)
+[2022.12.05-20.26.27:605][670]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2022.12.05-20.26.27:605][670]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2022.12.05-20.26.27:606][670]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2022.12.05-20.26.27:606][670]LogModuleManager: Shutting down and abandoning module PlacementMode (785)
+[2022.12.05-20.26.27:607][670]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2022.12.05-20.26.27:608][670]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2022.12.05-20.26.27:610][670]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2022.12.05-20.26.27:610][670]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2022.12.05-20.26.27:611][670]LogModuleManager: Shutting down and abandoning module ViewportSnapping (774)
+[2022.12.05-20.26.27:611][670]LogModuleManager: Shutting down and abandoning module EditorWidgets (772)
+[2022.12.05-20.26.27:611][670]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2022.12.05-20.26.27:611][670]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2022.12.05-20.26.27:613][670]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2022.12.05-20.26.27:614][670]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2022.12.05-20.26.27:617][670]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2022.12.05-20.26.27:618][670]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2022.12.05-20.26.27:619][670]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2022.12.05-20.26.27:620][670]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (757)
+[2022.12.05-20.26.27:621][670]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (755)
+[2022.12.05-20.26.28:037][670]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (752)
+[2022.12.05-20.26.28:037][670]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (750)
+[2022.12.05-20.26.28:037][670]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (748)
+[2022.12.05-20.26.28:037][670]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (746)
+[2022.12.05-20.26.28:037][670]LogModuleManager: Shutting down and abandoning module CSVtoSVG (744)
+[2022.12.05-20.26.28:037][670]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (742)
+[2022.12.05-20.26.28:038][670]LogModuleManager: Shutting down and abandoning module EditorConfig (740)
+[2022.12.05-20.26.28:038][670]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (738)
+[2022.12.05-20.26.28:040][670]LogModuleManager: Shutting down and abandoning module EditorFramework (736)
+[2022.12.05-20.26.28:040][670]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (734)
+[2022.12.05-20.26.28:043][670]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2022.12.05-20.26.28:049][670]MemoryProfiler: Shutdown
+[2022.12.05-20.26.28:050][670]NetworkingProfiler: Shutdown
+[2022.12.05-20.26.28:050][670]LoadingProfiler: Shutdown
+[2022.12.05-20.26.28:052][670]TimingProfiler: Shutdown
+[2022.12.05-20.26.28:055][670]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2022.12.05-20.26.28:056][670]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2022.12.05-20.26.28:056][670]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (727)
+[2022.12.05-20.26.28:056][670]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2022.12.05-20.26.28:057][670]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2022.12.05-20.26.28:057][670]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2022.12.05-20.26.28:058][670]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2022.12.05-20.26.28:058][670]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2022.12.05-20.26.28:058][670]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2022.12.05-20.26.28:058][670]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2022.12.05-20.26.28:059][670]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2022.12.05-20.26.28:059][670]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2022.12.05-20.26.28:059][670]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2022.12.05-20.26.28:059][670]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2022.12.05-20.26.28:060][670]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2022.12.05-20.26.28:060][670]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2022.12.05-20.26.28:061][670]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2022.12.05-20.26.28:061][670]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2022.12.05-20.26.28:062][670]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2022.12.05-20.26.28:062][670]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2022.12.05-20.26.28:063][670]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2022.12.05-20.26.28:063][670]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2022.12.05-20.26.28:074][670]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2022.12.05-20.26.28:075][670]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2022.12.05-20.26.28:078][670]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2022.12.05-20.26.28:080][670]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2022.12.05-20.26.28:080][670]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2022.12.05-20.26.28:080][670]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2022.12.05-20.26.28:081][670]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2022.12.05-20.26.28:082][670]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2022.12.05-20.26.28:084][670]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2022.12.05-20.26.28:084][670]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2022.12.05-20.26.28:084][670]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2022.12.05-20.26.28:105][670]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2022.12.05-20.26.28:105][670]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2022.12.05-20.26.28:106][670]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2022.12.05-20.26.28:106][670]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2022.12.05-20.26.28:108][670]LogModuleManager: Shutting down and abandoning module NaniteTools (656)
+[2022.12.05-20.26.28:108][670]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (654)
+[2022.12.05-20.26.28:108][670]LogModuleManager: Shutting down and abandoning module SourceControlWindows (652)
+[2022.12.05-20.26.28:109][670]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2022.12.05-20.26.28:120][670]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2022.12.05-20.26.28:122][670]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2022.12.05-20.26.28:136][670]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2022.12.05-20.26.28:136][670]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module AudioMixer (627)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module AudioMixerCore (626)
+[2022.12.05-20.26.28:137][670]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2022.12.05-20.26.28:138][670]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2022.12.05-20.26.28:138][670]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2022.12.05-20.26.28:138][670]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2022.12.05-20.26.28:138][670]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (614)
+[2022.12.05-20.26.28:139][670]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (612)
+[2022.12.05-20.26.28:139][670]LogModuleManager: Shutting down and abandoning module TypedElementFramework (610)
+[2022.12.05-20.26.28:139][670]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (608)
+[2022.12.05-20.26.28:139][670]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2022.12.05-20.26.28:258][670]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2022.12.05-20.26.28:259][670]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2022.12.05-20.26.28:260][670]LogModuleManager: Shutting down and abandoning module MegascansPlugin (600)
+[2022.12.05-20.26.28:260][670]LogModuleManager: Shutting down and abandoning module Bridge (598)
+[2022.12.05-20.26.28:260][670]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (596)
+[2022.12.05-20.26.28:260][670]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2022.12.05-20.26.28:261][670]LogModuleManager: Shutting down and abandoning module InterchangePipelines (592)
+[2022.12.05-20.26.28:261][670]LogModuleManager: Shutting down and abandoning module InterchangeExport (590)
+[2022.12.05-20.26.28:261][670]LogModuleManager: Shutting down and abandoning module InterchangeMessages (588)
+[2022.12.05-20.26.28:261][670]LogModuleManager: Shutting down and abandoning module InterchangeImport (586)
+[2022.12.05-20.26.28:261][670]LogModuleManager: Shutting down and abandoning module InterchangeNodes (584)
+[2022.12.05-20.26.28:261][670]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (582)
+[2022.12.05-20.26.28:262][670]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (580)
+[2022.12.05-20.26.28:263][670]LogModuleManager: Shutting down and abandoning module InterchangeEditor (578)
+[2022.12.05-20.26.28:263][670]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (576)
+[2022.12.05-20.26.28:263][670]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (574)
+[2022.12.05-20.26.28:263][670]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (572)
+[2022.12.05-20.26.28:263][670]LogModuleManager: Shutting down and abandoning module CollectionManager (571)
+[2022.12.05-20.26.28:264][670]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2022.12.05-20.26.28:264][670]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (564)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (562)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module ResonanceAudio (560)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (554)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module ModelingOperators (552)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (550)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module ModelingComponents (548)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (546)
+[2022.12.05-20.26.28:265][670]LogModuleManager: Shutting down and abandoning module MeshModelingTools (544)
+[2022.12.05-20.26.28:266][670]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (542)
+[2022.12.05-20.26.28:267][670]LogModuleManager: Shutting down and abandoning module GooglePAD (540)
+[2022.12.05-20.26.28:267][670]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (538)
+[2022.12.05-20.26.28:267][670]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (536)
+[2022.12.05-20.26.28:267][670]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (534)
+[2022.12.05-20.26.28:267][670]LogModuleManager: Shutting down and abandoning module DynamicMesh (532)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (530)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (524)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module CableComponent (522)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module AssetTags (520)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (514)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module AndroidPermission (512)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (510)
+[2022.12.05-20.26.28:268][670]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (508)
+[2022.12.05-20.26.28:269][670]LogModuleManager: Shutting down and abandoning module TemplateSequence (506)
+[2022.12.05-20.26.28:269][670]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (504)
+[2022.12.05-20.26.28:269][670]LogModuleManager: Shutting down and abandoning module SequencerScripting (502)
+[2022.12.05-20.26.28:269][670]LogModuleManager: Shutting down and abandoning module MediaCompositing (500)
+[2022.12.05-20.26.28:269][670]LogModuleManager: Shutting down and abandoning module ImgMedia (498)
+[2022.12.05-20.26.28:269][670]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (496)
+[2022.12.05-20.26.28:269][670]LogModuleManager: Shutting down and abandoning module AlembicImporter (494)
+[2022.12.05-20.26.28:270][670]LogModuleManager: Shutting down and abandoning module AlembicLibrary (493)
+[2022.12.05-20.26.28:270][670]LogModuleManager: Shutting down and abandoning module GeometryCache (492)
+[2022.12.05-20.26.28:270][670]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (491)
+[2022.12.05-20.26.28:270][670]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (486)
+[2022.12.05-20.26.28:270][670]LogOpenImageDenoise: OIDN shutting down
+[2022.12.05-20.26.28:270][670]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (484)
+[2022.12.05-20.26.28:271][670]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (482)
+[2022.12.05-20.26.28:272][670]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (480)
+[2022.12.05-20.26.28:272][670]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (478)
+[2022.12.05-20.26.28:273][670]LogModuleManager: Shutting down and abandoning module MeshLODToolset (476)
+[2022.12.05-20.26.28:274][670]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (474)
+[2022.12.05-20.26.28:274][670]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (472)
+[2022.12.05-20.26.28:274][670]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (470)
+[2022.12.05-20.26.28:274][670]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (468)
+[2022.12.05-20.26.28:274][670]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (467)
+[2022.12.05-20.26.28:274][670]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (464)
+[2022.12.05-20.26.28:274][670]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (462)
+[2022.12.05-20.26.28:277][670]LogModuleManager: Shutting down and abandoning module FractureEditor (460)
+[2022.12.05-20.26.28:278][670]LogModuleManager: Shutting down and abandoning module ChaosNiagara (458)
+[2022.12.05-20.26.28:279][670]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (456)
+[2022.12.05-20.26.28:279][670]LogModuleManager: Shutting down and abandoning module BackChannel (454)
+[2022.12.05-20.26.28:279][670]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (452)
+[2022.12.05-20.26.28:279][670]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (450)
+[2022.12.05-20.26.28:279][670]LogModuleManager: Shutting down and abandoning module AutomationUtils (448)
+[2022.12.05-20.26.28:279][670]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (446)
+[2022.12.05-20.26.28:280][670]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (444)
+[2022.12.05-20.26.28:280][670]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (442)
+[2022.12.05-20.26.28:280][670]LogModuleManager: Shutting down and abandoning module StylusInput (440)
+[2022.12.05-20.26.28:280][670]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (438)
+[2022.12.05-20.26.28:285][670]LogModuleManager: Shutting down and abandoning module PluginBrowser (436)
+[2022.12.05-20.26.28:287][670]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (434)
+[2022.12.05-20.26.28:287][670]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (432)
+[2022.12.05-20.26.28:288][670]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (430)
+[2022.12.05-20.26.28:288][670]LogModuleManager: Shutting down and abandoning module EditorDebugTools (428)
+[2022.12.05-20.26.28:290][670]LogModuleManager: Shutting down and abandoning module CurveEditorTools (426)
+[2022.12.05-20.26.28:290][670]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (424)
+[2022.12.05-20.26.28:290][670]LogModuleManager: Shutting down and abandoning module CryptoKeys (422)
+[2022.12.05-20.26.28:290][670]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (420)
+[2022.12.05-20.26.28:290][670]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (418)
+[2022.12.05-20.26.28:290][670]LogModuleManager: Shutting down and abandoning module UObjectPlugin (416)
+[2022.12.05-20.26.28:290][670]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (414)
+[2022.12.05-20.26.28:291][670]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (412)
+[2022.12.05-20.26.28:291][670]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (410)
+[2022.12.05-20.26.28:291][670]LogModuleManager: Shutting down and abandoning module PluginUtils (408)
+[2022.12.05-20.26.28:292][670]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (406)
+[2022.12.05-20.26.28:293][670]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (404)
+[2022.12.05-20.26.28:293][670]LogModuleManager: Shutting down and abandoning module GitSourceControl (402)
+[2022.12.05-20.26.28:295][670]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (400)
+[2022.12.05-20.26.28:295][670]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (398)
+[2022.12.05-20.26.28:295][670]LogModuleManager: Shutting down and abandoning module ControlRigSpline (396)
+[2022.12.05-20.26.28:295][670]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (394)
+[2022.12.05-20.26.28:295][670]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (392)
+[2022.12.05-20.26.28:295][670]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (390)
+[2022.12.05-20.26.28:296][670]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (388)
+[2022.12.05-20.26.28:296][670]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (386)
+[2022.12.05-20.26.28:296][670]LogModuleManager: Shutting down and abandoning module Paper2DEditor (384)
+[2022.12.05-20.26.28:298][670]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2022.12.05-20.26.28:298][670]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2022.12.05-20.26.28:299][670]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2022.12.05-20.26.28:299][670]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (376)
+[2022.12.05-20.26.28:299][670]LogModuleManager: Shutting down and abandoning module SignificanceManager (374)
+[2022.12.05-20.26.28:299][670]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2022.12.05-20.26.28:299][670]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.12.05-20.26.28:299][670]LogModuleManager: Shutting down and abandoning module UdpMessaging (368)
+[2022.12.05-20.26.28:400][670]LogModuleManager: Shutting down and abandoning module TcpMessaging (366)
+[2022.12.05-20.26.28:501][670]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (364)
+[2022.12.05-20.26.28:501][670]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (363)
+[2022.12.05-20.26.28:501][670]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (360)
+[2022.12.05-20.26.28:501][670]LogModuleManager: Shutting down and abandoning module ActorSequence (358)
+[2022.12.05-20.26.28:501][670]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (356)
+[2022.12.05-20.26.28:502][670]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (354)
+[2022.12.05-20.26.28:502][670]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (352)
+[2022.12.05-20.26.28:502][670]LogModuleManager: Shutting down and abandoning module Niagara (350)
+[2022.12.05-20.26.28:504][670]LogModuleManager: Shutting down and abandoning module SignalProcessing (349)
+[2022.12.05-20.26.28:504][670]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2022.12.05-20.26.28:507][670]LogModuleManager: Shutting down and abandoning module NiagaraCore (344)
+[2022.12.05-20.26.28:507][670]LogModuleManager: Shutting down and abandoning module PBIK (342)
+[2022.12.05-20.26.28:508][670]LogModuleManager: Shutting down and abandoning module FullBodyIK (340)
+[2022.12.05-20.26.28:508][670]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (338)
+[2022.12.05-20.26.28:509][670]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (336)
+[2022.12.05-20.26.28:509][670]LogModuleManager: Shutting down and abandoning module FacialAnimation (334)
+[2022.12.05-20.26.28:509][670]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2022.12.05-20.26.28:509][670]LogModuleManager: Shutting down and abandoning module DataValidation (330)
+[2022.12.05-20.26.28:509][670]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (328)
+[2022.12.05-20.26.28:510][670]LogModuleManager: Shutting down and abandoning module LevelEditor (327)
+[2022.12.05-20.26.28:538][670]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (326)
+[2022.12.05-20.26.28:539][670]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (324)
+[2022.12.05-20.26.28:540][670]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (322)
+[2022.12.05-20.26.28:541][670]LogModuleManager: Shutting down and abandoning module MainFrame (320)
+[2022.12.05-20.26.28:542][670]LogModuleManager: Shutting down and abandoning module HotReload (319)
+[2022.12.05-20.26.28:542][670]LogModuleManager: Shutting down and abandoning module ContentBrowser (315)
+[2022.12.05-20.26.28:542][670]LogModuleManager: Shutting down and abandoning module ToolMenus (314)
+[2022.12.05-20.26.28:542][670]LogModuleManager: Shutting down and abandoning module ContentBrowserData (312)
+[2022.12.05-20.26.28:542][670]LogModuleManager: Shutting down and abandoning module TreeMap (309)
+[2022.12.05-20.26.28:543][670]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (306)
+[2022.12.05-20.26.28:544][670]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (304)
+[2022.12.05-20.26.28:544][670]LogModuleManager: Shutting down and abandoning module AnimationSharing (302)
+[2022.12.05-20.26.28:544][670]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (300)
+[2022.12.05-20.26.28:544][670]LogModuleManager: Shutting down and abandoning module IKRig (298)
+[2022.12.05-20.26.28:544][670]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (296)
+[2022.12.05-20.26.28:544][670]LogModuleManager: Shutting down and abandoning module ControlRig (294)
+[2022.12.05-20.26.28:545][670]LogModuleManager: Shutting down and abandoning module LevelSequence (293)
+[2022.12.05-20.26.28:545][670]LogModuleManager: Shutting down and abandoning module GameplayCameras (290)
+[2022.12.05-20.26.28:545][670]LogModuleManager: Shutting down and abandoning module Paper2D (288)
+[2022.12.05-20.26.28:545][670]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2022.12.05-20.26.28:545][670]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2022.12.05-20.26.28:545][670]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2022.12.05-20.26.28:546][670]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2022.12.05-20.26.28:547][670]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2022.12.05-20.26.28:547][670]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2022.12.05-20.26.28:547][670]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2022.12.05-20.26.28:549][670]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2022.12.05-20.26.28:549][670]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2022.12.05-20.26.28:550][670]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2022.12.05-20.26.28:553][670]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2022.12.05-20.26.28:553][670]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2022.12.05-20.26.28:553][670]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2022.12.05-20.26.28:557][670]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2022.12.05-20.26.28:557][670]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module Core (222)
+[2022.12.05-20.26.28:558][670]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2022.12.05-20.26.28:561][670]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2022.12.05-20.26.28:562][670]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2022.12.05-20.26.28:563][670]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2022.12.05-20.26.28:563][670]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2022.12.05-20.26.28:564][670]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2022.12.05-20.26.28:564][670]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2022.12.05-20.26.28:564][670]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2022.12.05-20.26.28:564][670]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2022.12.05-20.26.28:565][670]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2022.12.05-20.26.28:565][670]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2022.12.05-20.26.28:565][670]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2022.12.05-20.26.28:566][670]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2022.12.05-20.26.28:566][670]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2022.12.05-20.26.28:569][670]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2022.12.05-20.26.28:570][670]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2022.12.05-20.26.28:571][670]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2022.12.05-20.26.28:571][670]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2022.12.05-20.26.28:591][670]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2022.12.05-20.26.28:592][670]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2022.12.05-20.26.28:593][670]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2022.12.05-20.26.28:593][670]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.12.05-20.26.28:595][670]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2022.12.05-20.26.28:595][670]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2022.12.05-20.26.28:596][670]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2022.12.05-20.26.28:596][670]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2022.12.05-20.26.28:596][670]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2022.12.05-20.26.28:596][670]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2022.12.05-20.26.28:596][670]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2022.12.05-20.26.28:597][670]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2022.12.05-20.26.28:597][670]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2022.12.05-20.26.28:597][670]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2022.12.05-20.26.28:598][670]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2022.12.05-20.26.28:598][670]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2022.12.05-20.26.28:598][670]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2022.12.05-20.26.28:599][670]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2022.12.05-20.26.28:599][670]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2022.12.05-20.26.28:600][670]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2022.12.05-20.26.28:600][670]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2022.12.05-20.26.28:603][670]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2022.12.05-20.26.28:603][670]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2022.12.05-20.26.28:605][670]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2022.12.05-20.26.28:605][670]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2022.12.05-20.26.28:605][670]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2022.12.05-20.26.28:605][670]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.12.05-20.26.28:605][670]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.12.05-20.26.28:605][670]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2022.12.05-20.26.28:606][670]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.12.05-20.26.28:606][670]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.12.05-20.26.28:606][670]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.12.05-20.26.28:606][670]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.12.05-20.26.28:606][670]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.12.05-20.26.28:606][670]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.12.05-20.26.28:607][670]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.12.05-20.26.28:607][670]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2022.12.05-20.26.28:607][670]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.12.05-20.26.28:607][670]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.12.05-20.26.28:607][670]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.12.05-20.26.28:607][670]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (102)
+[2022.12.05-20.26.28:607][670]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (100)
+[2022.12.05-20.26.28:607][670]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (98)
+[2022.12.05-20.26.28:610][670]LogModuleManager: Shutting down and abandoning module XMPP (93)
+[2022.12.05-20.26.28:612][670]LogModuleManager: Shutting down and abandoning module WebSockets (92)
+[2022.12.05-20.26.28:634][670]LogModuleManager: Shutting down and abandoning module HTTP (89)
+[2022.12.05-20.26.28:635][670]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.12.05-20.26.28:635][670]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E9899B2-4DEE-E137-2C85-72B303FA861D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b92d55914af53ebca6d4edbb274fdf8f%7Ccc92e06c68af4558ab9501b18d3a0b40%7C67d0f83e-950d-4e74-9005-9b1530759190&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.12.05-20.26.28:635][670]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2022.12.05-20.26.28:655][670]LogModuleManager: Shutting down and abandoning module SSL (88)
+[2022.12.05-20.26.28:666][670]LogModuleManager: Shutting down and abandoning module HairStrandsCore (84)
+[2022.12.05-20.26.28:666][670]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2022.12.05-20.26.28:666][670]LogModuleManager: Shutting down and abandoning module ChunkDownloader (80)
+[2022.12.05-20.26.28:666][670]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.12.05-20.26.28:666][670]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.12.05-20.26.28:671][670]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.12.05-20.26.28:672][670]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2022.12.05-20.26.28:672][670]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2022.12.05-20.26.28:673][670]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2022.12.05-20.26.28:673][670]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2022.12.05-20.26.28:673][670]LogModuleManager: Shutting down and abandoning module ChaosCloth (64)
+[2022.12.05-20.26.28:673][670]LogModuleManager: Shutting down and abandoning module PixWinPlugin (62)
+[2022.12.05-20.26.28:673][670]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2022.12.05-20.26.28:673][670]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2022.12.05-20.26.28:674][670]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.12.05-20.26.28:676][670]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2022.12.05-20.26.28:676][670]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2022.12.05-20.26.28:676][670]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2022.12.05-20.26.28:676][670]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2022.12.05-20.26.28:676][670]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.12.05-20.26.28:679][670]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.12.05-20.26.28:680][670]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.12.05-20.26.28:680][670]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.12.05-20.26.28:681][670]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.12.05-20.26.28:681][670]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.12.05-20.26.28:685][670]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.12.05-20.26.28:688][670]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.12.05-20.26.28:688][670]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.12.05-20.26.28:688][670]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.12.05-20.26.28:689][670]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.12.05-20.26.28:689][670]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.12.05-20.26.28:689][670]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.12.05-20.26.28:697][670]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.12.05-20.26.28:697][670]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.12.05-20.26.28:698][670]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.12.05-20.26.28:699][670]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.12.05-20.26.28:699][670]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.12.05-20.26.28:699][670]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.12.05-20.26.28:700][670]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.12.05-20.26.28:700][670]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.12.05-20.26.28:700][670]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.12.05-20.26.28:700][670]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.12.05-20.26.28:803][670]LogD3D12RHI: Display: D3D12 ReleaseResources: 348 items to release
+[2022.12.05-20.26.28:804][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 3456 x 1408 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:804][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 3456 x 1408 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:804][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 3456 x 1408 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:806][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:806][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:807][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:808][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:808][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyCPUTexture", 7093736 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:809][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyTexture", 2170 x 815 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:809][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BufferedRT", 2170 x 815 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:809][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:810][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:810][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:810][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:810][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:810][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:811][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:811][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:811][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:811][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:811][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:811][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:812][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 183 x 183 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:813][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:815][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:815][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:815][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:815][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:816][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:816][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:816][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:816][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:816][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:816][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:816][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:816][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:817][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:817][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:817][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:818][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:818][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:818][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:818][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:819][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:819][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:819][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:820][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:820][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:820][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:820][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.12.05-20.26.28:821][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.12.05-20.26.28:821][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:821][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.12.05-20.26.28:822][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.12.05-20.26.28:822][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:822][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 690 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:822][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 690 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:822][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 690 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:823][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 674 x 63 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:823][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 674 x 63 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:823][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 674 x 63 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:824][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_0", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:824][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2022.12.05-20.26.28:825][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:825][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:825][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:825][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:825][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:826][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:826][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:826][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:827][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:828][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:828][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:828][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:828][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:828][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:829][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:829][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:829][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:829][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:829][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:829][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:830][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:830][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:830][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:831][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:831][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:831][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:831][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:831][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:831][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:831][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:832][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:832][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:832][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:832][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:833][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:833][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:835][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:835][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:836][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:836][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:836][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:836][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:837][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:837][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:838][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:838][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:839][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:839][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:840][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:841][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:841][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:841][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:843][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:844][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:844][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:844][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:844][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:845][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:845][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:845][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:847][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:847][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:847][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:847][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:848][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:848][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:848][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:848][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:848][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:848][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:849][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:849][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:849][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:849][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:849][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:849][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:850][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:850][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:850][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:850][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:852][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:852][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:852][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:852][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:852][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:852][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:852][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:853][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:853][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:855][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:855][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:856][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:857][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:857][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:858][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:858][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.12.05-20.26.28:859][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:859][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:859][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:860][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:860][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.05-20.26.28:860][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.05-20.26.28:860][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.05-20.26.28:860][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.05-20.26.28:860][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.05-20.26.28:860][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.12.05-20.26.28:860][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:861][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 16 x 16 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:862][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:862][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:862][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:862][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:862][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:862][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:862][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:862][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:863][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:863][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:863][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:864][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:864][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:864][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:864][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:864][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:864][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:864][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:864][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:865][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:865][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:865][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:865][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 32 x 32 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:865][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.12.05-20.26.28:865][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.12.05-20.26.28:865][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:866][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Editor.PrimitivesDepthHistory", 4344 x 1904 x 1, Mips: 1, Format: 0x29, Flags: 0x1
+[2022.12.05-20.26.28:866][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 2172 x 952 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:867][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1676 x 952 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2022.12.05-20.26.28:867][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 2172 x 952 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:868][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 2172 x 952 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:868][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneDepthZ", 1676 x 952 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2022.12.05-20.26.28:869][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.05-20.26.28:870][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.05-20.26.28:870][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:870][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:871][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.05-20.26.28:872][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.05-20.26.28:872][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.05-20.26.28:872][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:873][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:873][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 53 x 20 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:874][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:874][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.05-20.26.28:874][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.12.05-20.26.28:874][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:875][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 2172 x 952 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:875][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 2172 x 952 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.05-20.26.28:875][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 2172 x 952 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.12.05-20.26.28:875][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.05-20.26.28:875][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:875][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.12.05-20.26.28:876][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:876][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:876][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 53 x 20 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.05-20.26.28:876][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 2172 x 952 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:876][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1676 x 952 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.12.05-20.26.28:877][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1676 x 952 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:877][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1676 x 952 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:877][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1676 x 952 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:877][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.12.05-20.26.28:878][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1676 x 952 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:878][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1676 x 952 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.05-20.26.28:878][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1676 x 952 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.12.05-20.26.28:878][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1676 x 952 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.12.05-20.26.28:879][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.05-20.26.28:879][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 840 x 720 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.12.05-20.26.28:879][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:880][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 105 x 90 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.05-20.26.28:880][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1676 x 952 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.05-20.26.28:881][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 105 x 90 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.12.05-20.26.28:881][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:881][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:881][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:882][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:882][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:882][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:882][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:882][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:883][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:883][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:884][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:884][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:885][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:885][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:885][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.12.05-20.26.28:886][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2022.12.05-20.26.28:886][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.12.05-20.26.28:887][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.12.05-20.26.28:888][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2022.12.05-20.26.28:889][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2022.12.05-20.26.28:889][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2022.12.05-20.26.28:890][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2022.12.05-20.26.28:890][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:890][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:891][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:891][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 4096 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.12.05-20.26.28:894][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.12.05-20.26.28:894][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2022.12.05-20.26.28:894][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.12.05-20.26.28:895][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.12.05-20.26.28:895][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:896][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:897][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:897][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:897][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTileArrayData", 4194304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTileStartOffsets", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowNextStartOffset", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTileNumCulledObjects", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceField.ObjectIndices", 1024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTileArrayData", 4194304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTileStartOffsets", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowNextStartOffset", 4 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTileNumCulledObjects", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceField.ObjectIndices", 1024 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTileArrayData", 4194304 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostNodesAndClusterBatchesBuffer", 44040192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.12.05-20.26.28:898][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:899][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:899][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:899][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:899][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:900][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:900][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:900][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:900][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:900][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:901][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:901][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:901][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:901][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:901][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:901][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:902][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:902][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.28:903][670]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.12.05-20.26.29:270][670]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.12.05-20.26.29:274][670]LogExit: Exiting.
+[2022.12.05-20.26.29:293][670]Log file closed, 12/06/22 09:26:29
